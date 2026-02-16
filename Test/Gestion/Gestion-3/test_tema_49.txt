@@ -1,0 +1,638 @@
+Pregunta: En un procedimiento abreviado, ¿bajo qué circunstancias está obligada la Audiencia a decidir la realización de una audiencia?
+1)Cuando en el auto apelado no se estipula la prisión preventiva de un acusado y el apelado pide una audiencia respecto a esta determinación en su escrito.
+2)Cuando en el auto apelado se estipula la prisión preventiva de un acusado y el apelado pide una audiencia respecto a esta determinación en su escrito.
+3)Cuando en el auto apelado se estipula la prisión preventiva de un acusado y el apelado no pide una audiencia respecto a esta determinación en su escrito.
+4)Cuando en el auto irrecurrido se estipula la prisión preventiva de un acusado y el apelado pide una audiencia respecto a esta determinación en su escrito.
+Respuesta: 2
+Correcta: ¡Correcto! La Audiencia debe acordar la celebración de una vista cuando en el auto apelado se decide la prisión preventiva de un acusado y el apelado solicita una audiencia respecto a este pronunciamiento en su escrito.
+Errada: Estas opciones no describen correctamente las circunstancias bajo las cuales la Audiencia está obligada a decidir la realización de una audiencia en un procedimiento abreviado. (Respuesta Correcta 2)
+###
+Pregunta: En el contexto de una sentencia emitida durante un procedimiento abreviado, identifique la afirmación incorrecta:
+1)Si el Fiscal y las partes indican, tras conocer el fallo, que no apelarán, el Juez declarará inmediatamente la firmeza de la sentencia y, tras escuchar a las partes, decidirá sobre la suspensión o sustitución de la pena asignada.
+2)El Juez de lo Penal tiene la facultad de emitir sentencias de forma oral durante el juicio.
+3)No se puede condenar por un delito diferente si este implica la protección de un bien jurídico distinto o una modificación sustancial del hecho juzgado.
+4)Es posible asignar una pena más severa de la solicitada por las acusaciones, siempre y cuando sea por el mismo delito.
+Respuesta: 4
+Correcta: ¡Correcto! La afirmación incorrecta es que la sentencia puede imponer una pena más severa de la solicitada por las acusaciones, siempre y cuando sea por el mismo delito.
+Errada: Estas opciones son afirmaciones correctas respecto a las sentencias emitidas en procedimientos abreviados. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el plazo establecido para presentar un recurso de apelación contra los autos emitidos por el Juez de Instrucción o el Juez de lo Penal durante un procedimiento abreviado?
+1)El recurso debe presentarse en los cinco días posteriores a la notificación del auto que se impugna o del auto que resuelve un recurso de reforma previo.
+2)El recurso debe presentarse en los tres días posteriores a la notificación del auto que se impugna o del auto que resuelve un recurso de reforma previo.
+3)El recurso debe presentarse en los diez días posteriores a la notificación del auto que se impugna o del auto que resuelve un recurso de reforma previo.
+4)El recurso debe presentarse en los quince días posteriores a la notificación del auto que se impugna o del auto que resuelve un recurso de reforma previo.
+Respuesta: 1
+Correcta: ¡Correcto! El recurso de apelación debe presentarse dentro de los cinco días siguientes a la notificación del auto recurrido o del resolutorio del recurso de reforma en un procedimiento abreviado.
+Errada: Estas opciones no describen adecuadamente el plazo correcto para la presentación de un recurso de apelación en el contexto de un procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: En un procedimiento abreviado, si un Juez Central de Instrucción está manejando un caso que debería ser competencia de las Audiencias respectivas, ¿qué medida se toma?
+1)Las Audiencias, tras escuchar al Ministerio Fiscal y a las partes involucradas por un período de dos días, le instruirán que se abstenga de participar y enviarán los expedientes pertinentes.
+2)Las Audiencias, tras escuchar al Ministerio Fiscal y a las partes involucradas por un período de tres días, le instruirán que se abstenga de participar y enviarán los expedientes pertinentes.
+3)Las Audiencias, tras escuchar al Ministerio Fiscal y a las partes involucradas por un período de cinco días, le instruirán que se abstenga de participar y enviarán los expedientes pertinentes.
+4)Las Audiencias, tras escuchar al Ministerio Fiscal y a las partes involucradas por un período de cuatro días, le instruirán que se abstenga de participar y enviarán los expedientes pertinentes.
+Respuesta: 1
+Correcta: ¡Correcto! Las Audiencias, tras escuchar al Ministerio Fiscal y a las partes por un período de dos días, le ordenarán que se abstenga de conocer y remita las actuaciones.
+Errada: Estas opciones no describen correctamente el procedimiento establecido para estos casos. (Respuesta Correcta 1)
+###
+Pregunta: En relación a la ejecución de sentencias firmes en el procedimiento abreviado, si el fallo no especifica el monto indemnizatorio, cualquier parte puede solicitar durante la ejecución de la sentencia, la realización de pruebas para su determinación. Selecciona la afirmación correcta:
+1)El Juez o Tribunal descartará la realización de pruebas que no se relacionen con los criterios establecidos en el auto.
+2)El Juez o Tribunal no descartará la realización de pruebas que no se relacionen con los criterios establecidos en la sentencia.
+3)El Juez o Tribunal descartará la realización de pruebas que no se relacionen con los criterios establecidos en la sentencia.
+4)El Juez o Tribunal descartará la realización de pruebas que se relacionen con los criterios establecidos en la sentencia.
+Respuesta: 3
+Correcta: ¡Correcto! El Juez o Tribunal sólo aceptará pruebas que se alineen con las bases establecidas previamente en la sentencia.
+Errada: Estas opciones no describen de forma correcta el proceso y limitaciones relacionadas con la solicitud y realización de pruebas para determinar el monto indemnizatorio durante la ejecución de sentencias firmes en un procedimiento abreviado. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué etapa del Procedimiento Abreviado el Juez de Instrucción determinará cuál es el órgano judicial competente para conocer y decidir sobre la causa?
+1)En el decreto de apertura del juicio oral.
+2)En la citación de apertura del juicio oral.
+3)En la providencia de apertura del juicio oral.
+4)En el auto de apertura del juicio oral.
+Respuesta: 4
+Correcta: ¡Exacto! El órgano judicial competente para conocer y decidir sobre la causa se determina en el auto de apertura del juicio oral en el Procedimiento Abreviado.
+Errada: Estas opciones no reflejan el momento correcto en el cual se determina el órgano competente durante el Procedimiento Abreviado. (Respuesta Correcta 4)
+###
+Pregunta: En el Procedimiento Abreviado penal, respecto al recurso de apelación contra autos:
+1)La Audiencia puede solicitar los expedientes para revisarlos y debe devolverlos en un plazo máximo de dos días.
+2)La Audiencia puede solicitar los expedientes para revisarlos y debe devolverlos en un plazo máximo de cinco días.
+3)La Audiencia puede solicitar los expedientes para revisarlos y debe devolverlos en un plazo máximo de tres días.
+4)La Audiencia puede solicitar los expedientes para revisarlos y debe devolverlos en un plazo máximo de cuatro días.
+Respuesta: 3
+Correcta: ¡Correcto! En el recurso de apelación contra autos en el procedimiento abreviado penal, la Audiencia puede solicitar los expedientes para su revisión, con un plazo máximo de tres días para su devolución.
+Errada: Estas opciones no describen adecuadamente el proceso de apelación contra autos en el procedimiento abreviado penal. (Respuesta Correcta 3)
+###
+Pregunta: En cuanto a la impugnación de sentencias durante un Procedimiento Abreviado, ¿cuándo se debe emitir la sentencia de apelación?
+1)En los dos días que siguen a la vista oral.
+2)En los cuatro días que siguen a la vista oral.
+3)En los cinco días que siguen a la vista oral.
+4)En los tres días que siguen a la vista oral.
+Respuesta: 3
+Correcta: ¡Acertado! La sentencia de apelación se debe dictar dentro de los cinco días siguientes a la vista oral en un Procedimiento Abreviado.
+Errada: Estas opciones no reflejan con precisión el plazo en el que se debe emitir la sentencia de apelación durante un Procedimiento Abreviado. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué momento es obligatoria la asistencia de un abogado durante el procedimiento abreviado?
+1)Desde que se efectúa la detención.
+2)A partir del momento en que las actuaciones indiquen que se ha imputado un delito a una persona específica.
+3)Solo una de ellas es correcta.
+4)Ambas opciones son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! En un procedimiento abreviado, la asistencia letrada es necesaria desde el momento de la detención y también desde que las actuaciones revelen la imputación de un delito a una persona determinada.
+Errada: Estas opciones son parcialmente correctas pero incompletas por sí solas. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 773.2 de la LECRIM en un procedimiento penal abreviado, ¿para qué puede el Ministerio Fiscal hacer que una persona comparezca ante él de acuerdo con los términos de citación judicial establecidos en la ley?
+1)Para ordenar el pago de la responsabilidad civil.
+2)Para tomarle declaración.
+3)Para ordenar su prisión provisional.
+4)Para ordenar su prisión definitiva.
+Respuesta: 2
+Correcta: ¡Bien hecho! En un procedimiento penal abreviado, el Ministerio Fiscal puede hacer que una persona comparezca ante él para tomarle declaración.
+Errada: Estas opciones no describen adecuadamente los propósitos para los cuales el Ministerio Fiscal puede citar a una persona en un procedimiento penal abreviado. (Respuesta Correcta 2)
+###
+Pregunta: En un procedimiento penal abreviado, según el artículo 771 de la LECRIM, ¿cómo debe la Policía Judicial informar al investigado no detenido?
+1)De manera incomprensible, comunicando al investigado no detenido sobre los hechos atribuidos a él y los derechos que le asisten.
+2)De manera comprensible, comunicando al investigado detenido sobre los hechos atribuidos a él y los derechos que le asisten.
+3)De manera comprensible, comunicando al investigado no detenido sobre los hechos atribuidos a él y los derechos que le asisten.
+4)De manera comprensible, comunicando al investigado no detenido sobre los hechos no atribuidos a él y los derechos que le asisten.
+Respuesta: 3
+Correcta: ¡Acertado! La Policía Judicial debe informar al investigado no detenido de manera comprensible sobre los hechos que se le atribuyen y los derechos que le asisten.
+Errada: Aunque algunas opciones contienen elementos verdaderos, no reflejan completamente la manera correcta en que la Policía Judicial debe informar al investigado no detenido según el artículo 771 de la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: Cuando en un proceso iniciado según las normas generales de la LECRIM se evidencie que el hecho sujeto a juicio corresponde a uno de los casos señalados en el artículo 757, ¿cómo se continuará con su tramitación?
+1)Procediendo conforme a las reglas del procedimiento penal por aceptación de decreto.
+2)Procediendo conforme a las reglas del procedimiento penal sumario.
+3)Procediendo conforme a las reglas del procedimiento penal de tribunal de jurado.
+4)Procediendo conforme a las reglas del procedimiento penal abreviado.
+Respuesta: 4
+Correcta: ¡Correcto! En tales casos, la tramitación procederá conforme a las reglas del procedimiento penal abreviado.
+Errada: Estas opciones no representan la acción correcta a tomar cuando se identifica que un caso pertenece a los supuestos del artículo 757. (Respuesta Correcta 4)
+###
+Pregunta: En un Procedimiento Abreviado, ¿cuántos días tienen las partes para solicitar la apertura de juicio oral, el sobreseimiento, o, si aplica, diligencias complementarias?
+1)Cinco días.
+2)Diez días.
+3)Tres días.
+4)Quince días.
+Respuesta: 2
+Correcta: ¡Acertado! Las partes disponen de diez días para realizar dichas solicitudes en un Procedimiento Abreviado.
+Errada: Estos plazos no son correctos según el procedimiento abreviado establecido en la LECRIM. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado, una vez admitido el recurso de apelación contra la sentencia, ¿cuánto tiempo tienen las demás partes para recibir el traslado del escrito de formalización por parte del Letrado de la Administración de Justicia?
+1)Dos días.
+2)Diez días.
+3)Cinco días.
+4)Quince días.
+Respuesta: 2
+Correcta: ¡Bien hecho! Las demás partes tienen un plazo común de diez días para recibir el traslado del escrito de formalización.
+Errada: Estos plazos o procedimientos no son los correctos según lo establecido en la LECRIM para el procedimiento abreviado. (Respuesta Correcta 2)
+###
+Pregunta: Después de la notificación de una sentencia en el procedimiento abreviado, ¿cuál es el plazo para que cualquiera de las partes interponga un recurso de apelación?
+1)Dentro de los cinco días posteriores a la notificación de la sentencia.
+2)Dentro de los tres días posteriores a la notificación de la sentencia.
+3)Dentro de los veinte días posteriores a la notificación de la sentencia.
+4)Dentro de los diez días posteriores a la notificación de la sentencia.
+Respuesta: 4
+Correcta: ¡Correcto! Las partes tienen un plazo de diez días desde la notificación de la sentencia para interponer un recurso de apelación.
+Errada: Estos plazos no son aplicables para la interposición de recursos de apelación contra sentencias en procedimientos abreviados según la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento abreviado, durante la formalización del recurso de apelación contra la sentencia, ¿qué se debe indicar en el escrito presentado?
+1)Error en la evaluación de fundamentos jurídicos en las que se fundamenta el recurso.
+2)Error en la evaluación de los hechos en las que se fundamenta el recurso.
+3)Error en la evaluación de las pruebas o violación de normas jurídicas en las que se fundamenta el recurso.
+4)Error en la evaluación de las normas jurídicas en las que se fundamenta el recurso.
+Respuesta: 3
+Correcta: ¡Correcto! Debes indicar el error en la evaluación de las pruebas o la infracción de normas legales que fundamentan el recurso.
+Errada: Estas opciones no describen adecuadamente lo que se debe exponer en el escrito de formalización del recurso de apelación contra la sentencia en un procedimiento abreviado. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado, ¿es posible recurrir el auto que establece la cuantía indemnizatoria cuando esta no ha sido determinada en la sentencia?
+1)Puede ser recurrido mediante revisión.
+2)Puede ser recurrido mediante súplica.
+3)Puede ser recurrido mediante apelación.
+4)Puede ser recurrido mediante queja.
+Respuesta: 3
+Correcta: ¡Bien hecho! El auto puede ser recurrido mediante apelación.
+Errada: Estas opciones no son válidas para recurrir el auto que fija la cuantía indemnizatoria en un procedimiento abreviado. (Respuesta Correcta 3)
+###
+Pregunta: En un procedimiento abreviado, si se ha llevado a cabo todas las diligencias pertinentes y el Juez considera que se ha cometido un delito pero no se conoce al autor, ¿qué medida se adoptará?
+1)Se ordenará el sobreseimiento provisional y se procederá al archivo.
+2)Se ordenará el sobreseimiento provisional y no se procederá al archivo.
+3)No se ordenará el sobreseimiento provisional y se procederá al archivo.
+4)No tomará medida alguna.
+Respuesta: 1
+Correcta: ¡Correcto! Se ordenará el sobreseimiento provisional y el archivo del caso.
+Errada: Estas opciones no reflejan las acciones correctas que un Juez tomaría en esta situación bajo un procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: ¿Es posible prorrogar el plazo para que el Ministerio Fiscal presente el escrito de acusación en un procedimiento abreviado?
+1)Puede prorrogarse por un máximo adicional de tres días.
+2)Puede prorrogarse por un máximo adicional de cinco días.
+3)Puede prorrogarse por un máximo adicional de quince días.
+4)Puede prorrogarse por un máximo adicional de diez días.
+Respuesta: 4
+Correcta: ¡Correcto! El plazo puede prorrogarse por un máximo adicional de diez días.
+Errada: Estas opciones no describen correctamente las posibilidades de prórroga para la presentación del escrito de acusación por parte del Ministerio Fiscal en un procedimiento abreviado. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué consecuencia tiene en el procedimiento abreviado la falta de presentación del escrito de defensa por parte de la defensa en el plazo designado?
+1)No se asume que la defensa se opone a las acusaciones y el procedimiento prosigue.
+2)Se asume que la defensa se opone a las acusaciones y el procedimiento se suspende.
+3)Se asume que la defensa se opone a las acusaciones y el procedimiento prosigue.
+4)No se asume que la defensa se opone a las acusaciones y el procedimiento se anula.
+Respuesta: 3
+Correcta: ¡Correcto! Si la defensa no presenta el escrito, se presume que se opone a las acusaciones y el procedimiento continúa.
+Errada: Estas respuestas no reflejan las acciones que se llevarían a cabo en un procedimiento abreviado bajo las circunstancias descritas. (Respuesta Correcta 3)
+###
+Pregunta: En las diligencias previas del procedimiento abreviado, ¿quién informa al afectado y al perjudicado acerca de sus derechos según los artículos 109 y 110 de la LECRIM?
+1)El Letrado de la Administración de Justicia, si la Policía Judicial no lo ha hecho previamente.
+2)El Letrado de la Administración de Justicia, si la Policía Judicial lo ha hecho previamente.
+3)El Juez de Instrucción, si la Policía Judicial no lo ha hecho previamente.
+4)El Juez de Instrucción, si la Policía Judicial lo ha hecho previamente.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia informará, siempre y cuando la Policía Judicial no lo haya hecho previamente.
+Errada: Estas opciones no describen correctamente quién es responsable de informar bajo las condiciones dadas. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 766 de la LECRIM, en un procedimiento abreviado, ¿en cuánto tiempo debe la Audiencia respectiva resolver el recurso de apelación contra los autos del Juez de Instrucción y del Juez de lo Penal?
+1)Tres días.
+2)Diez días.
+3)Cinco días.
+4)Quince días.
+Respuesta: 3
+Correcta: ¡Exacto! La Audiencia respectiva tiene un plazo de cinco días para resolver el recurso de apelación.
+Errada: Estos plazos no son correctos para la resolución de un recurso de apelación en un procedimiento abreviado conforme al artículo mencionado. (Respuesta Correcta 3)
+###
+Pregunta: Durante la audiencia preliminar del procedimiento abreviado (art. 785 LECrim), ¿cuál de los siguientes temas puede ser planteado y resuelto?
+1)Suspensión de la vista.
+2)Nulidad de actuaciones.
+3)Recusación del Juez o Magistrado.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! La nueva audiencia preliminar contempla la posibilidad de resolver, entre otras, sobre la nulidad de actuaciones.
+Errada: Estos temas sí son considerados durante la audiencia preliminar según el nuevo artículo 785.1 LECrim. (Respuesta Correcta 2)
+###
+Pregunta: En las diligencias previas del procedimiento abreviado, de acuerdo con el artículo 775 de la LECrim, si las diligencias revelan un cambio significativo en el objeto de la investigación o en los hechos imputados, ¿quién debe informar rápidamente al investigado sobre esto?
+1)El Juez al denunciante.
+2)El Juez al investigado.
+3)El Letrado de la Administración de Justicia al investigado.
+4)El Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Correcto! Según el art. 775 LECrim, el Juez debe informar prontamente al investigado sobre cambios relevantes en la investigación.
+Errada: Estas opciones no reflejan adecuadamente las responsabilidades de informar en la situación presentada. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado, para los casos relacionados con vehículos motorizados, se permite a los investigados o acusados que no estén en prisión preventiva y que residan habitualmente en el extranjero ausentarse de España. ¿Cuáles son los requisitos para ello?
+1)Deben designar un representante en España y proporcionar una garantía no personal (si no se ha establecido una fianza de la misma naturaleza) para asegurar la libertad provisional y su presentación en el plazo de 5 días.
+2)Deben designar un representante en España y proporcionar una garantía no personal (si no se ha establecido una fianza de la misma naturaleza) para asegurar la libertad provisional y su presentación en el plazo establecido.
+3)Deben designar un representante en España y proporcionar una garantía no personal (si no se ha establecido una fianza de la misma naturaleza) para asegurar la libertad provisional y su presentación en el plazo de 10 días.
+4)Deben designar un representante en España y proporcionar una garantía no personal (si no se ha establecido una fianza de la misma naturaleza) para asegurar la libertad provisional y su presentación en el plazo de 15 días.
+Respuesta: 2
+Correcta: ¡Correcto! Deben designar a alguien en España para recibir notificaciones y proporcionar una garantía no personal, siempre y cuando no se haya acordado una fianza del mismo tipo previamente.
+Errada: Estas opciones no describen completamente o correctamente los requisitos necesarios para que los investigados o acusados se ausenten de España en estas circunstancias. (Respuesta Correcta 2)
+###
+Pregunta: En relación con las causas mencionadas en el Título del Procedimiento Abreviado, ¿cuál de las siguientes afirmaciones es correcta acerca de la promoción de cuestiones de competencia por los Jueces de Instrucción a las Audiencias respectivas?
+1)Ningún Juez de Instrucción puede promover cuestiones de competencia; solo pueden exponer a las Audiencias, después de oír al Ministerio Fiscal por dos días, las razones para creer que deben conocer del asunto.
+2)Ningún Juez de Instrucción puede promover cuestiones de competencia; solo pueden exponer a las Audiencias, después de oír al Ministerio Fiscal por un día, las razones para creer que deben conocer del asunto.
+3)Ningún Juez de Instrucción puede promover cuestiones de competencia; solo pueden exponer a las Audiencias, después de oír al Ministerio Fiscal por tres días, las razones para creer que deben conocer del asunto.
+4)Ningún Juez de Instrucción puede promover cuestiones de competencia; solo pueden exponer a las Audiencias, después de oír al Ministerio Fiscal por cinco horas, las razones para creer que deben conocer del asunto.
+Respuesta: 1
+Correcta: ¡Correcto! Los Jueces de Instrucción no pueden promover cuestiones de competencia, solo pueden expresar a las Audiencias respectivas sus razones para creer que deben conocer del caso, previa audiencia al Ministerio Fiscal por un día.
+Errada: Estas opciones no reflejan con precisión lo estipulado respecto a la promoción de cuestiones de competencia en el Procedimiento Abreviado. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 773 de la Ley de Enjuiciamiento Criminal respecto al Procedimiento Abreviado, ¿quién tiene la responsabilidad especial de impulsar y simplificar su tramitación?
+1)El Procurador.
+2)El Juez.
+3)El Letrado de la Administración de Justicia.
+4)El Ministerio Fiscal tiene esta responsabilidad especial.
+Respuesta: 4
+Correcta: ¡Correcto! El Ministerio Fiscal tiene un rol especial en impulsar y simplificar la tramitación del Procedimiento Abreviado según el art. 773 de la LECrim.
+Errada: Estas opciones no reflejan correctamente las responsabilidades asignadas por la LECrim en el Procedimiento Abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Una vez dictada la sentencia de conformidad en el Procedimiento Abreviado, y en caso de que el Fiscal y las partes no recurran, ¿sobre qué se pronunciará el juez al declarar la firmeza de la sentencia?
+1)Acerca de la suspensión o sustitución de la pena impuesta.
+2)Respecto a la posibilidad de recurrir considerando los requisitos de conformidad.
+3)Acerca de la suspensión o sustitución de la pena suspensa.
+4)Respecto a la posibilidad de recurrir considerando los requisitos de no pagar.
+Respuesta: 1
+Correcta: ¡Correcto! El juez se pronunciará sobre la suspensión o la sustitución de la pena impuesta una vez que se declare la firmeza de la sentencia.
+Errada: Estas opciones no reflejan con precisión las acciones del juez una vez que se declara la firmeza de una sentencia de conformidad en el Procedimiento Abreviado. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién tiene la autoridad para dar órdenes e instrucciones con respecto a la actuación del Fiscal en el procedimiento penal abreviado y, en particular, sobre la aplicación del primer apartado del artículo 780 de la LECRIM?
+1)Fiscal General del Estado.
+2)Fiscal Jefe de la Fiscalía de la Audiencia Nacional.
+3)Fiscal del Tribunal Superior de Justicia.
+4)Teniente Fiscal.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Fiscal General del Estado es el que imparte órdenes e instrucciones concernientes a la actuación del Fiscal en el procedimiento penal abreviado según el artículo 773.1 de la LECRIM.
+Errada: Estas opciones no representan las disposiciones correctas con respecto a quien imparte órdenes e instrucciones al Fiscal en el procedimiento penal abreviado. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado, ¿cuál es el último momento en el que se pueden añadir a la causa informes, certificaciones y otros documentos relevantes por el Ministerio Fiscal y las partes?
+1)Hasta el comienzo del juicio oral.
+2)Hasta el comienzo de la fase intermedia.
+3)Hasta el final del juicio oral.
+4)Hasta el comienzo de la fase de instrucción.
+Respuesta: 1
+Correcta: ¡Correcto! Los documentos relevantes pueden incorporarse a la causa hasta el inicio del juicio oral en el procedimiento abreviado.
+Errada: Estas opciones no son correctas; los documentos pueden ser añadidos hasta que comiencen las sesiones del juicio oral. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado, en el trámite de impugnación de sentencias, ¿cuál es la afirmación correcta con respecto a la programación de la vista?
+1)El Letrado de la Administración de Justicia la programará dentro de los quince días siguientes.
+2)El Letrado de la Administración de Justicia la programará dentro de los diez días siguientes.
+3)El Letrado de la Administración de Justicia la programará dentro de los cinco días siguientes.
+4)El Letrado de la Administración de Justicia la programará dentro de los tres días siguientes.
+Respuesta: 1
+Correcta: ¡Correcto! La vista será programada por el Letrado de la Administración de Justicia dentro de los quince días siguientes.
+Errada: Estas opciones no describen adecuadamente los procedimientos relacionados con la programación y realización de la vista en el trámite de impugnación de sentencias en el procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto del procedimiento penal abreviado y conforme al art. 773.2 LECRIM, cuando el Ministerio Fiscal está al tanto de un hecho que parece delictivo, ya sea directamente o mediante una denuncia o atestado recibido:
+1)Realizará o instruirá a la Policía Judicial para llevar a cabo las diligencias necesarias con el fin de verificar el hecho o la responsabilidad de los involucrados.
+2)Realizará e instruirá a la Policía Judicial para llevar a cabo las diligencias necesarias con el fin de verificar el hecho y la responsabilidad de los involucrados.
+3)Realizará o instruirá a la Policía Judicial para llevar a cabo las diligencias necesarias con el fin de verificar el hecho y la responsabilidad de los involucrados.
+4)Realizará o instruirá a la Policía Judicial para llevar a cabo las diligencias necesarias con el fin de verificar el hecho o la responsabilidad de los afectados.
+Respuesta: 1
+Correcta: ¡Correcto! El Ministerio Fiscal ejecutará o mandará a la Policía Judicial a realizar las diligencias pertinentes para la comprobación del hecho o de la responsabilidad de los partícipes en el mismo.
+Errada: Estas opciones no describen adecuadamente las acciones que el Ministerio Fiscal debe tomar bajo el art. 773.2 de la LECRIM en este contexto. (Respuesta Correcta 1)
+###
+Pregunta: Si el veredicto de la sentencia en el procedimiento abreviado no especifica la cantidad indemnizatoria, ¿qué se puede hacer?
+1)Durante la redacción de la sentencia, las partes pueden solicitar la realización de pruebas necesarias para determinar la indemnización.
+2)Durante la firmeza de la sentencia, las partes pueden solicitar la realización de pruebas necesarias para determinar la indemnización.
+3)Durante la ejecución de la sentencia, las partes no pueden solicitar la realización de pruebas necesarias para determinar la indemnización.
+4)Durante la ejecución de la sentencia, las partes pueden solicitar la realización de pruebas necesarias para determinar la indemnización.
+Respuesta: 4
+Correcta: ¡Exacto! Las partes pueden solicitar la realización de pruebas para determinar la indemnización durante la ejecución de la sentencia.
+Errada: Estas opciones no describen procedimientos correctos para determinar la indemnización en caso de que no se haya especificado en el fallo de la sentencia. (Respuesta Correcta 4)
+###
+Pregunta: En el recurso de apelación contra sentencias del procedimiento penal abreviado, según el art. 791 de la LECRIM, ¿en qué circunstancia se celebrará una vista?
+1)Cuando el Tribunal considere necesario realizar una vista, ya sea de oficio para formar una convicción fundada.
+2)Cuando el Tribunal considere necesario realizar una vista, ya sea a petición de parte, para formar una convicción fundada.
+3)Cuando el Tribunal considere necesario realizar una vista, ya sea de oficio o a petición de parte, para formar una convicción fundada.
+4)Cuando el Tribunal considere necesario realizar una vista, ya sea de oficio y a petición de parte, para formar una convicción fundada.
+Respuesta: 3
+Correcta: ¡Bien hecho! La vista se realizará si el Tribunal la considera necesaria para una correcta formación de convicción fundada, ya sea de oficio o a solicitud de una de las partes.
+Errada: Estas opciones no reflejan con precisión las condiciones bajo las cuales se celebrará una vista según el art. 791 de la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es un requisito para proceder con el juicio oral del procedimiento abreviado en ausencia del acusado (art. 787.1 LECrim), además de la citación válida?
+1)Que la pena más grave solicitada no exceda de dos años de privación de libertad, o seis años si es de distinta naturaleza.
+2)Que el acusado debe haber recibido una citación válida y la pena solicitada no debe superar los tres años de cárcel, o en caso de ser una pena diferente, no debe superar los seis años.
+3)Que el acusado debe haber recibido una citación válida y la pena solicitada no debe superar los dos años de cárcel, o en caso de ser una pena diferente, no debe superar los seis años.
+4)Que el acusado debe haber recibido una citación válida y la pena solicitada no debe superar los tres años de cárcel, o en caso de ser una pena diferente, no debe superar los cinco años.
+Respuesta: 1
+Correcta: ¡Correcto! Para proceder en ausencia del acusado, este debe haber sido debidamente citado, y la pena más grave solicitada no debe exceder los dos años de prisión, o seis años si la pena es de otra naturaleza.
+Errada: Estas opciones no reflejan con exactitud los requisitos adicionales establecidos por el artículo 786.1 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: En el marco de las Diligencias Previas del Procedimiento Abreviado, los informes realizados por laboratorios oficiales acerca de la naturaleza, cantidad y pureza de drogas, que siguen protocolos científicos aprobados, ¿qué tipo de evidencia constituyen?
+1)Todas son correctas.
+2)Pruebas periciales.
+3)Pruebas documentales.
+4)Pruebas testificales.
+Respuesta: 3
+Correcta: ¡Correcto! Estos informes de laboratorios oficiales se consideran pruebas documentales.
+Errada: Estas opciones no describen correctamente la naturaleza de los informes emitidos por laboratorios oficiales en este contexto. (Respuesta Correcta 3)
+###
+Pregunta: Seleccione la afirmación falsa respecto a la conformidad al inicio del juicio oral en el procedimiento abreviado (art. 787 ter LECrim):
+1)La sentencia con conformidad se pronunciará de viva voz, a pesar de que luego se redacte.
+2)En caso de que el acusado sea una entidad jurídica, la conformidad debe ser otorgada por un representante designado especialmente con poder especial.
+3)Las conformidades relacionadas con la adopción de medidas de protección en casos de limitación de responsabilidad penal no obligan al juez o tribunal.
+4)La persona acusada puede impugnar por razones de fondo su conformidad libremente prestada.
+Respuesta: 4
+Correcta: ¡Exacto! Esta afirmación es incorrecta; la persona acusada no puede impugnar la conformidad que ha prestado libremente por razones de fondo.
+Errada: Estas afirmaciones son verdaderas y no contradicen las reglas establecidas respecto a la conformidad al inicio del juicio oral en el procedimiento abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Seleccione la opción correcta respecto al procedimiento abreviado:
+1)El recurso de apelación puede interponerse de manera subsidiaria junto con el recurso de reforma o de manera independiente.
+2)El recurso de apelación no puede interponerse de manera subsidiaria junto con el recurso de reforma y de manera independiente.
+3)El recurso de apelación puede interponerse de manera subsidiaria junto con el recurso de reforma y de manera dependiente.
+4)El recurso de apelación no puede interponerse de manera subsidiaria junto con el recurso de reforma o de manera independiente.
+Respuesta: 1
+Correcta: ¡Bien hecho! El recurso de apelación puede interponerse ya sea de forma subsidiaria al de reforma o de manera independiente.
+Errada: Estas opciones no representan de manera precisa las reglas relacionadas con los recursos en el procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: En la fase de diligencias previas del procedimiento abreviado, conforme al artículo 775 de la LECrim y a menos que el Juez de Instrucción ordene la detención o prisión incomunicada, ¿cuándo se permite al investigado hablar con su abogado?
+1)Ninguna es correcta.
+2)Después de dar su declaración.
+3)Tanto antes como después de dar su declaración.
+4)Antes de dar su declaración.
+Respuesta: 3
+Correcta: ¡Correcto! Al investigado se le permite hablar con su abogado tanto antes como después de dar su declaración.
+Errada: Estas opciones no reflejan correctamente las disposiciones del artículo 775 de la LECrim. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento penal abreviado, según el primer apartado del art. 773 de la LECrim, ¿cuál de las siguientes no es una función del Ministerio Fiscal?
+1)Informar de manera comprensible al investigado no detenido acerca de los hechos que se le atribuyen y los derechos que tiene.
+2)Informar de manera comprensible al investigado detenido acerca de los hechos que se le atribuyen y los derechos que tiene.
+3)Promover y simplificar la tramitación del procedimiento, asegurando el derecho a la defensa y manteniendo el carácter contradictorio del proceso.
+4)Proteger los derechos de las víctimas y los afectados por el delito.
+Respuesta: 1
+Correcta: ¡Correcto! Informar de manera comprensible al investigado no detenido sobre los hechos atribuidos y sus derechos no es una función del Ministerio Fiscal según el art. 773 de la LECrim.
+Errada: Estas opciones son funciones del Ministerio Fiscal según el procedimiento penal abreviado. (Respuesta Correcta 1)
+###
+Pregunta: Cuando en el procedimiento penal abreviado, el Juez de Instrucción decide proceder según lo dispuesto en los artículos 780 y siguientes de la LECrim, ¿qué instrucción da en su resolución respecto al traslado a las acusaciones y al Ministerio Fiscal?
+1)Les transfiere las diligencias previas, ya sea en original o mediante fotocopia, con un plazo común de 5 días.
+2)Les transfiere las diligencias previas, ya sea en original o mediante fotocopia, con un plazo común de 15 días.
+3)Les transfiere las diligencias previas, ya sea en original o mediante fotocopia, con un plazo común de 20 días.
+4)Les transfiere las diligencias previas, ya sea en original o mediante fotocopia, con un plazo común de 10 días.
+Respuesta: 4
+Correcta: ¡Correcto! El traslado de las diligencias previas, ya sea en original o mediante fotocopia, se realiza con un plazo común de 10 días.
+Errada: Estas opciones no reflejan correctamente las disposiciones para el traslado de diligencias previas. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento penal abreviado, si hay dudas sobre cuál Tribunal o Juzgado es competente y no se llega a un acuerdo con la primera comunicación, ¿cuál es el procedimiento que sigue?
+1)Informan inmediatamente al superior jerárquico con una exposición razonada. El superior, después de escuchar al Fiscal y a las partes en una comparecencia celebrada dentro de las siguientes 12 horas, decide lo apropiado en el acto, sin posibilidad de recurso adicional.
+2)Informan inmediatamente al superior jerárquico con una exposición razonada. El superior, después de escuchar al Fiscal y a las partes en una comparecencia celebrada dentro de las siguientes 24 horas, decide lo apropiado en el acto, sin posibilidad de recurso adicional.
+3)Informan inmediatamente al superior jerárquico con una exposición razonada. El superior, después de escuchar al Fiscal y a las partes en una comparecencia celebrada dentro de las siguientes 48 horas, decide lo apropiado en el acto, sin posibilidad de recurso adicional.
+4)Informan inmediatamente al superior jerárquico con una exposición razonada. El superior, después de escuchar al Fiscal y a las partes en una comparecencia celebrada dentro de las siguientes 72 horas, decide lo apropiado en el acto, sin posibilidad de recurso adicional.
+Respuesta: 2
+Correcta: ¡Correcto! Informan inmediatamente al superior jerárquico, y este, tras escuchar al Fiscal y a las partes, toma una decisión inmediata sin recurso adicional.
+Errada: Estas opciones no describen con precisión el procedimiento correcto en caso de desacuerdo sobre la competencia. (Respuesta Correcta 2)
+###
+Pregunta: Cuando la Policía Judicial descubre un delito y hay un fallecido en la vía pública, conforme al procedimiento penal abreviado y los artículos relevantes de la LECRIM, ¿cuál es el protocolo a seguir respecto al cadáver?
+1)El cadáver no se traslada a un lugar cercano y adecuado, se restablece el servicio, y se notifica a la autoridad judicial inmediatamente.
+2)El cadáver se traslada a un lugar cercano y adecuado, no se restablece el servicio, y se notifica a la autoridad judicial inmediatamente.
+3)El cadáver se traslada a un lugar cercano y adecuado, se restablece el servicio, y no se notifica a la autoridad judicial inmediatamente.
+4)El cadáver se traslada a un lugar cercano y adecuado, se restablece el servicio, y se notifica a la autoridad judicial inmediatamente.
+Respuesta: 4
+Correcta: ¡Correcto! El cuerpo se mueve a un lugar cercano y adecuado, el servicio se reanuda, y la autoridad judicial es notificada inmediatamente.
+Errada: Estas opciones no reflejan de manera precisa el procedimiento estipulado en la LECrim respecto a cadáveres en la vía pública durante el procedimiento penal abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Cuando, según el artículo 783.1 (segundo párrafo) de la Ley de Enjuiciamiento Criminal referente al procedimiento abreviado, el Juez de Instrucción opte por abrir el juicio oral solo a petición del Ministerio Fiscal o de una acusación particular, ¿qué protocolo sigue el Letrado de la Administración de Justicia?
+1)Proporciona un nuevo traslado de tres días a quienes solicitaron el sobreseimiento para que presenten un escrito de acusación, excepto si renuncian a hacerlo.
+2)Proporciona un nuevo traslado de cinco días a quienes solicitaron el sobreseimiento para que presenten un escrito de acusación, excepto si renuncian a hacerlo.
+3)Proporciona un nuevo traslado de dos días a quienes solicitaron el sobreseimiento para que presenten un escrito de acusación, excepto si renuncian a hacerlo.
+4)Proporciona un nuevo traslado de diez días a quienes solicitaron el sobreseimiento para que presenten un escrito de acusación, excepto si renuncian a hacerlo.
+Respuesta: 1
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia concede un nuevo traslado de tres días, excepto si hay renuncia.
+Errada: Estas opciones no reflejan adecuadamente el procedimiento establecido en la Ley. (Respuesta Correcta 1)
+###
+Pregunta: En las diligencias preliminares, una vez realizadas las diligencias pertinentes de manera expedita, si el Juez emite una resolución para proceder con la preparación del juicio oral en el procedimiento abreviado (según el Capítulo IV, Título II, Libro IV de la LECRIM), ¿qué debe incluir esta decisión?
+1)Dos son correcta.
+2)Debe contener la definición de los hechos delictivos.
+3)Puede incluir, si aplica, la identificación de la persona acusada de los hechos delictivos.
+4)Jamás debe contener la definición de los hechos delictivos.
+Respuesta: 2
+Correcta: ¡Correcto! La resolución debe contener la definición de los hechos delictivos.
+Errada: Estas opciones no describen de forma precisa los requisitos de la resolución del Juez. (Respuesta Correcta 2)
+###
+Pregunta: En el contexto del procedimiento abreviado, seleccione la afirmación incorrecta relacionada con la práctica de la prueba:
+1)En el procedimiento abreviado, los informes de laboratorios oficiales acerca de la naturaleza, cantidad y pureza de drogas serán considerados pruebas documentales, siempre que sigan los protocolos científicos aprobados.
+2)El informe pericial debe ser proporcionado por al menos dos peritos.
+3)Una vez finalizada la práctica de la prueba, el Juez o el Presidente del Tribunal solicitará a la acusación y a la defensa que confirmen o modifiquen las conclusiones de los escritos previamente presentados.
+4)En general, las pruebas se realizarán de manera concentrada, en las sesiones consecutivas que sean necesarias.
+Respuesta: 2
+Correcta: ¡Correcto! Esta afirmación es incorrecta; el informe pericial no necesita ser proporcionado necesariamente por dos peritos.
+Errada: Estas afirmaciones son correctas y consistentes con las normas del procedimiento abreviado. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado, los criterios generales y las instrucciones para el señalamiento del juicio oral (art. 786 LECrim) NO tendrán en cuenta:
+1)Las medidas cautelares reales que se hayan establecido.
+2)El hecho de que el acusado esté en prisión.
+3)La complejidad de las pruebas propuestas.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Correcto! En el contexto del procedimiento abreviado, las medidas cautelares reales establecidas no se consideran durante el señalamiento según el artículo 786.2 LECrim.
+Errada: Estos son factores válidos que se consideran durante el señalamiento. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 790 de la LECRIM en el procedimiento abreviado, una vez recibido el escrito formalizando el recurso de apelación contra la sentencia, ¿qué ocurre?
+1)El Letrado de la Administración de Justicia admitirá el recurso si cumple con los requisitos necesarios.
+2)El Juez admite el recurso aunque no cumpla con los requisitos necesarios.
+3)El Juez admite el recurso si cumple con los requisitos necesarios.
+4)El Juez admite el recurso siempre.
+Respuesta: 3
+Correcta: ¡Bien hecho! Si el recurso cumple con los requisitos exigidos, será admitido por el Juez, según el artículo 790 de la LECRIM.
+Errada: Estas respuestas no reflejan adecuadamente los procedimientos delineados en el artículo 790 de la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado, ¿cómo se adoptan las medidas cautelares para asegurar responsabilidades pecuniarias?
+1)A través de un auto emitido por el Juez o Tribunal, formalizando en una pieza separada.
+2)A través de una providencia emitido por el Juez o Tribunal, formalizando en una pieza separada.
+3)A través de un emplazamiento emitido por el Juez o Tribunal, formalizando en una pieza separada.
+4)A través de un decreto emitido por el LAJ, formalizando en una pieza separada.
+Respuesta: 1
+Correcta: ¡Correcto! Las medidas cautelares para asegurar responsabilidades pecuniarias se adoptan mediante un auto del Juez o Tribunal y se formalizan en una pieza separada.
+Errada: Estas opciones no representan de forma precisa cómo se adoptan y formalizan las medidas cautelares en el procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 788.5 de la Lecrim referente al procedimiento abreviado, si en las conclusiones definitivas, la acusación modifica la clasificación jurídica de los hechos, nota un mayor nivel de participación o ejecución o identifica circunstancias que agravan la pena:
+1)El Juez o Tribunal puede optar por posponer la sesión, con un límite máximo de diez días, si la defensa lo solicita, permitiendo así una preparación adecuada de sus alegaciones y, si es necesario, la presentación de pruebas y argumentos exculpatorios pertinentes.
+2)El Juez o Tribunal puede optar por posponer la sesión, con un límite máximo de cinco días, si la defensa lo solicita, permitiendo así una preparación adecuada de sus alegaciones y, si es necesario, la presentación de pruebas y argumentos exculpatorios pertinentes.
+3)El Juez o Tribunal puede optar por posponer la sesión, con un límite máximo de quince días, si la defensa lo solicita, permitiendo así una preparación adecuada de sus alegaciones y, si es necesario, la presentación de pruebas y argumentos exculpatorios pertinentes.
+4)El Juez o Tribunal puede optar por posponer la sesión, con un límite máximo de siete días, si la defensa lo solicita, permitiendo así una preparación adecuada de sus alegaciones y, si es necesario, la presentación de pruebas y argumentos exculpatorios pertinentes.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 788.5 de la Lecrim, el Juez o Tribunal puede considerar posponer la sesión hasta diez días si la defensa lo solicita, permitiendo así una preparación adecuada.
+Errada: Estas opciones no reflejan adecuadamente lo establecido en el artículo 788.5 de la Lecrim. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al art. 771 de la LECRIM, en el procedimiento abreviado, ¿qué información debe proporcionar la Policía Judicial al investigado no detenido?
+1)Derechos mencionados en los apartados a), b), c) y e) del artículo 521.2.
+2)Derechos mencionados en los apartados a), b), c) y e) del artículo 522.2.
+3)Derechos mencionados en los apartados a), b), c) y e) del artículo 520.2.
+4)Derechos mencionados en los apartados a), b), c) y e) del artículo 523.2.
+Respuesta: 3
+Correcta: ¡Correcto! Al investigado no detenido se le deben informar los derechos señalados en los apartados a), b), c) y e) del artículo 520.2 de la LECRIM.
+Errada: Estas respuestas no representan correctamente la información que la Policía Judicial debe proporcionar según el artículo 771 de la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 786 de la Ley de Enjuiciamiento Criminal en el contexto del procedimiento abreviado, ¿cuál de las siguientes afirmaciones es correcta?
+1)La comparecencia injustificada del tercero civilmente responsable no es razón suficiente para suspender el juicio por sí misma.
+2)La no comparecencia injustificada del tercero civilmente responsable es razón suficiente para suspender el juicio por sí misma.
+3)La no comparecencia injustificada del tercero civilmente responsable es razón suficiente para suspender el juicio por sí misma.
+4)La no comparecencia injustificada del tercero civilmente responsable no es razón suficiente para suspender el juicio por sí misma.
+Respuesta: 4
+Correcta: ¡Exacto! La ausencia injustificada del tercero civilmente responsable no es causa de suspensión del juicio, siempre y cuando haya sido debidamente citado.
+Errada: Estas opciones no representan de manera precisa lo establecido en el artículo 786 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del contexto de las diligencias previas, ¿cuál de las siguientes opciones NO es una característica distintiva del procedimiento abreviado?
+1)El Juez tiene la facultad de decidir que el médico forense o un experto obtenga muestras o vestigios para facilitar la clasificación del hecho.
+2)En situaciones de lesiones, es necesario esperar a la recuperación del lesionado antes de decidir sobre el archivo o sobreseimiento provisional del caso.
+3)El Juez puede autorizar al médico forense para realizar el levantamiento del cadáver en su lugar.
+4)El Juez puede decidir no realizar la autopsia si el médico forense o un experto equivalente ha determinado satisfactoriamente la causa y circunstancias de la muerte.
+Respuesta: 2
+Correcta: ¡Correcto! No es una especialidad del procedimiento abreviado esperar a la recuperación del lesionado para decidir sobre el archivo o sobreseimiento provisional.
+Errada: Estas respuestas son especialidades del procedimiento abreviado en el contexto de las diligencias previas. (Respuesta Correcta 2)
+###
+Pregunta: Cuando el acusado en el procedimiento abreviado es una entidad jurídica:
+1)Debe ser representada en juicio por una persona designada especialmente.
+2)Puede ser representada en juicio por una persona designada generalmente.
+3)Puede ser representada en juicio por una persona designada especialmente.
+4)No puede ser representada en juicio por una persona designada especialmente.
+Respuesta: 3
+Correcta: ¡Exacto! La entidad jurídica puede estar representada por una persona designada especialmente para el juicio en el procedimiento abreviado.
+Errada: Estas opciones no representan completamente y de manera precisa las normas para representación en el procedimiento abreviado. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso abreviado de la jurisdicción penal, señala la afirmación correcta:
+1)El abogado de defensa está autorizado para representar al acusado, siendo innecesaria la intervención de un procurador hasta el recurso de casación.
+2)El abogado de defensa está autorizado para representar al acusado, siendo necesaria la intervención de un procurador hasta la apertura del juicio oral.
+3)El abogado de la acusión particular está autorizado para representar al acusado, siendo innecesaria la intervención de un procurador hasta la apertura del juicio oral.
+4)El abogado de defensa está autorizado para representar al acusado, siendo innecesaria la intervención de un procurador hasta la apertura del juicio oral.
+Respuesta: 3
+Correcta: ¡Correcto! El abogado de defensa puede representar al acusado, y no es necesario un procurador hasta el trámite de apertura del juicio oral.
+Errada: Estas respuestas no describen con precisión las reglas de representación en el procedimiento abreviado penal. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento penal abreviado, según el artículo 776 LECrim, ¿qué información proporcionará el Letrado de la Administración de Justicia al ofendido y al perjudicado si la Policía Judicial ya les había informado de sus derechos?
+1)Medidas de asistencia a las víctimas previstas por la ley vigente.
+2)Derechos mencionados en la regla 1.ª del artículo 771 de la LECRIM.
+3)El número de procedimiento y el juzgado que lo tramita, sin que sea precisa su comparecencia para un nuevo ofrecimiento de acciones.
+4)Ambas son correctas.
+Respuesta: 3
+Correcta: ¡Correcto! El LAJ notificará al ofendido o perjudicado el número de procedimiento y el juzgado que lo tramita, sin que sea necesaria su comparecencia para un nuevo ofrecimiento de acciones.
+Errada: Estas respuestas son parcialmente correctas o incorrectas según el contexto del artículo 776 de la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 794 de la LECrim, durante la etapa de ejecución de sentencia en un procedimiento abreviado, si la cantidad indemnizatoria no se especificó en el fallo, ¿cuánto tiempo estipula la ley para consultar a las partes después de realizar la prueba?
+1)Plazo conjunto de tres días.
+2)Plazo conjunto de dos días.
+3)Plazo conjunto de diez días.
+4)Plazo conjunto de cinco días.
+Respuesta: 4
+Correcta: ¡Correcto! La ley estipula un plazo conjunto de cinco días para escuchar a las partes si la cuantía indemnizatoria no se ha especificado en el fallo.
+Errada: Estas opciones no reflejan adecuadamente el plazo legal establecido para escuchar a las partes en estas circunstancias. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento abreviado, de acuerdo con la LECRIM, si se interpone un recurso de apelación contra un auto de manera subsidiaria con el de reforma, y este último se rechaza total o parcialmente, ¿qué acción realizará el Letrado de la Administración de Justicia?
+1)Dará traslado al apelante por un periodo de tres días.
+2)Dará traslado al apelante por un periodo de quince días.
+3)Dará traslado al apelante por un periodo de cinco días.
+4)Dará traslado al apelante por un periodo de diez días.
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia dará traslado al recurrente por un plazo de cinco días.
+Errada: Estas opciones no representan de manera exacta el procedimiento establecido por la ley en estas circunstancias. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado:
+1)La intervención de un procurador no es requerida hasta el trámite de súplica.
+2)La intervención de un procurador no es requerida hasta el trámite de casación.
+3)La intervención de un procurador es requerida hasta el trámite de apertura del juicio oral.
+4)La intervención de un procurador no es requerida hasta el trámite de apertura del juicio oral.
+Respuesta: 4
+Correcta: ¡Exacto! No es necesaria la intervención de un procurador hasta el trámite de apertura del juicio oral en el procedimiento abreviado.
+Errada: Estas opciones no describen con precisión las normas de representación legal en el procedimiento abreviado. (Respuesta Correcta 4)
+###
+Pregunta: En cuanto a la posibilidad de imponer medidas que restrinjan la libertad o los derechos en el procedimiento abreviado, seleccione la opción correcta:
+1)Se pueden imponer medidas privativas de libertad o medidas restrictivas de derechos cuando las reglas generales de la LEC así lo permitan.
+2)No se pueden imponer medidas privativas de libertad o medidas restrictivas de derechos cuando las reglas generales de la LECrim así lo permitan.
+3)No se pueden imponer medidas privativas de libertad o medidas restrictivas de derechos cuando las reglas especiales de la LECrim así lo permitan.
+4)Se pueden imponer medidas privativas de libertad o medidas restrictivas de derechos cuando las reglas generales de la LECrim así lo permitan.
+Respuesta: 4
+Correcta: ¡Bien hecho! Se pueden imponer tanto medidas privativas de libertad como medidas restrictivas de derechos, conforme a las reglas generales de la LECrim en el procedimiento abreviado.
+Errada: Estas opciones no reflejan correctamente las disposiciones legales relativas a la imposición de medidas en el procedimiento abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 790 de la LECRIM, en el proceso de apelación contra sentencias pronunciadas en el procedimiento abreviado, ¿en qué momento pueden las partes solicitar una copia de los registros de las sesiones?
+1)Dentro de los tres días posteriores a la notificación de la sentencia.
+2)Suspendiendo el período para presentar el recurso.
+3)El período para interponer el recurso se retomará tras la entrega de las copias solicitadas.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las afirmaciones son verdaderas según el artículo 790 de la LECRIM.
+Errada: Estas respuestas, aunque correctas de manera individual, no representan todas las posibilidades establecidas por la ley. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué casos se aplica el procedimiento abreviado?
+1)Para delitos con penas privativas de libertad que no superen los nueve años, o con otras penas independientemente de su duración.
+2)Para delitos con penas privativas de libertad que no superen los diez años, o con otras penas independientemente de su duración.
+3)Para delitos con penas privativas de libertad que no superen los quince años, o con otras penas independientemente de su duración.
+4)Para delitos con penas privativas de libertad que no superen los seis años, o con otras penas independientemente de su duración.
+Respuesta: 3
+Correcta: ¡Exacto! El procedimiento abreviado se aplica en los casos descritos en esta opción.
+Errada: Estas opciones no representan adecuadamente los casos en los que se aplica el procedimiento abreviado según la ley. (Respuesta Correcta 3)
+###
+Pregunta: Bajo el artículo 792 de la LECRIM, en el procedimiento abreviado, si la sentencia apelada se anula debido a un error en un procedimiento esencial, ¿qué hace el tribunal?
+1)Anula la sentencia y devuelve el proceso al punto en que se cometió el error sin considerar el contenido del fallo, sin mantener la validez de los actos que serían idénticos sin el error.
+2)Anula la sentencia y no devuelve el proceso al punto en que se cometió el error sin considerar el contenido del fallo, manteniendo la validez de los actos que serían idénticos sin el error.
+3)Anula la sentencia y devuelve el proceso al punto en que se cometió el error sin considerar el contenido del fallo, manteniendo la validez de los actos que serían idénticos sin el error.
+4)Anula la sentencia y devuelve el proceso al punto en que se cometió el error sin considerar el contenido del fallo, manteniendo la validez de los actos que serían idénticos con el error.
+Respuesta: 3
+Correcta: ¡Correcto! El tribunal actúa según lo descrito en esta opción en casos de anulación por errores en procedimientos esenciales.
+Errada: Estas opciones no reflejan de manera precisa el procedimiento que sigue el tribunal en estos casos. (Respuesta Correcta 3)
+###
+Pregunta: Cuando el Ministerio Fiscal pide diligencias adicionales antes de redactar el escrito de acusación en un procedimiento abreviado, ¿cómo responde el Juez?
+1)Ninguna es correcta.
+2)Acepta la solicitud del Ministerio Fiscal.
+3)Deniega la solicitud del Ministerio Fiscal.
+4)Consulta a las partes.
+Respuesta: 2
+Correcta: ¡Correcto! El Juez acuerda con lo solicitado por el Ministerio Fiscal.
+Errada: Estas opciones no representan de manera exacta cómo el Juez responde ante las solicitudes de diligencias adicionales por parte del Ministerio Fiscal. (Respuesta Correcta 2)
+###
+Pregunta: La Policía Judicial informará al ofendido y al perjudicado por el delito de los derechos que les asisten (art. 771 LECrim):
+1)De manera oral, al ofendido y perjudicado por el delito, sobre los derechos que les asisten según los artículos 111 y 110 de la LECRIM.
+2)De manera escrita, al ofendido y perjudicado por el delito, sobre los derechos que les asisten según los artículos 111 y 110 de la LECRIM.
+3)De manera oral, al ofendido y perjudicado por el delito, sobre los derechos que les asisten según los artículos 109 y 110 de la LECRIM.
+4)De forma escrita según los arts. 109 y 110 LECrim, e informará de que puede optar por relacionarse con la Adm. de Justicia por medios electrónicos.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Policía Judicial informa por escrito al ofendido y perjudicado sobre sus derechos conforme a los artículos 109 y 110 de la LECRIM, e incluye la nueva mención sobre la opción de relacionarse por medios electrónicos.
+Errada: Estas opciones no describen correctamente a quién y cómo la Policía Judicial proporciona información según el artículo 771 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento penal abreviado, ¿cómo se maneja el recurso de apelación contra autos dictados por el Juez de Instrucción o el Juez de lo Penal?
+1)El recurso es admitido por el Letrado de la Administración de Justicia y posteriormente resuelto por el Juez.
+2)El recurso es admitido por el Juez y luego es resuelto por la Audiencia Provincial.
+3)El recurso es admitido por el Juez y posteriormente resuelto por el Letrado de la Administración de Justicia.
+4)El recurso es admitido por el Juez y luego es resuelto por la Audiencia Nacional.
+Respuesta: 2
+Correcta: ¡Correcto! Los recursos de apelación son admitidos por el Juez y finalmente resueltos por la Audiencia Provincial en estos casos.
+Errada: Estas opciones no reflejan el proceso correcto para la admisión y resolución de recursos de apelación en el contexto mencionado. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 769 de la LECRIM, ¿en qué momento la Policía Judicial debe empezar a observar las reglas establecidas en el capítulo II del título dedicado al procedimiento abreviado?
+1)Todas son correctas.
+2)Inmediatamente antes de tener conocimiento de un acto que pueda ser calificado como delito.
+3)Cuando el Ministerio Fiscal ordene realizar diligencias específicas.
+4)Inmediatamente después de tener conocimiento de un acto que pueda ser calificado como delito.
+Respuesta: 4
+Correcta: ¡Correcto! La Policía Judicial debe observar las reglas mencionadas tan pronto como tenga conocimiento de un acto que tenga características de delito.
+Errada: Estas opciones no indican correctamente cuándo la Policía Judicial debe comenzar a observar las reglas del capítulo II del título dedicado al procedimiento abreviado según el artículo 769 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: En relación con el auto de sobreseimiento dictado según el artículo 779.1.1º de la LECRIM, ¿cuál de las siguientes afirmaciones es correcta respecto a las víctimas?
+1)Las víctimas pueden apelar el auto dentro de un periodo de cinco días, incluso si no se han personado.
+2)Las víctimas pueden apelar el auto dentro de un periodo de veinte días, incluso si no se han personado.
+3)Las víctimas pueden apelar el auto dentro de un periodo de quince días, incluso si no se han personado.
+4)Las víctimas pueden apelar el auto dentro de un periodo de diez días, incluso si no se han personado.
+Respuesta: 2
+Correcta: ¡Correcto! Las víctimas tienen derecho a apelar el auto dentro de veinte días, independientemente de si se han personado o no.
+Errada: Estas opciones no describen de manera correcta los derechos de las víctimas en relación con el auto de sobreseimiento según el artículo 779.1.1º de la LECRIM. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del procedimiento penal abreviado, ¿en qué momento es imprescindible la intervención de un procurador para representar al imputado?
+1)Desde el instante de la detención.
+2)Después del trámite de apertura del juicio oral.
+3)Antes del trámite de apertura del juicio oral.
+4)Desde el trámite de apertura del juicio oral.
+Respuesta: 4
+Correcta: ¡Correcto! En el procedimiento penal abreviado, la intervención de un procurador para representar al imputado es necesaria desde el trámite de apertura del juicio oral.
+Errada: Estas opciones no reflejan adecuadamente el momento en que es requerida la intervención de un procurador para representar al imputado en el procedimiento penal abreviado. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal (LeCrim), ¿qué tipo de recurso se puede interponer contra el auto que dispone la apertura del juicio oral?
+1)Ninguna es correcta.
+2)No se admite recurso alguno, ni en lo que concierne a la situación personal de los acusados.
+3)No se admite recurso alguno, salvo en lo que concierne a la situación personal de los acusados.
+4)Se admite recurso, salvo en lo que concierne a la situación personal de los acusados.
+Respuesta: 3
+Correcta: ¡Correcto! No se permite recurso alguno contra el auto que ordena la apertura del juicio oral, excepto respecto a la situación personal de los acusados.
+Errada: Estas respuestas no representan correctamente las opciones de recurso permitidas contra el auto que decreta la apertura del juicio oral según la LeCrim. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado establecido por la Ley de Enjuiciamiento Criminal, si el abogado defensor no presenta un escrito en respuesta a las acusaciones formuladas dentro del plazo establecido, ¿qué ocurre?
+1)Se considerará que el abogado no se opone a las acusaciones y el procedimiento se suspenderá.
+2)Se considerará que el abogado se opone a las acusaciones y el procedimiento no continuará normalmente.
+3)Se considerará que el abogado se opone a las acusaciones y el procedimiento continuará normalmente.
+4)Se considerará que el abogado no se opone a las acusaciones y el procedimiento continuará normalmente.
+Respuesta: 3
+Correcta: ¡Acertado! Si no se presenta un escrito, se entiende que la defensa se opone a las acusaciones y el proceso sigue su curso.
+Errada: Estas opciones no describen correctamente las consecuencias de no presentar un escrito en respuesta a las acusaciones en el procedimiento abreviado. (Respuesta Correcta 3)

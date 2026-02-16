@@ -1,0 +1,710 @@
+Pregunta: ¿Qué autoridad judicial es competente para la homologación de un plan de reestructuración?
+1)El Juez de la Sección Civil del Tribunal de Instancia del lugar donde el deudor tenga su domicilio social.
+2)El Juez de la Sección de Instrucción del Tribunal de Instancia donde el deudor tenga el centro de sus intereses principales.
+3)El Pleno de la Audiencia Provincial correspondiente al domicilio del deudor.
+4)El Juez de la Sección de lo Mercantil del Tribunal de Instancia que fuera competente para la declaración del concurso del deudor.
+Respuesta: 4
+Correcta: ¡Correcto! La competencia para homologar un plan de reestructuración corresponde al Juez de la Sección de lo Mercantil del Tribunal de Instancia que sería competente para declarar el concurso, conforme a la nueva organización judicial.
+Errada: Incorrecto. La competencia para homologar un plan de reestructuración recae en el Juez de la Sección de lo Mercantil del Tribunal de Instancia que sería competente para la declaración del concurso del deudor. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Concursal, en un escenario de administración concursal compartida, ¿cuál es el régimen de responsabilidad para la administración pública acreedora y la persona asignada?
+1)El establecido específicamente en la legislación administrativa.
+2)El marco general de la Ley Concursal para administradores concursales.
+3)El establecido específicamente en la legislación social.
+4)El marco general de la Ley de Enjuiciamiento Civil.
+Respuesta: 1
+Correcta: ¡Correcto! La responsabilidad recae específicamente en la legislación administrativa.
+Errada: Lo siento, eso no es correcto. La responsabilidad es gobernada por la legislación administrativa específica. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto de un preconcurso, ¿en qué circunstancias es apropiado notificar el inicio de las negociaciones?
+1)Cuando parece probable que el deudor se vuelva insolvente.
+2)Cuando el deudor está al borde de la insolvencia.
+3)Cuando el deudor ya está insolvente.
+4)Todas las opciones son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! La comunicación de apertura de negociaciones es procedente en todos los casos mencionados.
+Errada: Incorrecto. La notificación es apropiada en todas las situaciones enumeradas anteriormente. (Respuesta Correcta 4)
+###
+Pregunta: Una vez que el administrador concursal reciba notificación de su nombramiento, ¿cuánto tiempo tiene para aceptar dicho cargo?
+1)Tiene que presentarse en el juzgado y confirmar su aceptación dentro de los cinco días posteriores a la recepción de la notificación.
+2)Tiene que presentarse en el juzgado y confirmar su aceptación dentro de los tres días posteriores a la recepción de la notificación.
+3)Tiene que presentarse en el juzgado y confirmar su aceptación dentro de los siete días posteriores a la recepción de la notificación.
+4)Tiene que presentarse en el juzgado y confirmar su aceptación dentro de los diez días posteriores a la recepción de la notificación.
+Respuesta: 1
+Correcta: ¡Correcto! El administrador concursal tiene un plazo de cinco días después de recibir la notificación para aceptar el cargo.
+Errada: Incorrecto. El administrador concursal tiene un plazo de cinco días para confirmar su aceptación tras recibir la notificación. (Respuesta Correcta 1)
+###
+Pregunta: De las siguientes, ¿cuál no es una condición que deben cumplir los deudores con actividad empresarial para acogerse al procedimiento especial para microempresas?
+1)Poseer un patrimonio empresarial que no exceda los 900.000 euros.
+2)Tener deudas que no superen los 350.000 euros.
+3)Tener una plantilla media en el año previo a la solicitud de menos de 10 empleados.
+4)Registrar un volumen anual de transacciones no mayor a 700.000 euros.
+Respuesta: 1
+Correcta: ¡Exacto! El patrimonio empresarial inferior a 900.000 euros no es un criterio para el procedimiento especial de microempresas.
+Errada: Lo siento, eso no es correcto. La condición que no se requiere es poseer un patrimonio empresarial inferior a 900.000 euros. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué acreedor no tiene legitimidad para solicitar una declaración de bancarrota?
+1)El acreedor que haya adquirido la deuda a través de acuerdos entre personas vivas y de manera específica después de su vencimiento y dentro de los cinco meses anteriores a la solicitud.
+2)El acreedor que haya adquirido la deuda a través de acuerdos entre personas vivas y de manera específica después de su vencimiento y dentro de los seis meses anteriores a la solicitud.
+3)El acreedor que haya adquirido la deuda a través de acuerdos entre personas vivas y de manera específica después de su vencimiento y dentro de los dos meses anteriores a la solicitud.
+4)El acreedor que haya adquirido la deuda a través de acuerdos entre personas vivas y de manera específica después de su vencimiento y dentro del mes anterior a la solicitud.
+Respuesta: 2
+Correcta: ¡Correcto! Los acreedores que adquirieron el crédito de la manera descrita y dentro de un período de seis meses no están legitimados.
+Errada: Incorrecto. Los acreedores que adquirieron el crédito en esos términos y dentro de un período de seis meses previos a la solicitud no están legitimados. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 29 del Real Decreto Legislativo 1/2020, el concurso de acreedores puede clasificarse como:
+1)Concurso voluntario y facultativo
+2)Concurso potestativo y necesario
+3)Concurso voluntario y necesario
+4)Concurso voluntario y obligatorio
+Respuesta: 3
+Correcta: ¡Bien hecho! Los concursos pueden ser voluntarios o necesarios de acuerdo con la ley.
+Errada: Eso no es correcto. Según la ley, los concursos pueden ser voluntarios o necesarios. (Respuesta Correcta 3)
+###
+Pregunta: ¿Existe la posibilidad de apelar las decisiones referentes al nombramiento, rechazo y destitución de administradores concursales y asistentes delegados?
+1)Exacto, a través de un recurso de queja.
+2)Exacto, a través de un recurso de apelación.
+3)Exacto, a través de un recurso de revisión.
+4)Exacto, a través de un recurso de reposición.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las decisiones sobre estos nombramientos pueden ser apeladas mediante un recurso de reposición.
+Errada: Lo siento, esa no es la respuesta correcta. Las decisiones pueden ser apeladas a través de un recurso de reposición. (Respuesta Correcta 4)
+###
+Pregunta: Identifique cuál de las siguientes afirmaciones es falsa. Los acreedores necesitarán representación de un procurador y asesoramiento de un abogado...
+1)Cuando quieran expresar su opinión frente a la administración concursal.
+2)Al pedir la declaración de insolvencia.
+3)Al presentarse en el proceso de insolvencia.
+4)Al presentar recursos.
+Respuesta: 1
+Correcta: ¡Exacto! Los acreedores no requieren representación para ser escuchados por la administración concursal.
+Errada: Lo siento, eso no es correcto. Los acreedores no necesitan representación al querer ser escuchados por la administración concursal. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué tipo de apelación es procedente contra la sentencia que resuelve cuestiones concursales relacionadas con acciones sociales, siendo de competencia del Juez de Concurso?
+1)Recurso de reforma
+2)Recurso de apelación
+3)Recurso de suplicación
+4)Recurso de revisión
+Respuesta: 3
+Correcta: ¡Correcto! En este caso, se puede presentar un recurso de suplicación.
+Errada: Incorrecto. El recurso adecuado en este escenario es el recurso de suplicación. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién tiene la capacidad de impugnar la orden que determina o modifica la compensación de los administradores concursales?
+1)Cualquier administrador concursal, asistentes delegados y quienes pueden pedir la declaración de insolvencia.
+2)Solo quienes pueden solicitar la declaración de insolvencia.
+3)Solo los administradores concursales.
+4)Solo los administradores concursales y aquellos que pueden solicitar la declaración de insolvencia.
+Respuesta: 4
+Correcta: ¡Exactamente! Son los administradores concursales y aquellos legitimados para pedir la declaración de insolvencia quienes pueden impugnar la orden.
+Errada: Lo siento, eso no es correcto. Los administradores concursales y aquellos con legitimidad para pedir la declaración de insolvencia son quienes pueden impugnar. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del proceso de insolvencia, ¿quién decidirá sobre una petición para obtener el permiso judicial pertinente?
+1)El juez, mediante un auto judicial.
+2)El Letrado de la Administración de Justicia, mediante decreto.
+3)El juez, mediante una providencia judicial.
+4)El Letrado de la Administración de Justicia, mediante diligencia.
+Respuesta: 1
+Correcta: ¡Correcto! Es el juez quien decide mediante un auto judicial.
+Errada: Lo siento, eso no es correcto. Es el juez quien decide sobre tales peticiones mediante un auto judicial. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué se incluirá en la sexta sección del proceso de insolvencia?
+1)Asuntos relacionados con recursos contra la sentencia de clasificación de insolvencia.
+2)Asuntos vinculados a la ejecución de la sentencia que clasifica la insolvencia como culpable.
+3)Aspectos relacionados con los efectos de la clasificación de insolvencia.
+4)Asuntos vinculados a la ejecución de la sentencia que clasifica la insolvencia como fortuita.
+Respuesta: 1
+Correcta: ¡Exacto! La sexta sección aborda los recursos contra la sentencia de clasificación de insolvencia.
+Errada: Incorrecto. La sexta sección trata específicamente de recursos contra la sentencia de clasificación de insolvencia. (Respuesta Correcta 1)
+###
+Pregunta: Indique la afirmación incorrecta sobre la compensación de los administradores concursales:
+1)Los administradores concursales solo recibirán las sumas que resulten de la aplicación del arancel.
+2)Tendrán derecho a compensación de la masa activa, excepto en los casos previstos en la Ley Concursal.
+3)En insolvencias donde la masa activa no sea suficiente, se asegurará el pago mínimo determinado por regulación.
+4)La compensación se establecerá según un arancel reglamentario, teniendo en cuenta factores como la clasificación de la insolvencia.
+Respuesta: 4
+Correcta: ¡Correcto! La compensación de los administradores no se establece solo basándose en un arancel reglamentario y la clasificación del concurso.
+Errada: Esa no es la respuesta correcta. La compensación no se determina solamente mediante un arancel que considere la clasificación del concurso. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 82 de la Ley Concursal, ¿quién supervisa a la administración concursal?
+1)El Letrado de la Administración de Justicia.
+2)El juez de insolvencia.
+3)El juez de lo social.
+4)El juez de lo contencioso administrativo.
+Respuesta: 2
+Correcta: ¡Correcto! La administración concursal está bajo la supervisión del juez de insolvencia.
+Errada: Lo siento, eso no es correcto. Es el juez de insolvencia quien supervisa la administración concursal. (Respuesta Correcta 2)
+###
+Pregunta: Si un activo reivindicable fue vendido por el deudor a un tercero de quien no se puede recuperar antes de la declaración de insolvencia, ¿cuáles son las alternativas para el propietario afectado?
+1)Solicitar la transferencia del derecho a la contraprestación si el comprador aún no la ha efectuado.
+2)Ninguna es correcta.
+3)Notificar a la administración concursal el crédito equivalente al valor de los activos en el momento de la venta, más el interés legal.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las alternativas son solicitar la transferencia del derecho a la contraprestación o notificar a la administración concursal el crédito equivalente.
+Errada: Eso no es correcto. El propietario afectado puede solicitar la transferencia del derecho a la contraprestación o notificar a la administración concursal el crédito equivalente al valor de los activos vendidos. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién tiene la capacidad de designar días y horas adicionales para diligencias urgentes en favor del proceso de insolvencia?
+1)El juez.
+2)La administración concursal.
+3)El acreedor.
+4)El Gestor Procesal.
+Respuesta: 1
+Correcta: ¡Correcto! Es el juez quien tiene la autoridad de designar días y horas adicionales para diligencias urgentes.
+Errada: Lo siento, eso no es correcto. El juez es quien tiene la autoridad para establecer días y horas adicionales para diligencias urgentes en favor del proceso de insolvencia. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuáles entidades no pueden ser declaradas en proceso de insolvencia?
+1)Entidades de derecho público.
+2)Organismos públicos.
+3)Entidades que forman la estructura territorial del Estado.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Las entidades de derecho público, los organismos públicos y las entidades que forman la estructura territorial del Estado no pueden ser declaradas en proceso de insolvencia.
+Errada: Incorrecto. Las entidades de derecho público, los organismos públicos y las entidades que forman la estructura territorial del Estado no pueden ser declaradas en proceso de insolvencia. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo se concluye el incidente de insolvencia?
+1)Por medio de una sentencia.
+2)Por medio de un decreto.
+3)Por medio de un auto.
+4)Por medio de una resolución del administrador concursal.
+Respuesta: 1
+Correcta: ¡Bien hecho! El incidente de insolvencia concluye con una sentencia.
+Errada: Eso no es correcto. El incidente de insolvencia se resuelve mediante una sentencia. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 584 del TRLC, ¿cuándo se considerará que existe probabilidad de insolvencia?
+1)Cuando sea objetivamente previsible que, de no alcanzarse un plan de reestructuración, el deudor no podrá cumplir regularmente sus obligaciones que venzan en los próximos tres años.
+2)Cuando sea objetivamente previsible que, de no alcanzarse un plan de reestructuración, el deudor no podrá cumplir regularmente sus obligaciones que venzan en los próximos cinco años.
+3)Cuando sea objetivamente previsible que, de no alcanzarse un plan de reestructuración, el deudor no podrá cumplir regularmente sus obligaciones que venzan en los próximos seis años.
+4)Cuando sea objetivamente previsible que, de no alcanzarse un plan de reestructuración, el deudor no podrá cumplir regularmente sus obligaciones que venzan en los próximos dos años.
+Respuesta: 4
+Correcta: ¡Exacto! La probabilidad de insolvencia se considera cuando es objetivamente previsible que, de no llegar a un acuerdo sobre un plan de reestructuración, el deudor no pueda cumplir con sus obligaciones en los próximos dos años.
+Errada: Lo siento, eso no es correcto. La probabilidad de insolvencia se considera cuando es objetivamente previsible que, de no llegar a un acuerdo sobre un plan de reestructuración, el deudor no pueda cumplir con sus obligaciones en los próximos dos años. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Concursal, ¿cuál de las siguientes acciones prescribe a los 4 años desde que el actor tuviera conocimiento del daño o perjuicio y, en todo caso, desde que los administradores concursales o auxiliares delegados hubieran cesado en su cargo?
+1)Las acciones de responsabilidad por daños y perjuicios causados a la masa activa por los administradores concursales y auxiliares delegados.
+2)Las acciones de responsabilidad de los concursados, acreedores o terceros por actos u omisiones de los administradores concursales y auxiliares delegados que dañen directamente sus intereses.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las acciones que prescriben a los 4 años son las de responsabilidad por daños causados a la masa activa y las acciones de responsabilidad de concursados, acreedores o terceros por actos u omisiones que dañen sus intereses.
+Errada: Eso no es correcto. Las acciones que prescriben a los 4 años son las de responsabilidad por daños causados a la masa activa y las acciones de responsabilidad de concursados, acreedores o terceros por actos u omisiones que dañen sus intereses. (Respuesta Correcta 4)
+###
+Pregunta: Según el Texto Refundido de la Ley Concursal, ¿qué requisitos debe cumplir una persona natural para ser nombrada administrador concursal?
+1)Ser abogado en ejercicio con, al menos, tres años de experiencia profesional efectiva en el ejercicio de la abogacía.
+2)Ser abogado en ejercicio con, al menos, cinco años de experiencia profesional efectiva, o economista, auditor de cuentas o titulado mercantil colegiado, con la misma experiencia.
+3)Ser exclusivamente economista o auditor de cuentas con experiencia demostrable en el ámbito concursal superior a diez años.
+4)Ser Letrado de la Administración de Justicia con categoría de Secretario Coordinador Provincial.
+Respuesta: 2
+Correcta: ¡Correcto! La normativa vigente exige cinco años de experiencia efectiva para abogados, economistas, auditores o titulados mercantiles, junto con formación especializada.
+Errada: Incorrecto. La ley establece que pueden ser administradores concursales los abogados, economistas, auditores o titulados mercantiles con cinco años de experiencia profesional efectiva y formación especializada. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 594 del TRLC, la comunicación de apertura de negociaciones con acreedores:
+1)No tendrá efecto alguno sobre las facultades de administración y disposición de los bienes, pero sí con los derechos del deudor.
+2)No tendrá efecto alguno sobre las facultades de administración, pero sí con la disposición de los bienes y derechos del deudor.
+3)No tendrá efecto alguno sobre las facultades de administración y disposición de los bienes y derechos del deudor.
+4)Tendrá efecto sobre las facultades de administración y disposición de los bienes y derechos del deudor.
+Respuesta: 3
+Correcta: ¡Correcto! La comunicación de apertura de negociaciones no tiene ningún efecto sobre las facultades de administración y disposición del deudor.
+Errada: Eso no es correcto. La comunicación de apertura de negociaciones no afecta las facultades de administración y disposición del patrimonio del deudor. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo al artículo 584 del TRLC, ¿en qué circunstancias se entiende que hay una posible insolvencia?
+1)Es evidente que, al no concretarse un plan de reestructuración, el deudor incumplirá sus compromisos en los siguientes cuatro años.
+2)Es evidente que, al no concretarse un plan de reestructuración, el deudor incumplirá sus compromisos en los siguientes tres años.
+3)Es evidente que, al no concretarse un plan de reestructuración, el deudor incumplirá sus compromisos en el siguiente año.
+4)Es evidente que, al no concretarse un plan de reestructuración, el deudor incumplirá sus compromisos en los siguientes dos años.
+Respuesta: 4
+Correcta: ¡Correcto! La probabilidad de insolvencia se considera cuando no se llegue a un plan de reestructuración y el deudor no pueda atender sus compromisos en los próximos dos años.
+Errada: Lo siento, eso no es correcto. La respuesta correcta es la opción 4. (Respuesta Correcta 4)
+###
+Pregunta: Basándose en la Ley Concursal, ¿qué acciones caducan a los 4 años desde que el interesado conozca el daño o perjuicio reclamado y, en todo caso, desde la salida de los administradores concursales o auxiliares?
+1)Acciones de responsabilidad por perjuicios a la masa activa ocasionados por los administradores concursales y auxiliares.
+2)Acciones de responsabilidad pertenecientes al concursado, acreedores o terceros por acciones o negligencias de los administradores concursales y auxiliares que dañen directamente sus intereses.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las acciones que prescriben son las detalladas en las opciones 1 y 2.
+Errada: Esa no es la respuesta adecuada. Las opciones 1 y 2 son las correctas. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Concursal, cuando se acepta una apelación, ¿en qué orden debe revisar la Audiencia Provincial la decisión del juez sobre la pausa de acciones?
+1)Dos días después de estudiar el núcleo del recurso.
+2)Un día después de estudiar el núcleo del recurso.
+3)Antes de analizar el núcleo del recurso.
+4)Tres días después de estudiar el núcleo del recurso.
+Respuesta: 3
+Correcta: ¡Exacto! La revisión sobre la pausa de acciones se realiza antes de abordar el núcleo del recurso.
+Errada: Lo siento, esa no es la respuesta adecuada. La correcta es que se debe revisar antes de analizar el núcleo del recurso. (Respuesta Correcta 3)
+###
+Pregunta: Durante el preconcurso, ¿durante cuánto tiempo los acreedores no pueden empezar ejecuciones extrajudiciales sobre derechos esenciales para continuar la actividad profesional del deudor?
+1)Seis meses desde el aviso de inicio de negociaciones con acreedores.
+2)Tres meses desde el aviso de inicio de negociaciones con acreedores.
+3)Dos meses desde el aviso de inicio de negociaciones con acreedores.
+4)Cinco meses desde el aviso de inicio de negociaciones con acreedores.
+Respuesta: 2
+Correcta: ¡Correcto! Los acreedores no pueden iniciar ejecuciones extrajudiciales por tres meses desde el aviso de inicio de negociaciones.
+Errada: Esa no es la respuesta adecuada. La correcta es que deben esperar tres meses desde el aviso de inicio de negociaciones con acreedores. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 594 del TRLC, al comunicar el inicio de diálogos con los acreedores:
+1)No se detendrá la ejecución de las garantías personales o reales otorgadas por la empresa endeudada.
+2)Sí influirá en las capacidades de gestión y disposición de activos y derechos del deudor.
+3)No influirá en las capacidades de gestión y disposición de activos y derechos del deudor.
+4)Sí se detendrá la ejecución de las garantías personales o reales otorgadas por la empresa endeudada.
+Respuesta: 3
+Correcta: ¡Bien hecho! La comunicación no tiene influencia en las capacidades de gestión ni previene al acreedor con garantía personal de ejecutarla.
+Errada: Esa no es la respuesta correcta. La comunicación no afecta las capacidades de gestión y no evita que un acreedor ejecute su garantía personal. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la LOPJ, la jurisdicción del juez del concurso es exclusiva y excluyente para conocer de las acciones sociales que tengan por objeto, entre otras:
+1)Las vacaciones del personal de alta dirección.
+2)La modificación sustancial de las condiciones de trabajo, el traslado, el despido, la suspensión de contratos y la reducción de jornada por causas económicas, técnicas, organizativas o de producción, que tengan carácter colectivo.
+3)El despido individual de un trabajador por causas disciplinarias.
+4)La reclamación de cantidad de un trabajador si el importe es inferior a 6.000 euros.
+Respuesta: 2
+Correcta: ¡Correcto! La jurisdicción del juez del concurso es exclusiva y excluyente para conocer de las medidas colectivas laborales por causas económicas, técnicas, organizativas o de producción.
+Errada: Incorrecto. La jurisdicción del juez del concurso se extiende a las acciones sociales de carácter colectivo (modificaciones sustanciales, traslados, despidos, etc.) por causas económicas, técnicas, organizativas o de producción. (Respuesta Correcta 2)
+###
+Pregunta: Teniendo presente la Ley Concursal sobre auxiliares delegados, elija la opción correcta:
+1)La administración concursal puede pedir al juez nombrar uno o más auxiliares delegados si el concurso es complejo.
+2)Las tareas delegadas al auxiliar pueden incluir la continuación total o parcial de la actividad del deudor.
+3)Al pedir el nombramiento de un auxiliar delegado, la administración concursal definirá las tareas a delegar.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Perfecto! Todas las afirmaciones son correctas de acuerdo con la Ley Concursal.
+Errada: Esa opción no es completamente correcta. De acuerdo con la Ley Concursal, todas las afirmaciones son verdaderas. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 541 del TRLC, ¿qué acciones se resolverán mediante el procedimiento del incidente concursal en materia laboral?
+1)Las que los trabajadores o el Fondo de Garantía Salarial interpongan contra el auto que determine la modificación sustancial de las condiciones de trabajo de carácter colectivo.
+2)Las que los trabajadores o el Fondo de Garantía Salarial interpongan contra el auto que decida sobre el traslado de carácter colectivo.
+3)Las acciones de los trabajadores con la condición de personal de alta dirección contra la decisión de la administración concursal de extinguir o suspender los contratos suscritos por el concursado con ellos.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 541 del TRLC contempla todas esas situaciones.
+Errada: Esa no es la respuesta correcta. El artículo 541 del TRLC abarca todas las situaciones mencionadas. (Respuesta Correcta 4)
+###
+Pregunta: Si un administrador concursal cesa, ¿cuándo debe el juez realizar un nuevo nombramiento?
+1)Dentro del día siguiente al cese.
+2)Dentro de los dos días después del cese.
+3)Dentro de los tres días después del cese.
+4)De inmediato.
+Respuesta: 4
+Correcta: ¡Correcto! El juez debe actuar de inmediato para asegurar la continuidad del proceso.
+Errada: Esa no es la respuesta correcta. El juez debe actuar de inmediato ante el cese de un administrador concursal. (Respuesta Correcta 4)
+###
+Pregunta: Para el incidente concursal en materia laboral, ¿cuándo deben los trabajadores presentar la demanda?
+1)Dentro de 30 días desde que tuvieron conocimiento o pudieron tenerlo de la resolución judicial.
+2)Dentro de 1 mes desde que tuvieron conocimiento o pudieron tenerlo de la resolución judicial.
+3)Dentro de 31 días desde que tuvieron conocimiento o pudieron tenerlo de la resolución judicial.
+4)Dentro de 15 días desde que tuvieron conocimiento o pudieron tenerlo de la resolución judicial.
+Respuesta: 2
+Correcta: ¡Exacto! Los trabajadores tienen un mes desde que conocen o pudieron conocer la resolución para presentar la demanda.
+Errada: Esa no es la respuesta adecuada. Los trabajadores tienen un mes desde que tuvieron conocimiento o pudieron tenerlo de la resolución para presentar su demanda. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 74 de la Ley Concursal, ¿cómo se tramitará la recusación de los administradores concursales?
+1)Mediante el juicio verbal, según la LEC.
+2)Mediante el juicio ordinario, según la LEC.
+3)Mediante el trámite del incidente concursal.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! La recusación se tramita mediante el incidente concursal.
+Errada: Esa no es la respuesta correcta. La recusación de los administradores concursales se tramita a través del incidente concursal. (Respuesta Correcta 3)
+###
+Pregunta: Los recursos de apelación interpuestos contra las sentencias y, en su caso, contra los autos del juez del concurso, ¿cómo se tramitarán?
+1)Con carácter preferente.
+2)Con carácter simplificado.
+3)Con carácter ordinario.
+4)Con carácter sumario.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los recursos de apelación se tramitan con carácter preferente.
+Errada: Esa no es la respuesta correcta. Los recursos de apelación contra las decisiones del juez del concurso se tramitan con carácter preferente. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de las siguientes opciones NO es una restricción establecida por la Ley Concursal para el nombramiento de administradores concursales?
+1)Si alguien fue designado experto durante la negociación de un plan de reestructuración, no podrá ser administrador concursal, salvo que haya suficientes candidatos en la lista de registrados.
+2)Si alguien fue designado experto durante la negociación de un plan de reestructuración, no podrá ser administrador concursal, siempre que haya suficientes candidatos en la lista de registrados.
+3)Quien tenga una relación especial con alguien que haya ofrecido servicios profesionales al deudor o a personas cercanas a este en los tres años anteriores no será nombrado administrador concursal.
+4)Si alguien fue designado experto durante la negociación de un plan de reestructuración, podrá ser administrador concursal, siempre que haya suficientes candidatos en la lista de registrados.
+Respuesta: 2
+Correcta: ¡Exacto! La designación de un experto en una reestructuración previa no es automáticamente una restricción para ser nombrado administrador concursal.
+Errada: La opción seleccionada no es la correcta. Revise las prohibiciones en la Ley Concursal. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso concursal, ¿qué se puede interponer contra el auto emitido por la Audiencia Provincial relativo a la suspensión de procedimientos o demora en la eficacia del acuerdo?
+1)Recurso de reforma.
+2)Recurso de queja.
+3)Recurso de revisión.
+4)No se permite interponer ningún recurso.
+Respuesta: 4
+Correcta: ¡Correcto! No se permite recurrir contra dicho auto.
+Errada: Lo siento, pero esa no es la opción correcta. No se puede presentar recurso contra ese auto. (Respuesta Correcta 4)
+###
+Pregunta: Cuando el juez recibe la solicitud de ratificación del plan de reestructuración y se considera competente, emitirá...
+1)Una notificación para admitirla.
+2)Una providencia para admitirla.
+3)Un auto para admitirla.
+4)Una diligencia para admitirla.
+Respuesta: 2
+Correcta: ¡Bien hecho! El juez emitirá una providencia para admitir la solicitud.
+Errada: Desafortunadamente, esa no es la respuesta correcta. El juez emite una providencia. (Respuesta Correcta 2)
+###
+Pregunta: Indique la opción que NO es correcta en cuanto al cálculo de los créditos al determinar la masa pasiva del proceso:
+1)Todos los créditos admitidos se valorarán en efectivo y en la moneda oficial, sin alterar su naturaleza.
+2)Los créditos vinculados a bienes distintos al efectivo se calcularán según el valor de esos bienes.
+3)Los créditos relacionados con prestaciones no monetarias futuras se valorarán según su valor al inicio del proceso concursal.
+4)Los créditos en moneda extranjera se convertirán a la moneda oficial según el tipo de cambio del día de la declaración concursal.
+Respuesta: 3
+Correcta: ¡Correcto! Las prestaciones no monetarias futuras no se evalúan a su valor al inicio del proceso concursal.
+Errada: Esa no es la opción correcta. Las prestaciones no monetarias futuras no se valoran en la fecha de apertura. (Respuesta Correcta 3)
+###
+Pregunta: ¿En cuál de las siguientes circunstancias un acreedor NO puede fundamentar su solicitud de concurso?
+1)Si el deudor suspende la mayoría de sus pagos corrientes.
+2)Si el deudor no paga las cuotas de la Seguridad Social o otros conceptos similares.
+3)Si el deudor vende o liquida sus activos de forma desventajosa.
+4)Si prevé pérdidas sustanciales que le impiden pagar a los trabajadores y a los proveedores.
+Respuesta: 2
+Correcta: ¡Exacto! El simple impago de las cuotas de la Seguridad Social no es motivo suficiente para solicitar un concurso.
+Errada: Lo siento, pero esa no es la opción correcta. El impago de cuotas de la Seguridad Social no es una base suficiente para la solicitud. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué acción se tomará si en un incidente concursal se combinan demandas con solicitudes divergentes?
+1)Las partes involucradas deberán responder a las demandas a las que se opongan, si el tiempo de su participación lo permite, y especificar detalladamente la protección específica que buscan.
+2)Se notificará a las demás partes presentes, entregándoles una copia de las demandas, para que respondan en un plazo uniforme de 10 días.
+3)Se notificará a las demás partes presentes, entregándoles una copia de las demandas, para que respondan en un plazo uniforme de 20 días.
+4)Se notificará a las demás partes presentes, entregándoles una copia de las demandas, para que respondan en un plazo uniforme de 30 días.
+Respuesta: 1
+Correcta: ¡Exacto! Las partes deben responder a las demandas contrarias y clarificar la protección que buscan.
+Errada: Lo siento, pero esa no es la opción correcta. Las partes deben clarificar la protección específica que solicitan. (Respuesta Correcta 1)
+###
+Pregunta: Indique la opción incorrecta. No serán designados administradores concursales:
+1)Aquellos que tengan una relación especial con alguien que haya ofrecido servicios profesionales al deudor o sus asociados cercanos en los tres años anteriores.
+2)Aquellos que hayan proporcionado cualquier servicio profesional al deudor o sus asociados cercanos en los últimos cuatro años, incluso si compartieron actividades profesionales con ellos durante ese tiempo.
+3)Quienes estén impedidos para ser administradores de sociedades anónimas o de responsabilidad limitada.
+4)Aquellos que, independientemente de su rol o profesión, estén en una situación de incompatibilidad según la legislación de auditoría, en relación con el deudor, sus directivos o acreedores que representen más del 10% de la masa pasiva.
+Respuesta: 2
+Correcta: ¡Bien hecho! Los servicios profesionales prestados en un período de cuatro años no son automáticamente una restricción.
+Errada: Esa opción no es la incorrecta. La restricción no se refiere a un período de cuatro años. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué tipo de resolución judicial se emitirá para abordar los asuntos relacionados con el desempeño del administrador concursal?
+1)Auto, con opción a recurso
+2)Sentencia, sin opción a recurso.
+3)Auto, sin opción a recurso
+4)Sentencia, con opción a recurso.
+Respuesta: 3
+Correcta: ¡Correcto! Se emitirá un auto sin posibilidad de recurso.
+Errada: Esa no es la respuesta correcta. La resolución se da en forma de auto sin opción a recurso. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley Concursal consolidada, ¿en qué sección del procedimiento concursal se presentará por separado el informe del administrador concursal junto con los documentos relevantes?
+1)Sección tercera.
+2)Sección primera.
+3)Sección segunda.
+4)Sección quinta.
+Respuesta: 3
+Correcta: ¡Exacto! El informe se presenta en la sección segunda.
+Errada: Lo siento, esa no es la opción correcta. El informe se incluye en la sección segunda. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley Concursal, ¿qué se puede interponer contra las sentencias de las Audiencias Provinciales sobre la calificación o finalización del concurso?
+1)Recurso extraordinario por violación procesal.
+2)Recurso de apelación.
+3)Recurso de casación ordinario.
+4)Recurso de casación y extraordinario por violación procesal.
+Respuesta: 4
+Correcta: ¡Correcto! Puedes interponer tanto un recurso de casación como un recurso extraordinario por infracción procesal.
+Errada: Esa no es la respuesta correcta. Los recursos aplicables son el de casación y el extraordinario por infracción procesal. (Respuesta Correcta 4)
+###
+Pregunta: Un acreedor puede pedir una declaración judicial conjunta de concurso para varios deudores en las siguientes circunstancias:
+1)Ninguna es correcta.
+2)Si son esposos.
+3)Si hay un entrelazamiento de sus activos.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Un acreedor puede solicitarlo cuando los deudores son esposos o si existe una mezcla de sus activos.
+Errada: Lo siento, esa no es la opción correcta. La declaración conjunta es aplicable si los deudores son esposos o si hay confusión en sus activos. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué recurso es admisible contra las decisiones tomadas por el juez concursal?
+1)Recurso de apelación.
+2)Recurso de casación.
+3)Recurso de reposición.
+4)Recurso de queja.
+Respuesta: 1
+Correcta: ¡Correcto! Las sentencias del juez concursal pueden ser apeladas.
+Errada: Esa no es la respuesta correcta. Las decisiones del juez concursal se pueden apelar. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cómo se definen los planes de reestructuración?
+1)Son aquellos que buscan alterar la composición, términos, o la estructura de los activos y pasivos del deudor, o de su capital.
+2)Son aquellos que buscan alterar la composición, términos, o la estructura de los activos del deudor, o de su capital.
+3)Son aquellos que buscan mantener la composición, términos, o la estructura de los activos y pasivos del deudor, o de su capital.
+4)Son aquellos que buscan alterar la composición, términos, o la estructura de los pasivos del deudor, y de su capital.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los planes de reestructuración se enfocan en la modificación de la estructura financiera del deudor.
+Errada: Esa no es la respuesta correcta. Los planes de reestructuración tratan sobre la estructura financiera del deudor. (Respuesta Correcta 1)
+###
+Pregunta: Elija la afirmación verdadera sobre las acciones procesales del procedimiento especial para pequeñas empresas en la Ley Concursal:
+1)Las comparecencias se llevarán a cabo de forma virtual.
+2)En términos generales, todas las acciones procesales en el procedimiento especial se harán telemáticamente.
+3)Las comunicaciones se realizarán electrónicamente, utilizando los formularios estandarizados que la ley requiera.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El procedimiento especial para microempresas en la Ley Concursal permite la ejecución de acciones procesales de manera telemática.
+Errada: Esa no es la opción correcta. El procedimiento especial para microempresas facilita acciones procesales a través de medios telemáticos. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 647 del TRLC, ¿cuáles serán las consecuencias del auto de homologación del plan de reestructuración?
+1)Se paralizarán los otros procedimientos de ejecución en curso.
+2)Se levantará la pausa en los procedimientos de ejecución de créditos no cubiertos por el plan de reestructuración.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El auto de homologación tiene efectos tanto en la paralización como en el levantamiento de diferentes procedimientos de ejecución.
+Errada: Esa no es la respuesta adecuada. Debes revisar el artículo 647 del TRLC para entender completamente sus efectos. (Respuesta Correcta 4)
+###
+Pregunta: Una vez aceptada la posición de administrador concursal:
+1)La persona nombrada solo puede renunciar por un motivo grave o si ha perdido las cualificaciones necesarias para el puesto antes de haberlo aceptado.
+2)La persona nombrada solo puede renunciar por un motivo grave y si ha perdido las cualificaciones necesarias para el puesto después de haberlo aceptado.
+3)La persona nombrada solo puede renunciar por un motivo grave o si ha perdido las cualificaciones necesarias para el puesto después de haberlo aceptado.
+4)La persona nombrada no puede renunciar por un motivo grave o si ha perdido las cualificaciones necesarias para el puesto después de haberlo aceptado.
+Respuesta: 3
+Correcta: ¡Exacto! El administrador concursal solo puede renunciar en circunstancias graves o si pierde las cualificaciones.
+Errada: Lo siento, esa respuesta no es correcta. Es importante recordar las condiciones bajo las cuales un administrador concursal puede renunciar. (Respuesta Correcta 3)
+###
+Pregunta: Cualquier microempresa puede informar al tribunal competente sobre la apertura de negociaciones con acreedores para un plan de continuidad o una liquidación con la transferencia de la empresa operativa en un proceso especial, siempre que esté en:
+1)Riesgo de insolvencia y insolvencia inminente.
+2)Riesgo de insolvencia y insolvencia actual.
+3)Riesgo de insolvencia, insolvencia inminente o insolvencia actual.
+4)Insolvencia inminente o insolvencia actual.
+Respuesta: 2
+Correcta: ¡Bien hecho! Una microempresa puede estar en cualquier fase de insolvencia para comenzar este proceso.
+Errada: Esa no es la respuesta correcta. Las microempresas pueden comunicar al juzgado en varias fases de insolvencia. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LOPJ, la jurisdicción del juez del concurso es exclusiva y excluyente para conocer de las acciones sociales que tengan por objeto, entre otras:
+1)Las vacaciones del personal de alta dirección.
+2)La modificación sustancial de las condiciones de trabajo, el traslado, el despido, la suspensión de contratos y la reducción de jornada por causas económicas, técnicas, organizativas o de producción, que tengan carácter colectivo.
+3)El despido individual de un trabajador por causas disciplinarias.
+4)La reclamación de cantidad de un trabajador si el importe es inferior a 6.000 euros.
+Respuesta: 2
+Correcta: ¡Correcto! La jurisdicción del juez del concurso es exclusiva y excluyente para conocer de las medidas colectivas laborales por causas económicas, técnicas, organizativas o de producción.
+Errada: Incorrecto. La jurisdicción del juez del concurso se extiende a las acciones sociales de carácter colectivo (modificaciones sustanciales, traslados, despidos, etc.) por causas económicas, técnicas, organizativas o de producción. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el artículo 535 del TRLC, ¿de qué manera se gestionará el incidente concursal?
+1)Siguiendo lo estipulado en la LEC para el procedimiento ordinario con las particularidades del TRLC.
+2)Ninguna es correcta.
+3)Siguiendo lo estipulado en la LEC para el procedimiento verbal con las particularidades del TRLC.
+4)Siguiendo lo estipulado en la TRLC.
+Respuesta: 3
+Correcta: ¡Perfecto! Has identificado correctamente la forma de gestionar el incidente concursal según el artículo 535 del TRLC.
+Errada: Esa no es la respuesta correcta. Revisa el artículo 535 del TRLC para clarificar la gestión del incidente concursal. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuáles de los actos del procedimiento especial para microempresas se efectuarán vía telemática?
+1)Las comparecencias.
+2)Las declaraciones.
+3)Las audiencias.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Todos estos actos procesales se llevarán a cabo de manera telemática.
+Errada: Esa respuesta no es acertada. Todos los actos listados se realizan de manera telemática. (Respuesta Correcta 4)
+###
+Pregunta: Basándose en el artículo 68 de la Ley Concursal, indique la afirmación correcta sobre el administrador concursal:
+1)El Letrado de la Administración de Justicia proporcionará inmediatamente un documento acreditativo de la condición de administrador concursal al designado, al aceptar el cargo.
+2)El Letrado de la Administración de Justicia proporcionará inmediatamente un documento acreditativo de la condición de administrador concursal al designado, al empezar el cargo.
+3)El Letrado de la Administración de Justicia proporcionará inmediatamente un documento acreditativo de la condición de administrador concursal al designado, al terminar el cargo.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia proporciona el documento al momento de la aceptación.
+Errada: Esa no es la opción adecuada. Es fundamental entender las responsabilidades al aceptar el cargo. (Respuesta Correcta 1)
+###
+Pregunta: Basado en el artículo 69 de la Ley Concursal, ¿en qué situación el juez no efectuará un nombramiento inmediato?
+1)Si al administrador designado le afecta alguna de las incompatibilidades del artículo 62 de la Ley Concursal.
+2)Si al administrador designado le afecta alguna de las incompatibilidades del artículo 63 de la Ley Concursal.
+3)Si al administrador designado le afecta alguna de las incompatibilidades del artículo 64 de la Ley Concursal.
+4)Si al administrador designado le afecta alguna de las incompatibilidades del artículo 65 de la Ley Concursal.
+Respuesta: 4
+Correcta: ¡Correcto! El juez no realizará un nuevo nombramiento si se dan incompatibilidades según el artículo 64.
+Errada: Esa respuesta es incorrecta. El foco está en las incompatibilidades del artículo 64. (Respuesta Correcta 4)
+###
+Pregunta: En el marco de la Ley 20/2011, de 21 de julio, del Registro Civil, ¿qué recurso cabe contra las resoluciones del Encargado del Registro Civil que finalizan el procedimiento?
+1)Recurso ante la Dirección General de Seguridad Jurídica y Fe Pública.
+2)Recurso de alzada ante el Tribunal Superior de Justicia.
+3)Recurso de reposición ante el mismo Encargado.
+4)No cabe recurso alguno en vía administrativa.
+Respuesta: 1
+Correcta: ¡Correcto! Contra las resoluciones de los Encargados del Registro Civil que pongan fin al procedimiento cabe recurso ante la Dirección General de Seguridad Jurídica y Fe Pública.
+Errada: Incorrecto. La Ley 20/2011 establece un régimen de recursos específico, siendo competente la Dirección General de Seguridad Jurídica y Fe Pública para resolver los recursos contra las decisiones de los Encargados. (Respuesta Correcta 1)
+###
+Pregunta: Indique la afirmación incorrecta. ¿Quién tiene la potestad de solicitar la apertura de la fase de liquidación?
+1)De oficio el juez.
+2)La administración concursal.
+3)El deudor.
+4)Los acreedores, si sus créditos exceden una quinta parte del total de deudas.
+Respuesta: 4
+Correcta: ¡Exacto! Los acreedores no pueden solicitar la apertura de la fase de liquidación basados solo en esa condición.
+Errada: Lo siento, esa respuesta no es correcta. Es crucial conocer quién puede solicitar esta fase. (Respuesta Correcta 4)
+###
+Pregunta: Si el periodo para comunicar los créditos finaliza tras el plazo legal destinado a la presentación del informe del administrador concursal, este plazo se extenderá automáticamente:
+1)Hasta tres días después de finalizar el periodo para comunicar los créditos
+2)Hasta cinco días después de finalizar el periodo para comunicar los créditos
+3)Hasta cinco días después de finalizar el periodo para comunicar los créditos
+4)Hasta siete días después de finalizar el periodo para comunicar los créditos
+Respuesta: 2
+Correcta: ¡Correcto! El plazo se prorroga automáticamente cinco días tras el fin del periodo para la comunicación de créditos.
+Errada: Lamentablemente, esa no es la respuesta correcta. Es importante entender cómo se manejan las prórrogas en relación a los plazos. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo al artículo 294 de la Ley Concursal, identifique la afirmación correcta respecto a la divulgación de la entrega del informe del administrador concursal:
+1)El juez, ya sea por su propia iniciativa o por solicitud, no puede decidir realizar cualquier divulgación adicional que considere esencial, ya sea en medios oficiales o privados.
+2)El juez, por solicitud, no puede decidir realizar cualquier divulgación adicional que considere esencial, ya sea en medios oficiales o privados.
+3)El juez, por su propia iniciativa, debe decidir realizar cualquier divulgación adicional que considere esencial, ya sea en medios oficiales o privados.
+4)El juez, ya sea por su propia iniciativa o por solicitud, puede decidir realizar cualquier divulgación adicional que considere esencial, ya sea en medios oficiales o privados.
+Respuesta: 4
+Correcta: ¡Bien hecho! Es fundamental que el juez pueda decidir realizar divulgaciones adicionales cuando lo considere necesario.
+Errada: Lo siento, esa respuesta no es correcta. La divulgación puede ser esencial en ciertas circunstancias y el juez tiene la capacidad de decidir sobre ello. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley Concursal, ¿cómo se establece la responsabilidad de los administradores concursales por los actos dañinos u omisiones de los auxiliares delegados?
+1)Conjuntamente con los auxiliares judiciales, siempre que no hayan demostrado haber tomado todas las medidas necesarias para prevenir o remediar el daño.
+2)Conjuntamente con los Letrados de la Administración de Justicia, siempre que no hayan demostrado haber tomado todas las medidas necesarias para prevenir o remediar el daño.
+3)Conjuntamente con los auxiliares delegados, salvo que no hayan demostrado haber tomado todas las medidas necesarias para prevenir o remediar el daño.
+4)Conjuntamente con los auxiliares delegados, siempre que no hayan demostrado haber tomado todas las medidas necesarias para prevenir o remediar el daño.
+Respuesta: 3
+Correcta: ¡Exacto! Los administradores concursales y auxiliares delegados comparten responsabilidad a menos que se demuestre diligencia.
+Errada: Esa no es la respuesta correcta. Es importante conocer cómo se reparte la responsabilidad en el marco de la Ley Concursal. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto concursal, ¿qué recurso es apropiado contra la decisión que rechace una solicitud de autorización judicial?
+1)Recurso de revisión.
+2)Recurso de reforma.
+3)Recurso de queja.
+4)Recurso de infracción procesal.
+Respuesta: 1
+Correcta: ¡Correcto! El recurso adecuado en este contexto es el de revisión.
+Errada: Lo siento, esa respuesta no es correcta. Es vital conocer los recursos legales adecuados en un proceso concursal. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 539 del TRLC referente al incidente concursal:
+1)Las evidencias deben presentarse en las alegaciones escritas.
+2)Las evidencias deben presentarse en el escrito inicial.
+3)Las evidencias deben presentarse en las alegaciones orales.
+4)Las evidencias deben presentarse en el escrito final.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las pruebas se presentan en las alegaciones escritas en el incidente concursal.
+Errada: Esa no es la correcta. Es crucial entender el momento adecuado para proponer pruebas en el proceso. (Respuesta Correcta 1)
+###
+Pregunta: Las medidas restrictivas de derechos del artículo 68 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, deberán adoptarse mediante auto motivado:
+1)No siendo necesaria la intervención del Ministerio Fiscal y debiendo respetar los principios de legalidad y tutela judicial efectiva.
+2)En todo caso, con intervención del Ministerio Fiscal y respeto de los principios de contradicción, audiencia y defensa.
+3)En todo caso, con intervención del Ministerio Fiscal y respeto de los principios acusatorio, de legalidad y proporcionalidad.
+4)No siendo necesaria en determinados casos la intervención del Ministerio Fiscal y debiendo respetar los principios de contradicción y tutela judicial efectiva.
+Respuesta: 2
+Correcta: ¡Correcto! La adopción de estas medidas requiere siempre un auto motivado, la intervención del Ministerio Fiscal y el respeto a los principios de contradicción, audiencia y defensa.
+Errada: Incorrecto. La Ley Orgánica 1/2025 no ha modificado este requisito; la adopción de estas medidas cautelares sigue exigiendo auto motivado, intervención fiscal y el respeto de plenas garantías procesales. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Concursal, el administrador concursal enviará el informe y los documentos relacionados por correo electrónico al deudor, a quienes hayan comunicado sus créditos y de quienes tenga registro de dirección electrónica, ya sean o no parte de la lista de acreedores, así como a aquellos que estén involucrados en el concurso, aunque no sean acreedores:
+1)Dos días después de presentar el informe.
+2)Tres días después de presentar el informe.
+3)El mismo día en que se presenta el informe.
+4)Dos días antes de presentar el informe.
+Respuesta: 3
+Correcta: ¡Acertaste! La administración concursal debe enviar los documentos el mismo día que presenta el informe.
+Errada: Desafortunadamente, esa no es la respuesta correcta. Es esencial conocer los plazos establecidos en la Ley Concursal. (Respuesta Correcta 3)
+###
+Pregunta: Con base en lo dictado por la Ley Concursal, indique cuál es la afirmación correcta respecto a la renuncia una vez aceptado el cargo de administrador concursal:
+1)Una vez nombrado, ya no se puede renunciar debido a un motivo de peso o por pérdida imprevista de las condiciones para ejercer el cargo.
+2)Tanto la Administración pública acreedora como la entidad acreedora dependiente o vinculada que hayan sido designadas como segundas administradoras concursales pueden renunciar en cualquier momento.
+3)Una vez nombrado, solo se puede renunciar debido a un motivo de peso o por pérdida imprevista de las condiciones para ejercer el cargo.
+4)Dos son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Es fundamental entender las circunstancias bajo las cuales se puede renunciar al cargo de administrador concursal según la Ley.
+Errada: La respuesta elegida no es la correcta. La Ley Concursal establece condiciones específicas para la renuncia al cargo de administrador concursal. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué circunstancia se da por aprobado el plan de reestructuración?
+1)Cuando menos de dos tercios del importe del pasivo pertinente a la clase de créditos afectados haya votado a favor.
+2)Cuando más de dos quintos del importe del pasivo pertinente a la clase de créditos afectados haya votado a favor.
+3)Cuando más de dos tercios del importe del pasivo pertinente a la clase de créditos afectados haya votado a favor.
+4)Cuando menos de dos quintos del importe del pasivo pertinente a la clase de créditos afectados haya votado a favor.
+Respuesta: 3
+Correcta: ¡Acertaste! El plan de reestructuración se aprueba cuando más de dos tercios del importe del pasivo de la clase afectada ha votado a favor.
+Errada: Esa no es la respuesta adecuada. La aprobación del plan de reestructuración requiere un porcentaje específico de aprobación según la Ley Concursal. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a los recursos de apelación contra las decisiones tomadas por el juez del concurso:
+1)Deben ser resueltos en un plazo máximo de tres meses después de que la Audiencia Provincial reciba los documentos relevantes.
+2)Deben ser resueltos en un plazo máximo de cuatro meses después de que la Audiencia Provincial reciba los documentos relevantes.
+3)Deben ser resueltos en un plazo máximo de dos meses después de que la Audiencia Provincial reciba los documentos relevantes.
+4)Deben ser resueltos en un plazo máximo de cinco meses después de que la Audiencia Provincial reciba los documentos relevantes.
+Respuesta: 3
+Correcta: ¡Correcto! La resolución de los recursos de apelación tiene un plazo específico según lo establecido por la ley.
+Errada: Lo siento, esa no es la respuesta correcta. Los plazos legales son cruciales en el proceso concursal y deben ser observados correctamente. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién tiene la autoridad para solicitar la apertura del procedimiento especial destinado a microempresas?
+1)el auxiliar delegado.
+2)El deudor, si se percibe una probable insolvencia
+3)El administrador del concurso.
+4)El experto en plan de restructuraciones.
+Respuesta: 2
+Correcta: ¡Bien hecho! El deudor tiene la capacidad de solicitar la apertura del procedimiento especial si anticipa una insolvencia.
+Errada: Esa no es la respuesta correcta. Es esencial conocer quién tiene la autoridad para solicitar procedimientos específicos en el ámbito concursal. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 606 del TRLC, ¿cómo aplica la prohibición de iniciar ejecuciones o la suspensión de las ya comenzadas?
+1)No aplica en absoluto a las reclamaciones de créditos que legalmente no puedan ser afectados por el plan de reestructuración
+2)No aplica en absoluto a las reclamaciones de créditos que legalmente no puedan ser afectados por el plan de liquidación.
+3)Aplica a las reclamaciones de créditos que legalmente no puedan ser afectados por el plan de reestructuración
+4)Aplica a las reclamaciones de créditos que legalmente no puedan ser afectados por el plan de liquidación.
+Respuesta: 1
+Correcta: ¡Correcto! Es importante entender cuáles créditos están excluidos de la prohibición de iniciar ejecuciones o la suspensión de las ya iniciadas en un contexto concursal.
+Errada: La respuesta seleccionada no es correcta. La prohibición de iniciar ejecuciones o la suspensión de las ya iniciadas tiene excepciones claras según el TRLC. (Respuesta Correcta 1)
+###
+Pregunta: Indique la opción incorrecta sobre las decisiones del juez en el procedimiento especial para microempresas:
+1)El juez puede emitir una decisión oralmente al concluir la vista, a menos que se indique lo contrario.
+2)No se admitirán recursos contra los autos y sentencias, a menos que la ley disponga lo contrario.
+3)Cuando una sentencia pueda ser apelada, las partes recibirán una copia de la grabación original o acceso electrónico a esta.
+4)La sentencia será documentada usando un medio audiovisual adecuado para grabar y reproducir imagen y sonido.
+Respuesta: 3
+Correcta: ¡Correcto! Esa opción es la que no está en conformidad con las disposiciones reguladoras del procedimiento especial para microempresas.
+Errada: La opción elegida no es correcta. Es crucial revisar y entender las regulaciones específicas aplicables al procedimiento especial para microempresas. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuándo no se permitirán las solicitudes para el procedimiento especial de microempresas presentadas por partes distintas al deudor?
+1)Durante el periodo de negociaciones y hasta dos meses después de la comunicación.
+2)Durante el periodo de negociaciones y hasta cuatro meses después de la comunicación.
+3)Durante el periodo de negociaciones y hasta tres meses después de la comunicación.
+4)Durante el periodo de negociaciones y hasta seis meses después de la comunicación.
+Respuesta: 3
+Correcta: ¡Bien hecho! Es esencial reconocer los plazos dentro de los cuales las partes diferentes del deudor no pueden presentar solicitudes en el procedimiento especial para microempresas.
+Errada: La respuesta seleccionada no es correcta. Comprender los plazos específicos dentro de los cuales ciertas acciones pueden ser tomadas es crucial en el proceso concursal. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley Concursal, elige la afirmación correcta acerca de cómo debe actuar la administración concursal en incidentes o recursos:
+1)Deben intervenir asistidos por un abogado.
+2)Deben intervenir asistidos por un procurador.
+3)Deben intervenir asistidos por el administrador concursal.
+4)Aunque el administrador concursal o el auxiliar delegado sean abogados, deben estar asistidos por otro abogado.
+Respuesta: 1
+Correcta: ¡Exacto! Es imperativo que la administración concursal esté adecuadamente asistida durante los procedimientos legales, conforme a la Ley Concursal.
+Errada: La respuesta elegida no es precisa. La Ley Concursal prescribe cómo debe actuar la administración concursal durante los incidentes o recursos. (Respuesta Correcta 1)
+###
+Pregunta: Elija la opción incorrecta en relación con la reactivación de un concurso finalizado para un deudor que es una entidad jurídica:
+1)Dentro de los tres años después de que el concurso concluya debido a la insuficiencia de activos, cualquier acreedor no satisfecho puede solicitar la reanudación del concurso.
+2)Dentro de los cuatro años después de que el concurso concluya debido a la insuficiencia de activos, cualquier acreedor no satisfecho puede solicitar la reanudación del concurso.
+3)Dentro de los dos años después de que el concurso concluya debido a la insuficiencia de activos, cualquier acreedor no satisfecho puede solicitar la reanudación del concurso.
+4)Dentro del año después de que el concurso concluya debido a la insuficiencia de activos, cualquier acreedor no satisfecho puede solicitar la reanudación del concurso.
+Respuesta: 3
+Correcta: ¡Correcto! Es esencial entender los periodos y condiciones en que se puede solicitar la reapertura de un concurso.
+Errada: La opción seleccionada no es la correcta. Es importante revisar las condiciones y plazos en que se permite reabrir un concurso. (Respuesta Correcta 3)
+###
+Pregunta: Con base en el artículo 549 del TRLC, ¿qué puede decidir el juez concursal al aceptar un recurso de apelación?
+1)Puede, de forma definitiva, asegurar que se cumpla lo acordado en el convenio.
+2)Puede, de forma preliminar, asegurar que se cumpla lo acordado en el convenio.
+3)Puede decidir, con razones claras, detener cualquier actividad que pueda ser influenciada por su decisión.
+4)Todas son correctas.
+Respuesta: 3
+Correcta: ¡Bien hecho! La decisión del juez en relación con un recurso es crucial en el procedimiento concursal.
+Errada: La respuesta seleccionada no es la correcta. Es fundamental entender las atribuciones del juez del concurso cuando se acepta un recurso de apelación. (Respuesta Correcta 3)
+###
+Pregunta: Señale la respuesta correcta sobre las Secciones de Vigilancia Penitenciaria de conformidad con lo dispuesto en la LOPJ tras la reforma de la LO 1/2025:
+1)El juez destinado en una Sección de Vigilancia Penitenciaria no podrá compatibilizar sus funciones con las de otras Secciones del orden penal.
+2)Con carácter general, existirá una Sección de Vigilancia Penitenciaria en el Tribunal de Instancia de cada partido judicial.
+3)El número de Tribunales de Instancia con Secciones de Vigilancia Penitenciaria se determinará reglamentariamente.
+4)Podrán establecerse Secciones de Vigilancia Penitenciaria que extiendan su jurisdicción a dos o más provincias de la misma comunidad autónoma.
+Respuesta: 4
+Correcta: ¡Correcto! El nuevo artículo 92.4 de la LOPJ prevé expresamente que estas secciones puedan extender su jurisdicción a dos o más provincias de la misma comunidad autónoma.
+Errada: Incorrecto. La opción correcta es la que contempla la posibilidad de extender la jurisdicción de estas secciones a varias provincias, según la redacción del artículo 92.4 LOPJ. (Respuesta Correcta 4)
+###
+Pregunta: La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia conocerá de los recursos que se deduzcan frente a:
+1)Los actos de las Entidades locales cuyo conocimiento no esté atribuido a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.
+2)Disposiciones y actos emanados de autoridades, organismos, órganos y entidades públicas con competencia en todo el territorio nacional, en los términos que la ley establezca.
+3)Los actos y disposiciones de los órganos de gobierno de las Asambleas legislativas de las comunidades autónomas.
+4)Las resoluciones dictadas en alzada por el Tribunal Económico-Administrativo Central en materia de tributos cedidos.
+Respuesta: 2
+Correcta: ¡Correcto! Conforme al nuevo artículo 95.e) de la LOPJ, esta es la competencia atribuida a la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+Errada: Incorrecto. La competencia de esta Sección se centra en los actos de organismos con competencia en todo el territorio nacional. Las otras opciones corresponden a las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: Con carácter general, ¿en qué ámbito territorial extienden su jurisdicción las Secciones de lo Mercantil de los Tribunales de Instancia?
+1)Partido Judicial.
+2)Comunidad Autónoma.
+3)Provincia.
+4)Territorio nacional.
+Respuesta: 3
+Correcta: ¡Correcto! Según el artículo 87.1 de la LOPJ, en su nueva redacción, las Secciones de lo Mercantil tendrán jurisdicción, por regla general, en toda la provincia.
+Errada: Incorrecto. El artículo 87.1 de la LOPJ establece que, con carácter general, en el Tribunal de Instancia con sede en la capital de cada provincia existirá una Sección de lo Mercantil con jurisdicción en toda la provincia. (Respuesta Correcta 3)

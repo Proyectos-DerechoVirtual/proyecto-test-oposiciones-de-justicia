@@ -1,0 +1,599 @@
+Pregunta: ¿Cómo puede el Tribunal desestimar una cuestión de ilegalidad en la fase de admisión si no se cumplen las condiciones procesales?
+1)Dictando sentencia sin la necesidad de consultar a las partes.
+2)Dictando sentencia con la necesidad de consultar a las partes.
+3)Dictando un auto con la necesidad de consultar a las partes.
+4)Dictando un auto sin la necesidad de consultar a las partes.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Tribunal puede desestimar una cuestión de ilegalidad dictando un auto sin necesidad de audiencia de las partes si no se cumplen las condiciones procesales.
+Errada: Recuerda que el Tribunal puede rechazar una cuestión de ilegalidad en la etapa de admisión mediante un auto y sin requerir audiencia de las partes si no se satisfacen las condiciones procesales. (Respuesta Correcta 4)
+###
+Pregunta: Tras la suspensión de un acto en el proceso para garantizar la unidad de mercado, ¿en qué tiempo puede la Administración afectada pedir que se levante dicha suspensión, siempre que cumpla con ciertos criterios?
+1)Cinco meses luego de haberse establecido la suspensión.
+2)Cuatro meses luego de haberse establecido la suspensión.
+3)Tres meses luego de haberse establecido la suspensión.
+4)Dos meses luego de haberse establecido la suspensión.
+Respuesta: 3
+Correcta: ¡Correcto! La Administración puede solicitar el levantamiento de la suspensión tres meses después de que se haya adoptado, siempre que se cumplan ciertas condiciones.
+Errada: La Administración tiene un plazo de tres meses desde la adopción de la suspensión para pedir que se levante, siempre que se cumplan determinados requisitos. (Respuesta Correcta 3)
+###
+Pregunta: En relación a la certificación emitida en un proceso para la garantía de la unidad de mercado cuando la sentencia se da oralmente, identifica cuál de las siguientes afirmaciones es incorrecta:
+1)La certificación incluirá todo lo decidido en la sentencia, señalando claramente su firmeza y la acción administrativa en cuestión.
+2)El Letrado de la Administración de Justicia es quien expide la certificación.
+3)La certificación se emitirá y notificará a las partes en un máximo de tres días.
+4)Dicha certificación se registrará y añadirá al Libro de Sentencias del ente judicial.
+Respuesta: 3
+Correcta: ¡Exacto! La certificación no tiene un plazo máximo de tres días para ser expedida y notificada a las partes en el procedimiento para garantía de la unidad de mercado.
+Errada: Debes tener en cuenta que no hay un plazo máximo de tres días estipulado para expedir y notificar a las partes la certificación en el proceso para la garantía de la unidad de mercado cuando la sentencia es oral. (Respuesta Correcta 3)
+###
+Pregunta: En el marco del procedimiento para garantizar la unidad de mercado, cuando se pide la suspensión de una disposición o acto cuestionado, ¿cómo se maneja dicha solicitud?
+1)Se procesa de acuerdo con el capítulo II del título VI referente a las medidas cautelares, una vez que el recurso es admitido y sin necesidad de garantizar posibles daños que puedan surgir.
+2)Se procesa de acuerdo con el capítulo II del título V referente a las medidas cautelares, una vez que el recurso es admitido y sin necesidad de garantizar posibles daños que puedan surgir.
+3)Se procesa de acuerdo con el capítulo III del título VI referente a las medidas cautelares, una vez que el recurso es admitido y sin necesidad de garantizar posibles daños que puedan surgir.
+4)Se procesa de acuerdo con el capítulo IV del título V referente a las medidas cautelares, una vez que el recurso es admitido y sin necesidad de garantizar posibles daños que puedan surgir.
+Respuesta: 1
+Correcta: ¡Correcto! La solicitud de suspensión se maneja según lo dispuesto en el capítulo II del título VI, una vez admitido el recurso y sin necesidad de garantizar posibles daños.
+Errada: Debes recordar que en este procedimiento, la solicitud de suspensión se tramita según el capítulo II del título VI tras la admisión del recurso y sin garantizar daños. (Respuesta Correcta 1)
+###
+Pregunta: Cuando se plantea una cuestión de ilegalidad, ¿dónde ordenará el Letrado de la Administración de Justicia la publicación del auto que la plantea?
+1)En el mismo periódico oficial donde fue publicada la disposición en cuestión.
+2)En el BOE.
+3)En el tablón edictal.
+4)Ninguna de las anteriores.
+Respuesta: 1
+Correcta: ¡Bien hecho! El auto de planteamiento de una cuestión de ilegalidad se publicará en el mismo periódico oficial donde fue publicada la disposición cuestionada.
+Errada: Ten presente que el auto se debe publicar en el mismo periódico oficial donde se publicó la disposición cuestionada. (Respuesta Correcta 1)
+###
+Pregunta: Al finalizar las acciones del proceso contencioso-administrativo para salvaguardar los derechos fundamentales de las personas, ¿en qué plazo deberá el órgano jurisdiccional emitir su sentencia?
+1)Dentro de los cuatro días siguientes.
+2)Dentro de los cinco días siguientes.
+3)Dentro de los siete días siguientes.
+4)Dentro de los nueve días siguientes.
+Respuesta: 2
+Correcta: ¡Excelente! El órgano jurisdiccional tiene un plazo de cinco días para dictar sentencia en el procedimiento contencioso-administrativo para la protección de los derechos fundamentales.
+Errada: Recuerda que el órgano jurisdiccional debe dictar sentencia en un plazo de cinco días cuando se trata del procedimiento contencioso-administrativo para la protección de derechos fundamentales. (Respuesta Correcta 2)
+###
+Pregunta: En el marco del proceso especial para determinar al responsable del servicio, ¿cuál de las siguientes afirmaciones es verdadera?
+1)Dentro de las 24 horas posteriores a la solicitud y tras consultar al Ministerio Fiscal, el Juzgado emitirá una resolución aprobando la solicitud.
+2)El proceso se activa con una demanda que debe presentar las razones que justifican la solicitud, junto con los documentos pertinentes.
+3)Dentro de las 48 horas posteriores a la solicitud y tras consultar al Ministerio Fiscal, el Juzgado emitirá una resolución aprobando la solicitud.
+4)Para solicitar la transferencia de datos de los proveedores de servicios de internet, es necesario obtener primero una autorización judicial.
+Respuesta: 4
+Correcta: ¡Exacto! Se necesita autorización judicial previa para solicitar la cesión de datos a los prestadores de servicios de la sociedad de la información.
+Errada: Ten en cuenta que para requerir datos de los proveedores de servicios en internet, se necesita una autorización judicial previa. (Respuesta Correcta 4)
+###
+Pregunta: Tras recibir el archivo administrativo en el proceso relacionado con casos de suspensión administrativa anterior de acuerdos, ¿qué acciones se toman?
+1)El Letrado de la Administración de Justicia mostrará el archivo administrativo y las actuaciones a las partes involucradas y a terceros con interés legítimo en el caso.
+2)El Letrado de la Administración de Justicia exhibirá el archivo administrativo y las actuaciones solo a las partes involucradas en el proceso.
+3)El Letrado de la Administración de Justicia no exhibirá el archivo administrativo, pero sí las actuaciones a las partes involucradas en el proceso.
+4)El Letrado de la Administración de Justicia no exhibirá el archivo administrativo ni las actuaciones a las partes involucradas en el proceso.
+Respuesta: 2
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia mostrará el archivo administrativo y las actuaciones solamente a las partes involucradas.
+Errada: Debes recordar que es el Letrado de la Administración de Justicia quien pone de manifiesto el expediente, y solo a los comparecidos en el procedimiento. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué normativa rige el proceso para la disolución judicial de un partido político?
+1)El Capítulo I del Título V de la LJCA, relativo al proceso abreviado.
+2)El Capítulo II del Título IV de la LJCA, relativo al proceso abreviado.
+3)El Capítulo II del Título VI de la LJCA, relativo al proceso abreviado.
+4)El Capítulo VI del Título IV de la LJCA, relativo al proceso abreviado.
+Respuesta: 2
+Correcta: ¡Bien hecho! El proceso para la disolución judicial de un partido político está regulado por el Capítulo II del Título IV de la LJCA, sobre el proceso abreviado.
+Errada: Ten en mente que el procedimiento para la disolución de un partido político se encuentra en el Capítulo II del Título IV de la LJCA, relacionado al proceso abreviado. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso contencioso-administrativo de protección de derechos fundamentales, si el organismo administrativo no envía el expediente requerido:
+1)Se impondrán sanciones sucesivas.
+2)El proceso no se detendrá por la falta de este expediente.
+3)Dos son correctas.
+4)El proceso se detendrá por la falta de este expediente.
+Respuesta: 2
+Correcta: ¡Correcto! A pesar de no enviar el expediente, el proceso sigue su curso.
+Errada: Recuerda que la falta de envío del expediente por el órgano administrativo no detiene el procedimiento. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el art. 127.2 LJCA, en casos de suspensión administrativa de decisiones de entidades públicas, ¿cuándo debe presentarse el recurso contencioso-administrativo?
+1)15 días tras la suspensión o conforme a lo determinado en la Ley.
+2)7 días tras la suspensión o conforme a lo determinado en la Ley.
+3)20 días tras la suspensión o conforme a lo determinado en la Ley.
+4)10 días tras la suspensión o conforme a lo determinado en la Ley.
+Respuesta: 4
+Correcta: ¡Bien hecho! El recurso debe presentarse en un plazo de 10 días tras la suspensión.
+Errada: La correcta es que el recurso debe interponerse en los 10 días siguientes a la fecha en que se dictó el acto de suspensión. (Respuesta Correcta 4)
+###
+Pregunta: Según el art. 125 LJCA, si se suspende el periodo para dictar sentencia en una cuestión de ilegalidad, ¿cuánto tiempo tienen las partes para discutir sobre el expediente y las pruebas?
+1)3 días
+2)5 días
+3)10 días
+4)15 días
+Respuesta: 2
+Correcta: ¡Exacto! Las partes tienen 5 días para hablar sobre el expediente y los resultados de la prueba.
+Errada: La duración correcta es de 5 días para que las partes discutan el expediente y el resultado de las pruebas. (Respuesta Correcta 2)
+###
+Pregunta: ¿Dónde se plantea la cuestión de ilegalidad en el contexto contencioso-administrativo?
+1)Ninguna es correcta.
+2)En los Juzgados Centrales de lo Contencioso-administrativo.
+3)Ante el Tribunal encargado del recurso directo contra la disposición general en cuestión.
+4)En la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia.
+Respuesta: 3
+Correcta: ¡Correcto! La cuestión de ilegalidad se plantea ante el Tribunal encargado del recurso directo contra la disposición general.
+Errada: Debes recordar que se plantea ante el Tribunal competente para conocer del recurso directo contra la disposición general. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso que garantiza la unidad de mercado, ¿con qué propósito puede el órgano jurisdiccional convocar a las partes a una audiencia para dictar sentencia?
+1)Para discutir las razones del recurso y la oposición.
+2)Para compartir verbalmente los argumentos que respaldan su decisión.
+3)Para anunciar su veredicto.
+4)Todas las opciones son válidas.
+Respuesta: 4
+Correcta: ¡Exactamente! El órgano jurisdiccional puede convocar a las partes para todos esos propósitos.
+Errada: El órgano jurisdiccional tiene la facultad de convocar a las partes a una audiencia para todas las razones mencionadas. (Respuesta Correcta 4)
+###
+Pregunta: El procedimiento contencioso-administrativo que protege los derechos fundamentales de la persona aborda los derechos establecidos en:
+1)Artículos 14 a 29 de la Constitución
+2)Artículos 13 a 29 de la Constitución
+3)Artículos 14 a 30 de la Constitución
+4)Artículos 16 a 31 de la Constitución
+Respuesta: 1
+Correcta: ¡Bien hecho! Los derechos fundamentales que se protegen están en los arts. 14 a 29 de la Constitución.
+Errada: Debes recordar que los derechos fundamentales protegidos en este procedimiento están en los arts. 14 a 29 de la Constitución. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el plazo para presentar un recurso en el procedimiento contencioso-administrativo que protege los derechos fundamentales?
+1)Diez días.
+2)Quince días.
+3)Veinte días.
+4)Siete días.
+Respuesta: 1
+Correcta: ¡Correcto! El plazo para presentar el recurso es de diez días.
+Errada: El plazo correcto para presentar el recurso es de diez días. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso que garantiza la unidad de mercado, ¿puede la Comisión Nacional de los Mercados y la Competencia pedir una medida cautelar para asegurar la efectividad de la sentencia?
+1)Sí, siete días después de presentar el recurso.
+2)Sí, tres días después de presentar el recurso.
+3)Sí, en el momento de presentar el recurso.
+4)Nunca en el momento de presentar el recurso.
+Respuesta: 3
+Correcta: ¡Exacto! La Comisión puede solicitar una medida cautelar en el momento de presentar el recurso.
+Errada: La Comisión Nacional de los Mercados y la Competencia puede solicitar una medida cautelar en el escrito de interposición del recurso. (Respuesta Correcta 3)
+###
+Pregunta: Una vez que se presenta la demanda en el procedimiento contencioso-administrativo de protección de derechos fundamentales:
+1)El Letrado de la Administración de Justicia comunica al Ministerio Fiscal y a las partes demandadas para que aporten sus alegaciones.
+2)El Juez comunica al Ministerio Fiscal y a las partes demandadas para que aporten sus alegaciones.
+3)El Juez comunica al Letrado de la Administración de Justicia para que las partes demandadas aporten sus alegaciones.
+4)El Juez comunica al Ministerio Fiscal y a las partes demandadas para que aporten sus alegaciones.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es el Letrado de la Administración de Justicia quien da traslado al Ministerio Fiscal y a las partes demandadas.
+Errada: Es el Letrado de la Administración de Justicia, y no el Juez, quien comunica al Ministerio Fiscal y a las partes demandadas para aportar sus alegaciones. (Respuesta Correcta 1)
+###
+Pregunta: Si una cuestión de ilegalidad es muy importante para otros procesos, ¿cómo será su tramitación y resolución?
+1)Ligera
+2)Preferente
+3)Precisa
+4)Breve
+Respuesta: 2
+Correcta: ¡Correcto! La tramitación y resolución será preferente cuando la cuestión de ilegalidad sea de especial trascendencia.
+Errada: Debes recordar que, en estos casos, la tramitación y resolución será preferente debido a su especial trascendencia. (Respuesta Correcta 2)
+###
+Pregunta: En el ámbito contencioso-administrativo, ¿quiénes pueden plantear la cuestión de ilegalidad?
+1)El Juez o Tribunal de lo Contencioso-administrativo que ya ha dictado sentencia firme porque consideró ilegal la disposición general.
+2)El Tribunal Supremo.
+3)La Audiencia Nacional.
+4)El Juez o Tribunal de los Juzgados Centrales de lo Contencioso-administrativo.
+Respuesta: 1
+Correcta: ¡Correcto! Es el Juez o Tribunal que ya ha dictado una sentencia firme por considerar ilegalidad en la disposición quien puede plantear la cuestión.
+Errada: Debes recordar que es el Juez o Tribunal de lo Contencioso-administrativo que ha dictado sentencia firme estimatoria por considerar ilegal la disposición general quien puede plantear la cuestión de ilegalidad. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento para la extinción judicial de un partido político, ¿qué se debe incluir en la demanda?
+1)Lugar de constitución.
+2)Fundadores del partido.
+3)Razones para pedir la declaración judicial de extinción.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Exacto! La demanda debe fundamentarse en los motivos que justifican la petición de extinción del partido político.
+Errada: Debes tener en cuenta que, en este procedimiento, es esencial que la demanda especifique los motivos en los que se basa la solicitud de extinción del partido político. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 120 de la LJCA, en el proceso de protección de derechos fundamentales:
+1)El período de prueba no debe exceder de cinco días comunes.
+2)El período de prueba no debe exceder de diez días comunes.
+3)El período de prueba no debe exceder de quince días comunes.
+4)El período de prueba no debe exceder de veinte días comunes.
+Respuesta: 4
+Correcta: ¡Correcto! Según la LJCA, el período de prueba no debe ser superior a veinte días comunes.
+Errada: Según el artículo 120 de la LJCA, el período probatorio en el procedimiento de protección de derechos fundamentales no debe exceder de veinte días comunes. (Respuesta Correcta 4)
+###
+Pregunta: El procedimiento para la autorización judicial de cesión de datos del artículo 122 bis de la LJCA se refiere a la cesión por parte de los prestadores de servicios de datos que permitan la identificación de:
+1)Los usuarios de servicios de la sociedad de la información.
+2)Los destinatarios de servicios de la sociedad de la información.
+3)Los responsables de un servicio de la sociedad de la información.
+4)Los proveedores de acceso a internet.
+Respuesta: 3
+Correcta: ¡Muy bien! La autorización judicial se requiere para identificar a los responsables de un servicio que haya vulnerado derechos de propiedad intelectual, según la LSSI.
+Errada: Recuerda que este procedimiento especial busca identificar al responsable del servicio, no a cualquier usuario o destinatario. (Respuesta Correcta 3)
+###
+Pregunta: Cuando se presenta un recurso administrativo para proteger derechos fundamentales, ¿en cuánto tiempo debe el órgano administrativo enviar el expediente tras ser requerido por el Letrado de la Administración de Justicia?
+1)En un máximo de siete días desde la recepción del requerimiento.
+2)En un máximo de diez días desde la recepción del requerimiento.
+3)En un máximo de quince días desde la recepción del requerimiento.
+4)En un máximo de cinco días desde la recepción del requerimiento.
+Respuesta: 4
+Correcta: ¡Exacto! Debe efectuarse en el plazo máximo de cinco días contados desde la recepción del requerimiento.
+Errada: Recuerda que el órgano administrativo tiene cinco días desde la recepción del requerimiento para enviar el expediente. (Respuesta Correcta 4)
+###
+Pregunta: Según la LO 6/2002 de Partidos Políticos, ¿cuánto tiempo debe transcurrir sin que un partido político convoque la renovación de sus órganos de gobierno para que se solicite su extinción judicial?
+1)5 años
+2)7 años
+3)8 años
+4)9 años
+Respuesta: 3
+Correcta: ¡Correcto! Si un partido político no ha convocado la renovación de sus órganos de gobierno y representación en un plazo de 8 años, se puede solicitar su extinción judicial.
+Errada: Según la LO 6/2002 de Partidos Políticos, el plazo es de 8 años sin que se haya convocado la renovación de los órganos de gobierno y representación. (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito contencioso-administrativo, ¿cuál de los siguientes procedimientos no tiene tramitación preferente?
+1)Ninguna es correcta.
+2)Declaración de lesividad.
+3)El Proceso de Derechos Fundamentales.
+4)El proceso para declarar la extinción judicial de partidos políticos.
+Respuesta: 4
+Correcta: ¡Bien hecho! El procedimiento para la declaración judicial de extinción de partidos políticos no tiene tramitación preferente.
+Errada: Debes recordar que, en el orden contencioso-administrativo, el procedimiento que no tiene tramitación preferente es el de declaración judicial de extinción de partidos políticos. (Respuesta Correcta 4)
+###
+Pregunta: Tras finalizar el tiempo de personación y alegaciones en la cuestión de ilegalidad contenciosa-administrativa, el Letrado de la Administración de Justicia:
+1)Suspenderá el proceso.
+2)Establecerá la fecha y hora para la audiencia.
+3)Concluirá el proceso.
+4)Establecerá la fecha y hora para la audiencia, si las partes lo pidieron.
+Respuesta: 3
+Correcta: ¡Bien hecho! Una vez finalizado el plazo de personación y alegaciones, el Letrado de la Administración de Justicia declara concluido el proceso.
+Errada: El Letrado de la Administración de Justicia concluye el proceso tras finalizar el plazo de personación y alegaciones. (Respuesta Correcta 3)
+###
+Pregunta: En el auto de planteamiento de la cuestión de ilegalidad contenciosa-administrativa:
+1)Se invitará a las partes para que, en 20 días, puedan presentarse y hacer alegaciones ante el Tribunal que decidirá.
+2)Se invitará a las partes para que, en 30 días, puedan presentarse y hacer alegaciones ante el Tribunal que decidirá.
+3)Se invitará a las partes para que, en 15 días, puedan presentarse y hacer alegaciones ante el Tribunal que decidirá.
+4)Se invitará a las partes para que, en 3 días, puedan presentarse y hacer alegaciones ante el Tribunal que decidirá.
+Respuesta: 3
+Correcta: ¡Exacto! El auto acordará emplazar a las partes por un plazo de 15 días.
+Errada: Debes recordar que el auto emplaza a las partes para formular alegaciones en un plazo de 15 días. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso por la suspensión administrativa previa de acuerdos, la LJCA establece sobre el periodo probatorio que:
+1)No puede ser establecido por el órgano jurisdiccional, sino por las partes.
+2)Ninguna es correcta.
+3)Debe ser establecido por el órgano jurisdiccional.
+4)Puede ser establecido por el órgano jurisdiccional si es necesario.
+Respuesta: 4
+Correcta: ¡Correcto! El órgano jurisdiccional puede establecer el periodo probatorio si lo ve necesario.
+Errada: La LJCA determina que el órgano jurisdiccional tiene la facultad de establecer un periodo probatorio si lo ve conveniente. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para los casos de suspensión administrativa previa de acuerdos, si el órgano jurisdiccional decide sustituir la vista por alegaciones escritas, ¿en qué plazo deberán presentarse estas?
+1)En los cinco días siguientes a la notificación del auto correspondiente.
+2)En los diez días siguientes a la notificación del auto correspondiente.
+3)En los quince días siguientes a la notificación del auto correspondiente.
+4)En los veinte días siguientes a la notificación del auto correspondiente.
+Respuesta: 2
+Correcta: ¡Bien! El órgano jurisdiccional puede decidir sustituir el trámite de vista por el de alegaciones escritas, que deberán presentarse en el plazo de diez días tras la notificación del auto en que así se decida.
+Errada: Recuerda que el plazo para presentar alegaciones escritas en sustitución de la vista, según el artículo 127.4 de la LJCA, es de diez días. (Respuesta Correcta 2)
+###
+Pregunta: Una vez que la sentencia que resuelve la cuestión de ilegalidad es firme:
+1)Se informará al Juez o Tribunal que la planteó por la parte afectada.
+2)Se informará al Juez o Tribunal que la planteó por el Gestor Procesal.
+3)Se informará al Juez o Tribunal que la planteó por el Ministerio Fiscal.
+4)Se informará al Juez o Tribunal que la planteó por el Letrado de la Administración de Justicia.
+Respuesta: 4
+Correcta: ¡Exacto! Es el Letrado de la Administración de Justicia quien comunica al Juez o Tribunal sobre la sentencia firme.
+Errada: La comunicación al Juez o Tribunal es responsabilidad del Letrado de la Administración de Justicia. (Respuesta Correcta 4)
+###
+Pregunta: En el trámite para resguardar los Derechos Fundamentales de la persona ante el Contencioso-Administrativo, si surgen posibles causas de inadmisión, el Letrado de la Administración de Justicia llamará a las partes a un acto que deberá llevarse a cabo en un término no mayor a:
+1)Dos días
+2)Tres días
+3)Cinco días
+4)Siete días
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia convocará a las partes a una comparecencia que se celebrará en un máximo de cinco días.
+Errada: Recuerda que, en estos casos, el plazo para convocar a una comparecencia es de cinco días. (Respuesta Correcta 3)
+###
+Pregunta: En el trámite contencioso-administrativo de protección de derechos fundamentales, si el expediente administrativo llega al Juzgado o Sala pasados los días estipulados, ¿cuánto tiempo tendrán las partes para presentar sus alegatos?
+1)24 horas.
+2)36 horas.
+3)72 horas.
+4)48 horas.
+Respuesta: 4
+Correcta: ¡Exacto! Las partes tendrán un plazo de 48 horas para formular sus alegaciones.
+Errada: Las partes tienen un período de 48 horas para hacer sus alegatos una vez que el expediente administrativo se reciba fuera de tiempo. (Respuesta Correcta 4)
+###
+Pregunta: La resolución sobre la cuestión de ilegalidad:
+1)Aceptaría o rechazaría de forma parcial o completa la cuestión, excepto si faltara algún requerimiento procesal que puede ser corregido, en cuyo caso la considerará no admisible.
+2)Aceptaría o rechazaría de forma parcial o completa la cuestión, excepto si faltara algún requerimiento procesal que no puede ser corregido, en cuyo caso la considerará no admisible.
+3)Aceptaría o rechazaría de forma parcial o completa la cuestión, incluso si faltara algún requerimiento procesal que no puede ser corregido, en cuyo caso la considerará no admisible.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Perfecto! La sentencia puede estimar o desestimar la cuestión de forma parcial o total, pero si falta algún requisito procesal insubsanable, la cuestión será inadmisible.
+Errada: Debes recordar que la sentencia sobre la cuestión de ilegalidad puede estimar o desestimar de forma parcial o total, pero se declarará inadmisible si falta algún requisito procesal insubsanable. (Respuesta Correcta 2)
+###
+Pregunta: Respecto a la suspensión administrativa de decisiones de Entidades Públicas establecida en el artículo 127 de la LJCA, una vez interpuesto el recurso, el Letrado de la Administración de Justicia solicitará a la entidad correspondiente que proporcione el expediente administrativo en un término de:
+1)Cinco días
+2)Siete días
+3)Nueve días
+4)Diez días
+Respuesta: 4
+Correcta: ¡Bien hecho! El expediente administrativo debe ser enviado en un plazo de diez días.
+Errada: Debes recordar que el plazo establecido para remitir el expediente administrativo es de diez días. (Respuesta Correcta 4)
+###
+Pregunta: En el trámite para la extinción legal de un partido político, la petición debe ser realizada en el plazo de:
+1)3 meses después del término establecido para que el partido justifique su situación.
+2)4 meses después del término establecido para que el partido justifique su situación.
+3)5 meses después del término establecido para que el partido justifique su situación.
+4)2 meses después del término establecido para que el partido justifique su situación.
+Respuesta: 4
+Correcta: ¡Exacto! El plazo para presentar la demanda es de 2 meses después del término establecido.
+Errada: Recuerda que el período correcto para presentar la demanda es de 2 meses después del término establecido. (Respuesta Correcta 4)
+###
+Pregunta: ¿Dónde se encuentra establecido el proceso para los casos de suspensión administrativa anticipada de acuerdos?
+1)En la Ley del Procedimiento Administrativo Común de las Administraciones Públicas.
+2)En la Ley Reguladora de la Jurisdicción Contencioso-administrativa.
+3)En la Ley de Enjuiciamiento Civil, que es supletoria.
+4)En ninguna de estas.
+Respuesta: 2
+Correcta: ¡Correcto! Es la Ley Reguladora de la Jurisdicción Contencioso-administrativa la que establece este procedimiento.
+Errada: La Ley que regula este procedimiento es la Ley Reguladora de la Jurisdicción Contencioso-administrativa. (Respuesta Correcta 2)
+###
+Pregunta: Si hay una prohibición o propuesta de cambio en las reuniones previstas en la Ley Orgánica Reguladora del Derecho de Reunión que no es aceptada por los organizadores, estos pueden presentar un recurso contencioso-administrativo ante el tribunal correspondiente. Dicho recurso debe ser presentado:
+1)Dentro de las veinticuatro horas siguientes a la notificación de la prohibición o modificación.
+2)Dentro de las treinta y seis horas siguientes a la notificación de la prohibición o modificación.
+3)Dentro de las cuarenta y ocho horas siguientes a la notificación de la prohibición o modificación.
+4)Dentro de las setenta y dos horas siguientes a la notificación de la prohibición o modificación.
+Respuesta: 3
+Correcta: ¡Perfecto! El recurso debe ser presentado dentro de las 48 horas después de la notificación.
+Errada: El plazo correcto para presentar el recurso es de 48 horas después de recibir la notificación. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es el plazo para presentar el recurso contencioso-administrativo para garantizar la unidad de mercado?
+1)Cuatro meses.
+2)Dos meses.
+3)Tres meses.
+4)Seis meses.
+Respuesta: 2
+Correcta: ¡Bien hecho! El plazo es de dos meses.
+Errada: El plazo correcto para este tipo de recurso es de dos meses. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso para la protección de los derechos fundamentales de la persona según la LJCA, en caso de posibles motivos de inadmisión, una vez que las partes y el Ministerio Fiscal hayan sido escuchados, el órgano jurisdiccional tomará una decisión sobre el incidente:
+1)En los dos días anteriores a la vista pública.
+2)En los dos días siguientes a la vista pública.
+3)Al día anterior a la vista pública.
+4)Al día siguiente de la vista pública.
+Respuesta: 4
+Correcta: ¡Exacto! El órgano jurisdiccional resolverá el incidente al día siguiente de la vista pública.
+Errada: Debes recordar que la decisión sobre el incidente se toma al día siguiente de la vista pública. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para los casos de suspensión administrativa previa de acuerdos, una vez interpuesto el recurso, ¿a quién deberá notificar la Corporación o Entidad la existencia del procedimiento?
+1)Al Ministerio Fiscal exclusivamente.
+2)Únicamente al Delegado del Gobierno.
+3)A cuantos tuvieran interés legítimo en su mantenimiento o anulación.
+4)No tiene obligación de notificar a nadie.
+Respuesta: 3
+Correcta: ¡Muy bien! Según el art. 127.3 de la LJCA, la entidad debe notificar a todos los que tengan un interés legítimo.
+Errada: Ten presente que la ley exige notificar a todos los interesados legítimos para que puedan comparecer en el procedimiento si lo desean. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso para la declaración judicial de disolución de un partido político, ¿a quién se notificará la sentencia que declare la disolución para que proceda a la cancelación de la inscripción?
+1)Al Ministerio del Interior.
+2)Al Ministerio de Justicia.
+3)Al registro de partidos políticos.
+4)Al Tribunal de Cuentas.
+Respuesta: 3
+Correcta: ¡Exacto! El artículo 127 quinquies.4 de la LJCA establece que la sentencia se notificará al registro a efectos de cancelación.
+Errada: Recuerda que la sentencia que disuelve un partido político debe notificarse al registro correspondiente para que la cancelación de la inscripción tenga efectos. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso de suspensión administrativa previa de acuerdos, ¿cuándo se emitirá la resolución que decide el procedimiento?
+1)Antes de que las partes comparecientes presenten sus informes finales.
+2)Después de que las partes comparecientes presenten sus informes finales.
+3)Después de celebrada la vista o deducidas las alegaciones escritas.
+4)Antes de celebrada la vista o deducidas las alegaciones escritas.
+Respuesta: 3
+Correcta: ¡Exacto! La resolución que decide el procedimiento se emitirá después de celebrada la vista o de presentadas las alegaciones escritas.
+Errada: La resolución que decide el procedimiento se emitirá después de celebrada la vista o de presentadas las alegaciones escritas. (Respuesta Correcta 3)
+###
+Pregunta: Tras constatar la firmeza de una sentencia, ¿cuándo planteará el Juez o Tribunal la cuestión de ilegalidad de acuerdo con el artículo 27.1 de la LJCA?
+1)Los tres días siguientes.
+2)Los siete días siguientes.
+3)Los nueve días siguientes.
+4)Los cinco días siguientes.
+Respuesta: 4
+Correcta: ¡Bien! La cuestión de ilegalidad se planteará dentro de los cinco días siguientes a que conste en las actuaciones la firmeza de la sentencia.
+Errada: La cuestión de ilegalidad se planteará dentro de los cinco días siguientes a que conste en las actuaciones la firmeza de la sentencia. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento de suspensión administrativa previa de acuerdos, ¿qué puede decidir el órgano jurisdiccional?
+1)Sustituir la vista por alegaciones escritas, presentadas en los cinco días siguientes a la notificación del auto correspondiente.
+2)Sustituir la vista por alegaciones escritas, presentadas en los diez días siguientes a la notificación del auto correspondiente.
+3)Sustituir la vista por alegaciones escritas, presentadas en los quince días siguientes a la notificación del auto correspondiente.
+4)Sustituir la vista por alegaciones escritas, presentadas en los veinte días siguientes a la notificación del auto correspondiente.
+Respuesta: 2
+Correcta: ¡Bien! El órgano jurisdiccional puede decidir sustituir el trámite de vista por el de alegaciones escritas, que deberán presentarse en el plazo de diez días tras la notificación del auto en que así se decida.
+Errada: El órgano jurisdiccional puede decidir sustituir el trámite de vista por el de alegaciones escritas, que deberán presentarse en el plazo de diez días tras la notificación del auto en que así se decida. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento contencioso-administrativo para proteger los derechos fundamentales de las personas, una vez formalizada la demanda, ¿cuál es el plazo dado por el LAJ al Ministerio Fiscal y a las partes demandadas para presentar sus alegaciones?
+1)Cinco días.
+2)Siete días.
+3)Ocho días.
+4)Nueve días.
+Respuesta: 3
+Correcta: ¡Bien! El Ministerio Fiscal y las partes demandadas tendrán un plazo común e improrrogable de ocho días para presentar sus alegaciones.
+Errada: El Ministerio Fiscal y las partes demandadas tendrán un plazo común e improrrogable de ocho días para presentar sus alegaciones. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué requisito debe cumplirse para proceder de acuerdo al establecido para el procedimiento en los casos de suspensión administrativa previa de acuerdos?
+1)Se refiere a casos donde, según las leyes, la suspensión cautelar de acuerdos de entidades públicas deba ser seguida de la impugnación de estos ante la Jurisdicción Contencioso-administrativa.
+2)Se refiere a casos donde, según las leyes, la suspensión administrativa de acuerdos de entidades públicas deba ser seguida de la impugnación de estos ante la Jurisdicción Contencioso-administrativa.
+3)Se refiere a casos donde, según las leyes, la suspensión administrativa de acuerdos de entidades privadas deba ser seguida de la impugnación de estos ante la Jurisdicción Contencioso-administrativa.
+4)Se refiere a casos donde, según las leyes, la suspensión administrativa de acuerdos de entidades públicas deba ser seguida de la impugnación de estos ante la Jurisdicción Civil.
+Respuesta: 2
+Correcta: ¡Bien! Para proceder según el procedimiento en los casos de suspensión administrativa previa de acuerdos, es necesario que se trate de casos donde la suspensión administrativa de acuerdos de entidades públicas deba ir seguida de su impugnación ante la Jurisdicción Contencioso-administrativa.
+Errada: Para proceder según el procedimiento en los casos de suspensión administrativa previa de acuerdos, es necesario que se trate de casos donde la suspensión administrativa de acuerdos de entidades públicas deba ir seguida de su impugnación ante la Jurisdicción Contencioso-administrativa. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la legislación vigente, ¿qué órgano es competente para el procedimiento de declaración judicial de extinción de partidos políticos?
+1)La Sala de lo Contencioso-administrativo del Tribunal Supremo.
+2)La Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+3)La Sección de lo Contencioso-administrativo del Tribunal Central de Instancia.
+4)Una Sección especializada de los Tribunales de Instancia.
+Respuesta: 3
+Correcta: ¡Muy bien! Tras la reforma de la LO 1/2025, la competencia que tenían los Juzgados Centrales de lo Contencioso-Administrativo es asumida por la Sección de lo Contencioso-administrativo del Tribunal Central de Instancia.
+Errada: Recuerda que la LO 1/2025 transformó los Juzgados Centrales, y la competencia para este procedimiento recae ahora en la Sección de lo Contencioso-administrativo del Tribunal Central de Instancia. (Respuesta Correcta 3)
+###
+Pregunta: Si la propuesta de modificación de reuniones en la Ley Orgánica Reguladora del Derecho de Reunión no es aceptada por los promotores, ¿en qué plazo convocará el Letrado de la Administración de Justicia al representante legal de la Administración y al Ministerio Fiscal?
+1)En un plazo improrrogable de dos días.
+2)En un plazo improrrogable de tres días.
+3)En un plazo improrrogable de cuatro días.
+4)En un plazo improrrogable de cinco días.
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia convocará al representante legal de la Administración y al Ministerio Fiscal en un plazo improrrogable de cuatro días.
+Errada: El Letrado de la Administración de Justicia convocará al representante legal de la Administración y al Ministerio Fiscal en un plazo improrrogable de cuatro días. (Respuesta Correcta 3)
+###
+Pregunta: En el orden Contencioso-Administrativo, si hay posibles motivos de inadmisión en el procedimiento de protección de los derechos fundamentales de la persona y se ha recibido el expediente administrativo, ¿qué ocurre a continuación?
+1)El Tramitador Procesal convocará a las partes y al Ministerio Fiscal a una comparecencia.
+2)El Juez convocará a las partes y al Ministerio Fiscal a una comparecencia.
+3)El Letrado de la Administración de Justicia convocará a las partes y al Ministerio Fiscal a una comparecencia.
+4)El Letrado de la Administración de Justicia convocará a las partes y al Juez a una comparecencia.
+Respuesta: 3
+Correcta: ¡Exacto! Ante posibles motivos de inadmisión en el procedimiento de protección de los derechos fundamentales de la persona, el Letrado de la Administración de Justicia convocará a las partes y al Ministerio Fiscal a una comparecencia.
+Errada: Ante posibles motivos de inadmisión en el procedimiento de protección de los derechos fundamentales de la persona, el Letrado de la Administración de Justicia convocará a las partes y al Ministerio Fiscal a una comparecencia. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento para la declaración judicial de extinción de partidos políticos, que se rige por las normas del procedimiento abreviado, una vez admitida la demanda, el Letrado de la Administración de Justicia:
+1)Dará traslado de la misma al Ministerio Fiscal para que la conteste en el plazo de diez días.
+2)Citará a las partes para la celebración de vista, con indicación de día y hora.
+3)Abrirá un período de prueba de veinte días.
+4)Requerirá a la Administración demandada que remita el expediente administrativo en un plazo de cinco días.
+Respuesta: 2
+Correcta: ¡Correcto! Conforme a la nueva redacción del art. 78.3 LJCA, admitida la demanda, el LAJ cita a las partes para la celebración de vista.
+Errada: La tramitación del procedimiento abreviado, aplicable en este caso, establece que, una vez admitida la demanda, el siguiente paso es la citación para la vista. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la tramitación de las autorizaciones o ratificaciones a que se refiere el artículo 8.6 de la LJCA, ¿cómo debe resolverse y en qué plazo?
+1)Auto en un plazo máximo de dos días hábiles.
+2)Auto en un plazo máximo de tres días hábiles.
+3)Auto en un plazo máximo de dos días naturales.
+4)Auto en un plazo máximo de tres días naturales.
+Respuesta: 4
+Correcta: ¡Bien! La tramitación de las autorizaciones o ratificaciones a que se refiere el artículo 8.6 de la LJCA debe resolverse mediante un auto en un plazo máximo de tres días naturales.
+Errada: La tramitación de las autorizaciones o ratificaciones a que se refiere el artículo 8.6 de la LJCA debe resolverse mediante un auto en un plazo máximo de tres días naturales. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué recurso cabe contra el auto de planteamiento de la cuestión de ilegalidad?
+1)Recurso de queja.
+2)Recurso de revisión.
+3)Recurso de casación.
+4)No cabe recurso alguno.
+Respuesta: 4
+Correcta: ¡Bien! No cabe recurso alguno contra el auto de planteamiento de la cuestión de ilegalidad.
+Errada: No cabe recurso alguno contra el auto de planteamiento de la cuestión de ilegalidad. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para la autorización judicial de cesión de datos conforme a la Ley de Sociedades de la Información, una vez presentada la solicitud, el órgano judicial resolverá en el plazo de:
+1)24 horas, previa audiencia del Ministerio Fiscal.
+2)48 horas, previa audiencia del Ministerio Fiscal.
+3)36 horas, previa audiencia del Ministerio Fiscal.
+4)12 horas, previa audiencia del Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Bien! El art. 122 bis.2 de la LJCA establece que el órgano judicial, tras oír al Ministerio Fiscal, resolverá en el plazo de 48 horas.
+Errada: En el procedimiento mencionado, una vez presentada la solicitud, el órgano judicial resolverá en el plazo de 48 horas, previa audiencia del Ministerio Fiscal. (Respuesta Correcta 2)
+###
+Pregunta: En caso de que no se envíe el expediente administrativo dentro del plazo legalmente establecido tras interponer un recurso por la Comisión Nacional de los Mercados y la Competencia en garantía de la unidad de mercado, ¿qué ocurre?
+1)No se suspenderá el curso de los autos.
+2)Se concederá una prórroga automática de tres días para el envío del expediente administrativo.
+3)Se suspenderá el curso de los autos.
+4)Se concederá una prórroga automática de dos días para el envío del expediente administrativo.
+Respuesta: 1
+Correcta: ¡Bien! Si no se envía el expediente administrativo en el plazo previsto, no se suspenderá el curso de los autos.
+Errada: Si no se envía el expediente administrativo en el plazo previsto, no se suspenderá el curso de los autos. (Respuesta Correcta 1)
+###
+Pregunta: La decisión del Tribunal sobre el recurso contencioso-administrativo interpuesto contra la prohibición de reuniones previstas en la Ley Orgánica Reguladora del Derecho de Reunión que no sean aceptadas por los promotores:
+1)Será susceptible de recurso de reposición.
+2)Será susceptible de recurso de queja.
+3)Será susceptible de recurso de revisión.
+4)No será susceptible de ulterior recurso.
+Respuesta: 4
+Correcta: ¡Bien! La decisión del Tribunal en estos casos no será susceptible de ulterior recurso.
+Errada: La decisión del Tribunal en estos casos no será susceptible de ulterior recurso. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para los casos de suspensión administrativa de acuerdos, una vez interpuesto el recurso o trasladado el acuerdo suspendido, ¿qué actuaciones deberá llevar a cabo la entidad que lo hubiera dictado? Indique la respuesta incorrecta.
+1)Presentar escrito de proposición de prueba.
+2)Notificar la existencia del procedimiento a cuantos tuvieran interés legítimo en su mantenimiento o anulación.
+3)Alegar lo que estime conveniente en defensa del expediente administrativo.
+4)Remitir el expediente administrativo.
+Respuesta: 1
+Correcta: ¡Bien! En el procedimiento para los casos de suspensión administrativa de acuerdos, la entidad que dictó el acuerdo no tiene la obligación de presentar un escrito de proposición de prueba en esa fase inicial.
+Errada: En el procedimiento para los casos de suspensión administrativa de acuerdos, la entidad que dictó el acuerdo no tiene la obligación de presentar un escrito de proposición de prueba en esa fase inicial. (Respuesta Correcta 1)
+###
+Pregunta: En el orden contencioso-administrativo, el plazo para dictar sentencia en la cuestión de ilegalidad quedará interrumpido:
+1)Si, para mejor proveer, el Tribunal acordara reclamar el expediente de elaboración de la disposición cuestionada.
+2)Ninguna es correcta.
+3)Si, para mejor proveer, el Tribunal acordara practicar alguna prueba de oficio.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Bien! El plazo para dictar sentencia en la cuestión de ilegalidad se interrumpirá si, para mejor proveer, el Tribunal decide reclamar el expediente de elaboración de la disposición cuestionada o practicar alguna prueba de oficio.
+Errada: El plazo para dictar sentencia en la cuestión de ilegalidad se interrumpirá si, para mejor proveer, el Tribunal decide reclamar el expediente de elaboración de la disposición cuestionada o practicar alguna prueba de oficio. (Respuesta Correcta 4)
+###
+Pregunta: Según la LJCA, ¿quién está legitimado para interponer el recurso contencioso-administrativo para la garantía de la unidad de mercado?
+1)Cualquier persona con un interés legítimo.
+2)Únicamente la Administración General del Estado.
+3)La Comisión Nacional de los Mercados y la Competencia.
+4)El Ministerio Fiscal.
+Respuesta: 3
+Correcta: ¡Excelente! El artículo 127 ter.1 de la LJCA otorga de forma específica la legitimación a la CNMC para este recurso.
+Errada: Ten presente que el recurso especial para la garantía de la unidad de mercado solo puede ser interpuesto por la Comisión Nacional de los Mercados y la Competencia. (Respuesta Correcta 3)
+###
+Pregunta: Según la literalidad de la Ley reguladora de la Jurisdicción Contencioso-administrativa, la tramitación del procedimiento de amparo judicial de las libertades y derechos, previsto en el artículo 53.2 de la Constitución española:
+1)Tendrá carácter sumario.
+2)Tendrá carácter prioritario.
+3)Tendrá carácter preferente.
+4)Tendrá carácter interesante.
+Respuesta: 3
+Correcta: ¡Bien! De acuerdo con la Ley reguladora de la Jurisdicción Contencioso-administrativa, la tramitación del procedimiento de amparo judicial de las libertades y derechos tiene carácter preferente.
+Errada: De acuerdo con la Ley reguladora de la Jurisdicción Contencioso-administrativa, la tramitación del procedimiento de amparo judicial de las libertades y derechos tiene carácter preferente. (Respuesta Correcta 3)
+###
+Pregunta: La sentencia firme que resuelve una cuestión de ilegalidad:
+1)Afectará en todo caso a la situación jurídica concreta derivada de la sentencia que originó la cuestión.
+2)Nunca afectará a la situación jurídica concreta derivada de la sentencia que originó la cuestión.
+3)Afectará a la situación jurídica concreta solo si anula la disposición general.
+4)Solo se publicará en el BOE si estima la cuestión.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 126.3 de la LJCA establece claramente que la sentencia que resuelve la cuestión no afectará a la situación jurídica concreta del proceso original.
+Errada: No olvides que el objetivo de la cuestión de ilegalidad es anular la disposición general con efectos "erga omnes", pero sin modificar la sentencia firme que la originó. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso para la protección de los derechos fundamentales, respecto a las sentencias emitidas por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia:
+1)La apelación tendrá efecto suspensivo y devolutivo.
+2)La apelación será siempre aplicable en ambos efectos.
+3)No es susceptible de recurso.
+4)La apelación será siempre aplicable en un solo efecto.
+Respuesta: 4
+Correcta: Correcto. Las sentencias dictadas en este procedimiento sólo admiten apelación en un solo efecto.
+Errada: Te has equivocado. Las sentencias en esta materia admiten apelación, pero sólo en un solo efecto. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento especial para la protección de los derechos fundamentales de la persona, además de las partes demandadas, el Letrado de la Administración de Justicia dará siempre traslado de la demanda a:
+1)El Defensor del Pueblo.
+2)La Abogacía del Estado.
+3)El Ministerio Fiscal.
+4)La Agencia Española de Protección de Datos.
+Respuesta: 3
+Correcta: ¡Bien hecho! El artículo 119 de la LJCA establece que la intervención del Ministerio Fiscal es preceptiva en este procedimiento.
+Errada: Recuerda que la participación del Ministerio Fiscal es obligatoria en el procedimiento de protección de derechos fundamentales. (Respuesta Correcta 3)
+###
+Pregunta: En cuanto a la protección de los derechos fundamentales en el ámbito contencioso-administrativo, ¿cuál de las siguientes declaraciones es cierta?
+1)La LJCA establece un proceso especial iniciado por un escrito donde se detallan los derechos a proteger y culmina con una sentencia.
+2)La LJCA establece un proceso general iniciado por un escrito donde se detallan los derechos a proteger y culmina con un auto.
+3)La LJCA establece un proceso especial iniciado por un voz donde se detallan los derechos a proteger y culmina con una sentencia.
+4)La LJCA establece un proceso especial iniciado por un escrito donde se detallan los derechos a proteger y culmina con un laudo.
+Respuesta: 1
+Correcta: Correcto. La LJCA estipula un proceso especial iniciado por un escrito y que finaliza con una sentencia.
+Errada: Te has equivocado. La LJCA establece un proceso especial que comienza con un escrito y culmina con una sentencia. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de los siguientes no se rige como un procedimiento especial bajo la Ley de la Jurisdicción Contencioso-Administrativa?
+1)La cuestión de ilegalidad.
+2)El procedimiento abreviado.
+3)La impugnación de reglamentos administrativos.
+4)Todas son correctas.
+Respuesta: 3
+Correcta: ¡Perfecto! La impugnación de reglamentos administrativos no se rige como un procedimiento especial.
+Errada: No es correcto. La impugnación de reglamentos administrativos no se rige como un procedimiento especial según la Ley de la Jurisdicción Contencioso-Administrativa. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso debido a la suspensión administrativa previa de acuerdos, una vez recibido y mostrado el expediente administrativo, el Letrado de la Administración de Justicia:
+1)Citará a las partes para una vista que tendrá lugar al menos 15 días después de mostrar el expediente.
+2)Citará a las partes para una vista que tendrá lugar al menos 5 días después de mostrar el expediente.
+3)Citará a las partes para una vista que tendrá lugar al menos 10 días después de mostrar el expediente.
+4)Citará a las partes para una vista que tendrá lugar al menos 7 días después de mostrar el expediente.
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado convocará a la vista al menos 10 días después de la presentación del expediente.
+Errada: No es correcto. La convocatoria para la vista se realiza al menos 10 días después de mostrar el expediente. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 127 quinquies LJCA, en el proceso para la declaración judicial de disolución de partidos políticos, el Ministerio Fiscal:
+1)Dependerá si en la disolución se pueden vulnerar derechos fundamentales.
+2)Puede será parte en el proceso.
+3)Siempre será parte en el proceso.
+4)Nunca será parte en el proceso.

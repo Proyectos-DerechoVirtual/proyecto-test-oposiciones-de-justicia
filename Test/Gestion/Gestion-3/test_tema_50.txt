@@ -1,0 +1,836 @@
+Pregunta: Con base en la regulación de la conformidad en el procedimiento abreviado y enjuiciamiento rápido, cuando la conformidad se produce ante el Juzgado de Guardia y existe un acusador particular, el acusado podrá manifestar su conformidad absoluta:
+1)Siempre y cuando se alinee con la acusación más severa, sin importar la pena solicitada.
+2)Siempre y cuando la pena solicitada, una vez reducida en un tercio, no exceda los dos años de prisión.
+3)Siempre y cuando la pena solicitada no sea privativa de libertad.
+4)Siempre y cuando se alinee con la acusación más severa.
+Respuesta: 4
+Correcta: ¡Correcto! La conformidad debe ser absoluta con la pena más grave pedida si hay varias acusaciones. La LO 1/2025 eliminó el límite penológico a la conformidad, aunque ante el Juzgado de Guardia persiste el límite para que la sentencia se dicte en ese acto.
+Errada: Lamentablemente, eso no es correcto. El acusado puede expresar su conformidad con la acusación más severa, incluso si hay un acusador particular involucrado. (Respuesta Correcta 4)
+###
+Pregunta: Con base en la regulación de la conformidad en el enjuiciamiento rápido (art. 801.3 LECrim post-LO 1/2025), la pena solicitada (o la suma de ellas) por el Ministerio Fiscal y el acusado ante el Juez de Guardia, una vez reducida en un tercio, deberá ser de naturaleza no privativa de libertad, o bien:
+1)Que no exceda de dos años de prisión.
+2)Que no exceda de tres años de prisión.
+3)Que no exceda de cuatro años de prisión.
+4)Que no exceda de seis meses de prisión.
+Respuesta: 1
+Correcta: ¡Respuesta correcta! El Juez de Guardia puede emitir un fallo de conformidad si la pena solicitada (o la suma de penas), reducida en un tercio, no supera los dos años de prisión, entre otros requisitos. (Ver art. 801.3 en relación con el 787 y 785 LECrim, y la LO 1/2025)
+Errada: Lo siento, esa no es la respuesta correcta. El Juez puede emitir un fallo de conformidad si la pena solicitada (o la suma de penas), una vez reducida en un tercio, no supera los dos años de prisión. (Respuesta Correcta 1)
+###
+Pregunta: El procedimiento para el enjuiciamiento rápido de determinados delitos, según el artículo 795 de la LECrim, NO es aplicable a:
+1)Delitos de estafa.
+2)Delitos de hurto.
+3)Delitos de allanamiento de morada.
+4)Delitos contra la seguridad del tráfico.
+Respuesta: 1
+Correcta: ¡Correcto! El procedimiento de enjuiciamiento rápido no es aplicable a los delitos de estafa, conforme a lo establecido en la ley. (Art. 795.1.2ª LECrim). La LO 1/2025 añadió allanamiento de morada y usurpación.
+Errada: Incorrecto. El enjuiciamiento rápido no se aplica a los delitos de estafa, según lo estipulado por el artículo 795 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: En los procedimientos de enjuiciamiento rápido para ciertos delitos, cuando la Policía Judicial pide un perito para evaluar un objeto, ¿cómo se debe presentar el informe pericial ante el Juzgado de guardia?
+1)Puede presentarse por escrito en el Juzgado de lo Penal.
+2)Puede presentarse oralmente al Fiscal de guardia.
+3)Puede presentarse oralmente en el Juzgado de guardia.
+4)Puede presentarse por escrito en el Juzgado de guardia.
+Respuesta: 3
+Correcta: ¡Correcto! El informe pericial puede ser presentado oralmente ante el Juzgado de guardia.
+Errada: Incorrecto. El informe pericial tiene la posibilidad de ser emitido de manera oral ante el Juzgado de guardia. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a la ejecución de las sentencias emitidas por el Juzgado de lo Penal en enjuiciamientos rápidos, ¿cuál es el procedimiento correcto una vez que la sentencia es firme?
+1)Se procederá a la ejecución tan pronto como la sentencia sea firme, de acuerdo con las reglas generales y las especiales del artículo 791.
+2)Se procederá a la ejecución tan pronto como la sentencia sea firme, de acuerdo con las reglas generales y las especiales del artículo 792.
+3)Se procederá a la ejecución tan pronto como la sentencia sea firme, de acuerdo con las reglas generales y las especiales del artículo 793.
+4)Se procederá a la ejecución tan pronto como la sentencia sea firme, de acuerdo con las reglas generales y las especiales del artículo 794.
+Respuesta: 4
+Correcta: ¡Correcto! La sentencia se ejecutará inmediatamente una vez que sea firme, conforme a las reglas generales y especiales del artículo 794.
+Errada: Incorrecto. Las sentencias se ejecutan inmediatamente después de ser firmes, conforme a las reglas generales y las especiales establecidas en el artículo 794. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo pueden realizarse las citaciones ante el Juzgado de Guardia en procedimientos de enjuiciamiento rápido?
+1)Las citaciones deben realizarse por valija judicial en todos los casos.
+2)En casos de urgencia, las citaciones pueden hacerse por cualquier medio, incluso verbalmente.
+3)Las citaciones deben realizarse por escrito en todos los casos.
+4)En casos de urgencia, las citaciones deben hacerse electrónicamente.
+Respuesta: 2
+Correcta: ¡Respuesta correcta! En situaciones de urgencia, las citaciones pueden hacerse por cualquier medio, incluyendo verbalmente.
+Errada: Incorrecto. Las citaciones, cuando hay urgencia, pueden realizarse por cualquier medio de comunicación, incluido verbalmente. (Respuesta Correcta 2)
+###
+Pregunta: En el trámite preparatorio del juicio oral para enjuiciamientos rápidos, ¿cuál es la afirmación correcta?
+1)El Juez de guardia consultará a los letrados para tomar o ratificar medidas cautelares, en su caso.
+2)El Juez de guardia consultará a las partes para tomar o ratificar medidas cautelares, en su caso.
+3)El Juez de guardia consultará al LAJ para tomar o ratificar medidas cautelares, en su caso.
+4)El Juez de guardia consultará al Fiscal para tomar o ratificar medidas cautelares, en su caso.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de guardia consulta al Ministerio Fiscal para decidir sobre la adopción de medidas cautelares, en su caso.
+Errada: Incorrecto. El procedimiento correcto es que el Juez de guardia consulte al Ministerio Fiscal para que este tome o ratifique, en su caso, la adopción de medidas cautelares. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo al artículo 795 de la LECRIM, ¿cuándo se puede aplicar el procedimiento de enjuiciamiento rápido de determinados delitos?
+1)Cuando se trata de un acto delictivo flagrante y cuya instrucción sea sencilla.
+2)Cuando se trata de un acto delictivo flagrante.
+3)Cuando se trata de un acto delictivo con una instrucción presumiblemente sencilla o delitos contra la seguridad vial.
+4)Cuando se trata de un acto delictivo con una instrucción presumiblemente compleja, o delitos contra la seguridad vial.
+Respuesta: 3
+Correcta: ¡Correcto! Se aplica en hechos punibles con instrucción presumiblemente sencilla o delitos contra la seguridad vial según el artículo 795 de la LECRIM.
+Errada: Incorrecto. El artículo 795 de la LECRIM especifica que se aplica a hechos punibles con instrucción presumiblemente sencilla o delitos contra la seguridad vial. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 803 LECrim, en el procedimiento de enjuiciamiento rápido, ¿cuánto tiempo hay para presentar el escrito de formalización de recurso de apelación contra la sentencia del Juzgado de lo Penal?
+1)Cuatro días.
+2)Cinco días.
+3)Siete días.
+4)Quince días.
+Respuesta: 2
+Correcta: ¡Correcto! Hay un plazo de cinco días para presentar el escrito de formalización de recurso de apelación.
+Errada: Incorrecto. El plazo para presentar el escrito de formalización de recurso de apelación es de cinco días según el artículo 803 LECrim. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién establecerá los reglamentos para organizar los servicios de guardia de los Juzgados de Instrucción en cuanto a las citaciones del artículo 796.1 LECRIM en enjuiciamientos rápidos?
+1)El Consejo General del Poder Judicial en coordinación con el Ministerio Fiscal.
+2)El Consejo General del Poder Judicial en coordinación con la Policía Nacional.
+3)El Consejo General del Poder Judicial en coordinación con la Policía Judicial.
+4)El Consejo General del Poder Judicial en coordinación con la Policía Local.
+Respuesta: 3
+Correcta: ¡Correcto! El Consejo General del Poder Judicial coordinará con la Policía Judicial.
+Errada: Incorrecto. La coordinación será entre el Consejo General del Poder Judicial y la Policía Judicial para establecer dichos reglamentos. (Respuesta Correcta 3)
+###
+Pregunta: Con base en la regulación general (art. 655 y 787 ter LECrim post-LO 1/2025), ¿cuál es el límite de pena privativa de libertad que, al pedirse pena superior, impide la conformidad en la fase de calificación/juicio oral del procedimiento abreviado/sumario?
+1)Ninguno, si se cumplen los requisitos.
+2)Hasta cuatro años de prisión.
+3)Hasta tres años de prisión.
+4)Hasta año y seis meses de prisión.
+Respuesta: 1
+Correcta: ¡Correcto! La LO 1/2025 eliminó el límite penológico de seis años, permitiendo la conformidad en el procedimiento abreviado y ordinario sin límite de pena, si se cumplen los requisitos.
+Errada: Incorrecto. La LO 1/2025 eliminó el límite penológico, lo que implica que no hay una pena máxima que impida la conformidad si se cumplen los demás requisitos. (Respuesta Correcta 1)
+###
+Pregunta: En relación con las medidas cautelares acordadas por el Juez de Guardia en el procedimiento de enjuiciamiento rápido, cuando se inhibe a favor de la jurisdicción militar, ¿qué recurso(s) es(son) admisible(s)?
+1)Reforma y revisión.
+2)Reforma y apelación.
+3)Reforma y queja.
+4)Queja y apelación.
+Respuesta: 2
+Correcta: ¡Correcto! Son admisibles los recursos de reforma y apelación.
+Errada: Incorrecto. Los recursos admisibles contra las medidas cautelares acordadas por el Juez de Guardia en este contexto son de reforma y apelación. (Respuesta Correcta 2)
+###
+Pregunta: El artículo 795 de la LECRIM no especifica que el procedimiento de enjuiciamiento rápido se aplique a:
+1)Delitos de daños por imprudencia grave con un valor superior a 50.000 euros.
+2)Delitos de daños por imprudencia grave con un valor superior a 60.000 euros.
+3)Delitos de daños por imprudencia grave con un valor superior a 80.000 euros.
+4)Delitos de daños por imprudencia grave con un valor superior a 70.000 euros.
+Respuesta: 3
+Correcta: ¡Correcto! El procedimiento de enjuiciamiento rápido no se aplica especificamente a delitos de daños por imprudencia grave con un valor superior a 80.000 euros.
+Errada: Incorrecto. El procedimiento de enjuiciamiento rápido no se aplica específicamente a delitos de daños por imprudencia grave que resulten en más de 80.000 euros. (Respuesta Correcta 3)
+###
+Pregunta: Cuando la Policía Judicial inicia investigaciones sobre un hecho que cumple con las condiciones para el enjuiciamiento rápido según la LECRIM, el atestado único generado debe enviarse al juzgado de guardia:
+1)Inmediatamente después de la detención o citación y, en cualquier caso, dentro de los dos días siguientes.
+2)Inmediatamente después de la detención o citación y, en cualquier caso, dentro de los tres días siguientes.
+3)Inmediatamente después de la detención o citación y, en cualquier caso, dentro de los cuatro días siguientes.
+4)Inmediatamente después de la detención o citación y, en cualquier caso, dentro de los cinco días siguientes.
+Respuesta: 4
+Correcta: ¡Correcto! El atestado debe enviarse tan pronto como sea detenido o citado el sospechoso y, en cualquier caso, dentro de los cinco días siguientes.
+Errada: Incorrecto. El atestado debe ser enviado inmediatamente después de la detención o citación del sospechoso, y siempre dentro de los cinco días siguientes, según se establece en la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 802 de la LECrim (post-LO 1/2025), en el enjuiciamiento rápido de ciertos delitos, si el juicio oral no puede celebrarse en la fecha programada por una razón justa valorada por el Juez o la Jueza, ¿qué fecha se asignará para su realización o continuación?
+1)La fecha más próxima y, en cualquier caso, dentro de los diez días siguientes.
+2)La fecha más próxima y, en cualquier caso, dentro de los siete días siguientes.
+3)La fecha más próxima y, en cualquier caso, dentro de los cinco días siguientes.
+4)La fecha más próxima y, en cualquier caso, dentro de los quince días siguientes.
+Respuesta: 4
+Correcta: ¡Correcto! Se señalará la fecha más inmediata posible y, en todo caso, dentro de los quince días siguientes.
+Errada: Incorrecto. El Juez señalará para la celebración o continuación del juicio oral la fecha más inmediata posible y, en cualquier caso, dentro de los quince días siguientes. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 800 de la LECrim, en el procedimiento de enjuiciamiento rápido, si el Fiscal no presenta su escrito de acusación de manera oportuna, ¿cuál es la acción a seguir por el Juez?
+1)El Juez notificará de inmediato al superior del Fiscal para que, en dos días, presente el escrito correspondiente.
+2)El Juez notificará de inmediato al superior del Fiscal para que, en tres días, presente el escrito correspondiente.
+3)El Juez notificará de inmediato al superior del Fiscal para que, en cuatro días, presente el escrito correspondiente.
+4)El Juez notificará de inmediato al superior del Fiscal para que, en cinco días, presente el escrito correspondiente.
+Respuesta: 1
+Correcta: ¡Correcto! El Juez se comunicará de inmediato con el superior jerárquico del Fiscal para que presente el escrito correspondiente en un plazo de dos días.
+Errada: Incorrecto. Si el Fiscal no presenta su escrito de acusación de manera oportuna, el Juez requerirá de inmediato al superior jerárquico del Fiscal para que, en un plazo de dos días, presente el escrito que proceda. (Respuesta Correcta 1)
+###
+Pregunta: Si el acusado no comparece y el decreto de propuesta de pena del Ministerio Fiscal se vuelve ineficaz, ¿qué ocurre según la LECRIM?
+1)El Ministerio Fiscal estará vinculado por su contenido y el caso no seguirá el procedimiento correspondiente.
+2)El Ministerio Fiscal no estará vinculado por su contenido y el caso no seguirá el procedimiento correspondiente.
+3)El Ministerio Fiscal estará vinculado por su contenido y el caso seguirá el procedimiento correspondiente.
+4)El Ministerio Fiscal no estará vinculado por su contenido y el caso seguirá el procedimiento correspondiente.
+Respuesta: 4
+Correcta: ¡Correcto! El Ministerio Fiscal no queda vinculado por su contenido y la causa proseguirá según lo establecido.
+Errada: Incorrecto. En caso de incomparecencia del acusado, el Ministerio Fiscal no queda vinculado por su propuesta de pena y el caso continuará por el cauce adecuado. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al art. 803 LECRIM, ¿en qué plazo debe dictarse la sentencia del recurso de apelación?
+1)En los cinco días posteriores a la vista, o tres días después de recibir las actuaciones si no hay vista.
+2)En los tres días posteriores a la vista, o cinco días después de recibir las actuaciones si no hay vista.
+3)En los dos días posteriores a la vista, o siete días después de recibir las actuaciones si no hay vista.
+4)En los diez días posteriores a la vista, o cinco días después de recibir las actuaciones si no hay vista.
+Respuesta: 2
+Correcta: ¡Correcto! La sentencia se dictará en los tres días siguientes a la vista o, en caso de no celebrarse, en los cinco días siguientes a la recepción de las actuaciones.
+Errada: Incorrecto. La sentencia del recurso de apelación debe ser dictada en los tres días siguientes a la vista o, si no se celebra, en los cinco días siguientes a la recepción de las actuaciones. (Respuesta Correcta 2)
+###
+Pregunta: Para que la comparecencia en el proceso por aceptación de decreto pueda celebrarse, el acusado deberá pedir la asignación de un abogado de oficio en el siguiente plazo después de ser notificado del decreto:
+1)Dentro de los dos días hábiles antes de la fecha de la comparecencia.
+2)Dentro de los tres días hábiles antes de la fecha de la comparecencia.
+3)Dentro de los siete días hábiles antes de la fecha de la comparecencia.
+4)Dentro de los cinco días hábiles antes de la fecha de la comparecencia.
+Respuesta: 4
+Correcta: ¡Correcto! El acusado debe solicitar la designación de un abogado de oficio dentro de los cinco días hábiles previos a la comparecencia.
+Errada: Incorrecto. El solicitante debe pedir la designación de un abogado de oficio dentro de los cinco días hábiles antes de la fecha programada para la comparecencia. (Respuesta Correcta 4)
+###
+Pregunta: Cuando el Juez de guardia decida proseguir con el enjuiciamiento rápido y tanto el Fiscal como el acusador particular (si lo hubiere) pidan el sobreseimiento, ¿cuál será la acción del Juez?
+1)En caso de actuación por miedo insuperable, devolverá las actuaciones para calificación y el juicio se suspenderá.
+2)En caso de actuación por miedo insuperable, no devolverá las actuaciones para calificación y el juicio continuará hasta la sentencia.
+3)En caso de actuación por miedo superable, devolverá las actuaciones para calificación y el juicio continuará hasta la sentencia.
+4)En caso de actuación por miedo insuperable, devolverá las actuaciones para calificación y el juicio continuará hasta la sentencia.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez devolverá las actuaciones para calificación y el juicio seguirá hasta la sentencia en casos de actuación por miedo insuperable.
+Errada: Incorrecto. Si las acusaciones piden el sobreseimiento, el Juez devolverá las actuaciones para calificación en casos de actuación por miedo insuperable, y el juicio seguirá hasta la sentencia. (Respuesta Correcta 4)
+###
+Pregunta: Para la aplicación del procedimiento de enjuiciamiento rápido, la Policía Judicial, al conocer un delito con instrucción presumiblemente sencilla, ¿cuándo puede continuar con las investigaciones iniciadas?
+1)Cuando, sin haber detenido o localizado al presunto responsable, sea previsible su pronta identificación y localización.
+2)Cuando, al haber detenido o localizado al presunto responsable, sea previsible su pronta identificación y localización.
+3)Cuando, sin haber detenido o localizado al presunto responsable, no sea previsible su pronta identificación y localización.
+4)Cuando, al haber detenido o localizado al presunto responsable, no sea previsible su pronta identificación y localización.
+Respuesta: 1
+Correcta: ¡Correcto! Las investigaciones pueden continuar si, sin detener o localizar al presunto responsable, es previsible su rápida identificación y localización.
+Errada: Incorrecto. La Policía Judicial puede continuar las investigaciones si es previsible la rápida identificación y localización del presunto responsable, incluso si no ha sido detenido o localizado. (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones respecto a la práctica de pruebas urgentes por el Juez de Guardia, en diligencias urgentes, es incorrecta:
+1)En todo caso, se debe asegurar que las partes puedan contradecir.
+2)La diligencia debe documentarse en un medio que permita la grabación y reproducción de sonido e imagen, o mediante un acta autorizada con la identificación de los participantes.
+3)La prueba debe practicarse en un plazo de tres días.
+4)Para que se considere como prueba en la sentencia, la parte interesada debe solicitar la reproducción de la grabación o la lectura literal de la diligencia durante el juicio oral, según lo estipulado en la LECRIM.
+Respuesta: 3
+Correcta: ¡Correcto! La afirmación de que la prueba debe practicarse en un plazo de tres días es incorrecta.
+Errada: Incorrecto. La opción correcta es que la afirmación "La prueba debe practicarse en un plazo de tres días" es la incorrecta. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 800 de la LECrim, ¿cuándo debe presentar la defensa su escrito de defensa en el procedimiento de enjuiciamiento rápido?
+1)Podrá presentarlo oralmente al inicio del juicio oral o, si lo solicita, en el plazo que el Juez señale dentro de los tres días siguientes.
+2)Podrá presentarlo oralmente al inicio del juicio oral o, si lo solicita, en el plazo que el Juez señale dentro de los cinco días siguientes.
+3)Podrá presentarlo oralmente al inicio del juicio oral o, si lo solicita, en el plazo que el Juez señale dentro de los cuatro días siguientes.
+4)Podrá presentarlo oralmente al inicio del juicio oral o, si lo solicita, en el plazo que el Juez señale dentro de los siete días siguientes.
+Respuesta: 2
+Correcta: ¡Correcto! La defensa puede presentar su escrito de defensa oralmente al inicio del juicio oral o, si lo solicita, en el plazo que el Juez señale dentro de los cinco días siguientes.
+Errada: Incorrecto. La defensa tiene la opción de presentar su escrito de defensa oralmente al abrirse el juicio oral, o, si lo prefiere, solicitar un plazo dentro de los cinco días siguientes que fijará prudencialmente el Juez. (Respuesta Correcta 2)
+###
+Pregunta: Seleccione la opción que describe una condición que impide el inicio del procedimiento de enjuiciamiento rápido según la LECrim.
+1)Cuando el procedimiento involucra la necesidad de ordenar el secreto de las actuaciones según el artículo 302 de la LECrim.
+2)Cuando el procedimiento involucra la necesidad de ordenar el secreto de las actuaciones según el artículo 300 de la LECrim.
+3)Cuando el procedimiento involucra la necesidad de ordenar el secreto de las actuaciones según el artículo 301 de la LECrim.
+4)Cuando el procedimiento involucra la necesidad de ordenar el secreto de las actuaciones según el artículo 303 de la LECrim.
+Respuesta: 1
+Correcta: ¡Correcto! El procedimiento para el enjuiciamiento rápido no se puede iniciar cuando sea procedente acordar el secreto de las actuaciones según el artículo 302 de la LECrim.
+Errada: Incorrecto. El procedimiento para el enjuiciamiento rápido de determinados delitos no puede iniciarse cuando sea necesario acordar el secreto de las actuaciones conforme al artículo 302 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: Después de recibir el atestado policial y cualquier material relacionado, el Juzgado de Guardia puede iniciar diligencias urgentes. ¿Qué tipo de recurso se puede interponer contra este auto?
+1)Recurso de reforma.
+2)Recurso de súplica.
+3)Recurso de apelación.
+4)No se puede interponer ningún recurso.
+Respuesta: 4
+Correcta: ¡Correcto! Contra el auto del Juzgado de Guardia que inicia diligencias urgentes no se puede interponer ningún recurso.
+Errada: Incorrecto. El auto del Juzgado de Guardia que inicia diligencias urgentes no admite recurso alguno. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, ¿el Juez de Guardia puede practicar pruebas de inmediato?
+1)Sí, cuando no haya un riesgo razonable de que no se pueda practicar una prueba en el juicio oral o esto podría causar su suspensión.
+2)Nunca cuando haya un riesgo razonable de que no se pueda practicar una prueba en el juicio oral o esto podría causar su suspensión.
+3)Sí, cuando haya un riesgo razonable de que no se pueda practicar una prueba en el juicio oral o esto podría causar su suspensión.
+4)Sí, cuando haya un riesgo razonable de que se pueda practicar una prueba en el juicio oral y esto podría causar su suspensión.
+Respuesta: 3
+Correcta: ¡Correcto! El Juez de Guardia puede practicar pruebas de inmediato solo cuando haya un riesgo razonable de que una prueba no pueda realizarse durante el juicio oral o pueda causar su suspensión.
+Errada: Incorrecto. El Juez de Guardia puede practicar una prueba de inmediato si hay un riesgo razonable de que no se pueda realizar en el juicio oral o pueda causar su suspensión. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento de enjuiciamiento rápido de ciertos delitos, ¿quiénes están facultados para realizar el análisis de las sustancias confiscadas, en los casos en que dicho análisis sea relevante?
+1)El Instituto de Toxicología, el Instituto de Medicina Legal o el laboratorio pertinente, y nunca la Policía Judicial.
+2)El Instituto de Toxicología, el Instituto de Medicina Legal o el laboratorio pertinente, y en ciertos casos, la Policía Judicial.
+3)El Instituto de Toxicología exclusivamente.
+4)El Instituto de Toxicología, el Instituto de Medicina Legal o el laboratorio pertinente, y siempre la Policía Judicial.
+Respuesta: 2
+Correcta: ¡Correcto! En determinados casos, el análisis puede ser realizado por el Instituto de Toxicología, el Instituto de Medicina Legal, el laboratorio pertinente o incluso la Policía Judicial.
+Errada: Incorrecto. El análisis puede ser llevado a cabo por el Instituto de Toxicología, el Instituto de Medicina Legal, el laboratorio correspondiente o, en determinadas situaciones, la Policía Judicial. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento rápido para ciertos delitos, si el juicio oral no puede celebrarse o concluirse en un solo acto por un motivo justificado, el Juez:
+1)Señalará la fecha más cercana posible para la celebración o continuación del juicio, en un plazo máximo de cinco días.
+2)Señalará la fecha más cercana posible para la celebración o continuación del juicio, en un plazo máximo de diez días.
+3)Señalará la fecha más cercana posible para la celebración o continuación del juicio, en un plazo máximo de quince días.
+4)Señalará la fecha más cercana posible para la celebración o continuación del juicio, en un plazo máximo de veinte días.
+Respuesta: 3
+Correcta: ¡Correcto! El Juez señalará la fecha más cercana posible, pero siempre dentro de los quince días siguientes.
+Errada: Incorrecto. El Juez señalará la fecha más próxima posible para la celebración o continuación del juicio, y siempre dentro de los quince días siguientes. (Respuesta Correcta 3)
+###
+Pregunta: En Diligencias Urgentes, si se ha constituido una acusación particular que ha solicitado la apertura del juicio oral, y el Juez de Guardia ha acordado hacerlo, ambos serán emplazados para presentar sus escritos en un plazo:
+1)Fijo e inamovible de no más de un día.
+2)Fijo e inamovible de no más de tres días.
+3)Fijo e inamovible de no más de cinco días.
+4)Fijo e inamovible de no más de dos días.
+Respuesta: 4
+Correcta: ¡Correcto! Se les emplazará para presentar sus escritos en un plazo inamovible y no mayor a dos días.
+Errada: Incorrecto. El plazo para presentar los escritos es inamovible y no puede ser superior a dos días. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del proceso por aceptación de decreto, ¿qué tipo de recurso es admisible en contra de una sentencia condenatoria?
+1)Recurso de súplica.
+2)No se admite ningún recurso.
+3)Recurso de revisión de oficio.
+4)Recurso de reposición.
+Respuesta: 2
+Correcta: ¡Bien hecho! En el proceso por aceptación de decreto, no se permite presentar recursos contra una sentencia condenatoria.
+Errada: Eso no es correcto. En el proceso por aceptación de decreto, no se permite ningún recurso contra una sentencia condenatoria. (Respuesta Correcta 2)
+###
+Pregunta: Después de que el Ministerio Fiscal emita un decreto proponiendo la imposición de una pena, ¿qué acción sigue?
+1)Se envía al Juzgado de lo Penal para su autorización.
+2)Se envía al Juzgado de Instrucción para su autorización.
+3)Se envía al Juzgado de Violencia sobre la Mujer para su autorización.
+4)Se envía al LAJ para su autorización.
+Respuesta: 2
+Correcta: ¡Correcto! El decreto de propuesta de pena emitido por el Ministerio Fiscal se remite al Juzgado de Instrucción para su autorización.
+Errada: Lo siento, pero eso no es correcto. El decreto de propuesta de pena emitido por el Ministerio Fiscal se envía al Juzgado de Instrucción para obtener su autorización. (Respuesta Correcta 2)
+###
+Pregunta: En los procesos de enjuiciamiento rápido de determinados delitos, ¿bajo qué circunstancia se puede extender el tiempo asignado para realizar y dictar medidas y resoluciones urgentes en el Juzgado de Guardia?
+1)Cuando el servicio de guardia opere continuamente y exceda las veinticuatro horas de duración
+2)Cuando el servicio de guardia no opere continuamente y exceda las veinticuatro horas de duración
+3)Cuando el servicio de guardia no opere continuamente y exceda las doce horas de duración
+4)Cuando el servicio de guardia no opere continuamente y exceda las treinta y seis horas de duración
+Respuesta: 2
+Correcta: ¡Correcto! El plazo puede prorrogarse cuando el servicio de guardia no es constante y su duración es superior a veinticuatro horas.
+Errada: Incorrecto. El plazo se puede extender solo cuando el servicio de guardia no es ininterrumpido y su duración es más de veinticuatro horas. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 796 de la Ley de Enjuiciamiento Criminal, ¿qué actividad no está explícitamente asignada a la Policía Judicial durante el proceso de enjuiciamiento rápido de ciertos delitos?
+1)Conducir una rueda de reconocimiento con el fiscal.
+2)Conducir una rueda de reconocimiento con el abogado.
+3)Conducir una rueda de reconocimiento con el denunciante.
+4)Conducir una rueda de reconocimiento con el acusado.
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 796 no asigna explícitamente a la Policía Judicial la tarea de llevar a cabo una rueda de reconocimiento con el acusado en estos procedimientos.
+Errada: Esa respuesta es incorrecta. De acuerdo con el artículo 796, la Policía Judicial no está expresamente asignada para llevar a cabo ruedas de reconocimiento con el acusado. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento de enjuiciamiento rápido de ciertos delitos, ¿bajo qué circunstancia se reprogramará la fecha para la celebración o continuación del juicio?
+1)Cuando el juez, por una razón válida, determine que el juicio oral no puede iniciar o concluir en un solo acto en el día programado.
+2)Cuando el juez, por una razón inválida, determine que el juicio oral no puede iniciar o concluir en un solo acto en el día programado.
+3)Cuando el juez, por una razón válida, determine que el juicio oral puede iniciar o concluir en un solo acto en el día programado.
+4)Cuando el fiscal, por una razón válida, determine que el juicio oral no puede iniciar o concluir en un solo acto en el día programado.
+Respuesta: 1
+Correcta: ¡Correcto! El juicio se reprogramará cuando el juez, por un motivo justificado, determine que el juicio oral no puede celebrarse o concluir en un solo acto en el día programado.
+Errada: Incorrecto. Se reprogramará el juicio cuando, por un motivo justificado valorado por el juez, el juicio oral no pueda celebrarse o concluir en el día originalmente programado en un solo acto. (Respuesta Correcta 1)
+###
+Pregunta: Para el enjuiciamiento rápido de ciertos delitos, ¿cuánto tiempo tiene la acusación particular para presentar su escrito de acusación?
+1)Un plazo improrrogable no superior a tres días.
+2)Un plazo improrrogable no superior a dos días.
+3)Un plazo improrrogable no superior a cinco días.
+4)Un plazo improrrogable no superior a siete días.
+Respuesta: 2
+Correcta: ¡Bien hecho! La acusación particular tiene un plazo improrrogable no superior a dos días para presentar su escrito de acusación en estos casos.
+Errada: Lo siento, esa respuesta no es correcta. En estos casos, la acusación particular tiene un plazo improrrogable no superior a dos días para presentar su escrito de acusación. (Respuesta Correcta 2)
+###
+Pregunta: En el enjuiciamiento rápido de ciertos delitos, para casos de delito flagrante, ¿cuándo se considera que el delincuente es sorprendido in fraganti?
+1)Cuando es detenido mientras está cometiendo el delito.
+2)Cuando es perseguido inmediatamente después de cometer el delito, y esta persecución es ininterrumpida.
+3)Cuando es detenido inmediatamente después de cometer el delito.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Un delincuente se considera sorprendido in fraganti en cualquier de las situaciones mencionadas.
+Errada: Incorrecto. Un delincuente se considera sorprendido in fraganti en cualquier de las situaciones mencionadas: siendo detenido mientras comete el delito, siendo perseguido inmediatamente después de cometerlo, o siendo detenido inmediatamente después de cometerlo. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, ¿cuál de las siguientes afirmaciones es correcta respecto a la conformidad del acusado?
+1)Si el fiscal y las partes involucradas eligen apelar, el juez declarará la firmeza de la sentencia oralmente en el mismo acto.
+2)Si el fiscal y las partes involucradas eligen no apelar, el juez declarará la firmeza de la sentencia por escrito en el mismo acto.
+3)Si el fiscal y las partes involucradas eligen no apelar, el juez declarará la firmeza de la sentencia oralmente en el mismo acto.
+4)Si el fiscal y las partes involucradas eligen no apelar, el juez declarará la firmeza de la sentencia oralmente a los dos días.
+Respuesta: 3
+Correcta: ¡Correcto! Si todas las partes deciden no apelar, el juez declarará inmediatamente la firmeza de la sentencia durante el mismo procedimiento.
+Errada: Lo siento, esa respuesta no es correcta. La opción correcta es que si el fiscal y las partes deciden no apelar, el juez declarará inmediatamente la firmeza de la sentencia durante el mismo procedimiento. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es la declaración acertada sobre la impugnación de la sentencia emitida por el Juzgado de lo Penal en el proceso para el enjuiciamiento rápido de ciertos delitos?
+1)No se puede presentar un recurso de apelación.
+2)Se puede presentar un recurso de apelación, el cual será tramitado y resuelto con carácter ordinario
+3)Se puede presentar un recurso de apelación, el cual no será tramitado y resuelto con carácter preferente
+4)Se puede presentar un recurso de apelación, el cual será tramitado y resuelto con carácter preferente
+Respuesta: 4
+Correcta: ¡Correcto! Se puede presentar un recurso de apelación, y su tramitación y resolución tendrán carácter preferente en estos casos.
+Errada: Incorrecto. En estos procedimientos, se puede presentar un recurso de apelación, y su tramitación y resolución tendrán carácter preferente. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento de enjuiciamiento rápido para determinados delitos, ¿cómo se llevará a cabo el juicio oral?
+1)Se conducirá según lo estipulado en los artículos 786 a 788 de la LECRIM para el procedimiento abreviado.
+2)Se conducirá según lo estipulado en los artículos 786 a 788 de la LECRIM para el procedimiento ordinario.
+3)Se conducirá según lo estipulado en los artículos 786 a 789 de la LECRIM para el procedimiento abreviado.
+4)Se conducirá según lo estipulado en los artículos 785 a 788 de la LECRIM para el procedimiento ordinario.
+Respuesta: 1
+Correcta: ¡Correcto! El juicio oral se desarrollará conforme a los artículos 786 a 788 de la LECRIM, que se aplican al procedimiento abreviado. (Nota: Art. 802.1 LECrim post-LO 1/2025 remite al enjuiciamiento del abreviado, salvo art. 785).
+Errada: La opción seleccionada no es correcta. El juicio oral en estos casos se guía por lo establecido en los artículos 786 a 788 de la LECRIM, correspondientes al procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: Durante el juicio oral en el procedimiento para el enjuiciamiento rápido de ciertos delitos, una vez se presenta la acusación por parte del Ministerio Fiscal, ¿cuál(es) de las siguientes acciones puede realizar el acusado?
+1)Aceptar los cargos conforme a lo estipulado en la LECRIM.
+2)Presentar su defensa escrita de inmediato o hacerlo de forma oral.
+3)Solicitar tiempo adicional para preparar y presentar su defensa escrita.
+4)Todas las opciones anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! El acusado puede aceptar los cargos, presentar de inmediato su defensa escrita o verbal, o solicitar tiempo adicional para preparar su defensa escrita.
+Errada: La respuesta seleccionada no es correcta. El acusado tiene varias opciones: puede aceptar los cargos, presentar su defensa de manera inmediata (escrita o verbal), o solicitar tiempo extra para preparar y presentar su defensa escrita. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento de enjuiciamiento rápido de ciertos delitos, si el Juez de guardia, tras realizar las diligencias necesarias, considera que los hechos no constituyen un delito o que no se justifica su comisión, ¿qué acción tomará?
+1)Ninguna es correcta.
+2)Decretará el auto correspondiente.
+3)Seguirrá con el procedimiento.
+4)Decretará el sobreseimiento correspondiente.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de guardia decretará el sobreseimiento correspondiente si considera que los hechos no constituyen un delito o no están suficientemente justificados.
+Errada: La respuesta seleccionada no es correcta. El Juez de guardia tomará la decisión de decretar el sobreseimiento correspondiente si entiende que los hechos no constituyen un delito o que no están debidamente justificados. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué situaciones no se utilizará el procedimiento para el enjuiciamiento rápido de ciertos delitos?
+1)Cuando el proceso penal se inicie basado en una querella.
+2)Cuando no se necesite mantener en secreto las actuaciones.
+3)Cuando el proceso penal se inicie basado en un atestado policial.
+4)Cuando se necesite mantener en secreto las actuaciones.
+Respuesta: 4
+Correcta: ¡Bien hecho! El procedimiento para el enjuiciamiento rápido no se aplicará cuando sea necesario mantener en secreto las actuaciones.
+Errada: La respuesta seleccionada no es correcta. El procedimiento de enjuiciamiento rápido no se empleará en situaciones donde sea esencial mantener en secreto las actuaciones del caso. (Respuesta Correcta 4)
+###
+Pregunta: Seleccione la afirmación incorrecta acerca del procedimiento para el enjuiciamiento rápido de determinados delitos:
+1)Para que un delito se clasifique como flagrante, el delincuente debe ser atrapado en el acto de cometerlo.
+2)Se aplica a la instrucción y juicio de delitos con penas distintas a la privativa de libertad, con una duración máxima de dos años.
+3)Se aplica a la instrucción y juicio de delitos con pena privativa de libertad no mayor a cinco años.
+4)Este procedimiento no se aplica en casos donde se debe mantener el secreto de las actuaciones.
+Respuesta: 1
+Correcta: ¡Correcto! La afirmación incorrecta es que un delito debe clasificarse como flagrante solo si el delincuente es atrapado en el acto de cometerlo.
+Errada: La respuesta seleccionada no es correcta. La afirmación incorrecta es aquella que dice que un delito debe clasificarse como flagrante únicamente si el delincuente es atrapado en el acto de cometerlo. (Respuesta Correcta 1)
+###
+Pregunta: Si la Policía Judicial tiene conocimiento de un hecho que califica para el enjuiciamiento rápido de delitos según la LECRIM, y si el presunto responsable no ha sido detenido o localizado pero se anticipa una identificación y localización rápida, ¿cuál es el procedimiento adecuado?
+1)Ninguna es correcta.
+2)La Policía Judicial informará inmediatamente al juez de guardia y al Ministerio Fiscal sobre el hecho y la continuación de las investigaciones.
+3)Se continuarán las investigaciones, documentando los resultados en un único atestado y enviándolo al juzgado de guardia en un máximo de 5 días.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Se deben continuar las investigaciones y documentar los resultados en un atestado, informando también al juez de guardia y al Ministerio Fiscal.
+Errada: La opción seleccionada no es correcta. La Policía Judicial debe continuar con las investigaciones, documentar los resultados en un atestado e informar tanto al juez de guardia como al Ministerio Fiscal. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 796.1.4ª de la LECRIM, en el procedimiento para el enjuiciamiento rápido de ciertos delitos, ¿a quién corresponde citar a los testigos ante el Juzgado de Guardia?
+1)A la Policía Judicial.
+2)A la Policía Nacional.
+3)Al Ministerio Fiscal.
+4)A la Policía Local.
+Respuesta: 1
+Correcta: ¡Correcto! La citación de testigos ante el Juzgado de Guardia es responsabilidad de la Policía Judicial.
+Errada: La opción seleccionada no es correcta. La citación de los testigos ante el Juzgado de Guardia en estos casos es tarea de la Policía Judicial. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿en cuánto tiempo se debe documentar formalmente la propuesta de pena aceptada por el encausado, con todos los efectos de una sentencia condenatoria?
+1)Un día.
+2)Tres días.
+3)Cuatro días.
+4)Siete días.
+Respuesta: 2
+Correcta: ¡Bien hecho! La propuesta de pena aceptada por el encausado se documentará en un plazo de tres días con todos los efectos de una sentencia condenatoria.
+Errada: La respuesta seleccionada no es correcta. La propuesta de pena aceptada debe ser documentada en un plazo de tres días con todos los efectos de una sentencia condenatoria. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, cuando el juez de guardia considera que el acto que inició las diligencias es un delito leve, ¿cuál es el curso de acción apropiado?
+1)Procederá con el enjuiciamiento inmediato conforme al procedimiento estipulado para delitos graves.
+2)Procederá con el enjuiciamiento inmediato conforme al procedimiento ordinario.
+3)Procederá con el enjuiciamiento inmediato conforme al procedimiento por aceptación de decreto.
+4)Procederá con el enjuiciamiento inmediato conforme al procedimiento estipulado para delitos leves.
+Respuesta: 4
+Correcta: ¡Bien hecho! El juez procederá al enjuiciamiento inmediato conforme al procedimiento establecido para delitos leves.
+Errada: Respuesta equivocada. En caso de un delito leve, el juez de guardia procederá inmediatamente con el enjuiciamiento según lo establecido para estos delitos. (Respuesta Correcta 4)
+###
+Pregunta: Después de concluir la vista en el procedimiento para el enjuiciamiento rápido de delitos determinados, ¿cuánto tiempo tiene el juez para emitir una sentencia según la Ley de Enjuiciamiento Criminal?
+1)Dos días.
+2)Cuatro días.
+3)Quince días.
+4)Tres días.
+Respuesta: 4
+Correcta: ¡Correcto! La Ley de Enjuiciamiento Criminal estipula un plazo de tres días para dictar sentencia tras concluir la vista.
+Errada: Respuesta incorrecta. La sentencia debe dictarse en un plazo de tres días después de finalizar la vista según la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso por aceptación de decreto, si el acusado asiste sin abogado, ¿qué acción toma el juez?
+1)El juez suspende la comparecencia, de acuerdo con el artículo 746, y programa una nueva fecha.
+2)El juez suspende la comparecencia, de acuerdo con el artículo 745, y programa una nueva fecha.
+3)El juez suspende la comparecencia, de acuerdo con el artículo 747, y programa una nueva fecha.
+4)El juez suspende la comparecencia, de acuerdo con el artículo 748, y programa una nueva fecha.
+Respuesta: 1
+Correcta: ¡Bien! El juez suspenderá la comparecencia y programará una nueva fecha si el acusado comparece sin abogado.
+Errada: La opción seleccionada es incorrecta. El juez suspenderá la comparecencia y reprogramará si el acusado se presenta sin letrado. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, si se decide continuar y se solicita la apertura del juicio oral por el Fiscal o la acusación particular, ¿qué acción realiza el Juez de guardia?
+1)El juez emitirá un auto motivado para abrir el juicio oral.
+2)Si el hecho no constituye un delito o no hay indicios de criminalidad contra el acusado, se acordará el sobreseimiento correspondiente.
+3)Ninguna es correcta.
+4)Ambas son Correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de guardia emitirá un auto motivado para abrir el juicio oral o acordará el sobreseimiento correspondiente en los casos necesarios.
+Errada: La opción seleccionada es incorrecta. El Juez de guardia puede emitir un auto motivado para abrir el juicio oral o acordar el sobreseimiento correspondiente si es necesario. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento para el enjuiciamiento rápido de determinados delitos, una vez que se ha dictado una sentencia de conformidad y se han llevado a cabo las actuaciones requeridas por la LECRIM, ¿quién tiene la responsabilidad de decidir sobre la liberación o encarcelamiento del condenado?
+1)El Ministerio Fiscal.
+2)El Juez de lo Penal.
+3)El Juez de Instrucción.
+4)El Juez de guardia.
+Respuesta: 4
+Correcta: ¡Correcto! La competencia para decidir sobre la puesta en libertad o el ingreso en prisión del condenado recae en el Juez de guardia.
+Errada: Respuesta incorrecta. La competencia recae en el Juez de guardia para decidir sobre la puesta en libertad o el ingreso en prisión del condenado. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, cuando la Policía Judicial continua las investigaciones, esperando identificar y localizar rápidamente al presunto responsable, ¿quién tiene la instrucción del caso según la LECRIM?
+1)El Juzgado de lo Penal que ha recibido el atestado policial tiene la instrucción de manera exclusiva.
+2)El Juzgado de guardia que ha recibido el atestado policial tiene la instrucción de manera exclusiva.
+3)El Juzgado de Instrucción que ha recibido el atestado policial tiene la instrucción de manera exclusiva.
+4)El Juzgado de guardia que ha recibido el atestado policial nunca tiene la instrucción de manera exclusiva.
+Respuesta: 2
+Correcta: ¡Bien hecho! La instrucción del caso es responsabilidad exclusiva del Juzgado de guardia que recibió el atestado policial.
+Errada: Respuesta equivocada. El Juzgado de guardia que recibió el atestado policial tiene la responsabilidad exclusiva de la instrucción del caso. (Respuesta Correcta 2)
+###
+Pregunta: Para proceder con el proceso por aceptación de decreto, ¿cuál de los siguientes requisitos es necesario?
+1)El Ministerio Fiscal debe considerar que la pena aplicable específicamente es una multa, trabajos en beneficio de la comunidad o, en su caso, privación del derecho a conducir.
+2)Todas son correctas.
+3)El delito debe ser castigado con multa, trabajos en beneficio de la comunidad, o con prisión no mayor a un año (que pueda ser suspendida conforme al artículo 80 del Código Penal), con o sin privación del derecho a conducir.
+4)No debe haber acusación popular o particular presente en el caso.
+Respuesta: 2
+Correcta: ¡Correcto! Todos los elementos mencionados son requisitos necesarios para proceder con el proceso por aceptación de decreto.
+Errada: Respuesta incorrecta. Todos los elementos mencionados son necesarios para proceder con el proceso por aceptación de decreto. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo al artículo 799 de la LECRIM, en partidos judiciales donde el servicio de guardia no es permanente y dura más de 24 horas, ¿cuánto tiempo puede prorrogar el Juez para practicar y adoptar diligencias urgentes si el atestado se recibió dentro de las 48 horas previas a la finalización del servicio de guardia?
+1)Setenta y dos horas si el atestado fue recibido 12 horas antes de finalizar el servicio de guardia.
+2)Setenta y dos horas si el atestado fue recibido 24 horas antes de finalizar el servicio de guardia.
+3)Setenta y dos horas si el atestado fue recibido 48 horas antes de finalizar el servicio de guardia.
+4)Setenta y dos horas si el atestado fue recibido 36 horas antes de finalizar el servicio de guardia.
+Respuesta: 3
+Correcta: ¡Correcto! El Juez puede prorrogar por 72 horas en casos donde el atestado se recibió dentro de las 48 horas previas al término del servicio de guardia.
+Errada: Incorrecto. La prorroga es de 72 horas para atestados recibidos dentro de las 48 horas anteriores a la finalización del servicio de guardia. (Respuesta Correcta 3)
+###
+Pregunta: Dentro de las especialidades para impugnar la sentencia en el procedimiento de enjuiciamiento rápido de determinados delitos, ¿cuál afirmación es incorrecta?
+1)La sentencia debe ser dictada en los cinco días posteriores a la vista.
+2)La tramitación y resolución de este recurso tiene carácter preferente.
+3)Hay un plazo de cinco días para presentar alegaciones para partes que no impugnaron la sentencia.
+4)El escrito de formalización debe presentarse en un plazo de cinco días.
+Respuesta: 1
+Correcta: ¡Correcto! La afirmación incorrecta es que la sentencia debe ser dictada en los cinco días posteriores a la vista (el plazo es de tres días, según el artículo 802.3 LECrim).
+Errada: Incorrecto. La afirmación que no es correcta es que la sentencia debe ser dictada en los cinco días posteriores a la vista. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿cuál de las siguientes afirmaciones sobre la comparecencia del encausado es incorrecta?
+1)El Letrado de la Administración de Justicia verifica si el encausado entiende el decreto propuesto y sus consecuencias, con su abogado presente.
+2)El encausado debe comparecer en el Juzgado de Instrucción con un abogado para aceptar la propuesta del Ministerio Fiscal.
+3)Si el encausado no comparece, el decreto propuesto queda sin efecto.
+4)La comparecencia se grabará íntegramente mediante medios audiovisuales, documentándose de acuerdo a las reglas generales en caso de imposibilidad material.
+Respuesta: 1
+Correcta: ¡Correcto! La afirmación incorrecta es que el Letrado de la Administración de Justicia verifica si el encausado comprende el decreto propuesto y sus consecuencias, con su abogado presente. Esta función corresponde al Juez o Tribunal (art. 787.2 LECrim).
+Errada: Incorrecto. La declaración que no es correcta es que el Letrado de la Administración de Justicia verifica si el encausado comprende el decreto propuesto y sus consecuencias, con su abogado presente. (Respuesta Correcta 1)
+###
+Pregunta: En relación con el proceso por aceptación de decreto, ¿qué pena puede proponer el Ministerio Fiscal?
+1)Puede proponer una pena de multa o trabajos en beneficio de la comunidad, y, en su caso, privación del derecho a conducir, reducida hasta en una cuarta de la legalmente prevista, aunque imponga una pena inferior al mínimo del Código Penal.
+2)Puede proponer una pena de multa o trabajos en beneficio de la comunidad, y, en su caso, privación del derecho a conducir, reducida hasta en un tercio de la legalmente prevista, aunque imponga una pena inferior al mínimo del Código Penal.
+3)Puede proponer una pena de multa o trabajos en beneficio de la comunidad, y, en su caso, privación del derecho a conducir, reducida hasta la mitad de la legalmente prevista, aunque imponga una pena inferior al mínimo del Código Penal.
+4)Puede proponer una pena de multa o trabajos en beneficio de la comunidad, y, en su caso, privación del derecho a conducir, reducida hasta en un quinto de la legalmente prevista, aunque imponga una pena inferior al mínimo del Código Penal.
+Respuesta: 2
+Correcta: ¡Correcto! El Ministerio Fiscal puede proponer una pena reducida hasta en un tercio de lo legalmente previsto, incluso si es inferior al mínimo establecido por el Código Penal.
+Errada: Incorrecto. El Ministerio Fiscal tiene la facultad de proponer penas reducidas hasta en un tercio de lo legalmente establecido, incluso si estas son inferiores al mínimo previsto en el Código Penal. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 796 de la LECRIM en el procedimiento para el enjuiciamiento rápido de determinados delitos, ¿en qué plazo debe la Policía Judicial practicar diligencias?
+1)En un tiempo esencial y, nunca, durante el periodo de detención.
+2)En un tiempo esencial y, siempre, durante el periodo de detención.
+3)En un tiempo esencial y en un máximo de dos días desde la detención.
+4)En un tiempo esencial y en un máximo de cinco días desde la detención.
+Respuesta: 2
+Correcta: ¡Correcto! La Policía Judicial debe practicar diligencias en un tiempo esencial y, siempre, durante el periodo de detención.
+Errada: Incorrecto. La Policía Judicial está obligada a practicar diligencias en un tiempo esencial y siempre durante el periodo de detención. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del procedimiento para el enjuiciamiento rápido de determinados delitos, conforme al artículo 797 de la LECRIM, identifica la diligencia que el Juzgado de Guardia no puede practicar.
+1)Solicitar antecedentes penales del detenido o investigado de forma rápida.
+2)Realizar reconocimiento en rueda del investigado, si es pertinente y el testigo ha comparecido.
+3)Ordenar careos necesarios entre testigos, o entre testigos e investigados, o entre los investigados.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las diligencias mencionadas están contempladas en el artículo 797 de la LECRIM.
+Errada: Incorrecto. Todas las diligencias enumeradas están contempladas en el artículo 797 de la LECRIM para ser practicadas por el Juzgado de Guardia en el procedimiento para el enjuiciamiento rápido de determinados delitos. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, una vez abierto el juicio oral, ¿cuál es el plazo para que el Ministerio Fiscal presente su escrito de acusación?
+1)De inmediato si no hay acusación particular o en un plazo improrrogable no superior a 3 días si hay acusación particular.
+2)De inmediato si no hay acusación particular o en un plazo improrrogable no superior a 5 días si hay acusación particular.
+3)De inmediato si no hay acusación particular o en un plazo improrrogable no superior a 4 días si hay acusación particular.
+4)De inmediato si no hay acusación particular o en un plazo improrrogable no superior a 2 días si hay acusación particular.
+Respuesta: 4
+Correcta: ¡Correcto! El Ministerio Fiscal debe presentar su escrito de acusación de inmediato si no hay acusación particular, o dentro de un plazo improrrogable de 2 días si existe acusación particular.
+Errada: Incorrecto. El Ministerio Fiscal tiene que presentar su escrito de acusación de inmediato si no existe acusación particular, o en un plazo improrrogable de 2 días si hay acusación particular. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿qué elemento NO se incluye en el decreto de propuesta de imposición de pena emitido por el Ministerio Fiscal?
+1)Identificación del investigado y de la acusación particular.
+2)Peticiones de restitución e indemnización, si proceden.
+3)Breve exposición de los motivos por los que, en su caso, la pena de prisión debería ser sustituida.
+4)Ninguna se incluye.
+Respuesta: 1
+Correcta: ¡Correcto! El decreto de propuesta de imposición de pena no incluye la identificación de la acusación particular (art. 803 bis.b.2º LECrim).
+Errada: Incorrecto. El elemento que no se incluye en el decreto de propuesta de imposición de pena emitido por el Ministerio Fiscal es la identificación de la acusación particular. (Respuesta Correcta 1)
+###
+Pregunta: En el artículo 795 de la LECRIM, que regula el ámbito de aplicación del procedimiento para el enjuiciamiento rápido de determinados delitos, ¿cuál de las siguientes condiciones NO está prevista?
+1)El proceso penal comienza a partir de un atestado policial.
+2)La pena privativa de libertad no sea superior a cinco años, o pena de multa o de otra naturaleza, bien sean únicas, conjuntas o alternativas, que no exceda de diez años.
+3)Se trata de delitos flagrantes o con instrucción presumiblemente sencilla, según el art. 795.1.1ª LECrim.
+4)La Policía Judicial ha citado a una persona como testigo sin detenerla o ha puesto a disposición del Juzgado de guardia a un detenido.
+Respuesta: 4
+Correcta: ¡Correcto! La condición prevista en la ley es que el detenido haya sido puesto a disposición del juzgado de guardia o haya sido citado como denunciado/investigado para comparecer ante el Juzgado de guardia.
+Errada: Incorrecto. La condición no prevista es que el procedimiento para el enjuiciamiento rápido de determinados delitos se aplique cuando la Policía Judicial ha citado a una persona como testigo sin detenerla. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento para el enjuiciamiento rápido de determinados delitos, ¿a qué investigación y enjuiciamiento no se aplicará este procedimiento?
+1)Un delito de lesiones leves.
+2)Un delito de hurto y robo de uso de vehículos que sea conexo con un delito de extorsión.
+3)Un delito de hurto.
+4)Un delito de amenazas.
+Respuesta: 2
+Correcta: ¡Correcto! El procedimiento para el enjuiciamiento rápido de determinados delitos no se aplicará en el caso de un delito de hurto y robo de uso de vehículos que sea conexo con un delito de extorsión, ya que uno de los delitos conexos no está incluido en el catálogo del art. 795.
+Errada: Incorrecto. El procedimiento rápido no se aplica al enjuiciamiento de un delito de hurto y robo de uso de vehículos que sea conexo con un delito de extorsión. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿para qué tipo de acción penal ejercitada se destina este procedimiento?
+1)Todas son correctas.
+2)Para imponer una pena de multa o trabajos en beneficio de la comunidad exclusivamente.
+3)Para imponer una pena de prisión que no exceda de un año o una pena de multa o trabajos en beneficio de la comunidad.
+4)Para imponer una pena de multa o trabajos en beneficio de la comunidad y, en su caso, de privación del derecho a conducir vehículos a motor y ciclomotores
+Respuesta: 4
+Correcta: ¡Correcto! El proceso por aceptación de decreto se destina para imponer una pena de multa o trabajos en beneficio de la comunidad, y, si es necesario, de privación del derecho a conducir vehículos a motor y ciclomotores.
+Errada: Incorrecto. El proceso por aceptación de decreto se utiliza para imponer una pena de multa o trabajos en beneficio de la comunidad, y, en su caso, de privación del derecho a conducir vehículos a motor y ciclomotores. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento para el enjuiciamiento rápido de determinados delitos, cuando se inicia el proceso, el Juzgado de guardia practica varias diligencias urgentes. ¿Cuál de las siguientes no está entre ellas?
+1)Ordenar la citación de miembros de las Fuerzas y Cuerpos de Seguridad que hayan participado en el atestado y cuya declaración figure en este.
+2)Ordenar la citación de miembros de las Fuerzas y Cuerpos de Seguridad que hayan participado en el atestado y cuya declaración no figure en este.
+3)Ordenar la citación de miembros de las Fuerzas y Cuerpos de Seguridad que hayan participado en el atestado, sin excepción.
+4)Ordenar la citación de miembros de las Fuerzas y Cuerpos de Seguridad que no hayan participado en el atestado y cuya declaración figure en este.
+Respuesta: 1
+Correcta: ¡Correcto! Ordenar la citación de los miembros de las Fuerzas y Cuerpos de Seguridad que participaron en el atestado, pero cuya declaración ya figura en este, no es una diligencia urgente practicada por el Juzgado de guardia en este procedimiento.
+Errada: Incorrecto. La diligencia que no se practica es ordenar la citación de los miembros de las Fuerzas y Cuerpos de Seguridad cuya declaración ya está en el atestado. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿qué ocurre si el encausado no se presenta o rechaza la propuesta del Ministerio Fiscal?
+1)La propuesta del Ministerio Fiscal queda sin efecto cuando se rechaza total o parcialmente respecto a las penas o a la restitución o indemnización.
+2)La propuesta del Ministerio Fiscal queda con efecto cuando se rechaza total o parcialmente respecto a las penas o a la restitución o indemnización.
+3)La propuesta del Ministerio Fiscal queda sin efecto cuando se rechaza total respecto a las penas o a la restitución o indemnización.
+4)La propuesta del Ministerio Fiscal queda sin efecto cuando se rechaza total o parcialmente respecto a las penas, pero no respecto a la restitución o indemnización.
+Respuesta: 1
+Correcta: ¡Correct! La propuesta del Ministerio Fiscal queda sin efecto cuando se rechaza total o parcialmente respecto a las penas o a la restitución o indemnización.
+Errada: La respuesta Correcta es la 1: La propuesta del Ministerio Fiscal queda sin efecto cuando se rechaza total o parcialmente respecto a las penas o a la restitución o indemnización. (Respuesta Correcta 1)
+###
+Pregunta: Dentro del procedimiento para el enjuiciamiento rápido de determinados delitos, ¿cuál de las siguientes afirmaciones NO es correcta con respecto a lo establecido en el artículo 803 de la LECrim sobre la impugnación de la sentencia?
+1)La sentencia debe dictarse en los tres días siguientes a la celebración de la vista.
+2)El escrito de formalización del recurso de apelación debe presentarse en el plazo de cinco días.
+3)La tramitación y resolución de la apelación tiene carácter preferente.
+4)Las demás partes pueden presentar un escrito de alegaciones en un plazo máximo de tres días.
+Respuesta: 4
+Correcta: ¡Correcto! Las demás partes pueden presentar un escrito de alegaciones en un plazo máximo de cinco días (Art. 803.1 LECrim).
+Errada: Respuesta Correcta 4: Las demás partes pueden presentar un escrito de alegaciones en un plazo máximo de tres días. (Respuesta Correcta 4)
+###
+Pregunta: En un juicio rápido sin acusación particular el acusado se conforma con la pena de multa solicitada por el Ministerio Fiscal ante el Juez o Jueza de Guardia, ¿qué acción tomará el Juez o Jueza de Guardia?
+1)Dictará sentencia de conformidad reduciendo en un tercio la pena solicitada por el Ministerio Fiscal.
+2)Dictará sentencia de conformidad reduciendo en un quinto la pena solicitada por el Ministerio Fiscal.
+3)Dictará sentencia de conformidad reduciendo a la mitad la pena solicitada por el Ministerio Fiscal.
+4)Dictará sentencia de conformidad con la pena solicitada por el Ministerio Fiscal.
+Respuesta: 1
+Correcta: ¡Correcto! Dictará sentencia de conformidad reduciendo en un tercio la pena solicitada por el Ministerio Fiscal (art. 801.3 LECrim).
+Errada: Respuesta Correcta 1: Dictará sentencia de conformidad reduciendo en un tercio la pena solicitada por el Ministerio Fiscal. (Respuesta Correcta 1)
+###
+Pregunta: Si la competencia del enjuiciamiento rápido corresponde a la Sección de Violencia sobre la Mujer del Tribunal de Instancia (art. 14.5 LECrim post-LO 1/2025), ¿a disposición de qué órgano debe ser puesto el detenido cuando no sea posible su presentación ante la Sección competente?
+1)Del Juzgado de Instrucción de Guardia, solo para regularizar su situación personal, cuando no sea posible su presentación ante el Juzgado de Violencia competente.
+2)Del Juzgado de Instrucción de Guardia, nunca para regularizar su situación personal, cuando no sea posible su presentación ante el Juzgado de Violencia competente.
+3)Del Juzgado de Instrucción de Guardia, siempre para regularizar su situación personal, cuando sea posible su presentación ante el Juzgado de Violencia competente.
+4)Del Juzgado de Instrucción de Guardia, solo para regularizar su situación personal, cuando sea posible su presentación ante el Juzgado de Violencia competente.
+Respuesta: 1
+Correcta: ¡Correcto! Del Juzgado de Instrucción de Guardia, solo para regularizar su situación personal, cuando no sea posible su presentación ante el Juzgado de Violencia competente (art. 798.5 LECrim).
+Errada: La respuesta correcta es la 1: Del Juzgado de Instrucción de Guardia, solo para regularizar su situación personal, cuando no sea posible su presentación ante el Juzgado de Violencia competente. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, si el Juez o la Jueza de Guardia considera suficientes las diligencias practicadas, ¿qué acción tomará?
+1)Dictará un auto general oral que no deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento.
+2)Dictará un auto general por escrito que deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento.
+3)Dictará un auto general oral que no deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento.
+4)Dictará un auto general oral que deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento.
+Respuesta: 4
+Correcta: ¡Correcto! Dictará un auto general oral que deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento (art. 798.2 LECrim).
+Errada: La respuesta correcta es la 4: Dictará un auto general oral que deberá documentarse y no será susceptible de recurso alguno, ordenando seguir el procedimiento. (Respuesta Correcta 4)
+###
+Pregunta: Para el procedimiento acelerado de ciertos delitos, cuando la jurisdicción recae en la Sección de Violencia sobre la Mujer del Tribunal de Instancia (art. 796.1 LECrim post-LO 1/2025), ¿qué es lo que la Policía Judicial tiene que hacer en relación con las citaciones?
+1)Está obligada a hacer las citaciones ante el Policia Judicial.
+2)Está obligada a hacer las citaciones ante la Sección de Violencia sobre la Mujer.
+3)Está obligada a hacer las citaciones ante el Juzgado de Instrucción.
+4)Está obligada a hacer las citaciones ante el Juzgado de lo Penal.
+Respuesta: 2
+Correcta: ¡Correcto! La Policía Judicial debe realizar las citaciones según el artículo 796 LECRIM ante el Juzgado de Violencia sobre la Mujer. Tras la LO 1/2025, se entiende referida a la Sección de Violencia sobre la Mujer del Tribunal de Instancia.
+Errada: La respuesta correcta es que la Policía Judicial está obligada a hacer las citaciones ante el Juzgado de Violencia sobre la Mujer según el artículo 796 LECRIM. (Respuesta Correcta 2)
+###
+Pregunta: En las acciones llevadas a cabo ante el Juzgado de Guardia en el procedimiento rápido para ciertos delitos:
+1)El abogado designado para defender no tiene la autorización legal para representar a su defendido.
+2)El abogado designado para defender tiene también la autorización reglamentaria para representar a su defendido.
+3)El abogado designado para defender tiene también la autorización legal para representar a su defendido.
+4)El abogado designado para defender tiene también la autorización judicial para representar a su defendido.
+Respuesta: 3
+Correcta: ¡Bien hecho! En este procedimiento, el abogado designado para la defensa tiene también autorización legal para representar a su cliente.
+Errada: Lo siento, esa no es la respuesta correcta. El abogado designado para defender tiene también la autorización legal para representar a su defendido. (Respuesta Correcta 3)
+###
+Pregunta: Respecto al auto del Juzgado de Guardia que inicia diligencias urgentes en el proceso rápido de ciertos delitos:
+1)Se puede presentar un recurso de súplica.
+2)Se puede presentar un recurso de reforma.
+3)No se puede presentar ningún recurso.
+4)Se puede presentar un recurso de reposición.
+Respuesta: 3
+Correcta: ¡Exacto! No se puede presentar ningún recurso contra el auto del Juzgado de Guardia que inicia estas diligencias.
+Errada: Lo siento, esa no es la respuesta correcta. La correcta es que no se puede presentar ningún recurso contra ese auto. (Respuesta Correcta 3)
+###
+Pregunta: Dentro del marco del procedimiento para el enjuiciamiento rápido de ciertos delitos, ¿qué ventaja obtiene el acusado al dar su conformidad ante el Juez o Jueza de Guardia?
+1)Descuento de un quinto en la pena propuesta, incluso si ello implica una pena por debajo del mínimo establecido en el Código Penal.
+2)Descuento de un tercio en la pena propuesta, pero eso no implica una pena por debajo del mínimo establecido en el Código Penal.
+3)Descuento de un cuarto en la pena propuesta, pero eso no implica una pena por debajo del mínimo establecido en el Código Penal.
+4)Descuento de un tercio en la pena propuesta, incluso si ello implica una pena por debajo del mínimo establecido en el Código Penal.
+Respuesta: 4
+Correcta: ¡Bien hecho! La respuesta correcta es D: el acusado obtiene una reducción de un tercio en la pena propuesta, incluso si esta es inferior al mínimo establecido en el Código Penal (art. 801.3 LECrim).
+Errada: Lo siento, la respuesta correcta es D. El acusado recibe una rebaja de un tercio en la pena propuesta, incluso si esta es menor al mínimo establecido en el Código Penal. (Respuesta Correcta 4)
+###
+Pregunta: Según la LECRIM, si el Instituto de Toxicología o el correspondiente no puede enviar a tiempo los resultados del análisis de las sustancias incautadas por la Policía Judicial al Juzgado de guardia, ¿qué ocurre?
+1)La Policía Judicial necesita la autorización judicial correspondiente.
+2)La Policía Judicial tiene la opción de efectuar dicho análisis por sí misma, asegurando la supervisión judicial correspondiente.
+3)La Policía Judicial no tiene la opción de efectuar dicho análisis por sí misma.
+4)La Policía Judicial tiene la opción de efectuar dicho análisis por sí misma, sin la supervisión judicial correspondiente.
+Respuesta: 2
+Correcta: ¡Excelente! La respuesta correcta es B: En caso de retraso, la Policía Judicial puede optar por hacer el análisis, siempre bajo la adecuada supervisión judicial.
+Errada: Lamentablemente, esa no es la respuesta correcta. La opción B es la correcta, indicando que la Policía Judicial puede efectuar el análisis si es necesario, siempre con el debido control judicial. (Respuesta Correcta 2)
+###
+Pregunta: ¿Bajo qué circunstancias procederá la Policía Judicial a convocar al denunciado en el informe policial para presentarse en el Juzgado de Guardia en el proceso de juicio rápido por ciertos delitos?
+1)Cuando este en sede judicial.
+2)Cuando no se haya realizado su arresto.
+3)Bajo cualquier circunstancia.
+4)Cuando se haya realizado su arresto.
+Respuesta: 2
+Correcta: ¡Correcto! La Policía Judicial procederá a citar al denunciado cuando no se haya efectuado su detención.
+Errada: Lo siento, esa no es la respuesta adecuada. La correcta es la opción B, "Cuando no se haya realizado su arresto". (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué determinación toma el Juez de Guardia cuando, según el artículo 798 de la LECrim, estima que las acciones llevadas a cabo en el juicio rápido por ciertos delitos son insuficientes?
+1)Dictará que el proceso avance como diligencias iniciales del juicio ordinario.
+2)Dictará que el proceso avance como diligencias iniciales del juicio rápido.
+3)Dictará que el proceso avance como diligencias iniciales del juicio abreviado.
+4)Dictará que el proceso avance como diligencias iniciales del juicio sumario.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Juez de Guardia decidirá que el procedimiento avance como diligencias previas del juicio abreviado.
+Errada: Esa no es la respuesta correcta. La decisión correcta es la opción C, "Dictará que el proceso avance como diligencias iniciales del juicio abreviado". (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué situaciones la Policía Judicial convocará al individuo señalado en el informe policial para que se presente ante el Juzgado de Guardia durante el juicio rápido de ciertos delitos?
+1)Siempre.
+2)Cuando no se haya efectuado su arresto.
+3)En delitos flagrantes.
+4)Nunca.
+Respuesta: 2
+Correcta: ¡Exacto! La Policía Judicial convocará al individuo cuando no se haya realizado su detención.
+Errada: Esa no es la opción correcta. La respuesta adecuada es la B, "Cuando no se haya efectuado su arresto". (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es la decisión del Juez o Jueza de Guardia si, según el artículo 798 de la LECrim, considera que las acciones realizadas en el proceso de juicio rápido para ciertos delitos no son adecuadas?
+1)Mandará que el caso prosiga como diligencias previas en el procedimiento abreviado.
+2)Mandará que el caso prosiga como diligencias preliminares en el juicio rápido.
+3)Mandará que el caso prosiga como diligencias preliminares en el juicio sumario.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Muy bien! El Juez de Guardia decidirá que el proceso continúe como diligencias previas del procedimiento abreviado (Art. 798.2 LECrim).
+Errada: Lo siento, esa no es la respuesta adecuada. La opción correcta es la A, "Mandará que el caso prosiga como diligencias previas en el procedimiento abreviado". (Respuesta Correcta 1)
+###
+Pregunta: Durante el proceso de juicio rápido ante el Juzgado de Guardia, ¿qué normas rigen sobre la representación legal?
+1)Solo se necesita procurador.
+2)El abogado designado también puede representar legalmente a su defendido.
+3)La parte puede actuar por sí misma.
+4)Se requiere la intervención de abogado y procurador.
+Respuesta: 2
+Correcta: ¡Muy bien! El abogado designado puede representar legalmente a su defendido.
+Errada: La respuesta correcta es B, "El abogado designado también puede representar legalmente a su defendido". (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo a la LECRIM, si el Instituto de Toxicología o el correspondiente no puede enviar a tiempo los resultados del análisis de las sustancias incautadas por la Policía Judicial al Juzgado de guardia, ¿qué ocurre?
+1)Se le da un plazo de 5 días.
+2)La Policía Judicial puede hacer el análisis bajo supervisión judicial.
+3)La Policía Judicial puede hacer el análisis sin supervisión judicial.
+4)Se detiene el proceso hasta recibir el análisis.
+Respuesta: 2
+Correcta: ¡Exacto! La Policía Judicial puede llevar a cabo el análisis, pero siempre bajo supervisión judicial.
+Errada: La respuesta correcta es B, "La Policía Judicial puede hacer el análisis bajo supervisión judicial". (Respuesta Correcta 2)
+###
+Pregunta: Durante el proceso de enjuiciamiento rápido de ciertos delitos, en relación a la preparación para el juicio oral, ¿cuál afirmación es correcta?
+1)El Juez de guardia no consultará al Ministerio Fiscal sobre la aplicación o confirmación de medidas cautelares.
+2)El Juez de guardia consultará al LAJ sobre la aplicación o confirmación de medidas cautelares.
+3)El Juez de guardia consultará al Ministerio Fiscal sobre la aplicación y confirmación de medidas cautelares.
+4)El Juez de guardia consultará al Ministerio Fiscal sobre la aplicación o confirmación de medidas cautelares.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de guardia consulta al Ministerio Fiscal para tomar una decisión sobre las medidas cautelares.
+Errada: Esa opción no es la adecuada. La respuesta correcta es D, "El Juez de guardia consultará al Ministerio Fiscal sobre la aplicación o confirmación de medidas cautelares". (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, si se ha constituido una acusación particular y el Ministerio Fiscal no presenta el escrito de calificación en el plazo señalado por el artículo 800.4 de la LECrim, ¿cuál será la acción del Juez de guardia?
+1)Solicitará inmediatamente al superior jerárquico del Fiscal que presente el escrito necesario en 3 días.
+2)Solicitará inmediatamente al superior jerárquico del Fiscal que presente el escrito necesario en 2 días.
+3)Solicitará inmediatamente al superior jerárquico del Fiscal que presente el escrito necesario en 5 días.
+4)Solicitará inmediatamente al superior jerárquico del Fiscal que presente el escrito necesario en 7 días.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Juez de guardia requerirá al superior jerárquico del Fiscal para que presente el escrito necesario en un plazo de 2 días.
+Errada: La opción elegida no es correcta. La acción correcta del Juez de guardia es requerir al superior jerárquico del Fiscal para que este presente el escrito pertinente en 2 días. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del procedimiento de enjuiciamiento rápido de ciertos delitos, una vez que la sentencia emitida por el Juzgado de lo Penal ha sido apelada, ¿cuánto tiempo disponen las otras partes para someter un escrito con sus alegaciones?
+1)Cinco días.
+2)Siete días.
+3)Diez días.
+4)Quince días.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las demás partes involucradas tienen un total de cinco días para presentar sus alegaciones mediante un escrito, después de que la sentencia del Juzgado de lo Penal haya sido apelada en el procedimiento para el enjuiciamiento rápido de determinados delitos.
+Errada: La respuesta seleccionada es errónea. El plazo correcto para que las demás partes presenten un escrito de alegaciones es de cinco días tras la apelación de la sentencia dictada por el Juzgado de lo Penal. (Respuesta Correcta 1)
+###
+Pregunta: En el caso de que la Sección de Violencia sobre la Mujer del Tribunal de Instancia (art. 796.1 LECrim post-LO 1/2025) sea competente en un procedimiento de enjuiciamiento rápido, ¿en qué periodo debe la Policía Judicial efectuar las citaciones?
+1)En un lapso máximo de dos días naturales, siguiendo los establecidos reglamentariamente.
+2)En un lapso máximo de siete días naturales, siguiendo los establecidos reglamentariamente.
+3)En el día hábil más cercano estipulado reglamentariamente.
+4)En un lapso máximo de cinco días naturales, siguiendo los establecidos reglamentariamente.
+Respuesta: 3
+Correcta: ¡Correcto! La Policía Judicial debe realizar las citaciones en el día hábil más próximo que esté establecido reglamentariamente en casos donde el procedimiento de enjuiciamiento rápido de determinados delitos sea competencia del Juzgado de Violencia sobre la Mujer.
+Errada: La respuesta elegida no es acertada. El tiempo correcto para que la Policía Judicial realice las citaciones es en el día hábil más cercano según lo fijado reglamentariamente. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento de enjuiciamiento rápido para ciertos delitos, una vez iniciado el juicio oral, ¿qué periodo de tiempo recibe el acusado para presentar su escrito de defensa si lo ha solicitado?
+1)El plazo que prudencialmente establezca el Fiscal, tomando en cuenta el delito imputado y la información desvelada en la investigación.
+2)El plazo que prudencialmente establezca el LAJ, tomando en cuenta el delito imputado y la información desvelada en la investigación.
+3)El plazo que prudencialmente establezca el Juez, tomando en cuenta el delito imputado y la información desvelada en la investigación.
+4)El plazo que prudencialmente establezca el Inspector, tomando en cuenta el delito imputado y la información desvelada en la investigación.
+Respuesta: 3
+Correcta: ¡Exacto! El acusado tiene un plazo determinado prudencialmente por el Juez para presentar su escrito de defensa, considerando el delito imputado y la información que haya emergido durante la investigación.
+Errada: La opción elegida es incorrecta. El plazo para la presentación del escrito de defensa por parte del acusado es establecido prudencialmente por el Juez, considerando el hecho imputado y la información obtenida en la investigación. (Respuesta Correcta 3)
+###
+Pregunta: Durante la incoación del procedimiento para el enjuiciamiento rápido de determinados delitos, ¿quién participa activamente en las diligencias urgentes pertinentes, practicadas en el orden que el Juzgado de Guardia considere más conveniente según la LECRIM y las circunstancias?
+1)El Ministerio Fiscal.
+2)El propio Juez.
+3)El LAJ.
+4)La Policia Nacional.
+Respuesta: 1
+Correcta: ¡Correcto! El Ministerio Fiscal tiene una participación activa en las diligencias urgentes practicadas durante la incoación del procedimiento para el enjuiciamiento rápido de determinados delitos.
+Errada: La opción seleccionada es incorrecta. La respuesta correcta es el Ministerio Fiscal, que tiene un rol activo en las diligencias urgentes que se practican durante la incoación del procedimiento. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso por aceptación de decreto, ¿en qué momento el Juzgado de Instrucción autoriza el decreto de propuesta de pena?
+1)Después de la notificación al encausado, cumpliendo los requisitos del artículo 803 bis a.
+2)Antes de la notificación al encausado, cumpliendo los requisitos del artículo 803 bis b.
+3)Después de la notificación al encausado, cumpliendo los requisitos del artículo 803 bis b.
+4)Antes de la notificación al encausado, cumpliendo los requisitos del artículo 803 bis a.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Juzgado de Instrucción autoriza el decreto antes de notificarlo al encausado, siempre que se cumplan los requisitos establecidos en el artículo 803 bis a.
+Errada: La respuesta elegida no es correcta. El Juzgado de Instrucción autoriza el decreto previamente a su notificación al encausado, siempre y cuando se respeten los requisitos del artículo 803 bis a. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, cuando el investigado no comparece tras ser citado por la Policía Judicial ante el Juzgado de Guardia, ¿qué acción se toma?
+1)La orden de comparecencia no puede transformarse en una orden de detención.
+2)La orden de comparecencia puede transformarse en una orden de detención.
+3)La orden de comparecencia debe transformarse en una orden de detención.
+4)La orden de comparecencia siempre se transformará en una orden de detención.
+Respuesta: 2
+Correcta: ¡Acertado! En caso de no comparecencia del investigado, la orden de comparecencia puede convertirse en una orden de detención.
+Errada: La respuesta seleccionada es errónea. En caso de falta de comparecencia del investigado, la orden de comparecencia puede transformarse en orden de detención. (Respuesta Correcta 2)
+###
+Pregunta: En relación con el procedimiento para el enjuiciamiento rápido de determinados delitos, ¿cómo es el auto que acuerda la apertura del juicio oral?
+1)Es un auto oral y motivado que se documenta, sin posibilidad de interponer recurso.
+2)Es un auto oral y no motivado que se documenta, sin posibilidad de interponer recurso.
+3)Es un auto escrito y motivado que se documenta, con posibilidad de interponer recurso.
+4)Es un auto oral y motivado que no se documenta, con posibilidad de interponer recurso.
+Respuesta: 1
+Correcta: ¡Correcto! El auto que acuerda la apertura del juicio oral es oral, motivado, se documenta y no admite recursos.
+Errada: La opción elegida no es correcta. El auto es oral y motivado, se documenta y no se puede recurrir. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué casos se aplica el procedimiento para el enjuiciamiento rápido de determinados delitos?
+1)Para delitos con pena privativa de libertad no mayor a cinco años o cualquier otra pena con duración máxima de diez años, sean únicas, conjuntas o alternativas.
+2)Para delitos con pena privativa de libertad no mayor a dos años o cualquier otra pena con duración máxima de diez años, sean únicas, conjuntas o alternativas.
+3)Para delitos con pena privativa de libertad no mayor a diez años o cualquier otra pena con duración máxima de diez años, sean únicas, conjuntas o alternativas.
+4)Para delitos con pena privativa de libertad no mayor a siete años o cualquier otra pena con duración máxima de diez años, sean únicas, conjuntas o alternativas.
+Respuesta: 1
+Correcta: ¡Correcto! El procedimiento para el enjuiciamiento rápido se aplica a delitos con penas privativas de libertad que no excedan de cinco años o con otras penas de duración máxima de diez años.
+Errada: La opción seleccionada no es correcta. El procedimiento para el enjuiciamiento rápido se aplica a delitos con penas privativas de libertad que no excedan de cinco años o con otras penas de duración máxima de diez años. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento para el enjuiciamiento rápido de determinados delitos, ¿quién establece el día y la hora de comparecencia para las citaciones mencionadas en el artículo 796.1 LECRIM y de qué manera lo hace?
+1)La Policía Judicial de forma coordinada con el Juzgado de Guardia.
+2)La Policía Judicial de forma coordinada con el Fiscal.
+3)La Policía Judicial de forma coordinada con el Juzgado de Instrucción.
+4)La Policía Judicial de forma coordinada con el Juzgado de lo Penal.
+Respuesta: 1
+Correcta: ¡Correcto! La Policía Judicial, en coordinación con el Juzgado de Guardia, es quien fija el día y la hora de las comparecencias para las citaciones del artículo 796.1 LECRIM.
+Errada: La respuesta seleccionada es incorrecta. La Policía Judicial, coordinándose con el Juzgado de Guardia, establece el día y la hora para las citaciones del artículo 796.1 LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: En cuanto a la aplicación del procedimiento para el enjuiciamiento rápido de determinados delitos según los artículos 795 y siguientes de la Ley de Enjuiciamiento Criminal, identifique la afirmación incorrecta:
+1)Lo no estipulado en la regulación del procedimiento para el enjuiciamiento rápido de determinados delitos no se regirá por el procedimiento ordinario.
+2)Lo estipulado en la regulación del procedimiento para el enjuiciamiento rápido de determinados delitos se regirá por el procedimiento ordinario.
+3)Lo no estipulado en la regulación del procedimiento para el enjuiciamiento rápido de determinados delitos se regirá por el procedimiento verbal.
+4)Lo no estipulado en la regulación del procedimiento para el enjuiciamiento rápido de determinados delitos se regirá por las normas del procedimiento abreviado.
+Respuesta: 4
+Correcta: ¡Correcto! La afirmación incorrecta es que lo no previsto en el procedimiento para el enjuiciamiento rápido se regirá por el procedimiento ordinario. La normativa aplicable supletoriamente es la del procedimiento abreviado (art. 795.2 LECrim).
+Errada: La opción seleccionada no es correcta. Lo que no se regula específicamente en el procedimiento para el enjuiciamiento rápido de determinados delitos no se rige por las normas del procedimiento ordinario. (Respuesta Correcta 4)

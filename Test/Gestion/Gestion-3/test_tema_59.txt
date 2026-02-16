@@ -1,0 +1,674 @@
+Pregunta: En el procedimiento contencioso-administrativo, ¿en qué momento se considera personada a la Administración demandada?
+1)Con la remisión del expediente administrativo.
+2)En el momento en que se reclama el expediente administrativo.
+3)Al contestar a la demanda.
+4)Cuando el Abogado del Estado presenta su escrito de personación.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 49.1 de la LJCA, la Administración demandada se entenderá personada por el envío del expediente.
+Errada: Incorrecto. La respuesta correcta es la A. El artículo 49.1 de la LJCA establece que la personación de la Administración demandada se produce con la remisión del expediente. (Respuesta Correcta 1)
+###
+Pregunta: Indique la opción incorrecta respecto al tiempo estipulado para presentar el recurso contencioso-administrativo:
+1)Para presentar el recurso contencioso-administrativo, se dispondrá de un periodo de dos meses a partir del día siguiente de la publicación de la disposición cuestionada o a la notificación o divulgación del acto que concluye la vía administrativa, si fuese explícito.
+2)El intervalo para presentar un recurso de lesividad es de dos meses desde el día posterior a la declaración de lesividad.
+3)En conflictos entre Administraciones, el intervalo para presentar el recurso contencioso-administrativo es de tres meses, a menos que una Ley disponga de otro periodo.
+4)Si el recurso contencioso-administrativo se interpone contra una acción de facto, el intervalo para presentarlo es de diez días desde el día siguiente a la finalización del tiempo determinado en el artículo 30.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 46.4 de la LJCA establece que el plazo en litigios entre Administraciones es de dos meses, no de tres, salvo que una ley establezca otro plazo.
+Errada: La respuesta correcta es la opción C. El plazo general en litigios entre Administraciones es de dos meses, como indica el artículo 46.4 de la LJCA. (Respuesta Correcta 3)
+###
+Pregunta: En conflictos entre Administraciones Públicas, ¿cuánto tiempo tiene la Administración solicitada para responder a una petición de anulación o revocación de un acto o disposición antes de que se pueda presentar un recurso contencioso-administrativo?
+1)31 días.
+2)Un mes
+3)20 días.
+4)30 días.
+Respuesta: 2
+Correcta: ¡Bien hecho! La Administración solicitada tiene un plazo de un mes para responder, según el art. 44.4 LJCA.
+Errada: Te has equivocado. La respuesta correcta es la opción B. La Administración solicitada tiene un plazo de un mes para responder. (Respuesta Correcta 2)
+###
+Pregunta: Después de revisar el expediente administrativo, el órgano jurisdiccional podrá declarar la inadmisión del recurso si se demuestra:
+1)Que el órgano jurisdiccional no tiene jurisdicción o es incompetente.
+2)Que el demandante no tiene legitimidad para recurrir.
+3)Que se ha presentado un recurso contra una acción que no puede ser impugnada.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El órgano jurisdiccional puede inadmitir el recurso por todas esas razones, recogidas en el art. 51 de la LJCA.
+Errada: La respuesta correcta es la opción D. Todas las opciones mencionadas son causas de inadmisión del recurso contencioso-administrativo según el art. 51 LJCA. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al art. 49 de la LJCA, tras decidir enviar el expediente, se notificará a todos los involucrados dentro de 5 días, instándoles a aparecer como demandados en:
+1)3 días.
+2)5 días.
+3)7 días.
+4)9 días.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los interesados tienen 9 días para personarse.
+Errada: Te has equivocado. La respuesta correcta es la opción D. Los interesados tienen 9 días para personarse. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso contencioso-administrativo estándar, si el expediente no se recibe completo después del tiempo estipulado, se hará un nuevo requerimiento. Si se determina responsabilidad, se aplicará una multa coercitiva:
+1)Después de una advertencia del órgano jurisdiccional.
+2)Ambas son correctas
+3)Antes de una advertencia del órgano jurisdiccional.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! El art. 48.7 de la LJCA establece que la multa se impone "previa advertencia".
+Errada: La respuesta correcta es la opción A. La multa se impone después de una advertencia del órgano jurisdiccional. (Respuesta Correcta 1)
+###
+Pregunta: Antes de decidir sobre la no admisión del recurso en el proceso contencioso-administrativo, el órgano jurisdiccional informará a las partes sobre:
+1)Las implicaciones de dicho motivo de admisión.
+2)La razón que podría justificar la admisión.
+3)Las implicaciones de dicho motivo de no admisión.
+4)La razón que podría justificar la no admisión.
+Respuesta: 4
+Correcta: ¡Exacto! Se informará a las partes sobre la posible causa de inadmisión para que puedan alegar.
+Errada: Lo siento, la respuesta correcta es la opción D. Se informará a las partes sobre la razón que podría justificar la no admisión. (Respuesta Correcta 4)
+###
+Pregunta: Si la Administración que emitió un acto quiere solicitar su anulación ante la Jurisdicción Contencioso-Administrativa, primero deberá:
+1)Proclamar su anulabilidad para el interés público.
+2)Proclamar su nulidad para el interés público.
+3)Proclamar su lesividad para el interés público.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Bien! Deben declararlo lesivo para el interés público antes de demandar su anulación (proceso de lesividad).
+Errada: La respuesta correcta es la opción C. Deben declararlo lesivo para el interés público antes de demandar su anulación. (Respuesta Correcta 3)
+###
+Pregunta: Si una Administración quiere presentar un recurso contencioso-administrativo contra otra, puede hacer un requerimiento previo. ¿Cómo debe ser este requerimiento?
+1)Se debe enviar al órgano apropiado un documento escrito y fundamentado, especificando el acto, norma, acción o inacción en cuestión. Esto debe realizarse dentro de los dos meses posteriores a la publicación de la norma o cuando la Administración que hace la solicitud haya conocido o podría haber conocido el acto, acción o inacción
+2)Se debe devolver al órgano apropiado un documento escrito y fundamentado, especificando el acto, norma, acción o inacción en cuestión. Esto debe realizarse dentro de los dos meses posteriores a la publicación de la norma o cuando la Administración que hace la solicitud haya conocido o podría haber conocido el acto, acción o inacción
+3)Se debe enviar al órgano apropiado un documento escrito y fundamentado, especificando el acto en cuestión. Esto debe realizarse dentro de los dos meses posteriores a la publicación de la norma o cuando la Administración que hace la solicitud no haya conocido o podría haber conocido el acto, acción o inacción
+4)Se debe enviar al órgano apropiado un documento escrito o fundamentado, especificando el acto, norma, acción o inacción en cuestión. Esto debe realizarse dentro de los dos meses posteriores a la publicación de la norma y cuando la Administración que hace la solicitud haya conocido y podría haber conocido el acto, acción o inacción
+Respuesta: 1
+Correcta: ¡Correcto! La solicitud debe hacerse por escrito y dirigida al órgano competente, especificando todos los detalles pertinentes y en el plazo correcto, según el art. 44 LJCA.
+Errada: La respuesta correcta es la opción A. La solicitud debe hacerse por escrito y dirigida al órgano competente, especificando todos los detalles pertinentes y en el plazo correcto. (Respuesta Correcta 1)
+###
+Pregunta: En disputas entre Administraciones públicas, al querer recurrir decisiones relativas a la legislación de Contratos del Sector Público:
+1)Se interpondrá el recurso directamente sin necesidad de requerimientos o recursos administrativos previos.
+2)Se interpondrá el recurso directamente pero son necesarios requerimientos o recursos administrativos previos.
+3)Se interpondrá el recurso después de un requerimiento previo o recurso administrativo.
+4)Se interpondrá el recurso antes de un requerimiento previo o recurso administrativo.
+Respuesta: 1
+Correcta: ¡Exacto! Se puede presentar el recurso directamente sin necesidad de etapas previas, conforme al art. 44.5 LJCA.
+Errada: La respuesta correcta es la opción A. Se puede presentar el recurso directamente sin necesidad de etapas previas. (Respuesta Correcta 1)
+###
+Pregunta: Al presentar una demanda de recurso de lesividad, ¿cuál de los siguientes documentos no es esencial?
+1)Todas son necesarias.
+2)El expediente administrativo.
+3)La declaración de lesividad.
+4)El informe del Abogado del Estado o de la Comunidad Autónoma.
+Respuesta: 4
+Correcta: ¡Correcto! El informe del Abogado del Estado o de la Comunidad Autónoma no es esencial al presentar una demanda de recurso de lesividad, según el art. 45.5 LJCA.
+Errada: La respuesta correcta es la opción D. El informe del Abogado del Estado o de la Comunidad Autónoma no es un documento exigido por la LJCA para iniciar el recurso de lesividad. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento contencioso-administrativo regular, ¿cuál es el plazo para presentar un recurso de lesividad?
+1)Un mes a partir del día después de la declaración de lesividad.
+2)Dos meses a partir del día después de la declaración de lesividad.
+3)Tres meses a partir del día después de la declaración de lesividad.
+4)Seis meses a partir del día después de la declaración de lesividad.
+Respuesta: 2
+Correcta: ¡Bien hecho! El plazo correcto es de dos meses a partir del día siguiente a la declaración de lesividad, según el art. 46.2 LJCA.
+Errada: La respuesta correcta es la opción B. El plazo correcto es de dos meses a partir del día siguiente a la declaración de lesividad. (Respuesta Correcta 2)
+###
+Pregunta: Si una Administración presenta un recurso contencioso-administrativo contra otra y hace un requerimiento previo, ¿cuándo se considera rechazado dicho requerimiento?
+1)Si no se responde a los dos meses siguientes a su recepción.
+2)Si no se responde a los 31 días siguientes a su recepción.
+3)Si no se responde a los 30 días siguientes a su recepción.
+4)Si no se responde en el mes siguiente a su recepción.
+Respuesta: 4
+Correcta: ¡Acertaste! Se considera rechazado si no se obtiene respuesta en el mes siguiente a su recepción (art. 44.4 LJCA).
+Errada: La respuesta correcta es la opción D. Se considera rechazado si no se obtiene respuesta en el mes siguiente a su recepción. (Respuesta Correcta 4)
+###
+Pregunta: En un recurso contra una disposición general iniciado mediante demanda, ¿en qué situaciones puede el Tribunal solicitar el expediente de elaboración?
+1)A iniciativa propia o si el demandante lo solicita.
+2)Únicamente a iniciativa propia.
+3)A iniciativa propia o si un codemandado lo solicita.
+4)Únicamente si el demandante lo solicita.
+Respuesta: 1
+Correcta: ¡Bien hecho! El tribunal puede solicitar el expediente ya sea por iniciativa propia o si el demandante lo pide (art. 47.2 LJCA).
+Errada: La respuesta correcta es la opción A. El tribunal puede solicitar el expediente ya sea por iniciativa propia o si el demandante lo pide. (Respuesta Correcta 1)
+###
+Pregunta: Cuando una Administración quiere presentar un recurso contencioso-administrativo contra un acto de otra Administración, ¿cómo puede proceder?
+1)Puede hacer un requerimiento previo en el plazo de tres meses desde que conoció el acto para su anulación o revocación.
+2)Puede hacer un requerimiento previo en el plazo de cuatro meses desde que conoció el acto para su anulación o revocación.
+3)Puede hacer un requerimiento previo en el plazo de dos meses desde que conoció el acto para su anulación o revocación.
+4)Puede hacer un requerimiento previo en el plazo de seis meses desde que conoció el acto para su anulación o revocación.
+Respuesta: 3
+Correcta: ¡Correcto! Puede hacerse un requerimiento previo en un plazo de dos meses desde que se tuvo conocimiento del acto (art. 44.2 LJCA).
+Errada: La respuesta correcta es la opción C. Puede hacerse un requerimiento previo en un plazo de dos meses desde que se tuvo conocimiento del acto. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a los plazos en la fase inicial del procedimiento contencioso-administrativo, señale la afirmación correcta:
+1)El plazo para interponer recurso contra un acto presunto es de seis meses, que se cuentan desde el día siguiente a aquel en que se entienda producido el acto.
+2)El plazo para interponer un recurso de lesividad es de un mes.
+3)Una vez recibido el requerimiento judicial, la Administración dispone de un plazo de diez días improrrogables para remitir el expediente.
+4)El plazo para que la Administración remita el expediente es de veinte días improrrogables.
+Respuesta: 4
+Correcta: ¡Correcto! El art. 48.3 de la LJCA establece un plazo improrrogable de 20 días para la remisión del expediente administrativo.
+Errada: Incorrecto. La respuesta correcta es la D. El resto de opciones contienen plazos incorrectos: el plazo contra acto presunto es de seis meses pero se cuenta desde que se produzca el acto (art. 46.1); el de lesividad es de dos meses (art. 46.2); y el plazo inicial para remitir el expediente es de 20 días, no 10 (art. 48.3). (Respuesta Correcta 4)
+###
+Pregunta: En un recurso de lesividad en el ámbito contencioso-administrativo, ¿cuánto tiempo se da para emplazar personalmente a los demandados?
+1)Cinco días.
+2)Siete días.
+3)Nueve días.
+4)Diez días.
+Respuesta: 3
+Correcta: ¡Acertaste! Se da un plazo de nueve días para emplazar personalmente a los demandados (art. 49.6 LJCA).
+Errada: La respuesta correcta es la opción C. Se da un plazo de nueve días para emplazar personalmente a los demandados. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento contencioso-administrativo ordinario, ¿desde cuándo se cuenta el plazo para enviar el expediente?
+1)Ninguna es correcta.
+2)Desde que la solicitud judicial se registra en el consulado requerido.
+3)Desde que la comunicación judicial tiene entrada en el registro general del órgano requerido.
+4)Desde que la solicitud judicial se registra en el registro requerido.
+Respuesta: 3
+Correcta: ¡Bien hecho! El plazo comienza desde que la comunicación judicial tiene entrada en el registro general del órgano requerido (art. 48.3 LJCA).
+Errada: La respuesta correcta es la opción C. El plazo comienza desde que la comunicación judicial tiene entrada en el registro general del órgano requerido. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo al artículo 50 de la LJCA, ¿en qué momento se considera que una Administración Pública ha sido emplazada en un recurso contencioso-administrativo?
+1)Cuando se hace la reclamación del expediente.
+2)Cuando se admite la demanda.
+3)Cuando envían el expediente.
+4)Antes de iniciar la práctica de la prueba.
+Respuesta: 1
+Correcta: Correcto, cuando se hace la reclamación del expediente (art. 50.1 LJCA).
+Errada: La respuesta correcta es la A: Cuando se hace la reclamación del expediente. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de las siguientes opciones NO es una causa de inadmisión del recurso contencioso-administrativo?
+1)La falta de jurisdicción del órgano jurisdiccional.
+2)Haber prescrito el plazo de interposición del recurso.
+3)Haber caducado el plazo de interposición del recurso.
+4)La falta de competencia del órgano jurisdiccional.
+Respuesta: 2
+Correcta: ¡Correcto! El plazo para interponer un recurso es de caducidad, no de prescripción. Por tanto, "haber prescrito" no es una causa de inadmisión, sí lo es "haber caducado" (art. 51.1.c LJCA).
+Errada: La respuesta correcta es la opción B. La prescripción se refiere a derechos sustantivos, mientras que el plazo para recurrir es de caducidad. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento contencioso administrativo ordinario, si no ha sido posible emplazar a algún interesado en el domicilio conocido, el Letrado de la Administración de Justicia emplazará por edictos. ¿Hasta cuándo podrán estos emplazados presentarse en el proceso?
+1)Hasta que se les dé traslado para contestar a la demanda.
+2)Podrán presentarse en cualquier momento del proceso.
+3)Hasta el día del juicio.
+4)Antes de la sentencia.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los emplazados por edictos pueden personarse en el proceso hasta que se les dé traslado para contestar a la demanda (art. 49.2 LJCA).
+Errada: La respuesta correcta es la opción A. Los emplazados por edictos pueden personarse en el proceso hasta que se les dé traslado para contestar a la demanda. (Respuesta Correcta 1)
+###
+Pregunta: En litigios entre Administraciones, ¿cuál es el plazo para interponer el recurso contencioso-administrativo?
+1)30 días , a menos que una ley establezca otro plazo.
+2)Tres meses, a menos que una ley establezca otro plazo.
+3)Seis meses, a menos que una ley establezca otro plazo.
+4)Dos meses, a menos que una ley establezca otro plazo.
+Respuesta: 4
+Correcta: ¡Acertaste! En litigios entre Administraciones, el plazo general para interponer el recurso contencioso-administrativo es de dos meses, a menos que una ley establezca un plazo diferente (art. 46.4 LJCA).
+Errada: La respuesta correcta es la opción D. En litigios entre Administraciones, el plazo general para interponer el recurso contencioso-administrativo es de dos meses, a menos que una ley establezca un plazo diferente. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento contencioso-administrativo, ¿según qué norma se practicará la notificación de la resolución que acuerda enviar el expediente administrativo a aquellos que aparezcan como interesados?
+1)La Ley 39/2015, de 2 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+2)La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+3)La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+4)La Ley 40/2015, de 2 de octubre, de Régimen Jurídico del Sector Público.
+Respuesta: 2
+Correcta: ¡Correcto! La notificación de dicha resolución se practicará según lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (art. 49.1 LJCA).
+Errada: Respuesta Correcta B: La notificación de dicha resolución se practicará según lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la remisión del expediente administrativo en el procedimiento contencioso-administrativo ordinario, señale la respuesta incorrecta:
+1)Se debe enviar el expediente completo.
+2)Se puede enviar el expediente original o una copia.
+3)Debe adjuntarse un índice autentificado de los documentos que contiene el expediente.
+4)La Administración siempre conservará el original de los expedientes enviados.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Administración puede enviar el expediente original al tribunal, en cuyo caso conservará una copia autentificada, por lo que no siempre conserva el original (art. 48.4 LJCA).
+Errada: La respuesta correcta es la D: La Administración puede enviar el expediente original al tribunal, por lo que no siempre conserva el original. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 46.3 de la LJCA, ¿cuál es el plazo para interponer recurso contencioso-administrativo contra una actuación en vía de hecho, si no se ha realizado un requerimiento previo?
+1)20 días desde el inicio de la actuación administrativa en vía de hecho
+2)10 días desde el inicio de la actuación administrativa en vía de hecho
+3)30 días desde el inicio de la actuación administrativa en vía de hecho
+4)7 días desde el inicio de la actuación administrativa en vía de hecho
+Respuesta: 1
+Correcta: ¡Acertaste! El plazo es de 20 días desde el inicio de la actuación administrativa en vía de hecho cuando no hay requerimiento previo.
+Errada: Respuesta Correcta A: El plazo es de 20 días desde el inicio de la actuación administrativa en vía de hecho cuando no hay requerimiento previo. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento contencioso-administrativo en primera o única instancia, si una Administración interpone un recurso contra otra y la ha requerido previamente, ¿cuándo se entenderá rechazado el requerimiento si la Administración requerida no responde?
+1)Dentro del mes siguiente a su recepción.
+2)Dentro de los dos meses siguientes a su recepción.
+3)Dentro de los tres meses siguientes a su recepción.
+4)Dentro de los quince días siguientes a su recepción.
+Respuesta: 1
+Correcta: ¡Correcto! Si la Administración requerida no responde dentro del mes siguiente a la recepción del requerimiento, este se entenderá rechazado (art. 44.4 LJCA).
+Errada: Respuesta Correcta A: Si la Administración requerida no responde dentro del mes siguiente a la recepción del requerimiento, este se entenderá rechazado. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito contencioso-administrativo, si se hubieran desestimado en el fondo otros recursos sustancialmente iguales, ¿qué puede hacer el órgano jurisdiccional?
+1)El órgano jurisdiccional podrá inadmitir el recurso si aquellos se hubieran desestimado por sentencia firme.
+2)El órgano jurisdiccional podrá inadmitir el recurso si aquellos se hubieran estimado por sentencia firme.
+3)El órgano jurisdiccional podrá admitir el recurso si aquellos se hubieran desestimado por sentencia firme.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! El órgano jurisdiccional tiene la facultad, pero no la obligación, de inadmitir el recurso en estas circunstancias (art. 51.3 LJCA).
+Errada: Respuesta Correcta A: El órgano jurisdiccional tiene la facultad, pero no la obligación, de inadmitir el recurso en estas circunstancias. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué circunstancias pueden la Administración contratante, el contratista o terceros interponer directamente el recurso contencioso-administrativo sin requerimiento previo?
+1)Cuando pretendan recurrir las decisiones adoptadas por los órganos administrativos en materia de recursos especiales.
+2)Cuando pretendan recurrir las reclamaciones en materia de contratación según la legislación de Contratos del Sector Público.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! En ambos casos, que se refieren al recurso especial en materia de contratación, se puede presentar un recurso contencioso-administrativo directamente (art. 44.5 LJCA).
+Errada: Respuesta Correcta D: Tanto en el caso de decisiones de órganos administrativos como en reclamaciones en materia de contratación, se puede presentar un recurso contencioso-administrativo directamente. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley de Jurisdicción contencioso-administrativa, ¿en qué casos se puede iniciar el procedimiento por demanda?
+1)Requerimiento previo a la administración.
+2)Declaración de lesividad.
+3)Cualquier recurso contencioso-administrativo que se presente.
+4)El recurso contra una disposición general, acto, inactividad o vía de hecho en que no hay terceros interesados.
+Respuesta: 4
+Correcta: ¡Bien hecho! El recurso puede iniciarse por demanda cuando se dirige contra disposiciones generales, actos, inactividades o vías de hecho en que no existan terceros interesados (art. 45.5 LJCA).
+Errada: Respuesta Correcta D: El recurso puede iniciarse por demanda cuando se dirige contra disposiciones generales, actos, inactividades o vías de hecho en que no existan terceros interesados. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento contencioso-administrativo, ¿con qué tipo de resolución se inadmitirá el recurso en caso de falta de legitimación del recurrente?
+1)Auto.
+2)Decreto.
+3)Alzada.
+4)Diligencia.
+Respuesta: 1
+Correcta: ¡Correcto! La inadmisión del recurso en estos casos se realiza mediante un auto (art. 51.2 LJCA).
+Errada: Respuesta Correcta A: La inadmisión del recurso en estos casos se realiza mediante un auto. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento contencioso-administrativo, cuando se impugne la no realización por la Administración de una prestación concreta en favor de una o varias personas determinadas, ¿cuándo se inadmitirá el recurso?
+1)Si no fuera evidente la ausencia de obligación concreta de la Administración respecto de los apelados.
+2)Si fuera evidente la ausencia de obligación concreta de la Administración respecto de los apelados.
+3)Si fuera evidente la ausencia de obligación concreta de la Administración respecto de los recurrentes.
+4)Si no fuera evidente la ausencia de obligación concreta de la Administración respecto de los recurrentes.
+Respuesta: 3
+Correcta: ¡Correcto! Se inadmitirá el recurso si es evidente que no existe una obligación concreta de la Administración respecto a los recurrentes (art. 51.1.f LJCA).
+Errada: Respuesta Correcta C: Se inadmitirá el recurso si es evidente que no existe una obligación concreta de la Administración respecto a los recurrentes. (Respuesta Correcta 3)
+###
+Pregunta: En los litigios entre Administraciones públicas, ¿cuál es el plazo para el requerimiento previo para la derogación de la disposición, anulación o revocación del acto?
+1)Tres meses desde la publicación de la norma.
+2)Seis meses desde la publicación de la norma.
+3)Cuatro meses desde la publicación de la norma.
+4)Dos meses desde la publicación de la norma.
+Respuesta: 4
+Correcta: ¡Exacto! El plazo para el requerimiento previo en litigios entre Administraciones públicas es de dos meses desde la publicación de la norma (art. 44.2 LJCA).
+Errada: Respuesta Correcta D: El plazo para el requerimiento previo en litigios entre Administraciones públicas es de dos meses desde la publicación de la norma. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 49.6 de la LJCA, ¿cuál es el plazo y forma del emplazamiento de los demandados en el recurso de lesividad?
+1)Se efectuará personalmente por plazo de tres días.
+2)Se efectuará personalmente por plazo de cinco días.
+3)Se efectuará personalmente por plazo de siete días.
+4)Se efectuará personalmente por plazo de nueve días.
+Respuesta: 4
+Correcta: ¡Bien hecho! En el recurso de lesividad, el emplazamiento de los demandados se realiza de forma personal y por un plazo de nueve días.
+Errada: Respuesta Correcta D: En el recurso de lesividad, el emplazamiento de los demandados se realiza de forma personal y por un plazo de nueve días. (Respuesta Correcta 4)
+###
+Pregunta: Durante el procedimiento contencioso-administrativo, si no se cumple con la solicitud de enviar el expediente administrativo y tras las tres primeras sanciones no se ha conseguido el envío completo del expediente, ¿qué medida se tomará?
+1)Se sancionará gravemente a la Administración.
+2)El LAJ notificará al Juez competente sobre los hechos.
+3)El Juez o Tribunal notificará al LAJ sobre los hechos.
+4)El Juez o Tribunal notificará al Ministerio Fiscal sobre los hechos.
+Respuesta: 4
+Correcta: ¡Bien hecho! Cuando no se logra el envío completo del expediente tras las tres primeras sanciones, el Juez o Tribunal informará al Ministerio Fiscal (art. 48.7 LJCA).
+Errada: ¡Ups! La respuesta correcta es que el Juez o Tribunal notificará al Ministerio Fiscal sobre la falta de envío completo del expediente. (Respuesta Correcta 4)
+###
+Pregunta: Si se desafía una actuación material que se considere vía de hecho, ¿bajo qué circunstancias el órgano jurisdiccional puede inadmitir el recurso contencioso-administrativo?
+1)Cuando se evidencie que la actuación administrativa se ajusta a las normas del procedimiento legal.
+2)Cuando se demuestre que la actuación administrativa se realizó dentro de su competencia.
+3)Ninguna es correcta.
+4)Cuando sea evidente que la actuación se ha producido dentro de la competencia y de conformidad con el procedimiento legalmente establecido.
+Respuesta: 4
+Correcta: ¡Perfecto! El recurso puede ser inadmitido si es evidente que la actuación administrativa se ha producido dentro de la competencia y en conformidad con las reglas del procedimiento legalmente establecido (art. 51.1.e LJCA).
+Errada: ¡Intenta de nuevo! La circunstancia para inadmitir el recurso es cuando es evidente que la actuación administrativa está dentro de su competencia y sigue las normas legales (Opción D). (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el período adecuado para presentar un recurso contencioso-administrativo contra una actuación considerada vía de hecho si se ha formulado requerimiento previo?
+1)Tres días después de que finalice el período para cumplir con el requerimiento.
+2)Cinco días después de que finalice el período para cumplir con el requerimiento.
+3)Nueve días después de que finalice el período para cumplir con el requerimiento.
+4)Diez días después de que finalice el período para cumplir con el requerimiento.
+Respuesta: 4
+Correcta: ¡Correcto! El recurso debe presentarse dentro de los diez días posteriores al final del período para atender el requerimiento (art. 46.3 LJCA).
+Errada: ¡Oh no! El tiempo correcto para presentar el recurso es de diez días después de que termine el período para atender el requerimiento. (Respuesta Correcta 4)
+###
+Pregunta: Contra el auto de inadmisión de un recurso dictado por una Sección de lo Contencioso-Administrativo de un Tribunal de Instancia, ¿qué recurso cabe interponer?
+1)Recurso de casación.
+2)Recurso de apelación.
+3)Recurso de queja.
+4)Recurso de reforma.
+Respuesta: 2
+Correcta: ¡Exacto! Contra los autos de los órganos unipersonales (como los jueces de las Secciones de los Tribunales de Instancia) que ponen fin al procedimiento, cabe recurso de apelación, según los artículos 51.4 y 80.1.b) de la LJCA.
+Errada: ¡No es correcto! Contra el auto de inadmisión de un órgano unipersonal que pone fin a la vía, como es el caso, procede el recurso de apelación. El de casación se reserva para ciertas resoluciones de órganos colegiados. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 48 de la LJCA, cuando se envía el expediente, ya sea en su versión original o copiada, ¿cómo debe ser?
+1)Debe estar completo.
+2)Cada hoja debe estar numerada.
+3)Debe incluir un listado o índice de los documentos que lo integran.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Muy bien! El expediente, ya sea original o copiado, debe ser enviado completo, foliado y acompañado de un índice (art. 48.4 LJCA).
+Errada: ¡Vuelve a intentarlo! El expediente, ya sea original o copiado, debe ser enviado completo, foliado y acompañado de un índice. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué momento se considera emplazada la Administración Pública que ha sido demandada en el proceso contencioso-administrativo?
+1)Ninguna es correcta.
+2)Cuando se presente el recurso.
+3)Cuando el órgano jurisdiccional reclama el expediente.
+4)Cuando se presente la demanda.
+Respuesta: 3
+Correcta: ¡Correcto! La Administración Pública demandada se considera emplazada cuando el órgano jurisdiccional reclama el expediente (art. 50.1 LJCA).
+Errada: ¡Error! La Administración Pública demandada se considera emplazada cuando el órgano jurisdiccional le reclama el expediente. (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito contencioso-administrativo, ¿cuándo se considera que las Administraciones públicas están personadas?
+1)Al solicitar el expediente administrativo al ente que emitió la disposición o acto cuestionado.
+2)Al responder a la demanda.
+3)Con el envío del expediente administrativo al órgano jurisdiccional.
+4)Al aparecer el Abogado del Estado.
+Respuesta: 3
+Correcta: ¡Correcto! Las Administraciones públicas se consideran personadas cuando envían el expediente administrativo al órgano jurisdiccional (art. 49.1 LJCA).
+Errada: Eso no es exacto. Las Administraciones públicas se consideran personadas cuando envían el expediente administrativo al órgano jurisdiccional. (Respuesta Correcta 3)
+###
+Pregunta: Basándote en el artículo 46.3 de la LJCA, si se impugna una acción administrativa por vía de hecho y no se ha realizado un requerimiento previo, ¿cuál es el plazo para presentar el recurso contencioso-administrativo?
+1)Veinte días desde el inicio de la acción administrativa en vía de hecho.
+2)Quince días desde el inicio de la acción administrativa en vía de hecho.
+3)Diez días desde el inicio de la acción administrativa en vía de hecho.
+4)Siete días desde el inicio de la acción administrativa en vía de hecho.
+Respuesta: 1
+Correcta: ¡Exacto! El plazo para presentar el recurso es de veinte días desde el inicio de la acción administrativa en vía de hecho.
+Errada: ¡Incorrecto! El plazo correcto es de veinte días desde el inicio de la acción administrativa en vía de hecho. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso contencioso-administrativo regular, si después de transcurrido el tiempo asignado no se ha recibido el expediente completo, se renovará la solicitud y se aplicará una sanción si se verifica su responsabilidad. ¿Con qué frecuencia se impondrá la multa hasta que se cumpla con lo solicitado?
+1)Cada diez días
+2)Cada treinta días
+3)Cada veinte días
+4)Cada quince días
+Respuesta: 3
+Correcta: ¡Muy bien! La multa se impondrá reiteradamente cada veinte días hasta que se cumpla con la solicitud (art. 48.7 LJCA).
+Errada: Lo siento, esa respuesta no es correcta. La multa se impone repetidamente cada veinte días hasta que se cumple con lo solicitado. (Respuesta Correcta 3)
+###
+Pregunta: Una vez recibido el expediente administrativo en el procedimiento ordinario, ¿de qué plazo dispone el recurrente para formalizar la demanda?
+1)Diez días.
+2)Veinte días.
+3)Quince días.
+4)Treinta días.
+Respuesta: 2
+Correcta: ¡Exacto! Según el artículo 52.1 de la LJCA, una vez entregado el expediente, el recurrente tiene un plazo de veinte días para presentar la demanda.
+Errada: Incorrecto. La respuesta correcta es veinte días. El artículo 52.1 de la LJCA es claro al respecto. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 45 de la Ley 29/1998, al presentar un recurso contencioso-administrativo, ¿qué documento debe incluirse?
+1)Certificado oficial que demuestre la falta de pago de la tasa correspondiente.
+2)Certificado oficial que demuestre el pago de la tasa correspondiente.
+3)Documento que pruebe que las entidades legales no cumplen con los requisitos para presentar acciones.
+4)Documento que pruebe que las personas jurídicas cumplen con los requisitos para presentar acciones.
+Respuesta: 4
+Correcta: ¡Correcto! Debe adjuntarse el documento que demuestra que las personas jurídicas cumplen con los requisitos para entablar acciones, conforme al art. 45.2.d) LJCA.
+Errada: Esa no es la respuesta correcta. Debes adjuntar el documento que demuestra que las personas jurídicas cumplen con los requisitos para presentar acciones. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuánto tiempo tienes para presentar un recurso contencioso-administrativo contra una acción administrativa en vía de hecho?
+1)10 días después del plazo del artículo 30 de la LJCA. Si no hubo requerimiento, 10 días desde el inicio de la acción administrativa.
+2)10 días después del plazo del artículo 30 de la LJCA. Si no hubo requerimiento, 20 días desde el inicio de la acción administrativa.
+3)15 días después del plazo del artículo 30 de la LJCA. Si no hubo requerimiento, 20 días desde el inicio de la acción administrativa.
+4)20 días después del plazo del artículo 30 de la LJCA. Si no hubo requerimiento, 30 días desde el inicio de la acción administrativa.
+Respuesta: 2
+Correcta: ¡Exacto! El plazo es de 10 días tras el plazo del requerimiento del art. 30. Si no hubo requerimiento, son 20 días desde el inicio de la acción (art. 46.3 LJCA).
+Errada: Lo siento, esa respuesta es incorrecta. El plazo correcto es de 10 días después del plazo del artículo 30 de la LJCA. Si no hubo requerimiento, son 20 días desde el inicio de la acción administrativa. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuándo se considera que la Administración demandada está emplazada en un proceso contencioso-administrativo?
+1)Al reclamarse el Expediente Administrativo.
+2)Al devolver el Expediente Administrativo.
+3)Al entregar el Expediente Administrativo.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! La Administración demandada se considera emplazada al reclamarse el Expediente Administrativo (art. 50.1 LJCA).
+Errada: Esa no es la respuesta correcta. La Administración demandada se considera emplazada al reclamarse el Expediente Administrativo. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 51 de la LJCA, para que el órgano jurisdiccional pueda apreciar de oficio la falta de legitimación del recurrente, esta debe ser:
+1)Evidente.
+2)Notoria.
+3)Manifiesta.
+4)Clara.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 51.1 de la LJCA establece que el órgano jurisdiccional podrá apreciar la falta de legitimación siempre que esta fuese "evidente".
+Errada: Incorrecto. La respuesta correcta es la A. El término que utiliza la ley (art. 51.1 LJCA) es "evidente". (Respuesta Correcta 1)
+###
+Pregunta: En el proceso contencioso-administrativo ordinario, ¿qué recurso puede interponerse contra los autos que sancionen con multas por no atender la solicitud de envío del expediente administrativo?
+1)Recurso de reforma.
+2)Recurso de reposición.
+3)Recurso de alzada.
+4)Recurso de queja.
+Respuesta: 2
+Correcta: ¡Correcto! Puede interponerse un recurso de reposición contra dichos autos, según el art. 48.8 LJCA.
+Errada: Esa respuesta es incorrecta. El recurso adecuado a interponer contra dichos autos es el de reposición. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 51 de la Ley de Jurisdicción Contencioso-Administrativa, ¿cuál de las siguientes opciones no se menciona como motivo de inadmisión del recurso contencioso-administrativo?
+1)Interposición del recurso contra una acción no impugnable.
+2)Preclusión.
+3)Caducidad.
+4)Incapacidad del demandante.
+Respuesta: 2
+Correcta: ¡Exacto! Aunque la caducidad es una forma de preclusión, el término "Preclusión" como tal no aparece listado como una causa de inadmisión en el artículo 51, a diferencia de la caducidad, la incapacidad o la interposición contra acto no recurrible, que sí lo están.
+Errada: Lo siento, esa no es la respuesta correcta. La "Preclusión" no está especificada como un motivo de inadmisión en el artículo 51, mientras que las otras opciones sí se recogen o se derivan directamente de dicho artículo. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LJCA, si una Administración desea presentar un recurso contencioso-administrativo contra otra Administración, ¿qué puede requerir previamente?
+1)Que cese o modifique una actuación material.
+2)Que comience la actividad a la que está obligada.
+3)Que derogue la disposición o anule el acto.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Puede requerir cualquiera de esas acciones antes de interponer el recurso (art. 44.1 LJCA).
+Errada: Esa no es la respuesta correcta. Puede requerir cualquiera de las acciones listadas antes de interponer el recurso. (Respuesta Correcta 4)
+###
+Pregunta: Si la Administración que emitió un acto decide demandar su anulación ante la Jurisdicción Contencioso-administrativa, debe declarar previamente que el acto es perjudicial para:
+1)El interés privado.
+2)El interés público.
+3)El interés del pueblo.
+4)El interés general.
+Respuesta: 2
+Correcta: ¡Correcto! Deben declarar que el acto es lesivo para el interés público antes de demandar su anulación.
+Errada: Esa no es la respuesta correcta. Deben declarar que el acto es lesivo para el interés público antes de demandar su anulación. (Respuesta Correcta 2)
+###
+Pregunta: Si una Administración pública presenta un recurso contencioso-administrativo contra otra, ¿qué puede solicitar previamente?
+1)Que inicie la actividad a la que está obligada.
+2)Que derogue la disposición.
+3)Que modifique la actuación material.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exactamente! La Administración puede solicitar cualquiera de las acciones previamente mencionadas (art. 44.1 LJCA).
+Errada: Lo siento, esa respuesta no es correcta. Puede requerir cualquiera de las acciones listadas anteriormente. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso contencioso-administrativo, si no se acompañan los documentos necesarios (según el artículo 45 LJCA) con el escrito de interposición del recurso, ¿qué ocurrirá?
+1)El Letrado de la Administración de Justicia requerirá la subsanación en un plazo de cinco días.
+2)El Letrado de la Administración de Justicia requerirá la subsanación en un plazo de quince días.
+3)El Letrado de la Administración de Justicia requerirá la subsanación en un plazo de siete días.
+4)El Letrado de la Administración de Justicia requerirá la subsanación en un plazo de diez días.
+Respuesta: 4
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia requerirá que se subsane el defecto en un plazo de diez días (art. 45.6 LJCA).
+Errada: Esa no es la respuesta correcta. Será el Letrado de la Administración de Justicia quien requiera la subsanación en un plazo de diez días. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 51 de la LJCA, contra el auto que admita el recurso, ¿qué se puede hacer?
+1)Se permite recurrir en reposición.
+2)Se permite recurrir en queja.
+3)No se permite recurso alguno, pero no impide presentar cualquier motivo de inadmisibilidad más adelante.
+4)Se permite recurrir en apelación.
+Respuesta: 3
+Correcta: ¡Exacto! No se permite presentar recurso contra dicho auto, pero es posible oponer motivos de inadmisibilidad en la contestación a la demanda (art. 51.5 LJCA).
+Errada: Esa no es la respuesta correcta. Aunque no se permite presentar un recurso contra el auto, aún se pueden presentar motivos de inadmisibilidad en etapas posteriores. (Respuesta Correcta 3)
+###
+Pregunta: La norma del artículo 44 de la Ley de Jurisdicción Contenciosa Administrativa sobre el requerimiento previo en caso de que una Administración recurra contra otra, respeta lo establecido en:
+1)La legislación de régimen nacional sobre el tema.
+2)La legislación de régimen local sobre el tema.
+3)La legislación de régimen comunitario sobre el tema.
+4)La legislación de régimen de las CCAA sobre el tema.
+Respuesta: 2
+Correcta: ¡Bien hecho! La disposición respeta lo establecido en la legislación de régimen local (art. 44.1 in fine LJCA).
+Errada: Esa no es la respuesta correcta. La disposición respeta lo establecido en la legislación de régimen local. (Respuesta Correcta 2)
+###
+Pregunta: En el Procedimiento Ordinario, ¿cómo se personará la Administración demandada según la LJCA?
+1)En los cinco días siguientes al emplazamiento realizado por el órgano jurisdiccional.
+2)En los siete días siguientes al emplazamiento realizado por el órgano jurisdiccional.
+3)En los nueve días siguientes al emplazamiento realizado por el órgano jurisdiccional.
+4)Por el envío del expediente administrativo.
+Respuesta: 4
+Correcta: ¡Correcto! La Administración se considera personada con el envío del expediente administrativo (art. 49.1 LJCA).
+Errada: Esa no es la respuesta correcta. La Administración se considera personada con el envío del expediente administrativo. (Respuesta Correcta 4)
+###
+Pregunta: Si la Administración autora de un acto quiere solicitar su anulación ante la Jurisdicción Contencioso-administrativa, ¿qué debe hacer previamente?
+1)Declarar que es contrario al orden público.
+2)Declarar su anulabilidad.
+3)Declarar que es nulo para el interés público.
+4)Declarar que es lesivo para el interés público.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Administración debe, previamente, declarar el acto lesivo para el interés público si quiere solicitar su anulación.
+Errada: Esa no es la respuesta correcta. La Administración debe declarar previamente que el acto es lesivo para el interés público. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 48.8 de la LJCA, contra los autos que impongan multas según el artículo 48.7 de la LJCA, ¿qué recurso puede presentarse?
+1)Recurso de reposición según el artículo 75 de la LJCA.
+2)Recurso de reposición según el artículo 77 de la LJCA.
+3)Recurso de reposición según el artículo 79 de la LJCA.
+4)Recurso de reposición según el artículo 80 de la LJCA.
+Respuesta: 3
+Correcta: ¡Exacto! Se puede interponer un recurso de reposición conforme a lo dispuesto en el artículo 79 de la LJCA.
+Errada: Esa no es la respuesta correcta. El recurso de reposición que puede presentarse es según el artículo 79 de la LJCA. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál de las siguientes no es una causa para inadmitir el recurso contencioso-administrativo?
+1)La falta de capacidad.
+2)La falta de legitimación.
+3)La inadmisión de otros recursos sustancialmente iguales.
+4)Preclusión.
+Respuesta: 3
+Correcta: ¡Correcto! Lo que puede ser causa de inadmisión es la desestimación en el fondo de otros recursos sustancialmente iguales (art. 51.3 LJCA), no su inadmisión.
+Errada: Lo siento, esa no es la respuesta correcta. La inadmisión de otros recursos sustancialmente iguales no es una causa para inadmitir el recurso contencioso-administrativo. (Respuesta Correcta 3)
+###
+Pregunta: En un procedimiento Contencioso-administrativo, si múltiples órganos jurisdiccionales solicitaran el expediente administrativo, ¿qué proporcionará la Administración?
+1)Versiones autenticadas de la copia que tiene en su posesión.
+2)Versiones autenticadas del documento original.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Excelente! La Administración enviará el original o copia al primero y copias autentificadas a los sucesivos, por lo que ambas opciones son posibles (art. 48.4 LJCA).
+Errada: Esa respuesta no es correcta. La Administración proporcionaría el original o copia al primero y copias autentificadas a los siguientes. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso contencioso-administrativo, si las multas coercitivas impuestas por no enviar el expediente administrativo no se pagan voluntariamente, ¿cómo se harán efectivas?
+1)A través de la vía contencioso-administrativa en el Tribunal Supremo.
+2)A través de la vía contencioso-administrativa en la Audiencia Nacional.
+3)Usando el procedimiento de apremio.
+4)Usando el procedimiento judicial de ejecución.
+Respuesta: 3
+Correcta: ¡Correcto! Las multas se harán efectivas usando el procedimiento de apremio (art. 48.7 LJCA).
+Errada: No es correcto. Las multas se harían efectivas a través del procedimiento de apremio. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo al artículo 45 de la Ley de la Jurisdicción Contencioso-Administrativa, ¿cómo se inicia generalmente el recurso contencioso-administrativo?
+1)A través de un escrito que cita la disposición, acción, falta de acción o actuación impugnada y solicitando la admisión del recurso, siempre que que la ley indique algo diferente.
+2)A través de un auto que cita la disposición, acción, falta de acción o actuación impugnada y solicitando la admisión del recurso, a menos que la ley indique algo diferente.
+3)A través de un escrito que cita la disposición, acción, falta de acción o actuación impugnada y solicitando la admisión del recurso, a menos que la ley indique algo diferente.
+4)A través de un decreto que cita la disposición, acción, falta de acción o actuación impugnada y solicitando la admisión del recurso, a menos que la ley indique algo diferente.
+Respuesta: 3
+Correcta: ¡Bien hecho! El recurso contencioso-administrativo se inicia, en general, con un escrito que cita lo que se impugna y solicita la admisión del recurso, salvo que la ley especifique de otra manera (art. 45.1 LJCA).
+Errada: Esa respuesta no es la correcta. Se inicia con un escrito que cita lo que se impugna y solicita la admisión del recurso, a menos que la ley determine algo diferente. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es el plazo estipulado para presentar un recurso contencioso-administrativo en conflictos entre Administraciones?
+1)Seis meses, a menos que se especifique un plazo diferente por ley.
+2)Tres meses, a menos que se especifique un plazo diferente por ley.
+3)Cuatro meses, a menos que se especifique un plazo diferente por ley.
+4)Dos meses, a menos que se especifique un plazo diferente por ley.
+Respuesta: 4
+Correcta: ¡Correcto! El plazo es de dos meses, a menos que la ley determine un plazo diferente (art. 46.4 LJCA).
+Errada: La respuesta no es correcta. El plazo general es de dos meses, pero puede variar si la ley estipula otro término. (Respuesta Correcta 4)
+###
+Pregunta: En relación a la publicación del anuncio de interposición de un recurso contencioso administrativo en un diario oficial, ¿cuándo se realiza?
+1)Solo si el Letrado de la Administración de Justicia lo considera inadecuado y si el recurrente lo pide, asumiendo el coste de la publicación.
+2)Si el recurrente lo solicita, asumiendo el coste de la publicación.
+3)Solo si el Letrado de la Administración de Justicia lo considera adecuado y si el recurrente no lo pide, asumiendo el coste de la publicación.
+4)Solo si el Letrado de la Administración de Justicia lo considera adecuado y si el recurrente lo pide, sin asumir el coste de la publicación.
+Respuesta: 2
+Correcta: ¡Bien hecho! La publicación se realiza si el recurrente lo solicita y asume el coste (art. 49.3 LJCA). El LAJ también puede acordarlo de oficio (art. 47.3 LJCA). De las opciones, la B es la más ajustada.
+Errada: Lo siento, esa no es la respuesta correcta. La publicación se realiza si el recurrente lo pide y asume el coste, aunque el LAJ también puede acordarla de oficio. (Respuesta Correcta 2)
+###
+Pregunta: En un proceso contencioso-administrativo ordinario, si el expediente no se ha enviado por completo tras el plazo estipulado, ¿qué sucede?
+1)Se solicita nuevamente el expediente y si no se envía en cinco días tras una advertencia, el órgano jurisdiccional impone una multa de entre 300 y 1.200 euros al responsable.
+2)Se solicita nuevamente el expediente y si no se envía en diez días tras una advertencia, el órgano jurisdiccional impone una multa de entre 300 y 1.200 euros al responsable.
+3)Se solicita nuevamente el expediente y si no se envía en siete días tras una advertencia, el órgano jurisdiccional impone una multa de entre 300 y 1.200 euros al responsable.
+4)Se solicita nuevamente el expediente y si no se envía en tres días tras una advertencia, el órgano jurisdiccional impone una multa de entre 300 y 1.200 euros al responsable.
+Respuesta: 2
+Correcta: ¡Exacto! Si el expediente no se envía completo, se reitera la reclamación y puede haber una multa si no se cumple en el plazo de diez días (art. 48.7 LJCA).
+Errada: No es correcto. Si el expediente no se envía tras el plazo, se solicita nuevamente y, de no enviarse en diez días, el órgano jurisdiccional puede imponer una multa al responsable. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo a la LJCA, si el recurso se inicia con una demanda y está dirigido contra una disposición general, ¿cuánto tiempo se otorga para que se presenten aquellos interesados en mantener la legalidad de lo impugnado?
+1)Diez días.
+2)Veinte días.
+3)Un plazo no inferior a quince días.
+4)Cinco días.
+Respuesta: 3
+Correcta: ¡Correcto! Se concederá un plazo que nunca será inferior a quince días para que se personen los interesados (art. 47.1 LJCA).
+Errada: Esa respuesta no es correcta. El plazo otorgado no será inferior a quince días. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 44 de la Ley de Jurisdicción Contencioso-Administrativa, en conflictos entre entidades administrativas públicas:
+1)Se puede presentar un recurso administrativo, pero solo después de la nulidad del acto.
+2)Se puede presentar un recurso administrativo, pero solo después de una declaración de lesividad.
+3)No se puede presentar un recurso en vía administrativa.
+4)Se puede presentar un recurso en vía administrativa.
+Respuesta: 3
+Correcta: ¡Bien hecho! En conflictos entre Administraciones públicas, no se puede presentar un recurso en vía administrativa (art. 44.1 LJCA).
+Errada: Lo siento, esa no es la respuesta correcta. En conflictos entre Administraciones, no es posible presentar un recurso en vía administrativa. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso contencioso-administrativo, ¿cuánto tiempo tiene la Administración para enviar el expediente administrativo después de recibir la comunicación judicial?
+1)Veinte días desde que la comunicación judicial llegue al registro general del órgano en cuestión.
+2)Diez días desde que la comunicación judicial llegue al registro general del órgano en cuestión.
+3)Quince días desde que la comunicación judicial llegue al registro general del órgano en cuestión.
+4)Nueve días desde que la comunicación judicial llegue al registro general del órgano en cuestión.
+Respuesta: 1
+Correcta: ¡Correcto! La Administración tiene veinte días desde que la comunicación judicial llegue al registro general del órgano requerido (art. 48.3 LJCA).
+Errada: La respuesta es incorrecta. La Administración dispone de veinte días desde que la comunicación judicial llegue al registro general del órgano requerido. (Respuesta Correcta 1)
+###
+Pregunta: Cuando el acto que finaliza el procedimiento administrativo es expreso, ¿cuánto tiempo hay para presentar un recurso contencioso-administrativo?
+1)Tres meses desde el día posterior a su notificación o publicación.
+2)Cinco meses desde el día posterior a su notificación o publicación.
+3)Seis meses desde el día posterior a su notificación o publicación.
+4)Dos meses desde el día posterior a su notificación o publicación.
+Respuesta: 4
+Correcta: ¡Exacto! El plazo para presentar un recurso es de dos meses desde el día después de su notificación o publicación (art. 46.1 LJCA).
+Errada: Lo siento, esa respuesta es incorrecta. El plazo es de dos meses desde el día después de la notificación o publicación. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 48 de la LJCA, ¿cómo se excluyen del expediente administrativo los documentos considerados secreto oficial?
+1)A través de una providencia.
+2)Mediante una decisión motivada.
+3)A través de una diligencia.
+4)A través de un auto.
+Respuesta: 2
+Correcta: ¡Bien hecho! Se excluyen del expediente por decisión de la propia Administración, que debe estar motivada, sin perjuicio del posterior control judicial.
+Errada: La respuesta no es correcta. Los documentos clasificados como secreto oficial se excluyen mediante una decisión motivada de la Administración. (Respuesta Correcta 2)
+###
+Pregunta: Antes de decidir sobre la inadmisibilidad de un recurso, el Tribunal o la Sala informará a las partes sobre la base de la posible inadmisión para que:
+1)Tengan 3 días comunes para presentar argumentos y proporcionar los documentos necesarios.
+2)Tengan 5 días comunes para presentar argumentos y proporcionar los documentos necesarios.
+3)Tengan 10 días comunes para presentar argumentos y proporcionar los documentos necesarios.
+4)Tengan 7 días comunes para presentar argumentos y proporcionar los documentos necesarios.
+Respuesta: 3
+Correcta: ¡Correcto! Las partes tienen un plazo común de 10 días para presentar sus argumentos y documentos (art. 51.2 LJCA).
+Errada: Esa no es la respuesta correcta. Las partes disponen de un plazo común de 10 días para presentar sus argumentos y los documentos correspondientes. (Respuesta Correcta 3)
+###
+Pregunta: En el recurso de lesividad, ¿cuál es el plazo para el emplazamiento personal de los demandados?
+1)Diez días.
+2)Nueve días.
+3)Quince días.
+4)Siete días.
+Respuesta: 2
+Correcta: ¡Exacto! El emplazamiento personal se efectúa en un plazo de nueve días (art. 49.6 LJCA).
+Errada: Incorrecto. El plazo para el emplazamiento personal en el recurso de lesividad es de nueve días. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 49 de la LJCA, después de notificar la decisión de enviar el expediente a quienes aparecen como interesados en él, ¿a quién se envía el expediente?
+1)Al Juzgado o Tribunal.
+2)Al LAJ.
+3)A los interesados llamados.
+4)A las partes.
+Respuesta: 1
+Correcta: ¡Correcto! El expediente se envía al Juzgado o Tribunal una vez realizadas las notificaciones (art. 49.4 LJCA).
+Errada: Incorrecto. Tras las notificaciones pertinentes, el expediente se envía al Juzgado o Tribunal. (Respuesta Correcta 1)
+###
+Pregunta: Respecto a los interesados emplazados por edictos que se personan tardíamente en el proceso:
+1)Se les incluye solo en los procedimientos en ejecución.
+2)Se les incluye solo en los procedimientos en vía de apelación.
+3)Se les incluye solo en los procedimientos que han concluido.
+4)Se les tendrá por parte para los trámites no precluidos.
+Respuesta: 4
+Correcta: ¡Bien hecho! Según el art. 49.2 de la LJCA, los interesados que se personen fuera de plazo serán tenidos por parte para los trámites no precluidos.
+Errada: Esa no es la respuesta correcta. Se les considera parte para los trámites que aún no han concluido. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 48 de la LJCA relacionado con el expediente administrativo, ¿cuál de las siguientes afirmaciones es incorrecta?
+1)El requerimiento que no se atienda y que pueda resultar en la segunda multa coercitiva llevará el aviso adecuado.
+2)El requerimiento que no se atienda y que pueda resultar en la cuarta multa coercitiva se notificará además al superior jerárquico.
+3)Tras la tercera multa coercitiva, se pondrán los hechos en conocimiento del Ministerio Fiscal.
+4)El requerimiento que se atienda y que pueda resultar en la cuarta multa coercitiva llevará el aviso adecuado.
+Respuesta: 4
+Correcta: ¡Exacto! Esta afirmación es incorrecta porque si el requerimiento "se atiende", no hay lugar a ninguna multa coercitiva.
+Errada: Esa opción no es la incorrecta. La afirmación incorrecta es la D, ya que es contradictoria: si un requerimiento es atendido, no puede dar lugar a una multa. (Respuesta Correcta 4)

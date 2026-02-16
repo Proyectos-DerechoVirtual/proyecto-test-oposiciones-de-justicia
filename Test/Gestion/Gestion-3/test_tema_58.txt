@@ -1,0 +1,647 @@
+Pregunta: En relación al proceso contencioso-administrativo, ¿cuál de las siguientes opciones NO se considera de cuantía indeterminada?
+1)Las apelaciones en temas de Seguridad Social cubiertas por la prestación de incapacidad permanente.
+2)Las apelaciones en temas de Seguridad Social cubiertas por la prestación de incapacidad temporal.
+3)Las apelaciones relacionadas con los funcionarios públicos, incluso si tratan sobre sanciones o derechos que se pueden valorar económicamente.
+4)Las apelaciones relacionadas con los funcionarios públicos, salvo si tratan sobre sanciones o derechos que se pueden valorar económicamente.
+Respuesta: 3
+Correcta: ¡Correcto! Las apelaciones relacionadas con funcionarios públicos, incluso si involucran sanciones o derechos económicamente valorables, no se consideran de cuantía indeterminada.
+Errada: Incorrecto. La respuesta correcta es C. Las apelaciones relacionadas con funcionarios públicos no se consideran de cuantía indeterminada, independientemente de si involucran sanciones o derechos valorables económicamente. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál de los siguientes actos NO puede ser desafiado ante la jurisdicción contencioso-administrativa?
+1)Actos que repiten decisiones posteriores y firmes y aquellos que confirman decisiones previamente aceptadas por no haber sido impugnadas adecuadamente.
+2)Actos que repiten decisiones previas y firmes y aquellos que confirman decisiones previamente aceptadas por haber sido impugnadas adecuadamente.
+3)Actos que repiten decisiones previas y firmes o aquellos que confirman decisiones previamente aceptadas por no haber sido impugnadas adecuadamente.
+4)Actos que repiten decisiones previas o firmes y aquellos que confirman decisiones previamente aceptadas por no haber sido impugnadas adecuadamente.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los actos que repiten decisiones previamente tomadas y firmes no pueden ser desafiados ante la jurisdicción contencioso-administrativa.
+Errada: Incorrecto. La respuesta correcta es D. No pueden ser impugnados aquellos actos que repiten decisiones anteriores firmes o aquellos que confirman decisiones previamente aceptadas. (Respuesta Correcta 4)
+###
+Pregunta: En el juicio sobre asilo político ante la Jurisdicción Contencioso Administrativa, ¿es obligatoria la intervención de un procurador?
+1)Ninguna es correcta.
+2)Nunca, salvo en las excepciones de la LJCA.
+3)Siempre es necesaria.
+4)No.
+Respuesta: 4
+Correcta: ¡Correcto! No es preceptiva la intervención de un procurador en el proceso judicial sobre asilo político ante la Jurisdicción Contencioso Administrativa.
+Errada: Incorrecto. La respuesta correcta es D. No es necesario que un procurador intervenga en casos de asilo político ante la Jurisdicción Contencioso Administrativa. (Respuesta Correcta 4)
+###
+Pregunta: En el ámbito de la Jurisdicción Contencioso-Administrativa, si el Letrado de la Administración de Justicia determina que no es adecuada la acumulación de reclamaciones, informará al Tribunal. Si el Tribunal lo considera necesario, instruirá a la parte a presentar los recursos de manera individual en un periodo de:
+1)30 días.
+2)15 días.
+3)10 días.
+4)31 días.
+Respuesta: 1
+Correcta: ¡Exacto! La parte tiene un plazo de 30 días para presentar los recursos de forma individual si el Tribunal lo estima necesario.
+Errada: Eso no es correcto. El plazo correcto es de 30 días, como se especifica en la opción A. (Respuesta Correcta 1)
+###
+Pregunta: Señale cuál de las siguientes personas o entidades tiene capacidad procesal ante la jurisdicción contencioso-administrativa:
+1)Los mayores de edad.
+2)Los menores de edad, para la defensa de aquellos de sus derechos e intereses legítimos cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela.
+3)Los grupos de afectados, uniones sin personalidad o patrimonios independientes o autónomos, cuando la Ley así lo declare expresamente.
+4)Todas las anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Muy bien! Todas las opciones describen sujetos con capacidad procesal para actuar ante la jurisdicción contencioso-administrativa.
+Errada: Lo siento, esa no es la respuesta correcta. La opción D es la correcta, ya que todos los sujetos listados en las opciones A, B y C tienen capacidad procesal. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién no puede interponer recurso contencioso-administrativo contra la actividad de una Administración pública, según la LJCA?
+1)El Ministerio Fiscal para intervenir en los procesos que determine la Ley.
+2)Un particular que ostente un derecho o interés legítimo.
+3)Un organismo de derecho público contra la actividad de la Administración de la que depende, como regla general.
+4)Un sindicato en defensa de los intereses profesionales de sus miembros.
+Respuesta: 3
+Correcta: ¡Correcto! Como regla general, y salvo que una Ley lo autorice expresamente, los organismos públicos dependientes no pueden recurrir los actos de la Administración de la que dependen.
+Errada: La respuesta correcta es la C. El artículo 20.c) de la LJCA establece que los organismos, entes y corporaciones de Derecho Público no pueden recurrir la actividad de la Administración de la que dependen, salvo autorización legal expresa. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley 29/1998 que regula la Jurisdicción Contencioso-Administrativa, se puede presentar recurso contencioso-administrativo contra:
+1)Contra los efectos de estas resoluciones o actos.
+2)Solamente contra actos expresos o tácitos de la Administración Pública.
+3)Solamente contra disposiciones de carácter general.
+4)Tanto contra disposiciones de carácter general como contra actos expresos o tácitos de la Administración Pública que finalicen la vía administrativa.
+Respuesta: 4
+Correcta: ¡Correcto! Se puede interponer recurso tanto contra disposiciones generales como contra actos de la Administración Pública que finalicen el proceso administrativo.
+Errada: Esa no es la respuesta correcta. De acuerdo a la Ley, se pueden presentar recursos contra disposiciones generales y actos que finalicen la vía administrativa. (Respuesta Correcta 4)
+###
+Pregunta: Si se presentan múltiples recursos contencioso-administrativos contra un mismo acto y se cumplen los criterios del artículo 34 LJCA, el tribunal puede decidir acumular los procesos:
+1)Por iniciativa propia o a solicitud de una de las partes, previa consulta a todas las partes durante un plazo común de 2 días.
+2)Por iniciativa propia o a solicitud de una de las partes, previa consulta a todas las partes durante un plazo común de 3 días.
+3)Por iniciativa propia o a solicitud de una de las partes, previa consulta a todas las partes durante un plazo común de 5 días.
+4)Por iniciativa propia o a solicitud de una de las partes, previa consulta a todas las partes durante un plazo común de 7 días.
+Respuesta: 3
+Correcta: ¡Exacto! El tribunal puede decidir acumular los procesos por iniciativa propia o a solicitud de una de las partes, y siempre consultando a todas las partes durante un plazo común de 5 días.
+Errada: Lo siento, esa no es la respuesta correcta. Según la ley, el tribunal puede decidir de oficio o a instancia de parte, consultando a todas las partes durante un periodo común de 5 días. (Respuesta Correcta 3)
+###
+Pregunta: El recurso que solicita a la Administración la ejecución de actos firmes se llevará a cabo mediante el procedimiento abreviado contencioso-administrativo una vez transcurrido:
+1)30 días después de que el afectado solicitara a la Administración la ejecución.
+2)Un mes después de que el afectado solicitara a la Administración la ejecución.
+3)31 días después de que el afectado solicitara a la Administración la ejecución.
+4)Dos meses después de que el afectado solicitara a la Administración la ejecución.
+Respuesta: 2
+Correcta: ¡Correcto! El recurso se sustancia mediante el procedimiento abreviado una vez transcurrido un mes desde que el afectado solicitó la ejecución a la Administración.
+Errada: Esa no es la respuesta adecuada. Según la ley, el procedimiento se inicia una vez que ha pasado un mes desde que el afectado solicitó la ejecución a la Administración. (Respuesta Correcta 2)
+###
+Pregunta: ¿Pueden los funcionarios representarse por sí mismos en la Jurisdicción Contencioso-Administrativa sin la intervención de un abogado o procurador?
+1)Sí, al impugnar resoluciones vinculadas a sus derechos estatutarios, en asuntos de personal que conlleven la destitución de funcionarios inamovibles.
+2)Sí, al impugnar resoluciones vinculadas a sus derechos estatutarios, en asuntos de personal que no conlleven la destitución de funcionarios inamovibles.
+3)Nunca al impugnar resoluciones vinculadas a sus derechos estatutarios, en asuntos de patrimonio que conlleven la destitución de funcionarios inamovibles.
+4)Nunca al impugnar resoluciones vinculadas a sus derechos estatutarios, en asuntos de personal que no conlleven la destitución de funcionarios inamovibles.
+Respuesta: 2
+Correcta: ¡Correcto! Los funcionarios pueden representarse por sí mismos al impugnar resoluciones relacionadas con sus derechos estatutarios en asuntos de personal que no impliquen destitución.
+Errada: Lo siento, esa respuesta no es correcta. Los funcionarios pueden representarse por sí mismos en casos específicos relacionados con sus derechos estatutarios. (Respuesta Correcta 2)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones sobre la acumulación en el proceso Contencioso-Administrativo es incorrecta:
+1)Las pretensiones vinculadas a diversos actos, disposiciones o medidas serán acumulables si tienen alguna conexión directa o indirecta.
+2)Si el Letrado de la Administración de Justicia considera inapropiada la acumulación, informará al Tribunal, que podría requerir a la parte presentar recursos por separado dentro de treinta días.
+3)Las pretensiones relacionadas con un mismo acto, disposición o medida son acumulables.
+4)Contra el auto que resuelva sobre la acumulación no se dará recurso alguno.
+Respuesta: 1
+Correcta: ¡Exacto! La afirmación A es incorrecta. El artículo 34.2 de la LJCA exige que exista una "conexión directa" entre los actos para que sus pretensiones sean acumulables, no bastando una conexión indirecta.
+Errada: Esa no es la respuesta correcta. La opción A es la incorrecta, ya que el artículo 34.2 de la LJCA especifica que la conexión entre los distintos actos debe ser directa para permitir la acumulación. (Respuesta Correcta 1)
+###
+Pregunta: En caso de vía de hecho, si el interesado ha formulado requerimiento a la Administración para que cese su actuación y esta no ha sido atendida en el plazo de diez días, ¿de qué plazo dispone para interponer el recurso contencioso-administrativo?
+1)Diez días.
+2)Veinte días.
+3)Un mes.
+4)Dos meses.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 30 de la LJCA, una vez transcurrido el plazo de diez días del requerimiento sin que la Administración cese en su actuación, el interesado dispone de otros diez días para interponer el recurso.
+Errada: Lo siento, esa no es la respuesta correcta. El plazo para presentar un recurso contencioso-administrativo es de diez días, contados desde el día siguiente a la finalización del plazo de diez días que tenía la Administración para atender el requerimiento. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 21 de la LJCA, ¿quién se considera parte demandada?
+1)Todas son correctas.
+2)Individuos o entidades cuyos derechos o intereses legales se vean afectados por la resolución.
+3)Las aseguradoras de las Administraciones Públicas.
+4)Individuos o entidades cuyos derechos o intereses legales podrían verse afectados si se aceptan las demandas del demandante.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las personas o entidades que podrían verse afectadas si se aceptan las demandas del demandante se consideran parte demandada.
+Errada: Esa no es la respuesta correcta. Las personas o entidades consideradas parte demandada son aquellas cuyos derechos o intereses podrían verse afectados si se acepta la demanda. (Respuesta Correcta 4)
+###
+Pregunta: Si el Letrado de la Administración de Justicia no logra determinar la cuantía del recurso contencioso administrativo tras los escritos de demanda y contestación, ¿qué plazo concederá al demandante para fijar dicha cuantía?
+1)Tres días.
+2)Seis días.
+3)Diez días.
+4)Veinte días.
+Respuesta: 3
+Correcta: ¡Correcto! Si el Letrado no puede fijar la cuantía, se otorga un plazo de diez días al demandante para hacerlo.
+Errada: La respuesta correcta es diez días. Ese es el plazo otorgado al demandante para determinar la cuantía si el Letrado no puede hacerlo. (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito contencioso-administrativo, si la única petición del demandante es anular un acto, y se necesita considerar el contenido económico de dicho acto, ¿qué se toma en cuenta?
+1)El débito principal, sin considerar recargos, costas u otras responsabilidades, a menos que estos tengan un valor menor al del débito principal.
+2)El débito principal, sin considerar recargos, costas u otras responsabilidades, siempre que estos tengan un valor mayor al del débito principal.
+3)El débito principal, sin considerar recargos, costas u otras responsabilidades, a menos que estos tengan un valor mayor al del débito principal.
+4)El débito principal, considerando recargos, costas u otras responsabilidades, a menos que estos tengan un valor mayor al del débito principal.
+Respuesta: 3
+Correcta: ¡Bien hecho! Se considera el débito principal y no se incluyen otros conceptos, a menos que estos superen el valor del débito principal.
+Errada: Lo siento, eso no es correcto. En estos casos, se considera el débito principal y no se incluyen recargos, costas u otros, a menos que su valor supere al del débito principal. (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito contencioso-administrativo, al solicitar la ampliación del recurso, ¿cuánto tiempo se otorga a las partes para hacer alegaciones?
+1)5 días.
+2)7 días.
+3)15 días.
+4)10 días.
+Respuesta: 1
+Correcta: ¡Correcto! Se otorgan 5 días a las partes para presentar sus alegaciones al solicitar la ampliación del recurso.
+Errada: La respuesta correcta es 5 días. Ese es el tiempo que tienen las partes para presentar alegaciones en caso de solicitar la ampliación del recurso. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito contencioso administrativo, en sus actuaciones ante órganos colegiados, ¿cómo deben proceder las partes en cuanto a su representación y asistencia?
+1)Las partes podrán representarse y defenderse a sí mismas.
+2)Las partes deberán conferir su representación a un Procurador y ser asistidas por Abogado.
+3)Las partes no deberán conferir su representación a un Procurador y sí ser asistidas por Abogado.
+4)Las partes deberán conferir su representación a un Procurador y no serán asistidas por Abogado.
+Respuesta: 2
+Correcta: ¡Correcto! En sus actuaciones ante órganos colegiados, las partes deben conferir su representación a un Procurador y estar asistidas por un Abogado.
+Errada: La respuesta correcta es que las partes deben conferir su representación a un Procurador y estar asistidas por un Abogado al actuar ante órganos colegiados. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 26.1 de la Ley Jurisdicción Contencioso Administrativa, aparte de la impugnación directa de disposiciones de carácter general, es posible el recurso contencioso contra actos derivados de esas disposiciones basado en que las mismas:
+1)Son nulas.
+2)Son conformes a Derecho.
+3)No son conformes a Derecho.
+4)Son subsanables.
+Respuesta: 3
+Correcta: ¡Bien hecho! La base de la impugnación es que las disposiciones no son conformes a Derecho.
+Errada: Lo siento, eso no es correcto. Según el artículo 26.1 de la LJCA, la impugnación puede fundamentarse en que las disposiciones no son conformes a Derecho. (Respuesta Correcta 3)
+###
+Pregunta: Contra la providencia del Juez o Tribunal que comunica a las partes sus razones por considerar que no se ha valorado adecuadamente la cuestión presentada, dándoles un plazo para hacer alegaciones:
+1)No cabe recurso alguno.
+2)Cabe recurso de reposición.
+3)Cabe recurso de queja.
+4)Cabe recurso de casación.
+Respuesta: 1
+Correcta: ¡Correcto! Contra dicha providencia no cabe recurso alguno.
+Errada: La respuesta correcta es que no cabe recurso alguno contra esa providencia. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 21 de la LJCA, si el demandante basa sus pretensiones en la ilegalidad de una disposición general, ¿quién se considera también parte demandada?
+1)Ninguna es correcta.
+2)A la Administración autora de la misma, aunque no proceda de ella la actuación recurrida.
+3)A la Administración autora de la misma, solo si proceda de ella la actuación recurrida.
+4)A la Administración ejecutora de la misma, aunque no proceda de ella la actuación recurrida.
+Respuesta: 2
+Correcta: Correcto. La Administración que ha promulgado la disposición general se considerará parte demandada, incluso si la actuación específica impugnada no proviene directamente de ella.
+Errada: Respuesta Correcta 2: La Administración que ha promulgado la disposición general se considerará parte demandada, incluso si la actuación específica impugnada no proviene directamente de ella. (Respuesta Correcta 2)
+###
+Pregunta: ¿Los menores de edad tienen capacidad procesal ante el orden contencioso administrativo?
+1)Imposible, necesitan la representación de sus padres o tutores.
+2)Nunca para la defensa de aquellos de sus derechos e intereses legítimos cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela.
+3)Necesitan la autorización del juez.
+4)Sí, para la defensa de aquellos de sus derechos e intereses legítimos cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los menores de edad tienen capacidad procesal para defender sus derechos e intereses que la ley les permite ejercer, sin requerir necesariamente la asistencia de quien ejerza la patria potestad o tutela.
+Errada: La respuesta correcta es la D. Los menores de edad tienen capacidad procesal para defender sus derechos e intereses que la ley les permite ejercer, sin requerir necesariamente la asistencia de quien ejerza la patria potestad o tutela. (Respuesta Correcta 4)
+###
+Pregunta: En el orden contencioso-administrativo, si el Juez o Tribunal considera que la cuestión puede no haber sido debidamente valorada por las partes, ¿qué medida adoptará?
+1)Mediante providencia, lo pondrá en conocimiento de las partes concediéndole un plazo común de cinco días para que formulen las alegaciones que estimen oportunas.
+2)Mediante providencia, lo pondrá en conocimiento de las partes concediéndole un plazo común de quince días para que formulen las alegaciones que estimen oportunas.
+3)Mediante providencia, lo pondrá en conocimiento de las partes concediéndole un plazo común de diez días para que formulen las alegaciones que estimen oportunas.
+4)Mediante providencia, lo pondrá en conocimiento de las partes concediéndole un plazo común de siete días para que formulen las alegaciones que estimen oportunas.
+Respuesta: 3
+Correcta: ¡Exacto! El Juez o Tribunal, mediante providencia, informará a las partes y les dará un plazo común de diez días para que presenten las alegaciones pertinentes.
+Errada: Respuesta Correcta 3: El Juez o Tribunal, mediante providencia, informará a las partes y les dará un plazo común de diez días para que presenten las alegaciones pertinentes. (Respuesta Correcta 3)
+###
+Pregunta: ¿Se puede actuar contra la inactividad de las Administraciones Públicas?
+1)Sí, mediante recurso de reposición.
+2)Sí, mediante recurso contencioso-administrativo.
+3)Sí, mediante recurso de alzada.
+4)Siempre se podrá impugnar por la vía administrativa.
+Respuesta: 2
+Correcta: ¡Correcto! La inactividad de la Administración es impugnable mediante recurso contencioso-administrativo.
+Errada: Respuesta Correcta 2: La inactividad de la Administración es impugnable mediante recurso contencioso-administrativo. (Respuesta Correcta 2)
+###
+Pregunta: Las partes, que no sean funcionarios públicos, en sus actuaciones ante los órganos colegiados del orden jurisdiccional contencioso-administrativo:
+1)Deben conferir su representación a un Procurador y pueden ser asistidas por Abogado.
+2)Pueden conferir su representación a un Procurador y deben ser asistidas por Abogado.
+3)Deben conferir su representación a un Procurador y ser asistidas por Abogado.
+4)Puede conferir su representación a un Procurador y ser asistidas por Abogado.
+Respuesta: 3
+Correcta: Correcto. En actuaciones ante órganos colegiados del orden jurisdiccional contencioso-administrativo, las partes (que no sean funcionarios públicos) deben estar representadas por un Procurador y ser asistidas por un Abogado.
+Errada: Respuesta Correcta 3: En actuaciones ante órganos colegiados del orden jurisdiccional contencioso-administrativo, las partes (que no sean funcionarios públicos) deben estar representadas por un Procurador y ser asistidas por un Abogado. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 28 de la LJCA, ¿cuál de los siguientes recursos no es admisible?
+1)El interpuesto contra actos que sean reproducción de otros anteriores definitivos y firmes.
+2)El interpuesto contra la inactividad de la Administración.
+3)El interpuesto contra disposiciones de carácter general.
+4)El interpuesto contra actos de trámite cualificados que decidan directa o indirectamente el fondo del asunto.
+Respuesta: 1
+Correcta: ¡Exacto! De acuerdo con el artículo 28 de la LJCA, no es admisible el recurso contencioso-administrativo contra actos que son meras reproducciones de otros anteriores que son definitivos y firmes.
+Errada: La respuesta correcta es la A. El artículo 28 de la LJCA establece que no son admisibles los recursos contra actos que sean reproducción de otros anteriores definitivos y firmes, así como los confirmatorios de actos consentidos. (Respuesta Correcta 1)
+###
+Pregunta: En el orden contencioso administrativo, cuando la Administración no ejecute sus actos firmes, ¿qué procedimiento se sigue?
+1)Por el procedimiento abreviado.
+2)Por el procedimiento ordinario.
+3)Por el procedimiento de derechos fundamentales.
+4)Por el procedimiento de declaración de lesividad.
+Respuesta: 1
+Correcta: ¡Correcto! Si la Administración no ejecuta sus actos firmes, los afectados pueden solicitar su ejecución y, si no se produce, pueden formular un recurso contencioso-administrativo que se tramitará por el procedimiento abreviado.
+Errada: Respuesta Correcta 1: Si la Administración no ejecuta sus actos firmes, los afectados pueden solicitar su ejecución y, si no se produce, pueden formular un recurso contencioso-administrativo que se tramitará por el procedimiento abreviado. (Respuesta Correcta 1)
+###
+Pregunta: Respecto a los litigios sobre acoso discriminatorio por razón de orientación e identidad sexual, expresión de género o características sexuales, ¿quién está legitimado según el artículo 19 de la LJCA?
+1)Además de las personas afectadas y siempre que cuenten con su autorización expresa o tácita.
+2)Además de las personas afectadas y siempre que cuenten con su autorización expresa.
+3)Además de las personas afectadas y siempre que cuenten con su autorización tácita.
+4)Solo las personas afectadas.
+Respuesta: 1
+Correcta: ¡Exacto! Según el artículo mencionado, además de las personas afectadas, diversas organizaciones que defiendan y promuevan los derechos humanos están legitimadas, siempre que cuenten con autorización expresa o tácita de las personas afectadas.
+Errada: Respuesta Correcta 1: Según el artículo mencionado, además de las personas afectadas, diversas organizaciones que defiendan y promuevan los derechos humanos están legitimadas, siempre que cuenten con autorización expresa o tácita de las personas afectadas. (Respuesta Correcta 1)
+###
+Pregunta: En el orden jurisdiccional contencioso administrativo, para la defensa de derechos estatutarios de funcionarios públicos relacionados con cuestiones de personal que no impliquen separación, ¿cómo deben proceder?
+1)Ninguna es Correcta.
+2)Deben ir asistidos de Abogado y representados por Procurador.
+3)Deberán comparecer por sí mismos.
+4)Podrán comparecer por sí mismos.
+Respuesta: 4
+Correcta: Correcto. En tales casos, los funcionarios públicos pueden comparecer por sí mismos sin necesidad de representación.
+Errada: Respuesta Correcta 4: En tales casos, los funcionarios públicos pueden comparecer por sí mismos sin necesidad de representación. (Respuesta Correcta 4)
+###
+Pregunta: ¿Puede la Administración autora de un acto impugnarlo ante el orden jurisdiccional contencioso administrativo?
+1)Sí, previa su revisión de oficio.
+2)Sí, previa su declaración de lesividad para el interés público.
+3)Sí, previa su declaración de nulidad.
+4)Sí, previa su revisión y rescisión.
+Respuesta: 2
+Correcta: ¡Correcto! La Administración puede impugnar sus propios actos ante el orden contencioso administrativo previa declaración de que son lesivos para el interés público.
+Errada: Respuesta Correcta 2: La Administración puede impugnar sus propios actos ante el orden contencioso administrativo previa declaración de que son lesivos para el interés público. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 19 de la Ley de la Jurisdicción Contencioso-Administrativa, ¿quiénes tienen legitimación ante el orden contencioso-administrativo?
+1)Las entidades individuales o corporativas con un derecho o interés directo.
+2)La Fiscalía para actuar en los procedimientos que la ley señale.
+3)Organismos públicos con personalidad jurídica que estén asociados o subordinados a cualquier administración pública, para desafiar actos o regulaciones que afecten su propósito.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Todas las opciones mencionadas están legitimadas según el artículo 19 de la LJCA.
+Errada: Lo siento, la respuesta correcta es que todas las opciones tienen legitimidad según la Ley mencionada. (Respuesta Correcta 4)
+###
+Pregunta: Contra el auto que resuelve sobre la acumulación de procesos en la jurisdicción contencioso-administrativa, ¿qué recurso procede?
+1)Recurso de reposición.
+2)Recurso de apelación.
+3)Recurso de queja.
+4)No cabe recurso alguno.
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 38 de la LJCA establece claramente que contra el auto que resuelva sobre la acumulación no se dará recurso alguno.
+Errada: Te has equivocado. El artículo 38 de la LJCA es taxativo al indicar que no cabe recurso contra el auto que decide sobre la acumulación de procesos. (Respuesta Correcta 4)
+###
+Pregunta: Según la modificación de la Ley 29/1998 por la LO 1/2025, en el procedimiento abreviado, si el actor pide en su demanda que el recurso se falle sin vista:
+1)El LAJ dará traslado para contestación en 20 días y luego el juez dictará sentencia sin más trámites.
+2)El demandado puede solicitar la celebración de vista en los primeros diez días del plazo para contestar, argumentando la necesidad de la misma.
+3)Se celebrará la vista en todo caso, si bien el Juez podrá limitar las intervenciones.
+4)Se denegará la petición del actor por providencia y se señalará vista obligatoriamente.
+Respuesta: 2
+Correcta: ¡Exacto! La reforma del artículo 78 de la LJCA permite al demandado solicitar la vista, pero debe justificarlo para que el juez decida sobre su pertinencia.
+Errada: Incorrecto. La respuesta correcta es la B. La reforma de la LJCA busca agilizar el procedimiento, permitiendo fallar sin vista si el demandado no justifica la necesidad de su celebración para practicar pruebas o aclarar hechos controvertidos. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 24 de la LJCA, la representación y defensa de las Administraciones públicas y entidades constitucionales se basan principalmente en:
+1)Lo estipulado por la Ley Orgánica del Poder Judicial y la Ley de Asistencia Jurídica al Estado e Instituciones Públicas.
+2)Lo estipulado por la Ley Orgánica del Poder Judicial y la Ley de Enjuiciamiento Civil.
+3)Lo estipulado por la Ley Orgánica del Poder Judicial y la La ley rituaria correspondiente.
+4)Lo estipulado por la Ley rituaria correspondiente y la Ley de Asistencia Jurídica al Estado e Instituciones Públicas.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 24 de la LJCA establece esa normativa para la representación y defensa.
+Errada: La respuesta adecuada es lo que establece el artículo 24 de la LJCA: la Ley Orgánica del Poder Judicial y la Ley de Asistencia Jurídica al Estado e Instituciones Públicas. (Respuesta Correcta 1)
+###
+Pregunta: En relación a la representación y defensa de las Administraciones públicas y entidades constitucionales:
+1)Ninguna de las tres es correcta.
+2)Se basa en lo dispuesto por la Ley Orgánica del Poder Judicial y las normativas dictadas por las Comunidades Autónomas en sus competencias.
+3)Se basa en lo dispuesto por la Ley Orgánica del Poder Judicial, la Ley de Asistencia Jurídica al Estado e Instituciones Públicas y las normativas dictadas por las Comunidades Autónomas en sus competencias.
+4)Se basa en lo dispuesto por la Ley Orgánica del Poder Judicial, la Ley rituaria administrativa y las normativas dictadas por las Comunidades Autónomas en sus competencias.
+Respuesta: 3
+Correcta: ¡Bien hecho! La representación y defensa se rige por varias normativas, incluidas las que establecen las Comunidades Autónomas.
+Errada: La respuesta correcta es la opción que incluye varias normativas, incluidas las de las Comunidades Autónomas. (Respuesta Correcta 3)
+###
+Pregunta: En un proceso contencioso-administrativo, si la legitimidad de las partes proviene de una relación jurídica transferible:
+1)El sucesor puede reemplazar a la persona que actuó inicialmente en el momento de la vista.
+2)El sucesor puede reemplazar a la persona que actuó inicialmente en cualquier momento del proceso.
+3)El sucesor puede reemplazar a la persona que actuó inicialmente al inicio del proceso.
+4)El sucesor debe reemplazar a la persona que actuó inicialmente en cualquier momento del proceso.
+Respuesta: 2
+Correcta: ¡Exacto! El sucesor tiene la capacidad de reemplazar a la parte original en cualquier fase del proceso.
+Errada: Te has equivocado. La respuesta correcta es que el sucesor puede intervenir en cualquier etapa del proceso. (Respuesta Correcta 2)
+###
+Pregunta: Presentado el recurso contencioso-administrativo, el Letrado de la Administración de Justicia, en el plazo improrrogable de:
+1)Dos días, examinará la validez de la comparecencia.
+2)Cinco días, reclamará a la Administración el expediente administrativo.
+3)Tres días, acordará el archivo de las actuaciones si el escrito inicial no cumple los requisitos.
+4)Diez días, dará traslado a la parte demandada.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 47.1 de la LJCA, en el plazo improrrogable de dos días desde la presentación del escrito de interposición, el LAJ examinará la validez de la comparecencia.
+Errada: La respuesta correcta es la A. El artículo 47.1 de la LJCA establece un plazo de dos días para que el LAJ examine la validez de la comparecencia tras la interposición del recurso. (Respuesta Correcta 1)
+###
+Pregunta: Con base en el artículo 26.2 de la Ley de Jurisdicción Contencioso Administrativa, si una disposición general no se impugna directamente:
+1)No evita la impugnación de actos que se aplican, si se argumenta que dicha disposición no es legal.
+2)Evita la impugnación de actos que se aplican, si no se argumenta que dicha disposición es legal.
+3)Evita la impugnación de actos que se aplican, si se argumenta que dicha disposición no es legal.
+4)No evita la impugnación de actos que se aplican, si se argumenta que dicha disposición es legal.
+Respuesta: 1
+Correcta: ¡Bien hecho! El artículo 26.2 establece que no impediría la impugnación basada en la ilegalidad de la disposición.
+Errada: La respuesta correcta es que no se evita la impugnación si se argumenta que la disposición no es legal. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 23 de la LJCA:
+1)Las partes otorgarán su representación a un procurador y pueden ser asistidas por un abogado ante órganos individuales.
+2)Las partes otorgarán su representación a un procurador y pueden ser asistidas por un abogado ante órganos colectivos.
+3)Los empleados públicos pueden representarse a sí mismos en casos de separación de empleados permanentes.
+4)Ninguna es correcta.
+Respuesta: 4
+Correcta: ¡Correcto! Ninguna de las anteriores afirmaciones es correcta según el artículo 23 de la LJCA.
+Errada: De acuerdo con el artículo 23 de la LJCA, ninguna de las opciones previas es válida. (Respuesta Correcta 4)
+###
+Pregunta: Con la entrada en vigor de la LO 1/2025, ¿qué órganos judiciales unipersonales son reemplazados por los Tribunales de Instancia?
+1)Los Juzgados de Paz.
+2)Los Juzgados de Primera Instancia, de Instrucción, de lo Mercantil, de lo Penal, entre otros.
+3)Las Audiencias Provinciales.
+4)Los Tribunales Superiores de Justicia.
+Respuesta: 2
+Correcta: ¡Exacto! La Ley Orgánica 1/2025 transforma los juzgados unipersonales de partido judicial en Secciones de los nuevos Tribunales de Instancia, manteniendo una estructura colegiada a nivel organizativo.
+Errada: La respuesta correcta es la B. La principal reforma organizativa de la LO 1/2025 es la creación de los Tribunales de Instancia, que integran en su estructura a los antiguos juzgados unipersonales. (Respuesta Correcta 2)
+###
+Pregunta: Si un órgano contencioso-administrativo tiene varios recursos pendientes con el mismo objeto que no se han acumulado:
+1)Puede acordar la tramitación preferente de uno o varios, oyendo a las partes por plazo común de cinco días, y suspender los demás hasta que se dicte sentencia.
+2)Debe procesar uno o más de forma ordinaria, escuchando a las partes en un plazo de cinco días, y pausar los demás hasta que se emita un fallo.
+3)No puede alterar el orden de tramitación salvo que lo soliciten todas las partes personadas.
+4)Debe procesar uno o más de forma prioritaria, escuchando a las partes en un plazo de tres días, y pausar los demás hasta que se emita un fallo.
+Respuesta: 1
+Correcta: ¡Bien hecho! El artículo 37.3 de la LJCA faculta al órgano judicial para acordar la tramitación preferente en estos casos, con audiencia de las partes por cinco días.
+Errada: La respuesta correcta es la A. La ley utiliza el término "podrá", indicando que es una facultad del órgano judicial, no una obligación. El plazo de audiencia es de cinco días. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito contencioso-administrativo, si el órgano judicial acepta una ampliación:
+1)La pausa persistirá hasta que con el nuevo reclamo se llegue al estado del procedimiento original.
+2)La pausa no persistirá hasta que con el nuevo reclamo se llegue al estado del procedimiento original.
+3)La pausa persistirá hasta que con el reclamo anterior se llegue al estado del procedimiento original.
+4)La pausa no persistirá hasta que con el reclamo anterior se llegue al estado del procedimiento original.
+Respuesta: 1
+Correcta: ¡Correcto! La suspensión continúa hasta que la nueva pretensión alcance el estado original del procedimiento.
+Errada: La respuesta correcta es que la suspensión sigue hasta que la nueva pretensión retome el estado inicial del proceso. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la reforma introducida por la LO 1/2025 en la LJCA, en el procedimiento abreviado, la sentencia:
+1)Debe dictarse siempre por escrito en el plazo de diez días.
+2)Puede dictarse oralmente al concluir la vista, con los requisitos previstos en la LEC.
+3)Solo puede ser oral si todas las partes están de acuerdo y renuncian a recurrir.
+4)Si es oral, no necesita motivación sucinta, bastando con el fallo.
+Respuesta: 2
+Correcta: ¡Correcto! La modificación del artículo 78.20 de la LJCA introduce la posibilidad de dictar sentencia oralmente al finalizar la vista, remitiendo a la regulación de la LEC, agilizando así la resolución del pleito.
+Errada: La respuesta correcta es la B. Una de las novedades para la agilización procesal es permitir que el juez dicte sentencia "in voce" en el procedimiento abreviado, quedando debidamente grabada y documentada. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a la legitimación ante el orden jurisdiccional contencioso-administrativo:
+1)Cualquier ciudadano puede ejercer la acción popular en casos previstos específicamente por la ley.
+2)Cualquier ciudadano puede ejercer la acción particular en casos previstos específicamente por la ley.
+3)El Ministerio Fiscal está siempre legitimado.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Bien hecho! Cualquier ciudadano puede ejercer la acción popular en situaciones específicas señaladas por la ley.
+Errada: La respuesta correcta es que cualquier ciudadano tiene legitimación en casos expresamente indicados por la ley. (Respuesta Correcta 1)
+###
+Pregunta: Si antes de una sentencia, se notifica al demandante un acto administrativo que puede acumularse con el motivo del litigio, ¿cuál es el plazo para solicitar la ampliación del recurso a dicho acto?
+1)30 días.
+2)Dos meses.
+3)31 días.
+4)Tres meses.
+Respuesta: 2
+Correcta: ¡Exacto! El demandante tiene un plazo de dos meses para solicitar la ampliación del recurso.
+Errada: La respuesta adecuada es que el demandante cuenta con un plazo de dos meses para solicitar la ampliación. (Respuesta Correcta 2)
+###
+Pregunta: En el ámbito contencioso-administrativo, respecto a las aseguradoras de las Administraciones públicas:
+1)Siempre serán parte codemandante junto con la Administración que aseguran.
+2)Serán interesados.
+3)Siempre serán parte codemandada junto con la Administración que aseguran.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 21.1.c) de la LJCA establece que las aseguradoras serán siempre parte codemandada junto con la Administración asegurada.
+Errada: La respuesta adecuada es la C. Las aseguradoras de las Administraciones públicas siempre son consideradas parte codemandada, no codemandante. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 1/2025, los Tribunales de Instancia se integrarán, como estructura mínima, por:
+1)Una Sección Civil, una de Instrucción y una de lo Penal.
+2)Una Sección Única, de Civil y de Instrucción.
+3)Tantas Secciones como órdenes jurisdiccionales existan.
+4)Una Sección Civil y una Sección Penal, exclusivamente.
+Respuesta: 2
+Correcta: ¡Muy bien! El nuevo artículo 84.2 de la LOPJ establece que los Tribunales de Instancia estarán integrados por una Sección Única (Civil y de Instrucción) o, en los supuestos que determine la Ley de Demarcación y Planta, por una Sección Civil y otra de Instrucción.
+Errada: La respuesta correcta es la B. La reforma busca una estructura base flexible, partiendo de una Sección Única que agrupa lo civil y la instrucción, pudiendo desdoblarse o añadirse otras secciones según las necesidades. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LO 1/2025, las Oficinas de Justicia en los municipios reemplazan a:
+1)Los Juzgados de Primera Instancia.
+2)Las Secretarías de los Ayuntamientos.
+3)Los Juzgados de Paz.
+4)Las Gerencias Territoriales de Justicia.
+Respuesta: 3
+Correcta: ¡Correcto! La LO 1/2025 transforma los históricos Juzgados de Paz en Oficinas de Justicia en los municipios, modernizando su estructura y ampliando sus funciones.
+Errada: La respuesta correcta es la C. La reforma sustituye la figura del Juzgado de Paz por una estructura administrativa más moderna y con un catálogo de servicios más amplio, la Oficina de Justicia en el municipio. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento contencioso-administrativo, cuando exista un gran número de recursos con idéntico objeto, el órgano jurisdiccional puede acordar la tramitación de uno o varios con carácter preferente, suspendiendo el resto. ¿Cómo se denomina este procedimiento?
+1)Recurso de casación en interés de ley.
+2)Acumulación de autos.
+3)Procedimiento testigo.
+4)Extensión de efectos de sentencia.
+Respuesta: 3
+Correcta: ¡Correcto! Este mecanismo, regulado en el artículo 37.4 de la LJCA, se conoce como procedimiento testigo y busca dar una solución unificada y eficiente a litigios en masa.
+Errada: La respuesta correcta es la C. El procedimiento testigo es una herramienta de gestión procesal para resolver de forma eficiente una pluralidad de recursos idénticos, tramitando uno o varios de ellos de forma preferente. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 1/2025, ¿quién dirige los servicios comunes de la Oficina judicial?
+1)El Juez Decano.
+2)Un Letrado de la Administración de Justicia.
+3)El Gerente de la Administración de Justicia.
+4)El Presidente del Tribunal de Instancia.
+Respuesta: 2
+Correcta: ¡Bien hecho! El nuevo artículo 436.6 de la LOPJ establece que la dirección de cada servicio común corresponderá a un Letrado de la Administración de Justicia.
+Errada: La respuesta correcta es la B. La reforma mantiene y refuerza el papel del Letrado de la Administración de Justicia como director técnico-procesal de los servicios comunes que integran la Oficina Judicial. (Respuesta Correcta 2)
+###
+Pregunta: Con la nueva estructura de Tribunales de Instancia, ¿quién preside la Junta de Jueces y Juezas del Tribunal de Instancia?
+1)El Presidente del Tribunal Superior de Justicia.
+2)El juez más antiguo del tribunal.
+3)La Presidencia del Tribunal de Instancia.
+4)Un vocal del Consejo General del Poder Judicial.
+Respuesta: 3
+Correcta: ¡Exacto! Conforme al nuevo artículo 169.1 de la LOPJ, la Presidencia del Tribunal de Instancia presidirá la Junta de Jueces y Juezas del mismo.
+Errada: La respuesta correcta es la C. La Presidencia del Tribunal de Instancia, figura que sustituye al Juez Decano, asume la presidencia de la Junta de Jueces del tribunal. (Respuesta Correcta 3)
+###
+Pregunta: Cuando, de acuerdo con una normativa o debido a un acto, contrato o convenio administrativo, la Administración debe proporcionar una prestación específica a una o más personas determinadas, las personas con derecho a esa prestación:
+1)No deben exigir a la Administración que cumpla con esa obligación.
+2)Pueden exigir a la Administración que cumpla con esa obligación.
+3)Pueden solicitar ante el tribunal el cumplimiento de dicha obligación.
+4)Deben exigir a la Administración que cumpla con esa obligación.
+Respuesta: 2
+Correcta: ¡Correcto! Las personas con derecho pueden exigir a la Administración que cumpla con la obligación establecida.
+Errada: La respuesta adecuada es que estas personas pueden demandar a la Administración para que cumpla con la obligación. (Respuesta Correcta 2)
+###
+Pregunta: La petición de acumulación de varios procesos contencioso-administrativos:
+1)No suspende el curso de ninguno de los procedimientos.
+2)Suspende el curso de todos los procedimientos implicados, sin excepción.
+3)Suspende el curso de los procedimientos cuya acumulación se pide, pero no el del procedimiento principal si lo hubiere.
+4)Solo suspende los procedimientos si lo acuerdan todas las partes.
+Respuesta: 3
+Correcta: ¡Exacto! El artículo 35.1 de la LJCA precisa que la petición suspende el curso de los procedimientos que se pide acumular, pero no el del procedimiento considerado principal.
+Errada: La respuesta correcta es la C. La ley distingue entre el procedimiento principal y aquellos que se le acumulan, suspendiendo solo el curso de estos últimos para evitar resoluciones contradictorias. (Respuesta Correcta 3)
+###
+Pregunta: Los empleados del sector público, al defender sus derechos ante órganos colegiados de la Jurisdicción Contencioso-Administrativa en cuestiones de personal que impliquen la desvinculación de empleados permanentes:
+1)Deben designar a un Procurador y contar con la defensa técnica de un Abogado.
+2)Pueden representarse por sí mismos.
+3)Deben designar a un Procurador y no están obligados a que les defienda un abogado.
+4)No necesitan ni procurador ni abogado.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los empleados deben designar a un Procurador y ser asistidos por un Abogado en tales circunstancias.
+Errada: La respuesta correcta es que los empleados deben designar a un Procurador y contar con el apoyo de un Abogado. (Respuesta Correcta 1)
+###
+Pregunta: Según la LO 1/2025, ¿cuándo contará una Sección de un Tribunal de Instancia con una Presidencia de Sección?
+1)Siempre que exista más de una Sección en el Tribunal.
+2)Cuando la Sección tenga cinco o más plazas judiciales.
+3)Cuando el Tribunal tenga más de veinte plazas en total.
+4)Cuando concurran las circunstancias previstas en el artículo 84.3 de la LOPJ.
+Respuesta: 4
+Correcta: ¡Correcto! El nuevo artículo 84.3 de la LOPJ establece que existirá Presidencia de Sección cuando haya dos o más Secciones en el Tribunal, la Sección en cuestión tenga ocho o más plazas, y el número total de plazas del Tribunal sea igual o superior a doce.
+Errada: La respuesta correcta es la D. La creación de la figura del Presidente de Sección está supeditada a la concurrencia simultánea de los tres requisitos de tamaño y estructura que marca la ley. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al art. 19 LJCA, el Ministerio Fiscal está facultado para intervenir en los litigios que la Ley especifica, incluyendo:
+1)El procedimiento de disolución de partidos políticos judicialmente.
+2)El proceso para salvaguardar los derechos fundamentales de las personas.
+3)El procedimiento que autoriza medidas de protección de derechos de propiedad intelectual en la sociedad digital.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! El Ministerio Fiscal debe intervenir en todos los procedimientos mencionados.
+Errada: La respuesta adecuada es que el Ministerio Fiscal está obligado a intervenir en todos los procesos mencionados. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 40 de la LJCA, el Letrado de la Administración de Justicia determinará la cuantía del recurso contencioso-administrativo:
+1)Antes de dictar sentencia.
+2)Una vez que se haya llevado a cabo la práctica de la prueba.
+3)Una vez presentado la demanda.
+4)Una vez presentados los documentos de demanda y respuesta.
+Respuesta: 4
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia determina la cuantía tras la presentación de los documentos de demanda y respuesta.
+Errada: La respuesta adecuada es que la cuantía se determina después de presentar los documentos de demanda y respuesta. (Respuesta Correcta 4)
+###
+Pregunta: El Tribunal Central de Instancia, creado por la LO 1/2025, contará con las siguientes Secciones:
+1)De Instrucción, de lo Penal, de Menores, de Vigilancia Penitenciaria y de lo Contencioso-Administrativo.
+2)De lo Civil, de lo Penal, de lo Social y de lo Contencioso-Administrativo.
+3)Únicamente una Sección de Instrucción y otra de lo Penal.
+4)Las mismas Secciones que la Audiencia Nacional.
+Respuesta: 1
+Correcta: ¡Correcto! El nuevo artículo 95 de la LOPJ dota al Tribunal Central de Instancia de estas cinco secciones especializadas con jurisdicción en todo el territorio nacional.
+Errada: La respuesta correcta es la A. La ley configura el Tribunal Central de Instancia con una estructura similar a la de los antiguos Juzgados Centrales, agrupándolos en cinco secciones especializadas. (Respuesta Correcta 1)
+###
+Pregunta: El Letrado de la Administración de Justicia establece la cuantía del recurso contencioso-administrativo después de que se presenten los documentos de demanda y respuesta. Si las partes no exponen su opinión sobre ello, ¿cuánto tiempo tiene el Letrado para solicitar al demandante que determine la cuantía?
+1)Cinco días.
+2)Quince días.
+3)Veinte días.
+4)Diez días.
+Respuesta: 4
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia tiene diez días para solicitar al demandante que determine la cuantía.
+Errada: La respuesta adecuada es que el Letrado tiene diez días para hacer la solicitud al demandante respecto a la cuantía. (Respuesta Correcta 4)
+###
+Pregunta: Tras la implantación de los Tribunales de Instancia por la LO 1/2025, ¿es preceptiva la intervención de Procurador en la primera instancia del orden contencioso-administrativo?
+1)No, sigue siendo opcional como ante los antiguos órganos unipersonales.
+2)Sí, al ser los Tribunales de Instancia órganos colegiados, es preceptiva en todo caso.
+3)Solo si la cuantía del recurso supera los 2.000 euros.
+4)Solo para la interposición del recurso, no para el resto del procedimiento.
+Respuesta: 2
+Correcta: ¡Correcto! Al transformar los Juzgados unipersonales en Tribunales de Instancia (órganos colegiados), resulta de aplicación el artículo 23.1 de la LJCA, que exige la intervención de Procurador ante órganos colegiados.
+Errada: La respuesta correcta es la B. La nueva estructura organizativa de la primera instancia como órgano colegiado conlleva la aplicación de la regla general de postulación para dichos órganos, haciendo preceptiva la representación por Procurador. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál de las siguientes NO es una función de las nuevas Oficinas de Justicia en los municipios según la LO 1/2025?
+1)Practicar actos de comunicación procesal.
+2)Colaborar con el Registro Civil.
+3)Dictar sentencias en juicios por delitos leves.
+4)Recibir solicitudes de asistencia jurídica gratuita.
+Respuesta: 3
+Correcta: ¡Muy bien! La función de dictar sentencias, incluso en delitos leves, es una potestad estrictamente jurisdiccional reservada a los jueces y tribunales. Las Oficinas de Justicia prestan servicios administrativos y de apoyo.
+Errada: La respuesta correcta es la C. Las Oficinas de Justicia en los municipios asumen funciones administrativas y de auxilio, pero la potestad de juzgar y ejecutar lo juzgado corresponde en exclusiva a los jueces de paz y a los tribunales, no al personal de la oficina. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién nombra a la Presidencia de los Tribunales de Instancia según la LO 1/2025?
+1)El Ministro de Justicia.
+2)La Sala de Gobierno del Tribunal Superior de Justicia.
+3)El Consejo General del Poder Judicial, a propuesta de la Sala de Gobierno.
+4)Es elegido directamente por todos los jueces de la provincia.
+Respuesta: 3
+Correcta: ¡Correcto! El nuevo artículo 166.1 de la LOPJ establece que el nombramiento corresponde al CGPJ, pero a propuesta motivada de la Sala de Gobierno del TSJ correspondiente, que a su vez propone al candidato elegido por los jueces del Tribunal de Instancia.
+Errada: La respuesta correcta es la C. El procedimiento de nombramiento implica a los jueces del propio tribunal (que eligen), a la Sala de Gobierno del TSJ (que propone) y al CGPJ (que nombra). (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la reforma de la LECrim por la LO 1/2025, el conocimiento y fallo de los juicios por delito leve corresponde, con carácter general, a:
+1)El Juez de Paz.
+2)La Sección de Instrucción de los Tribunales de Instancia.
+3)La Sección de lo Penal de los Tribunales de Instancia.
+4)La Audiencia Provincial.
+Respuesta: 2
+Correcta: ¡Bien hecho! El reformado artículo 14.1 de la LECrim atribuye la competencia para los juicios por delito leve a la Sección de Instrucción del Tribunal de Instancia, salvo las excepciones de violencia sobre la mujer o contra la infancia.
+Errada: La respuesta correcta es la B. La reforma adapta las competencias a la nueva estructura judicial, asignando los delitos leves a las Secciones de Instrucción. (Respuesta Correcta 2)
+###
+Pregunta: Cuando el demandado no esté de acuerdo con la cuantía del recurso contencioso-administrativo fijada por el demandante:
+1)Lo expondrá por escrito dentro del término de 5 días, resolviendo el Letrado de la Administración de Justicia lo procedente.
+2)Lo expondrá por escrito dentro del término de 7 días, resolviendo el Letrado de la Administración de Justicia lo procedente.
+3)Lo expondrá por escrito dentro del término de 15 días, resolviendo el Letrado de la Administración de Justicia lo procedente.
+4)Lo expondrá por escrito dentro del término de 10 días, resolviendo el Letrado de la Administración de Justicia lo procedente.
+Respuesta: 4
+Correcta: ¡Exacto! Si el demandado no está conforme con la cuantía establecida por el demandante, tiene un plazo de 10 días para expresarlo, siendo el Letrado de la Administración de Justicia quien resuelva lo procedente.
+Errada: La respuesta correcta es que el demandado deberá exponerlo por escrito en un plazo de 10 días, y será el Letrado de la Administración de Justicia quien decida sobre el asunto. (Respuesta Correcta 4)
+###
+Pregunta: Según la reforma de la LECrim (art. 655), para dictar sentencia de conformidad:
+1)La pena solicitada no puede exceder de seis años de prisión.
+2)Se eliminan los límites penológicos para su operatividad.
+3)Es necesario que el acusado renuncie a la apelación por escrito.
+4)El juez no puede revisar la calificación jurídica aceptada por las partes.
+Respuesta: 2
+Correcta: ¡Correcto! Una de las novedades de la reforma de la conformidad en el procedimiento ordinario (art. 655 LECrim) y abreviado (art. 787) es la supresión de los límites de pena, permitiendo su aplicación en más casos para agilizar la justicia.
+Errada: La respuesta correcta es la B. La LO 1/2025 ha modificado la LECrim para eliminar los límites de pena que existían para la conformidad, buscando fomentar los acuerdos y la eficiencia procesal. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 40 LJCA, ¿quién resolverá definitivamente la cuestión de la cuantía del recurso?
+1)El Juez o Tribunal, en la sentencia.
+2)El LAJ.
+3)Las partes por acuerdo.
+4)El Ministerio Fiscal, en coordinación con el Juez.
+Respuesta: 1
+Correcta: ¡Bien hecho! La cuestión final sobre la cuantía del recurso será resuelta por el Juez o Tribunal al momento de dictar sentencia.
+Errada: La respuesta correcta es que el Juez o Tribunal resolverá de manera definitiva la cuestión de cuantía en la sentencia. (Respuesta Correcta 1)
+###
+Pregunta: La reforma de la LECrim amplía el ámbito de aplicación de las diligencias urgentes y el juicio rápido para incluir, entre otros, los delitos de:
+1)Homicidio y asesinato.
+2)Delitos contra la Hacienda Pública.
+3)Allanamiento de morada y usurpación.
+4)Delitos societarios complejos.
+Respuesta: 3
+Correcta: ¡Exacto! La modificación del artículo 795.1.2ª de la LECrim añade los delitos de allanamiento de morada (art. 202 CP) y de usurpación (art. 245 CP) al catálogo de infracciones que pueden tramitarse por el procedimiento de juicio rápido.
+Errada: La respuesta correcta es la C. La reforma busca dar una respuesta más ágil a fenómenos delictivos como la ocupación ilegal, incluyendo los delitos de allanamiento y usurpación en el ámbito del juicio rápido. (Respuesta Correcta 3)
+###
+Pregunta: Con la reforma de la LECrim, antes del juicio oral en el procedimiento abreviado, se introduce un nuevo trámite denominado:
+1)Audiencia de conciliación.
+2)Comparecencia de saneamiento.
+3)Audiencia preliminar.
+4)Acto de preparación del juicio.
+Respuesta: 3
+Correcta: ¡Correcto! El nuevo artículo 785 de la LECrim regula la audiencia preliminar, un trámite para depurar cuestiones procesales, proponer pruebas y explorar conformidades antes de la vista oral.
+Errada: La respuesta correcta es la C. Para mejorar la eficiencia del juicio oral, la reforma introduce una audiencia preliminar que permite resolver cuestiones previas y evitar suspensiones. (Respuesta Correcta 3)
+###
+Pregunta: El nuevo artículo 988 bis de la LECrim ordena la fase de ejecución penal, dando traslado al condenado para que en el plazo de diez días se pronuncie sobre:
+1)La posible interposición de un recurso de amparo.
+2)La solicitud de indulto.
+3)La suspensión de la pena o el aplazamiento de responsabilidades pecuniarias.
+4)La designación de un nuevo abogado para la fase de ejecución.
+Respuesta: 3
+Correcta: ¡Correcto! Este nuevo artículo busca concentrar en un trámite inicial las principales peticiones del condenado relativas a la ejecución, como la suspensión de la pena, el aplazamiento del pago de la responsabilidad civil o la sustitución de la pena.
+Errada: La respuesta correcta es la C. El artículo 988 bis de la LECrim se ha introducido para ordenar y agilizar el inicio de la ejecutoria penal. (Respuesta Correcta 3)
+###
+Pregunta: La reforma del artículo 266 de la LECrim introduce limitaciones a la denuncia telemática. ¿Cuál de los siguientes delitos NO se puede denunciar por esta vía?
+1)Un hurto sin autor conocido y sin testigos.
+2)Un delito de daños leves.
+3)Un delito de naturaleza sexual.
+4)Una estafa de pequeña cuantía.
+Respuesta: 3
+Correcta: ¡Muy bien! La reforma del artículo 266 de la LECrim excluye expresamente de la denuncia telemática, entre otros, los hechos de naturaleza violenta o sexual, por su especial gravedad y la necesidad de una atención presencial e inmediata a la víctima.
+Errada: La respuesta correcta es la C. Se excluyen de la denuncia telemática los hechos más graves o que requieren una actuación policial o judicial inmediata, como los delitos violentos o sexuales. (Respuesta Correcta 3)
+###
+Pregunta: En un procedimiento testigo, una vez dictada sentencia firme, ¿qué pueden solicitar los interesados en los procedimientos suspendidos?
+1)La celebración de un nuevo juicio completo.
+2)La extensión de los efectos de la sentencia.
+3)La remisión del asunto al Tribunal Supremo.
+4)El archivo de su procedimiento sin más trámites.
+Respuesta: 2
+Correcta: ¡Exacto! El objetivo del procedimiento testigo es que la solución del caso principal pueda aplicarse a los demás casos idénticos mediante la extensión de efectos de la sentencia, evitando la repetición de juicios.
+Errada: La respuesta correcta es la B. Una vez resuelto el caso "testigo", las partes en los procedimientos suspendidos pueden solicitar que se les aplique esa misma solución a través del trámite de extensión de efectos. (Respuesta Correcta 2)
+###
+Pregunta: Las Oficinas de Justicia en municipios de más de 7.000 habitantes estarán servidas por:
+1)Personal del Ayuntamiento exclusivamente.
+2)Voluntarios designados por el Juez de Paz.
+3)Funcionarios de los Cuerpos al servicio de la Administración de Justicia.
+4)Jueces de adscripción territorial.
+Respuesta: 3
+Correcta: ¡Correcto! El nuevo artículo 439 quinquies de la LOPJ establece que estas oficinas, por su volumen de población, deben estar atendidas por personal funcionario de la Administración de Justicia.
+Errada: La respuesta correcta es la C. La reforma profesionaliza la atención en las Oficinas de Justicia de los municipios más grandes, asignando su gestión a personal de los cuerpos de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Con carácter general, en la jurisdicción contencioso-administrativa, los funcionarios públicos que defienden sus derechos estatutarios en cuestiones de personal que no impliquen su separación:
+1)Deben ser asistidos por Abogado y representados por Procurador.
+2)Podrán comparecer por sí mismos.
+3)Deben ser asistidos por Graduado Social.
+4)Solo pueden comparecer por sí mismos ante los Tribunales de Instancia.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 23.3 de la LJCA permite a los funcionarios públicos comparecer por sí mismos en defensa de sus derechos estatutarios en estos supuestos específicos.
+Errada: La respuesta correcta es la B. Se trata de una excepción a las reglas generales de postulación, facilitando al funcionario la defensa de sus derechos en materia de personal. (Respuesta Correcta 2)

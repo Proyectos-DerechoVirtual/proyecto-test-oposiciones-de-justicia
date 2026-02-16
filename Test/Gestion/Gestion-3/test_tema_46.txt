@@ -1,0 +1,873 @@
+Pregunta: En la fase de sumario, ¿cuál es el límite mínimo establecido para la fianza con el fin de asegurar responsabilidades pecuniarias?
+1)Más de un cuarto del monto estimado de las responsabilidades pecuniarias.
+2)Más de un tercio del monto estimado de las responsabilidades pecuniarias.
+3)Más de un quinto del monto estimado de las responsabilidades pecuniarias.
+4)Más de un sexto del monto estimado de las responsabilidades pecuniarias.
+Respuesta: 2
+Correcta: ¡Correcto! El límite mínimo establecido para la fianza no puede ser inferior a más de un tercio del monto estimado de las responsabilidades pecuniarias.
+Errada: Incorrecto. La respuesta correcta es "Más de un tercio del monto estimado de las responsabilidades pecuniarias. (Respuesta Correcta 2)
+###
+Pregunta: De las opciones mencionadas, identifique la declaración inexacta relacionada con el método de circulación y entrega vigilada, como lo establece el art. 263 bis de la LECrim, incluyendo los delitos de usurpación y allanamiento de morada.
+1)En el ámbito internacional, esta se regirá por los tratados internacionales correspondientes.
+2)El proceso de interceptación y apertura de envíos postales sospechosos de contener drogas se efectuará respetando todas las garantías judiciales, sin excepción alguna.
+3)Dicha medida se debe determinar a través de una resolución fundamentada, especificando, en la medida de lo posible, el objeto de autorización o entrega vigilada.
+4)La decisión de usar la entrega vigilada se toma en función de cada situación.
+Respuesta: 2
+Correcta: ¡Exacto! La interceptación y apertura de envíos postales sospechosos no siempre se efectúa con todas las garantías judiciales.
+Errada: Incorrecto. La respuesta correcta es que el proceso de interceptación y apertura de envíos postales sospechosos de contener drogas se efectuará respetando todas las garantías judiciales, sin excepción alguna. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 263 bis LECrim, ¿quién o quiénes pueden autorizar la circulación o entrega vigilada de sustancias prohibidas, incluyendo los delitos de allanamiento de morada y usurpación?
+1)El Juez Instructor pertinente.
+2)El Ministerio Fiscal.
+3)Los líderes de las Unidades Orgánicas de Policía Judicial, ya sean centrales o provinciales, y sus superiores.
+4)Todas las opciones son correctas.
+Respuesta: 4
+Correcta: ¡Muy bien! Todas las opciones mencionadas tienen la autoridad para autorizar la circulación o entrega vigilada de sustancias prohibidas según la LECrim.
+Errada: Incorrecto. Todas las opciones mencionadas, incluido el Juez Instructor, el Ministerio Fiscal, y los líderes de las Unidades Orgánicas de Policía Judicial, tienen la autoridad para autorizar la circulación o entrega vigilada de sustancias prohibidas. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Orgánica 6/1984, del 24 de mayo, referente al procedimiento de "Habeas Corpus", identifique la afirmación incorrecta sobre quiénes se consideran detenidos ilegalmente:
+1)Aquellas personas que, estando detenidas, no se les otorguen los derechos garantizados por la Constitución y leyes procesales.
+2)Las que sean detenidas por un individuo sin cumplir con las formalidades y requisitos que las leyes establecen.
+3)Aquellas que estén confinadas en cualquier lugar o institución.
+4)Las personas detenidas por un tiempo que excede al estipulado en las leyes, y que no son liberadas o entregadas al juez más cercano al sitio de detención después de ese período.
+Respuesta: 3
+Correcta: ¡Exactamente! Según la ley mencionada, no se considera ilegalmente detenida a una persona simplemente por estar confinada en un lugar o institución.
+Errada: La respuesta correcta es que no se considera detenida ilegalmente a una persona simplemente por estar confinada en cualquier lugar o institución. (Respuesta Correcta 3)
+###
+Pregunta: En relación con la incomunicación de los arrestados o prisioneros, elige la opción que es incorrecta:
+1)No se aplica a menores de 16 años.
+2)El detenido incomunicado debe ser examinado médicamente al menos dos veces cada 24 horas, basado en criterio médico.
+3)Esta condición de incomunicación comienza cuando la policía judicial o el Ministerio Fiscal la solicita, pero el Juez debe decidir sobre ella en un máximo de 72 horas.
+4)La incomunicación puede durar hasta 5 días, pero en casos de terrorismo o delitos organizados puede extenderse por otro período de hasta 5 días.
+Respuesta: 3
+Correcta: ¡Bien hecho! La incomunicación no comienza automáticamente con la solicitud de la policía judicial o del Ministerio Fiscal sin la decisión del juez.
+Errada: Incorrecto. La incomunicación no comienza automáticamente con la solicitud de la policía judicial o del Ministerio Fiscal sin la decisión del juez. (Respuesta Correcta 3)
+###
+Pregunta: Según la LECrim, en lo que respecta a la tasación de bienes para las fianzas hipotecaria y pignoraticia:
+1)La valoración será realizada por tres expertos designados por el Juez instructor o el Tribunal encargado del caso.
+2)La valoración será realizada por un experto designado por el Juez instructor o el Tribunal encargado del caso.
+3)La valoración será realizada por dos expertos designados por el Juez instructor o el Tribunal encargado del caso.
+4)La valoración será realizada por cuatro expertos designados por el Juez instructor o el Tribunal encargado del caso.
+Respuesta: 3
+Correcta: ¡Correcto! De acuerdo con la LECrim, dos expertos designados por el Juez instructor o Tribunal serán los responsables de tasar los bienes.
+Errada: La respuesta adecuada es que dos expertos designados por el Juez instructor o Tribunal serán los encargados de realizar la tasación. (Respuesta Correcta 3)
+###
+Pregunta: ¿Es necesario contar con la intervención de un abogado y procurador para iniciar el procedimiento de Habeas Corpus?
+1)Se requiere que un abogado esté presente.
+2)Sí es necesario.
+3)No es necesario.
+4)Se requiere que el representante legal esté presente.
+Respuesta: 3
+Correcta: ¡Correcto! Para iniciar el procedimiento de Habeas Corpus no es necesario contar con la intervención de un abogado y procurador.
+Errada: Incorrecto. Para iniciar el procedimiento de Habeas Corpus no es necesario contar con la intervención de un abogado y procurador. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 579 de la Ley de Enjuiciamiento Criminal, ¿cuál de los siguientes delitos no justifica la detención y examen de correspondencia privada, postal y telegráfica del investigado?
+1)Delitos intencionados penalizados con al menos un límite máximo de dos años de prisión.
+2)Delitos intencionados penalizados con al menos un límite máximo de tres años de prisión.
+3)Delitos intencionados penalizados con al menos un límite máximo de cuatro años de prisión.
+4)Delitos contra la Administración Pública.
+Respuesta: 4
+Correcta: ¡Exacto! El artículo 579 no menciona a los delitos contra la Administración Pública como justificación para esta medida.
+Errada: La respuesta correcta es que el artículo 579 no incluye a los delitos contra la Administración Pública. (Respuesta Correcta 4)
+###
+Pregunta: La interceptación inicial máxima permitida de comunicaciones telefónicas y telemáticas se calcula desde:
+1)La fecha de autorización judicial, con un máximo de dos meses, extendible hasta dieciocho meses.
+2)La fecha de autorización judicial, con un máximo de tres meses, extendible hasta dieciocho meses.
+3)La fecha de autorización judicial, con un máximo de cuatro meses, extendible hasta dieciocho meses.
+4)La fecha de autorización judicial, con un máximo de cinco meses, extendible hasta dieciocho meses.
+Respuesta: 2
+Correcta: ¡Bien hecho! La duración se calcula desde la fecha de autorización judicial y puede extenderse hasta un máximo de dieciocho meses.
+Errada: Incorrecto. La duración se basa en la fecha de autorización judicial y puede extenderse hasta un máximo de dieciocho meses. (Respuesta Correcta 2)
+###
+Pregunta: Si se emite una sentencia condenatoria definitiva y el procesado no se presenta o no justifica su ausencia:
+1)Se advertirá al fiador personal y si el condenado no se presenta en quince días, la fianza pasará al estado.
+2)Se advertirá al fiador personal y si el condenado no se presenta en siete días, la fianza pasará al estado.
+3)Se advertirá al fiador personal y si el condenado no se presenta en diez días, la fianza pasará al estado.
+4)Se ejecutará la fianza, transfiriéndola al Estado.
+Respuesta: 4
+Correcta: ¡Correcto! Si el condenado no se presenta, la fianza se declara adjudicada al Estado.
+Errada: La respuesta adecuada es que si el condenado no se presenta, la fianza se declara adjudicada al Estado. (Respuesta Correcta 4)
+###
+Pregunta: Según la LECrim, identifica la afirmación errónea sobre el embargo de bienes al procesado:
+1)Se pedirá al procesado que designe activos suficientes para cubrir las responsabilidades pecuniarias establecidas.
+2)Si el oficial encargado del embargo cree que los activos designados no cubren la cantidad, notificará al Letrado de la Administración de Justicia.
+3)Si el procesado no está presente, se hará la solicitud a su esposa, hijos, apoderado o personas que vivan en su hogar.
+4)Si no hay nadie en la vivienda del procesado, o no quieren señalar bienes, se embargarán aquellos que se crean pertenecientes al procesado, siguiendo el orden de la LEC.
+Respuesta: 2
+Correcta: ¡Bien hecho! Es incorrecto que el alguacil notifique al Letrado de la Administración de Justicia si considera insuficientes los bienes señalados.
+Errada: La afirmación correcta es que el oficial, si considera insuficientes los bienes señalados, no está obligado a notificar al Letrado de la Administración de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 544 quinquies de la LECrim, cuando se suspende la patria potestad de uno de los padres, el Letrado de la Administración de Justicia informará:
+1)En un plazo de 5 días tanto a la entidad pública responsable de la protección de los menores como al Ministerio Fiscal.
+2)En un plazo de 7 días tanto a la entidad pública responsable de la protección de los menores como al Ministerio Fiscal.
+3)Inmediatamente tanto a la entidad pública responsable de la protección de los menores como al Ministerio Fiscal.
+4)En un plazo de 2 días tanto a la entidad pública responsable de la protección de los menores como al Ministerio Fiscal.
+Respuesta: 3
+Correcta: ¡Correcto! Debe comunicarse inmediatamente tanto a la entidad pública encargada de la protección de los menores como al Ministerio Fiscal.
+Errada: Incorrecto. La comunicación debe hacerse de inmediato tanto a la entidad pública encargada de la protección de los menores como al Ministerio Fiscal. (Respuesta Correcta 3)
+###
+Pregunta: Con base en el artículo 530 de la LECrim, para asegurar que el investigado o encausado en libertad provisional cumpla con su comparecencia ante el juez o tribunal del Tribunal de Instancia:
+1)El juez puede decidir, con fundamentos, retener su pasaporte.
+2)El fiscal puede decidir, con fundamentos, retener su pasaporte.
+3)El LAJ puede decidir, con fundamentos, retener su pasaporte.
+4)El juez puede decidir, con fundamentos, retener su carnet de conducir.
+Respuesta: 1
+Correcta: ¡Exacto! El juez tiene la facultad, si lo considera necesario, de retener el pasaporte del acusado o investigado.
+Errada: Incorrecto. Según el artículo 530 de la LECrim, el juez puede retener el pasaporte del acusado o investigado si lo considera necesario. (Respuesta Correcta 1)
+###
+Pregunta: Si se hubiera acordado la interceptación de comunicaciones telefónicas y telemáticas, su duración según la LECrim será:
+1)La especificada para la medida, sin exceder el tiempo esencial para esclarecer los hechos y con posibilidad de prórroga, mediante un auto justificado, por el juez competente, ya sea por propia iniciativa o a petición razonada del solicitante, siempre y cuando persistan las causas que dieron origen a la medida.
+2)La especificada para la medida, sin exceder el tiempo esencial para esclarecer los hechos y sin posibilidad de prórroga, mediante un auto justificado, por el juez competente, ya sea por propia iniciativa o a petición razonada del solicitante, siempre y cuando persistan las causas que dieron origen a la medida.
+3)La especificada para la medida, sin exceder el tiempo esencial para esclarecer los fundamentos de derecho y con posibilidad de prórroga, mediante un auto justificado, por el juez competente, ya sea por propia iniciativa o a petición razonada del solicitante, siempre y cuando persistan las causas que dieron origen a la medida.
+4)La especificada para la medida, sin exceder el tiempo esencial para esclarecer los hechos y con posibilidad de prórroga, mediante un auto justificado, por el juez competente, ya sea por propia iniciativa o a petición razonada del solicitante, siempre y cuando se extingan las causas que dieron origen a la medida.
+Respuesta: 1
+Correcta: ¡Correcto! Según la LECrim, la duración de la interceptación debe ser la estrictamente necesaria, con posibilidad de prórroga si se justifica.
+Errada: La respuesta correcta es que la duración de la interceptación debe ser la estrictamente necesaria, con posibilidad de prórroga si se justifica. (Respuesta Correcta 1)
+###
+Pregunta: Indica cuál no es una finalidad de la prisión provisional:
+1)Prevenir que el investigado o acusado actúe contra sí mismo o sus bienes.
+2)Prevenir que el investigado o acusado actúe contra derechos jurídicos de la víctima.
+3)Asegurar la presencia del imputado en el proceso cuando haya riesgo razonable de fuga.
+4)Evitar la ocultación, alteración o destrucción de pruebas relevantes en casos donde exista un peligro real y concreto.
+Respuesta: 1
+Correcta: ¡Correcto! Evitar que el investigado actúe contra sí mismo o sus bienes no es un fin de la prisión provisional.
+Errada: La respuesta correcta es que la prisión provisional no busca prevenir que el investigado o acusado actúe contra sí mismo o sus bienes. (Respuesta Correcta 1)
+###
+Pregunta: Respecto al procedimiento de Habeas Corpus, selecciona la afirmación errónea:
+1)Es competente el Juez de Instrucción del lugar donde se encuentre el detenido, o, en caso de desconocerse, donde se haya producido la detención, y si tampoco se sabe, donde se tuvieron las últimas noticias de su paradero.
+2)El proceso puede comenzar con un escrito o comparecencia, sin ser necesario la intervención de Abogado o Procurador.
+3)En el ámbito de la Jurisdicción Militar, el competente es el Juez Togado Militar de Instrucción en el lugar de la detención.
+4)El procedimiento de "Habeas Corpus" asegura la liberación inmediata de cualquier persona detenida ilegalmente.
+Respuesta: 4
+Correcta: ¡Exacto! El "Habeas Corpus" no garantiza la liberación inmediata de cualquier detenido ilegalmente, sino solo de aquellos cuya detención no cumple con los requisitos legales.
+Errada: La respuesta correcta es que el "Habeas Corpus" no garantiza la liberación inmediata de cualquier detenido ilegalmente. Su propósito es evaluar la legalidad de la detención. (Respuesta Correcta 4)
+###
+Pregunta: Respecto a la duración máxima de la utilización de dispositivos de seguimiento y localización, ¿cuál es el plazo máximo permitido según la LECrim?
+1)Dos meses, prorrogables, excepcionalmente, de forma sucesiva por el mismo o inferior plazo hasta un máximo de dieciocho meses.
+2)Cuatro meses, prorrogables, excepcionalmente, de forma sucesiva por el mismo o inferior plazo hasta un máximo de dieciocho meses.
+3)Cinco meses, prorrogables, excepcionalmente, de forma sucesiva por el mismo o inferior plazo hasta un máximo de dieciocho meses.
+4)Tres meses, prorrogables, excepcionalmente, de forma sucesiva por el mismo o inferior plazo hasta un máximo de dieciocho meses.
+Respuesta: 4
+Correcta: ¡Correcto! Según la Ley Orgánica 13/2015, la duración inicial es de tres meses, pero puede prorrogarse hasta alcanzar un total de dieciocho meses.
+Errada: La respuesta correcta es tres meses, prorrogables hasta un máximo de dieciocho meses. (Respuesta Correcta 4)
+###
+Pregunta: La duración máxima inicial de la medida de interceptación de las comunicaciones telefónicas y telemáticas es:
+1)Tres meses, prorrogables hasta un máximo de quince meses desde la fecha de autorización judicial.
+2)Tres meses, prorrogables hasta un máximo de diez meses desde la fecha de autorización judicial.
+3)Tres meses, prorrogables hasta un máximo de dieciocho meses desde la fecha de autorización judicial.
+4)Tres meses, prorrogables hasta un máximo de veinte meses desde la fecha de autorización judicial.
+Respuesta: 3
+Correcta: ¡Correcto! Según la LECrim, la duración inicial es de tres meses, pero puede prorrogarse hasta alcanzar un total de dieciocho meses desde la fecha de autorización judicial.
+Errada: La respuesta correcta es tres meses, prorrogables hasta un máximo de dieciocho meses desde la fecha de autorización judicial. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la LECrim, el objetivo de la medida de circulación o entrega vigilada de drogas, sustancias, equipos, materiales, bienes y ganancias referida en el art. 263 bis es:
+1)Asistir a las personas involucradas en delitos relacionados con esos elementos
+2)Descubrir e identificar a las personas involucradas en delitos relacionados con esos elementos
+3)Descubrir o identificar a las personas involucradas en delitos relacionados con esos elementos
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! El propósito principal de la medida es identificar o descubrir a las personas que participan en dichos delitos.
+Errada: La respuesta correcta es identificar o descubrir a las personas involucradas en delitos relacionados con esos elementos. (Respuesta Correcta 3)
+###
+Pregunta: En relación con el registro de libros y papeles, la LECrim dispone:
+1)Los libros y papeles que se recojan serán foliados, sellados y rubricados en todas sus hojas por el Letrado de la Administración de Justicia, bajo su responsabilidad.
+2)Los libros y papeles que se recojan no serán foliados, sellados y rubricados en todas sus hojas por el Letrado de la Administración de Justicia, bajo su responsabilidad.
+3)Los libros y papeles que se recojan serán foliados, sellados o rubricados en todas sus hojas por el Letrado de la Administración de Justicia, bajo su responsabilidad.
+4)Los libros y papeles que se recojan serán foliados, sellados y rubricados en todas sus hojas por el Gestor Procesal bajo su responsabilidad.
+Respuesta: 1
+Correcta: ¡Exacto! Según la LECrim, es el Letrado de la Administración de Justicia el responsable de foliar, sellar y rubricar los libros y papeles que se recojan.
+Errada: La respuesta correcta es que los libros y papeles serán foliados, sellados y rubricados en todas sus hojas por el Letrado de la Administración de Justicia. (Respuesta Correcta 1)
+###
+Pregunta: A los efectos de la LO 6/1984 de Habeas Corpus, se consideran personas ilegalmente detenidas. Señale la proposición errónea:
+1)Las que lo fueren por particular sin concurrir los supuestos legales.
+2)Las que lo estuvieran por plazo superior al señalado en las leyes, si transcurrido el mismo, no fuesen puestas en libertad o entregadas al Juez más próximo al lugar de la detención.
+3)Las que estén ilícitamente internadas en cualquier lugar.
+4)Las privadas de libertad a quienes no les sean respetados los derechos que la Constitución y los reglamentos garantizan a toda persona.
+Respuesta: 4
+Correcta: ¡Correcto! Las personas a quienes no se les respetan sus derechos constitucionales no se consideran necesariamente "ilegalmente detenidas" solo por esa razón.
+Errada: La respuesta correcta es que las personas a quienes no se les respetan sus derechos constitucionales no se consideran necesariamente "ilegalmente detenidas" solo por esa razón. (Respuesta Correcta 4)
+###
+Pregunta: Los autos relativos a la situación personal del investigado o encausado:
+1)Se pondrán en conocimiento de los directamente ofendidos y perjudicados por el delito cuya seguridad pudiera verse afectada por la resolución.
+2)Se pondrán en conocimiento de los letrados de los ofendidos por el delito cuya seguridad pudiera verse afectada por la resolución.
+3)Se pondrán en conocimiento de los procuradores de los ofendidos por el delito cuya seguridad pudiera verse afectada por la resolución.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Correcto! Según la LECrim, es necesario informar a aquellos directamente afectados o perjudicados por el delito sobre los autos relativos a la situación personal del investigado o encausado.
+Errada: La respuesta correcta es que se informará a los directamente ofendidos y perjudicados por el delito. (Respuesta Correcta 1)
+###
+Pregunta: En relación con la libertad provisional del procesado, el artículo 541 de la LECrim establece que la fianza se cancelará en los siguientes casos, excepto:
+1)Por haber sido el procesado puesto a disposición del Juez o Tribunal que hubiere decretado la prisión.
+2)Por el auto de sobreseimiento o la sentencia absolutoria del procesado, o por haberse dictado la sentencia firme.
+3)Por muerte del fiador, estando pendiente la causa.
+4)Por el auto de sobreseimiento o la sentencia absolutoria del procesado, o por haberse dictado la sentencia firme.
+Respuesta: 3
+Correcta: ¡Exacto! La muerte del fiador por sí sola no es causa para la cancelación de la fianza. Deberían presentarse otras circunstancias para considerar la cancelación.
+Errada: La respuesta correcta es "Por muerte del fiador, estando pendiente la causa". Esta no es una causa directa para cancelar la fianza según el art. 541 de la LECrim. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué sección del Tribunal de Instancia es competente para acordar la prisión provisional?
+1)La Sección de Instrucción del Tribunal de Instancia que forme las primeras diligencias, así como la Sección de lo Penal o Tribunal que conozca de la causa.
+2)La Sección de Instrucción del Tribunal de Instancia que forme las primeras diligencias, el fiscal que forme las primeras diligencias, así como la Sección de lo Penal o Tribunal que conozca de la causa.
+3)La Sección de Instrucción del Tribunal de Instancia que forme las primeras diligencias, el juez que forme las primeras diligencias, así como el fiscal de lo penal o tribunal que conozca de la causa.
+4)La Sección de Instrucción del Tribunal de Instancia que forme las primeras diligencias, el Juez que forme las primeras diligencias, así como el Juez de lo Penal o Tribunal que conozca de la causa.
+Respuesta: 4
+Correcta: ¡Bien hecho! Efectivamente, la competencia para acordar la prisión provisional recae sobre el juez o magistrado instructor, el juez que forme las primeras diligencias, así como el juez de lo penal o tribunal que conozca de la causa.
+Errada: La respuesta correcta es que el juez o magistrado instructor, el juez que forme las primeras diligencias, y el juez de lo penal o tribunal que conozca de la causa son los competentes para acordar la prisión provisional. (Respuesta Correcta 4)
+###
+Pregunta: Se consideran personas ilegalmente detenidas:
+1)Las que lo fueren por una autoridad, agente de la misma, funcionario público o particular, sin que concurran los supuestos legales.
+2)Las privadas de libertad a quienes no les sean respetados los derechos que la Constitución y las leyes procesales garantizan a toda persona detenida.
+3)Las que lo estuvieran por plazo superior al señalado en las leyes, si transcurrido el mismo, no fuesen puestas en libertad o entregadas al Juez más próximo al lugar de la detención.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las situaciones descritas se refieren a detenciones ilegales conforme a la Ley.
+Errada: ¡Incorrecto! Todas las situaciones descritas se refieren a detenciones ilegales conforme a la Ley. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el tiempo máximo de duración de prisión provisional acordada para asegurar la presencia del investigado o encausado en el proceso cuando pueda inferirse racionalmente un riesgo de fuga?
+1)2 años prorrogables por otros 6 meses.
+2)5 meses prorrogables por otros 6 meses.
+3)1 año prorrogable por otros 6 meses.
+4)3 años prorrogables por otros 10 meses.
+Respuesta: 3
+Correcta: ¡Bien hecho! El tiempo máximo inicial es de un año, pero puede prorrogarse por otros 6 meses en caso de riesgo de fuga.
+Errada: ¡Incorrecto! El tiempo máximo inicial es de un año, pero puede prorrogarse por otros 6 meses en caso de riesgo de fuga. (Respuesta Correcta 3)
+###
+Pregunta: Señale cuál de los siguientes principios, no es un principio rector de las medidas de interceptación de las comunicaciones recogido en el artículo 588 bis a de la Ley de Enjuiciamiento Criminal:
+1)Principio de transparencia.
+2)Principio de integridad.
+3)Principio de eficiencia.
+4)Principio de eficacia.
+Respuesta: 4
+Correcta: ¡Exacto! El principio de eficacia no es uno de los principios rectores establecidos en el artículo mencionado.
+Errada: ¡Incorrecto! El principio de eficacia no es uno de los principios rectores establecidos en el artículo mencionado. (Respuesta Correcta 4)
+###
+Pregunta: Cuando del sumario resulten indicios de criminalidad contra una persona, se mandará por el Juez que preste fianza bastante para asegurar las responsabilidades pecuniarias que en definitiva puedan declararse procedentes, decretándose en el mismo auto el embargo de bienes suficientes para cubrir dichas responsabilidades si no prestare la fianza. La cantidad de ésta se fijará en el mismo auto y:
+1)No podrá bajar de la cuarta parte más de todo el importe probable de las responsabilidades pecuniarias.
+2)No podrá bajar de la quinta parte más de todo el importe probable de las responsabilidades pecuniarias.
+3)No podrá bajar de la tercera parte más de todo el importe probable de las responsabilidades pecuniarias.
+4)No podrá bajar de la sexta parte más de todo el importe probable de las responsabilidades pecuniarias.
+Respuesta: 3
+Correcta: ¡Correcto! La ley establece que la fianza no podrá ser menor que la tercera parte del importe probable de las responsabilidades pecuniarias.
+Errada: ¡Incorrecto! La ley establece que la fianza no podrá ser menor que la tercera parte del importe probable de las responsabilidades pecuniarias. (Respuesta Correcta 3)
+###
+Pregunta: Según lo dispuesto en la LECrim, para la apertura y registro de la correspondencia postal:
+1)Será citado el interesado, sin poder éste o la persona que designe presenciar la operación.
+2)Será citado el interesado, pudiendo éste o la persona que designe presenciar la operación.
+3)Será citado el interesado, debiendo éste o la persona que designe presenciar la operación.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Correcto! La ley permite, pero no obliga, que el interesado o una persona designada por él esté presente durante la operación.
+Errada: ¡Incorrecto! La ley permite, pero no obliga, que el interesado o una persona designada por él esté presente durante la operación. (Respuesta Correcta 2)
+###
+Pregunta: En relación a la detención o prisión incomunicadas reguladas en el artículo 509 de la LECrim, ¿cuál de las siguientes afirmaciones es correcta?
+1)En ningún caso podrán ser objeto de detención incomunicada los menores de dieciocho años.
+2)En ningún caso podrán ser objeto de detención incomunicada los menores de veinte años.
+3)En ningún caso podrán ser objeto de detención incomunicada los mayores de dieciséis años.
+4)En ningún caso podrán ser objeto de detención incomunicada los menores de dieciséis años.
+Respuesta: 4
+Correcta: ¡Exacto! Los menores de dieciséis años no pueden ser sometidos a detención incomunicada según lo establecido en la LECrim.
+Errada: ¡Incorrecto! Los menores de dieciséis años no pueden ser sometidos a detención incomunicada según lo establecido en la LECrim. (Respuesta Correcta 4)
+###
+Pregunta: La medida de observación de las comunicaciones postales y telegráficas del investigado, podrá acordarse:
+1)Por un plazo de hasta cuatro meses, prorrogable por iguales o inferiores períodos hasta un máximo de doce meses.
+2)Por un plazo de hasta tres meses, prorrogable por iguales o inferiores períodos hasta un máximo de quince meses.
+3)Por un plazo de hasta dos meses, prorrogable por iguales o inferiores períodos hasta un máximo de dieciocho meses.
+4)Por un plazo de hasta tres meses, prorrogable por iguales o inferiores períodos hasta un máximo de dieciocho meses.
+Respuesta: 4
+Correcta: ¡Bien hecho! La medida puede acordarse por un plazo inicial de hasta tres meses, y puede ser prorrogada por iguales o inferiores períodos hasta un máximo total de dieciocho meses.
+Errada: ¡Incorrecto! La medida puede acordarse por un plazo inicial de hasta tres meses, y puede ser prorrogada por iguales o inferiores períodos hasta un máximo total de dieciocho meses. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 588 septies a) de la LECrim, el Juez podrá autorizar la instalación de un software que permite de forma remota el examen a distancia y sin conocimiento de su titular, el estudio de un ordenador en la investigación de:
+1)Delitos cometidos contra menores.
+2)Delitos cometidos contra la administración.
+3)En todo tipo de delitos.
+4)En ningun tipo de delitos.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo se refiere específicamente a delitos cometidos contra menores.
+Errada: ¡Incorrecto! El artículo 588 septies a) autoriza esta medida específicamente para delitos cometidos contra menores. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 17 de la Constitución Española, la detención preventiva no podrá durar mas de:
+1)12 horas.
+2)36 horas.
+3)72 horas.
+4)50 horas.
+Respuesta: 3
+Correcta: ¡Correcto! La Constitución establece un límite máximo de 72 horas para la detención preventiva antes de poner al detenido a disposición judicial.
+Errada: ¡Incorrecto! La Constitución establece un límite máximo de 72 horas para la detención preventiva antes de poner al detenido a disposición judicial. (Respuesta Correcta 3)
+###
+Pregunta: Si acordada libertad provisional con fianza, el procesado no presenta la fianza exigida:
+1)Será reducido a prisión.
+2)Se le concederá un segundo plazo para prestarla con apercibimiento de detención.
+3)Ambas son correctas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! Si no se presta la fianza exigida, el procesado puede ser llevado a prisión.
+Errada: ¡Incorrecto! Si no se presta la fianza exigida, el procesado puede ser llevado a prisión. (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 545 de la LECrim:
+1)Los policias podrá entrar en el domicilio de un extranjero residente en España sin su consentimiento, incluso en los casos y en la forma expresamente previstos en las leyes.
+2)Nadie podrá entrar en el domicilio de un extranjero residente en España sin su consentimiento, excepto en los casos y en la forma expresamente previstos en las leyes.
+3)Nadie podrá entrar en el domicilio de un extranjero residente en España sin su consentimiento, incluso en los casos y en la forma expresamente previstos en las leyes.
+4)Nadie podrá entrar en el domicilio de un extranjero residente en España con su consentimiento, excepto en los casos y en la forma expresamente previstos en las leyes.
+Respuesta: 2
+Correcta: ¡Exacto! El artículo mencionado protege el domicilio, y las excepciones a este derecho se establecen claramente en la ley.
+Errada: ¡Incorrecto! El artículo mencionado protege el domicilio, y las excepciones a este derecho se establecen claramente en la ley. (Respuesta Correcta 2)
+###
+Pregunta: Señale la respuesta incorrecta en relación con el artículo 490 de la LECrim. Cualquier persona puede detener:
+1)Al que estuviere procesado por delito que tenga señalada en el Código pena superior a 2 años de prisión.
+2)Al que estuviere procesado por delito que tenga señalada en el Código pena superior a 4 años de prisión.
+3)Al que estuviere procesado por delito que tenga señalada en el Código pena superior a 5 años de prisión.
+4)Al que estuviere procesado por delito que tenga señalada en el Código pena superior a 3 años de prisión.
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 490 de la LECrim no establece la facultad de cualquier persona para detener al que estuviere procesado por un delito con pena superior a 3 años.
+Errada: ¡Incorrecto! El artículo 490 de la LECrim no establece la facultad de cualquier persona para detener al que estuviere procesado por un delito con pena superior a 3 años. (Respuesta Correcta 4)
+###
+Pregunta: En relación con la figura del agente encubierto, prevista en el art. 282 bis de la LECrim:
+1)Ningún funcionario de la Policía Judicial podrá ser obligado a actuar como agente encubierto.
+2)Los funcionarios de la Policía Judicial podrán ser obligados a actuar como agentes encubiertos, cuando se trate de investigar delitos que puedan afectar al derecho fundamental a la vida.
+3)Los funcionarios de la Policía Judicial podrán ser obligados a actuar como agentes encubiertos, cuando se trate de investigar delitos que puedan afectar a la seguridad nacional.
+4)Los funcionarios de la Policía Judicial podrán ser obligados a actuar como agentes encubiertos, cuando se trate de investigar delitos que puedan afectar a la salud pública.
+Respuesta: 1
+Correcta: ¡Exacto! El papel de un agente encubierto es delicado y potencialmente peligroso, y no se puede obligar a un funcionario a asumir ese rol.
+Errada: ¡Incorrecto! El papel de un agente encubierto es delicado y potencialmente peligroso, y no se puede obligar a un funcionario a asumir ese rol. (Respuesta Correcta 1)
+###
+Pregunta: La Ley Orgánica reguladora del procedimiento de «Habeas Corpus» es la:
+1)Ley Orgánica 5/1984, de 24 de mayo.
+2)Ley Orgánica 6/1985, de 24 de mayo.
+3)Ley Orgánica 6/1984, de 24 de mayo.
+4)Ley Orgánica 6/1984, de 22 de mayo.
+Respuesta: 3
+Correcta: ¡Bien hecho! La Ley Orgánica 6/1984 regula el procedimiento de "Habeas Corpus" en España.
+Errada: ¡Incorrecto! La Ley Orgánica 6/1984 regula el procedimiento de "Habeas Corpus" en España. (Respuesta Correcta 3)
+###
+Pregunta: ¿Contra qué resoluciones emitidas por el Juez acerca de la adecuación de las fianzas se puede presentar un recurso?
+1)Se puede presentar un recurso de reposición.
+2)Se puede presentar un recurso de apelación.
+3)Se puede presentar un recurso de reforma.
+4)Se puede presentar un recurso de queja.
+Respuesta: 2
+Correcta: ¡Correcto! Puedes presentar un recurso de apelación contra las decisiones del Juez sobre la adecuación de las fianzas.
+Errada: Lo siento, la respuesta correcta es que puedes presentar un recurso de apelación contra las decisiones del Juez sobre la adecuación de las fianzas. (Respuesta Correcta 2)
+###
+Pregunta: Basado en el artículo 529 de la LECrim, si no se ha decidido la prisión provisional para el acusado o investigado, ¿cuál afirmación es cierta sobre la libertad provisional?
+1)Ninguna es correcta.
+2)Si el LAJ decide que el acusado o investigado proporcione una fianza para seguir en libertad provisional, establecerá la naturaleza y el monto en esa misma resolución.
+3)Si el juez o tribunal decide que el acusado o investigado proporcione una fianza para seguir en libertad provisional, establecerá la naturaleza y el monto en esa misma resolución.
+4)Si el fiscal decide que el acusado o investigado proporcione una fianza para seguir en libertad provisional, establecerá la naturaleza y el monto en esa misma resolución.
+Respuesta: 3
+Correcta: ¡Bien hecho! El juez o tribunal establecerá la naturaleza y el monto de la fianza en la misma resolución en la que decida sobre la libertad provisional.
+Errada: La respuesta correcta es que el juez o tribunal establecerá la naturaleza y el monto de la fianza en la misma resolución en la que decida sobre la libertad provisional. (Respuesta Correcta 3)
+###
+Pregunta: Para los oficiales de la Policía Judicial que han trabajado bajo una identidad falsa según el artículo 282 bis de la LECrim, ¿cuál es la normativa al testificar?
+1)No pueden mantener su identidad falsa al declarar en el caso derivado de su intervención, siempre y cuando una resolución judicial motivada así lo determine.
+2)Pueden mantener su identidad falsa al declarar en el caso derivado de su intervención, siempre y cuando una resolución judicial motivada así lo determine.
+3)Deben mantener su identidad falsa al declarar en el caso derivado de su intervención, siempre y cuando una resolución judicial motivada así lo determine.
+4)Pueden mantener su identidad falsa al declarar en el caso derivado de su intervención, excepto cuando una resolución judicial motivada así lo determine.
+Respuesta: 2
+Correcta: ¡Exacto! Pueden mantener su identidad falsa al testificar en el caso que resulte de su intervención, siempre que se determine por una resolución judicial motivada.
+Errada: La respuesta correcta es que pueden mantener su identidad falsa al testificar en el caso que resulte de su intervención, siempre que se determine por una resolución judicial motivada. (Respuesta Correcta 2)
+###
+Pregunta: Respecto a la convocatoria de la audiencia conforme al artículo 505 de la LECrim, ¿cuál afirmación es correcta?
+1)No será necesario convocarla si el Juez de Instrucción, encargado del caso, otorga libertad provisional sin fianza al detenido.
+2)Es necesario convocarla si el Juez de Instrucción, encargado del caso, otorga libertad provisional sin fianza al detenido.
+3)No será necesario convocarla si el Juez de lo Penal, encargado del caso, otorga libertad provisional sin fianza al detenido.
+4)Es necesario convocarla si el Juez de lo Penal, encargado del caso, otorga libertad provisional sin fianza al detenido.
+Respuesta: 1
+Correcta: ¡Perfecto! La audiencia no se convocará si el Juez de Instrucción otorga libertad provisional sin fianza al detenido.
+Errada: La respuesta correcta es que la audiencia no se convocará si el Juez de Instrucción otorga libertad provisional sin fianza al detenido. (Respuesta Correcta 1)
+###
+Pregunta: En el supuesto de no poder celebrar la audiencia del artículo 505 de la LECrim, y el juez decide sobre la situación personal del detenido, ¿qué sigue?
+1)El juez o tribunal programará una nueva audiencia en las siguientes 72 horas.
+2)El juez o tribunal programará una nueva audiencia en las siguientes 36 horas.
+3)El juez o tribunal programará una nueva audiencia en las siguientes 48 horas.
+4)El juez o tribunal programará una nueva audiencia en las siguientes 24 horas.
+Respuesta: 1
+Correcta: ¡Exacto! Si la audiencia no puede celebrarse, el juez o tribunal debe convocar una nueva dentro de las siguientes 72 horas.
+Errada: La respuesta correcta es que si la audiencia no puede celebrarse, el juez o tribunal debe convocar una nueva dentro de las siguientes 72 horas. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 588 septies a de la LECrim, ¿qué delito no justifica la autorización de registros remotos en dispositivos informáticos?
+1)Delitos contra la Constitución.
+2)Delitos cometidos contra menores o personas con discapacidad judicialmente modificada.
+3)Delitos de blanqueo de capitales.
+4)Delitos de terrorismo.
+Respuesta: 3
+Correcta: ¡Bien hecho! El artículo no menciona específicamente los delitos de blanqueo de capitales para la autorización de registros remotos en dispositivos informáticos.
+Errada: La respuesta correcta es que el artículo no menciona específicamente los delitos de blanqueo de capitales para la autorización de registros remotos en dispositivos informáticos. (Respuesta Correcta 3)
+###
+Pregunta: Según la LECrim, al no tener el consentimiento de la parte interesada, ¿en qué condiciones el Juez instructor puede ordenar la entrada y registro de un inmueble que sea domicilio de un español conforme al artículo 546?
+1)Mediante un auto justificado, que se notificará a la parte afectada de inmediato o a más tardar 12 horas después de haber sido emitido.
+2)Mediante un auto justificado, que se notificará a la parte afectada de inmediato o a más tardar 36 horas después de haber sido emitido.
+3)Mediante un decreto justificado, que se notificará a la parte afectada de inmediato o a más tardar 24 horas después de haber sido emitido.
+4)Mediante un auto justificado, que se notificará a la parte afectada de inmediato o a más tardar 24 horas después de haber sido emitido.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez instructor puede ordenar bajo un auto justificado, y se debe notificar a la parte afectada en el plazo máximo de 24 horas.
+Errada: La respuesta correcta es que el Juez instructor puede ordenar bajo un auto justificado, y se debe notificar a la parte afectada en el plazo máximo de 24 horas. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 282 bis de la LECrim, ¿quién otorga la identidad ficticia a un funcionario de la Policía Judicial?
+1)El Comisario de la Policia Nacional.
+2)El Ministerio del Exterior.
+3)El Ministerio del Interior.
+4)El Ministerio de Justicia.
+Respuesta: 3
+Correcta: ¡Correcto! La identidad ficticia de un funcionario de la Policía Judicial es otorgada por el Ministerio del Interior.
+Errada: Lo siento, la respuesta correcta es que la identidad ficticia de un funcionario de la Policía Judicial es otorgada por el Ministerio del Interior. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la LECrim, si la prisión provisional supera las dos terceras partes de su duración máxima, ¿qué acción se lleva a cabo?
+1)El abogado notificará esta circunstancia al Presidente de la Sala de Gobierno para adoptar medidas que aceleren las actuaciones.
+2)El LAJ notificará esta circunstancia al Presidente de la Sala de Gobierno para adoptar medidas que aceleren las actuaciones.
+3)El Fiscal notificará esta circunstancia al Presidente de la Sala de Gobierno para adoptar medidas que aceleren las actuaciones.
+4)El Juez notificará esta circunstancia al Presidente de la Sala de Gobierno para adoptar medidas que aceleren las actuaciones.
+Respuesta: 4
+Correcta: ¡Exacto! El Juez informa al Presidente de la Sala de Gobierno para tomar acciones que agilicen el proceso.
+Errada: La respuesta correcta es que el Juez informa al Presidente de la Sala de Gobierno para adoptar medidas que aceleren el proceso. (Respuesta Correcta 4)
+###
+Pregunta: Con respecto a los autos que conciernen a la situación personal del investigado, ¿a quién se informa?
+1)Se notifican a los procuradores cuya seguridad pueda verse comprometida por la resolución.
+2)Se notifican a los abogados cuya seguridad pueda verse comprometida por la resolución.
+3)Se notifican a las víctimas o perjudicados directos por el delito cuya seguridad pueda verse comprometida por la resolución.
+4)Se notifican a los agentes policiales cuya seguridad pueda verse comprometida por la resolución.
+Respuesta: 3
+Correcta: ¡Correcto! Se notifica a las víctimas o perjudicados directamente por el delito.
+Errada: Lo siento, la respuesta correcta es que se notifica a las víctimas o perjudicados directamente por el delito. (Respuesta Correcta 3)
+###
+Pregunta: Basándose en el artículo 611 de la LECrim, si durante el juicio emergen razones para creer que las responsabilidades económicas superarán la cantidad establecida para garantizarlas, ¿qué se hace?
+1)Se emite un auto para aumentar la fianza o embargo.
+2)Se emite un decreto para aumentar la fianza o embargo.
+3)Se emite una sentencia para aumentar la fianza o embargo.
+4)Se emite una providencia para aumentar la fianza o embargo.
+Respuesta: 1
+Correcta: ¡Bien hecho! Se emite un auto para aumentar la fianza o el embargo.
+Errada: La respuesta correcta es que se emite un auto para aumentar la fianza o el embargo. (Respuesta Correcta 1)
+###
+Pregunta: Con respecto al artículo 614 bis de la LECrim, en relación con la fianza o embargo del procesado, ¿en qué circunstancias el juez de lo penal decidirá sobre las pretensiones relativas a las medidas cautelares establecidas en el artículo 81 de la Ley General Tributaria?
+1)Al iniciar el juicio por delito contra la Hacienda Pública.
+2)Al iniciar el proceso penal por delito contra la Hacienda Pública.
+3)Al finalizar el proceso penal por delito contra la Hacienda Pública.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Acertado! Se decide cuando se inicia el proceso penal por delito contra la Hacienda Pública.
+Errada: Lo siento, la respuesta correcta es que se decide al iniciar el proceso penal por delito contra la Hacienda Pública. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 588 quinquies c, ¿cuál es la duración máxima de la utilización de dispositivos técnicos de seguimiento y localización?
+1)Seis meses a partir de la fecha en que se autoriza.
+2)Cinco meses a partir de la fecha en que se autoriza.
+3)Cuatro meses a partir de la fecha en que se autoriza.
+4)Tres meses a partir de la fecha en que se autoriza.
+Respuesta: 4
+Correcta: ¡Exacto! La duración máxima es de tres meses desde la fecha de su autorización.
+Errada: Lo siento, la respuesta correcta es de tres meses desde la fecha de su autorización. (Respuesta Correcta 4)
+###
+Pregunta: En cuanto a la fianza hipotecaria en el procedimiento penal, ¿cuál de las siguientes afirmaciones es correcta?
+1)Si se sustituye por otros bienes muebles dados en prenda, su valor debe ser el triple del monto de la fianza establecida en efectivo.
+2)Si no se sustituye por otros bienes muebles dados en prenda, su valor debe ser el doble del monto de la fianza establecida en efectivo.
+3)Si se sustituye por otros bienes muebles dados en prenda, su valor debe ser el doble del monto de la fianza establecida en efectivo.
+4)Si se sustituye por otros bienes muebles dados en prenda, su valor debe ser el 150% del monto de la fianza establecida en efectivo.
+Respuesta: 3
+Correcta: ¡Correcto! Si se sustituye por otros bienes muebles, su valor debe ser el doble de la fianza en efectivo.
+Errada: La respuesta correcta es que, si se sustituye por otros bienes muebles, su valor debe ser el doble de la fianza en efectivo. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 282 bis, en relación con la actuación de un agente encubierto y la delincuencia organizada, ¿cuál de los siguientes delitos no se menciona expresamente?
+1)Delito de tráfico ilícito de órganos humanos.
+2)Todas son correctas.
+3)Delitos contra los derechos de los trabajadores.
+4)Delitos contra los derechos de los ciudadanos extranjeros.
+Respuesta: 2
+Correcta: ¡Bien hecho! Todos los delitos mencionados se incluyen en el precepto.
+Errada: La respuesta correcta es que todos los delitos mencionados están incluidos en el precepto. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién puede acordar las medidas de interceptación o grabación de comunicaciones?
+1)A instancia de la Policia Judicial.
+2)El Ministerio Fiscal de oficio o de la Policía Judicial.
+3)El juez de oficio o a solicitud del Ministerio Fiscal o de la Policía Judicial.
+4)El juez de oficio o a solicitud del Ministerio Fiscal y de la Policía Judicial.
+Respuesta: 3
+Correcta: ¡Acertado! El juez puede acordar dichas medidas de oficio o a solicitud del Ministerio Fiscal o de la Policía Judicial.
+Errada: La respuesta correcta es que el juez puede acordar estas medidas de oficio o a solicitud del Ministerio Fiscal o de la Policía Judicial. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 544 bis de la Ley de Enjuiciamiento Criminal, si el inculpado incumple la medida de alejamiento acordada, ¿qué hará el Juez?
+1)Convocará la comparecencia del art. 500 de la Ley de Enjuiciamiento Criminal.
+2)Convocará la comparecencia del art. 465 de la Ley de Enjuiciamiento Criminal.
+3)Convocará la comparecencia del art. 505 de la Ley de Enjuiciamiento Criminal.
+4)Convocará la comparecencia del art. 544 ter de la Ley de Enjuiciamiento Criminal.
+Respuesta: 3
+Correcta: ¡Correcto! El juez convocará la comparecencia del artículo 505 de la LECrim.
+Errada: La respuesta adecuada es que el juez convocará la comparecencia del artículo 505 de la LECrim. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 507 de la LECrim, ¿en cuánto tiempo se debe resolver el recurso contra el auto de prisión provisional?
+1)En un plazo máximo de 10 días.
+2)En un plazo máximo de 20 días.
+3)En un plazo máximo de 30 días.
+4)En un plazo máximo de 31 días.
+Respuesta: 1
+Correcta: ¡Exacto! Debe resolverse en un plazo máximo de 10 días.
+Errada: Lo siento, la respuesta correcta es que debe resolverse en un plazo máximo de 10 días. (Respuesta Correcta 1)
+###
+Pregunta: En relación con la libertad provisional del procesado, el artículo 534 de la LECrim estipula que:
+1)Si al primer llamamiento judicial el acusado no comparece o no justifica su incapacidad, el Letrado dará un plazo de quince días al fiador o dueño de los bienes en fianza para presentar al rebelde.
+2)Si al primer llamamiento judicial el acusado no comparece o no justifica su incapacidad, el Letrado dará un plazo de veinte días al fiador o dueño de los bienes en fianza para presentar al rebelde.
+3)Si al primer llamamiento judicial el acusado no comparece o no justifica su incapacidad, el Letrado dará un plazo de treinta días al fiador o dueño de los bienes en fianza para presentar al rebelde.
+4)Si al primer llamamiento judicial el acusado no comparece o no justifica su incapacidad, el Letrado dará un plazo de diez días al fiador o dueño de los bienes en fianza para presentar al rebelde.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Letrado dará un plazo de diez días si el acusado no comparece al primer llamamiento.
+Errada: La respuesta correcta es que el Letrado dará un plazo de diez días si el acusado no comparece al primer llamamiento. (Respuesta Correcta 4)
+###
+Pregunta: La medida de Registro remoto sobre equipos informáticos en la LECrim, ¿cuál es su duración máxima?
+1)De un mes, prorrogable por iguales períodos hasta un máximo de dos meses.
+2)De un mes, prorrogable por iguales períodos hasta un máximo de tres meses.
+3)De un mes, prorrogable por iguales períodos hasta un máximo de cuatro meses.
+4)De un mes, prorrogable por iguales períodos hasta un máximo de cinco meses.
+Respuesta: 2
+Correcta: ¡Exacto! La medida tiene una duración máxima de un mes, pero es prorrogable hasta un máximo de tres meses.
+Errada: La respuesta correcta es que la medida tiene una duración de un mes, pero es prorrogable hasta un máximo de tres meses. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 591 de la LECrim, respecto a la fianza, ¿quién no puede ser fiador personal?
+1)El que lo sea o hubiese sido de más de tres personas, aunque estuvieran ya canceladas.
+2)El que lo sea o hubiese sido de otro, hasta que esté cancelada la primera fianza.
+3)Cualquier español de buena conducta podrá ser fiador personal.
+4)El que lo sea o hubiese sido de otro, aunque esté cancelada la primera fianza.
+Respuesta: 2
+Correcta: ¡Exactamente! Un individuo no puede ser fiador personal si ya es fiador de otra persona hasta que se cancele la primera fianza.
+Errada: La respuesta correcta es que una persona no puede ser fiador personal si ya lo es de otro, hasta que se cancele la primera fianza. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién puede autorizar la circulación o entrega vigilada de drogas y otras sustancias prohibidas? Señale la respuesta incorrecta.
+1)El Juez de Instrucción competente.
+2)Los Jefes de las Unidades Orgánicas de Policía Judicial centrales o de ámbito provincial.
+3)El Ministerio Fiscal.
+4)Los Jefes de las Unidades adscritas de Policía Judicial.
+Respuesta: 4
+Correcta: ¡Correcto! Los Jefes de las Unidades adscritas de Policía Judicial no están autorizados para tal fin.
+Errada: La respuesta correcta es que los Jefes de las Unidades adscritas de Policía Judicial no están autorizados para esa tarea. (Respuesta Correcta 4)
+###
+Pregunta: Para la entrada y registro en edificios de representantes extranjeros, ¿qué procedimiento sigue la LECrim?
+1)El Juez les pedirá su venia, con el ruego de que contesten en el término de doce horas.
+2)El Juez les pedirá su venia, con el ruego de que contesten en el término de siete horas.
+3)El Juez les pedirá su venia, con el ruego de que contesten en el término de veinticuatro horas.
+4)El Juez les pedirá su venia, con el ruego de que contesten en el término de diez horas.
+Respuesta: 1
+Correcta: ¡Bien hecho! El juez es quien pide la venia y se espera una respuesta en un plazo de doce horas.
+Errada: La respuesta adecuada es que es el juez quien pide la venia y se espera una respuesta en un término de doce horas. (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 520 LECrim, ¿en qué plazo debe el agente de la Policía Judicial entregar a Pedro B. al Juez tras su detención?
+1)En el plazo máximo de 24 horas siguientes al acto de la detención.
+2)En el plazo máximo de 72 horas siguientes al acto de la detención.
+3)En el plazo máximo de 36 horas siguientes al acto de la detención.
+4)En el plazo máximo de 12 horas siguientes al acto de la detención.
+Respuesta: 2
+Correcta: ¡Correcto! El agente de la Policía Judicial debe entregar al detenido al juez en un plazo máximo de 72 horas.
+Errada: La respuesta correcta es que el agente de la Policía Judicial tiene un plazo máximo de 72 horas para entregar al detenido al juez. (Respuesta Correcta 2)
+###
+Pregunta: Respecto a la revisión y entrega de cartas postales en el contexto de la LECrim, si el acusado está ausente, las cartas no relacionadas con el caso se procederán a:
+1)Darse a un familiar menor del acusado.
+2)Darse a un familiar adulto del acusado.
+3)Darsela al padre del acusado.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Exacto! Las cartas se entregan a un familiar adulto del acusado.
+Errada: Lo siento, pero la correcta es que las cartas se entregan a un familiar adulto del acusado. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la LECrim, ¿cuánto tiempo puede durar inicialmente la intervención de llamadas telefónicas?
+1)Tres meses, extendibles en periodos iguales hasta un máximo de veinte meses.
+2)Cinco meses, extendibles en periodos iguales hasta un máximo de dieciocho meses.
+3)Tres meses, extendibles en periodos iguales hasta un máximo de dieciocho meses.
+4)Seis meses, extendibles en periodos iguales hasta un máximo de dieciocho meses.
+Respuesta: 3
+Correcta: ¡Correcto! La duración inicial es de tres meses, pero puede extenderse hasta un total de dieciocho meses.
+Errada: La respuesta correcta es que puede durar inicialmente tres meses, pero puede extenderse hasta dieciocho meses en total. (Respuesta Correcta 3)
+###
+Pregunta: Si no se conoce el juez del lugar en que se encuentra la persona privada de libertad, ¿a qué Juez le corresponderá conocer la solicitud de "Habeas Corpus"?
+1)Al Juez de Guardia del lugar en que se produzca la detención.
+2)Al Juez de lo Penal del lugar en que se produzca la detención.
+3)Al Juez de Instrucción del lugar en que se produzca la detención.
+4)Al Juez de Primera Instancia del lugar en que se produzca la detención.
+Respuesta: 3
+Correcta: ¡Exacto! Si no se sabe con certeza el juez del lugar donde está detenida la persona, corresponde al Juez de Instrucción del lugar en que se efectuó la detención.
+Errada: La respuesta correcta es "Al Juez de Instrucción del lugar en que se produzca la detención". Es al Juez de Instrucción del lugar de la detención a quien corresponde conocer la solicitud en tales circunstancias. (Respuesta Correcta 3)
+###
+Pregunta: Basándose en el art. 539 LECrim, para decretar la prisión de alguien que esté en libertad:
+1)Si el juez o tribunal estima que se cumplen las condiciones del artículo 505, emitirá una orden de prisión y convocará una comparecencia según el artículo 505 dentro de las próximas 72 horas.
+2)Si el juez o tribunal estima que se cumplen las condiciones del artículo 503, emitirá una orden de prisión y convocará una comparecencia según el artículo 505 dentro de las próximas 72 horas.
+3)Si el juez o tribunal estima que se cumplen las condiciones del artículo 504, emitirá una orden de prisión y convocará una comparecencia según el artículo 505 dentro de las próximas 72 horas.
+4)Si el juez o tribunal estima que se cumplen las condiciones del artículo 502, emitirá una orden de prisión y convocará una comparecencia según el artículo 505 dentro de las próximas 72 horas.
+Respuesta: 2
+Correcta: ¡Correcto! El juez emitirá una orden de prisión y luego convocará una comparecencia según el artículo 505.
+Errada: La respuesta adecuada es que, si se cumplen las condiciones, el juez emitirá una orden de prisión y convocará una comparecencia según el artículo 505. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LECrim, ¿bajo qué condiciones una persona puede ser un fiador personal?
+1)Todo ciudadano español de buena reputación, residente en el área jurisdiccional del Tribunal, con plenos derechos civiles y políticos y que haya estado contribuyendo durante dos años, con un monto que el instructor considere apropiado dada su propiedad o industria.
+2)Todo ciudadano español de buena reputación, residente en el área jurisdiccional del Tribunal, con plenos derechos civiles y políticos y que haya estado contribuyendo durante cuatro años, con un monto que el instructor considere apropiado dada su propiedad o industria.
+3)Todo ciudadano español de buena reputación, residente en el área jurisdiccional del Tribunal, con plenos derechos civiles y políticos y que haya estado contribuyendo durante tres años, con un monto que el instructor considere apropiado dada su propiedad o industria.
+4)Todo ciudadano español de buena reputación, residente en el área jurisdiccional del Tribunal, con plenos derechos civiles y políticos y que haya estado contribuyendo durante cinco años, con un monto que el instructor considere apropiado dada su propiedad o industria.
+Respuesta: 3
+Correcta: ¡Perfecto! De acuerdo con la LECrim, es el ciudadano español con estas especificaciones el que puede ser fiador personal.
+Errada: Lo siento, pero la respuesta correcta es que debe ser un ciudadano español que cumpla con esas condiciones específicas. (Respuesta Correcta 3)
+###
+Pregunta: Señale la opción incorrecta. Cuando se investiga un crimen conforme al artículo 57 del Código Penal y se requiere proteger a una víctima menor o con capacidad modificada, el Juez puede adoptar:
+1)Retirada de la patria potestad.
+2)Suspensión de la tutela, curatela o cualquier otra forma de custodia.
+3)Modificación o suspensión del régimen de visitas o contacto con quien no vive con el menor.
+4)Imposición de una supervisión al ejercicio de la patria potestad.
+Respuesta: 1
+Correcta: ¡Exactamente! La retirada de la patria potestad no es una medida que el Juez pueda adoptar en este contexto.
+Errada: La opción correcta es la retirada de la patria potestad, ya que no es una medida que el Juez pueda adoptar en este escenario. (Respuesta Correcta 1)
+###
+Pregunta: Identifique cuál de las siguientes opciones no es una forma de prisión provisional según la Ley de Enjuiciamiento Criminal:
+1)Todas las opciones son formas de prisión provisional.
+2)Prisión domiciliaria para el acusado si su salud está en grave riesgo en un internado debido a una enfermedad.
+3)Prisión en un centro de rehabilitación para tratar la dependencia a drogas.
+4)Confinamiento en un centro para extranjeros en el caso de un delincuente no residente legalmente en España.
+Respuesta: 4
+Correcta: ¡Bien hecho! Efectivamente, la prisión en un centro de internamiento para extranjeros no es una modalidad de prisión provisional según la LECrim.
+Errada: Lo siento, la opción correcta es la prisión en un centro de internamiento para extranjeros, ya que no es considerada una forma de prisión provisional según la LECrim. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo se gestionan las diligencias relativas a fianzas y embargos en el proceso penal?
+1)Se documentan en el caso principal antes de la acusación.
+2)Se documentan conjuntamente antes de la acusación.
+3)No se procesan en un documento separado.
+4)Se procesan en un documento separado.
+Respuesta: 4
+Correcta: ¡Correcto! Las diligencias sobre fianzas y embargos se manejan en un documento separado.
+Errada: Lo siento, la respuesta correcta es que se procesan en un documento separado. (Respuesta Correcta 4)
+###
+Pregunta: Si el Juez responsable en un procedimiento de "Habeas Corpus" concluye que no ha habido detención ilegal, ¿qué acción tomará?
+1)Continuará con el caso, confirmando que la detención y las condiciones son legales.
+2)Archivará el caso, confirmando que la detención y las condiciones son legales.
+3)Suspenderá el caso, confirmando que la detención y las condiciones son legales.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Juez archivará el caso y confirmará que la detención es conforme a derecho.
+Errada: Desafortunadamente, esa no es la respuesta correcta. El Juez archivaría el caso y confirmaría que la detención es legal. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 282 bis.1 de la LECrim, ¿qué define la delincuencia organizada?
+1)La unión de tres o más individuos para cometer de manera reiterada delitos específicamente mencionados en el apartado cuarto del art. 281 bis de la LECrim.
+2)La unión de tres o más individuos para cometer de manera reiterada delitos específicamente mencionados en el apartado cuarto del art. 282 bis de la LECrim.
+3)La unión de tres o más individuos para cometer de manera reiterada delitos específicamente mencionados en el apartado cuarto del art. 280 bis de la LECrim.
+4)La unión de tres o más individuos para cometer de manera reiterada delitos específicamente mencionados en el apartado cuarto del art. 285 bis de la LECrim.
+Respuesta: 2
+Correcta: ¡Exacto! La delincuencia organizada se define como la unión de tres o más personas para cometer de manera reiterada ciertos delitos especificados.
+Errada: Lo siento, pero la respuesta correcta es la unión de tres o más individuos para cometer de manera reiterada delitos específicamente mencionados en el apartado cuarto del art. 282 bis de la LECrim. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del contexto del artículo 558 de la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes opciones no es requerida en un auto de entrada y registro?
+1)La autoridad o empleado que realizará el procedimiento.
+2)La mención de si se realizará exclusivamente durante el día.
+3)La descripción específica del edificio o lugar cerrado donde se llevará a cabo el registro.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las menciones listadas son necesarias en un auto de entrada y registro según el artículo 558 de la LECrim.
+Errada: ¡Incorrecto! Todas las menciones listadas son necesarias en un auto de entrada y registro según el artículo 558 de la LECrim. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 504 de la LECrim, si el acusado es condenado y la sentencia es apelada, ¿hasta cuánto tiempo se puede extender la prisión provisional?
+1)Hasta 2 años de la pena efectivamente impuesta en la sentencia.
+2)Hasta la mitad de la pena efectivamente impuesta en la sentencia.
+3)Hasta la cuarta parte de la pena efectivamente impuesta en la sentencia.
+4)Hasta 3 años de la pena efectivamente impuesta en la sentencia.
+Respuesta: 2
+Correcta: ¡Exacto! La prisión provisional puede extenderse hasta la mitad de la pena efectivamente impuesta.
+Errada: Desafortunadamente, esa no es la respuesta correcta. La prisión provisional puede prorrogarse hasta la mitad de la pena impuesta. (Respuesta Correcta 2)
+###
+Pregunta: Durante una investigación con un agente encubierto, ¿qué puede autorizar el juez competente?
+1)La captura de imágenes y la grabación de conversaciones entre el agente y el investigado, incluso si ocurren en una vivienda.
+2)La captura de imágenes y la grabación de conversaciones entre el agente y el investigado, excepto si ocurren en una vivienda.
+3)La captura de imágenes de los encuentros entre el agente y el investigado, pero no la grabación de sus conversaciones, si se llevan a cabo en una vivienda.
+4)La captura de imágenes de los encuentros entre el agente y el investigado, y la grabación de sus conversaciones, si se llevan a cabo en una vivienda.
+Respuesta: 1
+Correcta: ¡Bien hecho! El juez puede autorizar tanto la obtención de imágenes como la grabación de conversaciones, incluso si ocurren dentro de un domicilio.
+Errada: Esa no es la respuesta correcta. El juez puede autorizar la obtención de imágenes y la grabación de conversaciones, incluso dentro de un domicilio. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 589 LECrim, si tras surgir indicios de criminalidad contra una persona se ordena que proporcione una fianza adecuada para garantizar responsabilidades pecuniarias y no la presta, ¿qué acción se toma?
+1)Se ordena el embargo de bienes suficientes para cubrir dichas responsabilidades en la misma pieza en que se decreta el embargo de bienes suficientes.
+2)Se ordena el embargo de bienes suficientes para cubrir dichas responsabilidades en el mismo decreto en que se decreta el embargo de bienes suficientes.
+3)Se ordena el embargo de bienes suficientes para cubrir dichas responsabilidades en el mismo auto en que se decreta el embargo de bienes suficientes.
+4)Se ordena el embargo de bienes suficientes para cubrir dichas responsabilidades en la misma providencia en que se decreta el embargo de bienes suficientes.
+Respuesta: 3
+Correcta: ¡Correcto! Si no se presta la fianza, el juez procederá al embargo de bienes suficientes para cubrir las responsabilidades.
+Errada: Esa no es la respuesta correcta. El juez decretará el embargo de bienes suficientes si no se presta la fianza. (Respuesta Correcta 3)
+###
+Pregunta: Para que se decrete prisión provisional, se requiere, entre otras cosas, que:
+1)Se evidencie en el caso un hecho delictivo con una pena máxima de al menos tres años de prisión o menos si el acusado tiene antecedentes penales no cancelados por delitos dolosos.
+2)Se evidencie en el caso un hecho delictivo con una pena máxima de al menos cuatro años de prisión o menos si el acusado tiene antecedentes penales no cancelados por delitos dolosos.
+3)Se evidencie en el caso un hecho delictivo con una pena máxima de al menos dos años de prisión o menos si el acusado tiene antecedentes penales no cancelados por delitos dolosos.
+4)Se evidencie en el caso un hecho delictivo con una pena máxima de al menos dos años de prisión o menos si el acusado tiene antecedentes penales cancelados por delitos dolosos.
+Respuesta: 3
+Correcta: ¡Correcto! Es fundamental que el caso presente evidencia de un delito con las características mencionadas para decretar prisión provisional.
+Errada: La respuesta es incorrecta. Se requiere que el caso evidencie un delito con una pena máxima de al menos dos años si el acusado tiene antecedentes no cancelables por delitos dolosos. (Respuesta Correcta 3)
+###
+Pregunta: Si un acusado bajo libertad provisional no comparece ante la primera citación judicial y no justifica su ausencia, y ni el fiador personal ni el propietario de los bienes utilizados como fianza lo presentan en el plazo establecido, ¿qué acción se toma?
+1)Se impone al fiador o al propietario de los bienes usados como fianza una multa de entre 400 y 5.000 euros.
+2)Se impone al fiador o al propietario de los bienes usados como fianza una multa de entre 500 y 5.000 euros.
+3)Se impone al fiador o al propietario de los bienes usados como fianza una multa de entre 750 y 2.000 euros.
+4)Se ejecuta la fianza, y se transfiere al Estado.
+Respuesta: 4
+Correcta: ¡Bien hecho! Si el acusado no comparece y no se justifica su ausencia, se ejecuta la fianza y se transfiere al Estado.
+Errada: Esa respuesta no es correcta. La acción adecuada es ejecutar la fianza y transferirla al Estado. (Respuesta Correcta 4)
+###
+Pregunta: Para determinar el perfil de ADN del sospechoso, el Juez puede decidir la práctica de ciertos actos conforme a los principios de:
+1)Proporcionalidad y Eficacia.
+2)Proporcionalidad y razonabilidad.
+3)Eficiencia y razonabilidad.
+4)Integridad y razonabilidad.
+Respuesta: 2
+Correcta: ¡Correcto! La decisión del juez debe basarse en los principios de proporcionalidad y razonabilidad al determinar el perfil de ADN.
+Errada: La respuesta correcta es "Proporcionalidad y razonabilidad". Estos son los principios fundamentales a tener en cuenta al determinar el perfil de ADN. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 591 de la LECrim, respecto a la fianza: Indique la opción errónea.
+1)Puede ser pignoraticia o hipotecaria.
+2)Puede ser mediante caución que deberá constituirse en dinero efectivo.
+3)Puede ser personal.
+4)Puede ser por cualquier medio que, a juicio del Juez o Tribunal, garantice la inmediata disponibilidad de la cantidad en cuestión.
+Respuesta: 2
+Correcta: ¡Correcto! La afirmación de que la fianza puede ser mediante caución que debe constituirse en dinero efectivo es incorrecta según el artículo mencionado.
+Errada: La opción correcta es que la fianza "puede ser mediante caución que deberá constituirse en dinero efectivo", ya que es una afirmación incorrecta según el artículo mencionado. Este es el contenido del art. 591 LECrim. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento de Habeas Corpus iniciado a instancia de parte: Indique la proposición errónea.
+1)Debe incluir el nombre y detalles personales del solicitante.
+2)Debe especificar el motivo concreto por el cual se solicita el Habeas Corpus.
+3)Debe estar firmado por abogado y procurador.
+4)Debe incluir el nombre y detalles personales de la persona para quien se busca protección judicial.
+Respuesta: 3
+Correcta: ¡Correcto! No es necesario que el procedimiento de Habeas Corpus esté suscrito por un abogado y un procurador cuando se inicia a instancia de parte.
+Errada: La afirmación correcta es que el procedimiento de Habeas Corpus "debe estar suscrito por abogado y procurador". Este es un requisito innecesario cuando el Habeas Corpus se inicia a instancia de parte. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a la adopción de medidas de prohibición según el art. 544 bis de la LECrim, señale la opción errónea.
+1)Los requerimientos de la salud del inculpado.
+2)La situación procesal del inculpado.
+3)La situación económica del inculpado.
+4)La actividad laboral del inculpado.
+Respuesta: 2
+Correcta: ¡Bien hecho! No se toma en cuenta la situación procesal del inculpado para la adopción de dichas medidas.
+Errada: La respuesta correcta es "La situación procesal del inculpado". Esa no es una de las consideraciones para adoptar las medidas de prohibición mencionadas. (Respuesta Correcta 2)
+###
+Pregunta: Si el acusado en libertad provisional no comparece, ¿cuál es el término que el Letrado de la Administración de Justicia señalará al fiador o al dueño de los bienes dados en fianza para presentar al rebelde?
+1)Cinco días.
+2)Diez días.
+3)Quince días.
+4)Veinte días.
+Respuesta: 2
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia señalará un plazo de diez días.
+Errada: La respuesta adecuada es "Diez días". Ese es el plazo que se otorga para presentar al acusado. (Respuesta Correcta 2)
+###
+Pregunta: La resolución del juez sobre una solicitud de medida de investigación tecnológica se decide mediante:
+1)Auto motivado en 12 horas desde la solicitud.
+2)Auto motivado en 24 horas desde la solicitud.
+3)Auto motivado en 36 horas desde la solicitud.
+4)Auto motivado en 72 horas desde la solicitud.
+Respuesta: 2
+Correcta: ¡Correcto! El juez debe decidir mediante un auto motivado y en un plazo máximo de 24 horas desde que se presente la solicitud.
+Errada: La respuesta correcta es "Auto motivado que se dictará en el plazo máximo de veinticuatro horas desde que se presente la solicitud". Es el marco temporal y el tipo de resolución adecuados para estas situaciones. (Respuesta Correcta 2)
+###
+Pregunta: La identidad supuesta de los agentes encubiertos se otorgará:
+1)Por un plazo de 5 meses.
+2)Por un plazo de 6 meses.
+3)Por un plazo de 4 meses.
+4)Por un plazo de 3 meses.
+Respuesta: 2
+Correcta: ¡Exacto! La identidad supuesta para los agentes encubiertos se otorga generalmente por un plazo de 6 meses.
+Errada: La respuesta adecuada es "Por un plazo de 6 meses". Es el periodo típico de otorgamiento de la identidad supuesta para agentes encubiertos. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué recurso cabe interponer contra el auto que deniegue la solicitud de habeas corpus?
+1)No cabrá recurso alguno.
+2)Recurso de reforma.
+3)Recurso de reposición.
+4)Recurso de revisión.
+Respuesta: 1
+Correcta: ¡Correcto! Contra el auto que deniega la solicitud de habeas corpus por considerarla improcedente no cabe recurso alguno.
+Errada: La respuesta adecuada es "No cabrá recurso alguno". Es una decisión contra la cual no es posible interponer recursos. (Respuesta Correcta 1)
+###
+Pregunta: En relación con la prisión provisional, señale la opción correcta.
+1)Si fuere condenado el encausado, la prisión provisional podrá prorrogarse hasta el límite de la tercera parte de la pena impuesta en la sentencia, cuando ésta hubiere sido recurrida.
+2)Si fuere condenado el encausado, la prisión provisional podrá prorrogarse hasta el límite de la cuarta parte de la pena impuesta en la sentencia, cuando ésta hubiere sido recurrida.
+3)Si fuere condenado el encausado, la prisión provisional podrá prorrogarse hasta el límite de la mitad de la pena impuesta en la sentencia, cuando ésta hubiere sido recurrida.
+4)Si fuere condenado el encausado, la prisión provisional podrá prorrogarse hasta el límite de la pena mínima impuesta en la sentencia, cuando ésta hubiere sido recurrida.
+Respuesta: 3
+Correcta: ¡Exacto! Si el encausado es condenado, la prisión provisional puede prorrogarse hasta el límite de la mitad de la pena impuesta si la sentencia es recurrida.
+Errada: La respuesta correcta es "Si fuere condenado el encausado, la prisión provisional podrá prorrogarse hasta el límite de la mitad de la pena impuesta en la sentencia, cuando ésta hubiere sido recurrida". (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la LECrim, los autos de prisión, libertad provisional y fianza son reformables:
+1)Durante todo el trámite de recurso de la causa.
+2)Durante todo el curso de la causa.
+3)Durante todo el juicio de la causa.
+4)Durante todo la instrucción de la causa.
+Respuesta: 2
+Correcta: ¡Bien hecho! Estos autos son reformables durante todo el curso de la causa.
+Errada: La respuesta adecuada es "Serán reformables durante todo el curso de la causa". En cualquier momento del proceso pueden ser reformados. (Respuesta Correcta 2)
+###
+Pregunta: De los delitos listados, ¿cuál no está previsto en el artículo 282 bis LECrim como uno de los delitos de delincuencia organizada?
+1)Delitos contra la salud pública (art. 368-373 CP).
+2)Delitos relativos a propiedad intelectual e industrial (art. 270-277 CP).
+3)Delitos contra el patrimonio histórico (Ley Orgánica 12/1995).
+4)Delitos contra el patrimonio (art. 234-236 CP).
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 282 bis LECrim no contempla los delitos contra el patrimonio (artículos 234 a 236 del Código Penal) como delitos de delincuencia organizada.
+Errada: La respuesta correcta es "Delitos contra el patrimonio previstos en los artículos 234 a 236 del Código Penal". Estos delitos no están contemplados en el artículo 282 bis LECrim como susceptibles de delincuencia organizada. (Respuesta Correcta 4)
+###
+Pregunta: En el caso de prisión provisional acordada para evitar que el investigado o encausado cometa otros delitos, ¿es posible acordar alguna prórroga de su duración?
+1)Sí, de hasta 6 meses si el delito tuviera señalada pena igual o inferior a 2 años.
+2)Sí, de hasta 6 meses si el delito tuviera señalada pena igual o inferior a 4 años.
+3)Sí, de hasta 3 meses si el delito tuviera señalada pena igual o inferior a 3 años.
+4)Sí, de hasta 6 meses si el delito tuviera señalada pena igual o inferior a 3 años.
+Respuesta: 4
+Correcta: ¡Correcto! Se puede acordar una prórroga de hasta 6 meses si el delito tuviera señalada una pena igual o inferior a 3 años.
+Errada: La respuesta adecuada es "Sí, de hasta 6 meses si el delito tuviera señalada pena igual o inferior a 3 años". (Respuesta Correcta 4)
+###
+Pregunta: Dentro de la regulación que hace la LECrim de la entrada y registro en lugar cerrado, el art. 569 dispone que si el interesado no fuere habido o no quisiese concurrir al registro ni nombrar representante:
+1)El registro se practicará a presencia de un individuo de su familia mayor de edad, y si no lo hubiere, se hará a presencia de un testigo, vecinos del mismo pueblo.
+2)El registro se practicará a presencia de un individuo de su familia menor de edad, y si no lo hubiere, se hará a presencia de dos testigos, vecinos del mismo pueblo.
+3)El registro se practicará a presencia de un individuo de su familia mayor de edad, y si no lo hubiere, se hará a presencia de dos testigos, vecinos del mismo pueblo.
+4)El registro se practicará a presencia de un individuo de su familia mayor de edad, y si no lo hubiere, se hará a presencia de tres testigos, vecinos del mismo pueblo.
+Respuesta: 3
+Correcta: ¡Correcto! Según el artículo 569 de la LECrim, si el interesado no está presente o no quiere concurrir al registro, se hará a presencia de un familiar mayor de edad o, en su defecto, de dos testigos vecinos del pueblo.
+Errada: La respuesta correcta es "El registro se practicará a presencia de un individuo de su familia mayor de edad, y si no lo hubiere, se hará a presencia de dos testigos, vecinos del mismo pueblo". (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el art. 591 de la LECrim, si el procesado no prestare la fianza en el plazo legalmente previsto, ¿qué sucede?
+1)Se procederá a embargar los que se reputen de la pertenencia del procesado, de conformidad con lo previsto en la LEC.
+2)No se procederá a embargar los que se reputen de la pertenencia del procesado, de conformidad con lo previsto en la LEC.
+3)Se procederá a embargar los que se reputen de la pertenencia del procesado, de conformidad con lo previsto en la LECrim.
+4)Se procederá a embargar los que se reputen de la pertenencia del procesado, de conformidad con lo previsto en la LJCA.
+Respuesta: 1
+Correcta: ¡Bien hecho! Si el procesado no presta la fianza en el plazo previsto, se procederá al embargo de los bienes que se consideren de su propiedad, conforme a lo establecido en la LEC.
+Errada: La respuesta adecuada es "Se procederá a embargar los que se reputen de la pertenencia del procesado, de conformidad con lo previsto en la LEC". Es la norma que regula el embargo en caso de no prestar fianza en el plazo previsto. (Respuesta Correcta 1)
+###
+Pregunta: La técnica consistente en permitir que remesas ilícitas o sospechosas de drogas... se denomina:
+1)Interceptación.
+2)Circulación o entrega vigilada.
+3)Apertura vigilada.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: La técnica que permite que remesas ilícitas de drogas y otras sustancias circulen bajo vigilancia para identificar a los involucrados se denomina "Circulación o entrega vigilada".
+Errada: ¡Incorrecto! La técnica que permite que remesas ilícitas de drogas y otras sustancias circulen bajo vigilancia para identificar a los involucrados se denomina "Circulación o entrega vigilada". (Respuesta Correcta 2)
+###
+Pregunta: El procedimiento de habeas corpus, cuando se incoe a instancia de parte, se iniciará:
+1)Por medio de escrito o formulario.
+2)Por medio de escrito o comparecencia.
+3)Por medio de escrito o de viva voz.
+4)Por medio de escrito o telemáticamente.
+Respuesta: 2
+Correcta: El habeas corpus, cuando se incoe a instancia de parte, se inicia mediante escrito o comparecencia ante la autoridad correspondiente.
+Errada: ¡Incorrecto! El habeas corpus, cuando se incoe a instancia de parte, se inicia mediante escrito o comparecencia ante la autoridad correspondiente. (Respuesta Correcta 2)
+###
+Pregunta: El artículo 588 quater a de la LECrim autoriza la colocación y utilización de dispositivos electrónicos para grabar comunicaciones orales del investigado, ¿en qué lugares?
+1)En la vía pública o en otro espacio abierto, en su domicilio o en cualesquiera otros lugares cerrados.
+2)En la vía privada o en otro espacio abierto, en su domicilio o en cualesquiera otros lugares cerrados.
+3)En la vía pública o en otro espacio abierto, en su domicilio.
+4)Exclusivamente en espacios abiertos y accesibles al público en general.
+Respuesta: 1
+Correcta: El artículo 588 quater a de la LECrim autoriza la colocación y utilización de dispositivos electrónicos en la vía pública, espacios abiertos, domicilios y otros lugares cerrados.
+Errada: El artículo 588 quater a de la LECrim autoriza la colocación y utilización de dispositivos electrónicos en la vía pública, espacios abiertos, domicilios y otros lugares cerrados. (Respuesta Correcta 1)
+###
+Pregunta: Cuando se decrete el procesamiento de persona autorizada para conducir vehículos de motor por delito cometido con motivo de su conducción, si el procesado ha de estar en libertad, el Juez:
+1)Podrá privarle provisionalmente de usar el permiso, durante 5 meses.
+2)Podrá privarle provisionalmente de usar el permiso, mandando que se recoja e incorpore al proceso el documento en el que conste.
+3)Podrá privarle definitvamente de usar el permiso, mandando que se recoja e incorpore al proceso el documento en el que conste.
+4)Podrá privarle provisionalmente de usar el permiso e incorpore al proceso el documento en el que conste.
+Respuesta: 2
+Correcta: El juez tiene la facultad de privar provisionalmente al procesado de usar el permiso de conducir y mandar que se recoja e incorpore al proceso el documento correspondiente. Es una medida que puede tomar si considera que existe riesgo relacionado con la conducción.
+Errada: El juez tiene la facultad de privar provisionalmente al procesado de usar el permiso de conducir y mandar que se recoja e incorpore al proceso el documento correspondiente. Es una medida que puede tomar si considera que existe riesgo relacionado con la conducción. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LECrim, en caso de que los jefes de las Unidades Orgánicas de Policía Judicial Centrales hayan dado permisos para la circulación o entrega vigilada de drogas y otras sustancias prohibidas, ellos deberán:
+1)Informar de inmediato al Ministerio Fiscal y, si ya se ha iniciado un procedimiento judicial, al Juez de Instrucción pertinente.
+2)Informar de inmediato al LAJ y, si ya se ha iniciado un procedimiento judicial, al Juez de Instrucción pertinente.
+3)Informar de inmediato al Juez de Guardia y, si ya se ha iniciado un procedimiento judicial, al Juez de Instrucción pertinente.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: Correcto, deben notificar inmediatamente al Ministerio Fiscal y al Juez de Instrucción si hay un proceso en curso.
+Errada: Incorrecto. La normativa indica que se debe informar inmediatamente al Ministerio Fiscal y, si hay un proceso en marcha, al Juez de Instrucción. (Respuesta Correcta 1)
+### 

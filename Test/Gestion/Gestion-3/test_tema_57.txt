@@ -1,0 +1,504 @@
+Pregunta: Conforme a la LOPJ, ¿cuál de las siguientes Secciones extiende, con carácter general, su jurisdicción a toda la provincia, teniendo su sede en la capital?
+1)La Sección de Violencia sobre la Mujer del Tribunal de Instancia.
+2)La Sección de lo Mercantil del Tribunal de Instancia.
+3)La Sección Civil del Tribunal de Instancia.
+4)La Sección de Instrucción del Tribunal de Instancia.
+Respuesta: 2
+Correcta: ¡Correcto! Según el art. 87 de la LOPJ, con carácter general, en el Tribunal de Instancia con sede en la capital de cada provincia, existirá una Sección de lo Mercantil con jurisdicción en toda la provincia.
+Errada: Incorrecto. La Sección de lo Mercantil del Tribunal de Instancia es la que, con carácter general, tiene jurisdicción provincial. (Respuesta Correcta 2)
+###
+Pregunta: En cuanto a la distribución de competencias entre los órganos del orden contencioso-administrativo, identifique la opción que no es adecuada:
+1)En general, el órgano jurisdiccional competente será aquel en cuya jurisdicción se encuentre el órgano que emitió el acto o la disposición inicialmente impugnada.
+2)A menos que se estipule lo contrario, la competencia basada en el órgano administrativo que emitió el acto tiene prioridad sobre la definida por el área.
+3)Las Secciones de los Tribunales de Instancia y las Salas de los Tribunales Superiores de Justicia tienen competencia para conocer de recursos contra actos administrativos, incluyendo inactividad y acciones que constituyen vías de hecho.
+4)Las referencias a la Administración del Estado, Comunidades Autónomas y Entidades locales abarcan a las Entidades y Corporaciones afiliadas o relacionadas con cada una de estas.
+Respuesta: 2
+Correcta: ¡Exacto! La competencia basada en el órgano administrativo que emitió el acto prevalece sobre la efectuada en razón de la materia.
+Errada: Esa no es la opción correcta. La competencia basada en el órgano administrativo que emitió el acto es la que prevalece sobre la materia. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el art. 2 de la LJCA, el orden jurisdiccional contencioso-administrativo conocerá de las pretensiones que se deduzcan en relación con:
+1)La responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive.
+2)El recurso contencioso-disciplinario militar.
+3)Los actos y disposiciones del Consejo de Ministros, sin excepción.
+4)Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración Pública.
+Respuesta: 1
+Correcta: ¡Correcto! La responsabilidad patrimonial de las Administraciones públicas es una materia propia del orden contencioso-administrativo.
+Errada: Incorrecto. El conocimiento de la responsabilidad patrimonial de las Administraciones públicas está atribuido a este orden jurisdiccional por el artículo 2 de la LJCA. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 16 de la LJCA, ¿en qué circunstancias las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia se subdividen en secciones?
+1)Si el número de sus miembros es mayor que dos.
+2)Si el número de sus miembros es mayor que tres.
+3)Si el número de sus miembros es mayor que cuatro.
+4)Si el número de sus miembros es mayor que cinco.
+Respuesta: 4
+Correcta: ¡Exacto! Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia se subdividen en secciones cuando tienen más de cinco miembros.
+Errada: Esa no es la respuesta adecuada. La correcta es que se subdividen cuando tienen más de cinco miembros. (Respuesta Correcta 4)
+###
+Pregunta: En el ámbito contencioso-administrativo y según el artículo 15 de la LJCA, ¿cuál es el requerimiento en cuanto a la presencia para la vista, deliberación y fallo del recurso de revisión?
+1)Pueden asistir el Presidente de la Sección y cinco Magistrados.
+2)Deben estar presentes el Presidente de la Sección y todos los Magistrados que la integran.
+3)Pueden estar presentes el Presidente de la Sección y todos los Magistrados que la integran.
+4)Deben asistir el Presidente de la Sección y cuatro Magistrados.
+Respuesta: 2
+Correcta: ¡Correcto! Para la vista, deliberación y fallo del recurso de revisión, deben estar presentes el Presidente de la Sección y todos los Magistrados que la componen.
+Errada: Incorrecto. La presencia requerida es del Presidente de la Sección y de todos los Magistrados que la integran. (Respuesta Correcta 2)
+###
+Pregunta: Tras la reforma de la LO 1/2025, ¿cuál de las siguientes competencias corresponde a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional?
+1)En primera instancia, de las resoluciones que acuerden la inadmisión de las peticiones de asilo político.
+2)La autorización para la entrada en domicilios solicitada por la Comisión Nacional de la Competencia.
+3)De los recursos devolutivos que la ley establezca contra las resoluciones de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+4)En única instancia, de los recursos contra los actos de los Ministros cuando la ley lo atribuya a la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+Respuesta: 3
+Correcta: ¡Correcto! Conforme a la nueva redacción del art. 66 de la LOPJ, la Sala de lo C-A de la Audiencia Nacional conoce de los recursos contra las resoluciones de la Sección de lo C-A del Tribunal Central de Instancia.
+Errada: Incorrecto. La nueva redacción del art. 66 de la LOPJ atribuye a la Sala de lo C-A de la Audiencia Nacional el conocimiento de los recursos contra las resoluciones de la Sección de lo C-A del Tribunal Central de Instancia. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué entidad conoce los recursos asociados a los actos y decisiones de la Junta Electoral Central?
+1)El Juzgado Central de lo Contencioso Administrativo.
+2)La Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+3)El Tribunal Constitucional.
+4)La Sala de lo Contencioso-administrativo del Tribunal Supremo.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Sala de lo Contencioso-administrativo del Tribunal Supremo es la responsable de conocer los recursos relacionados con la Junta Electoral Central.
+Errada: Incorrecto. Es la Sala de lo Contencioso-administrativo del Tribunal Supremo la que conoce de estos recursos. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué competencias están bajo el conocimiento de los Juzgados y Tribunales del orden contencioso-administrativo?
+1)La intervención de la Administración electoral según lo establecido en la Ley Orgánica del Régimen Electoral General.
+2)Las decisiones y actos del Consejo General del Poder Judicial.
+3)Todas son correctas.
+4)Actos y disposiciones sobre personal, administración y gestión patrimonial sujetos al derecho público por los órganos competentes del Congreso de los Diputados.
+Respuesta: 3
+Correcta: ¡Exacto! Los Juzgados y Tribunales del orden contencioso-administrativo tienen competencia sobre todas las opciones mencionadas.
+Errada: Te has equivocado. Los Juzgados y Tribunales del orden contencioso-administrativo tienen competencia sobre todas las opciones mencionadas. (Respuesta Correcta 3)
+###
+Pregunta: Con base en el artículo 10 de la LJCA, ¿de qué recursos son competentes las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia?
+1)Resoluciones emitidas por el Tribunal Económico-Administrativo Central sobre impuestos cedidos.
+2)Disposiciones generales de las Comunidades Autónomas y Entidades locales.
+3)Decisiones de los Tribunales Administrativos Territoriales de Recursos Contractuales.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Perfecto! Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia tienen competencia sobre todos los recursos mencionados.
+Errada: Lo siento, te has equivocado. Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia son competentes en todos los casos mencionados. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 4 de la Ley de Jurisdicción Contencioso Administrativa, el ámbito de competencia del orden contencioso-administrativo se amplía a las cuestiones prejudiciales e incidentales no administrativas vinculadas a un recurso contencioso-administrativo. Sin embargo, ¿qué temas quedan fuera de su competencia?
+1)Solo las cuestiones de carácter constitucional.
+2)Cuestiones de carácter constitucional, penal y aquellas dispuestas en Tratados internacionales.
+3)Solo las cuestiones de carácter penal.
+4)Solo las cuestiones de carácter internacional.
+Respuesta: 2
+Correcta: ¡Correcto! El orden contencioso-administrativo no tiene competencia sobre cuestiones de carácter constitucional, penal y aquellas estipuladas en Tratados internacionales.
+Errada: Te has equivocado. La respuesta correcta es que no tiene competencia sobre cuestiones de carácter constitucional, penal y aquellas dispuestas en Tratados internacionales. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué órgano es competente para conocer de los recursos contencioso-electorales contra los acuerdos de las Juntas Electorales sobre proclamación de electos?
+1)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+2)La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia.
+3)Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.
+4)La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+Respuesta: 2
+Correcta: ¡Correcto! Según la nueva redacción del art. 74.1.f) de la LOPJ, esta competencia corresponde a las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+Errada: Incorrecto. La competencia para conocer de los recursos contra los acuerdos de proclamación de electos corresponde a las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: ¿A quién corresponde proponer a la Sala de Gobierno del TSJ las normas de reparto de asuntos entre los jueces de una misma Sección de un Tribunal de Instancia?
+1)A la Presidencia del Tribunal de Instancia.
+2)Al Letrado de la Administración de Justicia director del servicio común.
+3)A la Sala de Gobierno de la Audiencia Provincial.
+4)A la Junta de Jueces y Juezas de la respectiva Sección.
+Respuesta: 4
+Correcta: ¡Correcto! Según el art. 167.1 de la LOPJ, la propuesta de las normas de reparto se realiza por la Junta de Jueces y Juezas de la Sección.
+Errada: Incorrecto. La propuesta de las normas de reparto dentro de una Sección del Tribunal de Instancia corresponde a la Junta de Jueces y Juezas de dicha Sección. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 1 de la Ley de la Jurisdicción Contencioso Administrativa, ¿cuál de las siguientes pretensiones está bajo la competencia de los Juzgados y Tribunales del orden contencioso-administrativo?
+1)Acciones de las Administraciones públicas sujetas al Derecho Civil.
+2)Acciones de las Administraciones públicas sujetas al Derecho Laboral.
+3)Decretos legislativos que no sobrepasan los límites de la delegación.
+4)Decretos legislativos que sobrepasan los límites de la delegación.
+Respuesta: 4
+Correcta: ¡Correcto! Los Juzgados y Tribunales del orden contencioso-administrativo son competentes para conocer de pretensiones contra Decretos legislativos que sobrepasen los límites de la delegación.
+Errada: Esa no es la respuesta correcta. Los Juzgados y Tribunales del orden contencioso-administrativo son competentes para conocer de pretensiones contra Decretos legislativos que sobrepasen los límites de la delegación. (Respuesta Correcta 4)
+###
+Pregunta: Según la nueva redacción de la LOPJ por la LO 1/2025, cada Tribunal de Instancia contará, como mínimo, con:
+1)Una Sección Civil y una Sección de Instrucción.
+2)Una Sección Única, de lo Penal.
+3)Una Sección Única, de Civil y de Instrucción.
+4)Una Sección de lo Contencioso-Administrativo.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 84.2 de la LOPJ establece que los Tribunales de Instancia estarán integrados, como mínimo, por una Sección Única, de Civil y de Instrucción.
+Errada: Incorrecto. La estructura mínima de un Tribunal de Instancia es una Sección Única, que engloba los órdenes civil y de instrucción, según el nuevo artículo 84.2 de la LOPJ. (Respuesta Correcta 3)
+###
+Pregunta: En un partido judicial donde no exista Tribunal de Instancia, ¿qué órgano existirá con jurisdicción en el término correspondiente?
+1)Una Oficina de Justicia en el municipio.
+2)Un juez o una jueza de paz.
+3)Un Letrado de la Administración de Justicia delegado.
+4)Una Sección desplazada del Tribunal de Instancia más cercano.
+Respuesta: 2
+Correcta: ¡Correcto! El nuevo artículo 99 de la LOPJ mantiene la figura del juez de paz en los municipios donde no exista Tribunal de Instancia.
+Errada: Incorrecto. La LOPJ, en su nueva redacción (art. 99), establece que en cada municipio donde no haya Tribunal de Instancia habrá un juez de paz. (Respuesta Correcta 2)
+###
+Pregunta: Según la nueva redacción del art. 436 de la LOPJ, ¿cuál se configura como un servicio común necesario de la Oficina Judicial?
+1)El servicio común de tramitación.
+2)El servicio común de ejecución.
+3)El servicio común de actos de comunicación.
+4)El servicio común de registro y reparto.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 436.1, en relación con el 437, configura al servicio común de tramitación como el elemento esencial de la Oficina Judicial que asiste a los órganos judiciales.
+Errada: Incorrecto. El nuevo modelo de Oficina Judicial establece el servicio común de tramitación como el pilar fundamental que asiste a los Tribunales. (Respuesta Correcta 1)
+###
+Pregunta: ¿A quién corresponde la creación de las Secciones de las Audiencias y Tribunales y de plazas judiciales, siempre que no suponga alteración de la demarcación judicial?
+1)Al Consejo General del Poder Judicial, oída la comunidad autónoma.
+2)A las Cortes Generales, mediante Ley Orgánica.
+3)Al Ministerio de Justicia.
+4)Al Gobierno, oídos preceptivamente la comunidad autónoma afectada y el Consejo General del Poder Judicial.
+Respuesta: 4
+Correcta: ¡Correcto! El artículo 36 de la LOPJ, en su nueva redacción, atribuye esta competencia al Gobierno, con los informes preceptivos de la comunidad autónoma y del CGPJ.
+Errada: Incorrecto. La competencia para la creación de Secciones y plazas, sin alterar la demarcación, corresponde al Gobierno, según el artículo 36 de la LOPJ. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el formato que tomará la declaración de incompetencia de los Juzgados y Salas de lo Contencioso Administrativo según la LJCA?
+1)Sentencia.
+2)Auto.
+3)Orden.
+4)Oficio.
+Respuesta: 2
+Correcta: ¡Exacto! La declaración de incompetencia adopta la forma de un Auto.
+Errada: Esa opción no es correcta. La declaración de incompetencia adopta la forma de un Auto. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 17 de la LJCA, ¿quién se encarga de determinar la distribución de asuntos entre las distintas Salas de un mismo Tribunal?
+1)Todas son correctas.
+2)El Juez Decano.
+3)El Letrado de la Administración de Justicia del tribunal correspondiente.
+4)La Sala de Gobierno del tribunal en cuestión.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Sala de Gobierno del respectivo Tribunal se encarga de la distribución según el art. 17 LJCA.
+Errada: Eso no es correcto. Según el art. 17 LJCA, es la Sala de Gobierno del respectivo Tribunal la que toma esa decisión. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién tiene jurisdicción para conocer los recursos contencioso-administrativos contra las acciones del Banco de España?
+1)La Sala de lo contencioso-administrativo del Tribunal Superior de Justicia.
+2)La Sala de lo contencioso-administrativo del Tribunal Supremo.
+3)La Sala de lo contencioso-administrativo de la Audiencia Provincial.
+4)La Sala de lo contencioso-administrativo de la Audiencia Nacional.
+Respuesta: 4
+Correcta: ¡Correcto! La Sala de lo contencioso-administrativo de la Audiencia Nacional es competente para conocer los recursos contra las acciones del Banco de España.
+Errada: No es correcto. La Sala de lo contencioso-administrativo de la Audiencia Nacional es la que tiene jurisdicción en esos casos. (Respuesta Correcta 4)
+###
+Pregunta: Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia son competentes para:
+1)Autorizar ingresos a domicilios en el contexto de la ejecución de actos administrativos.
+2)Ratificar medidas sanitarias que restringen derechos fundamentales cuando afectan específicamente a individuos identificados.
+3)Dar autorización para inspecciones ordenadas por la Comisión Nacional de la Competencia cuando se necesita acceso a propiedades y hay resistencia o riesgo de resistencia.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Con la nueva estructura, las competencias de los antiguos Juzgados de lo C-A, incluyendo las mencionadas, son asumidas por las Secciones de los Tribunales de Instancia.
+Errada: Incorrecto. Todas las competencias mencionadas, que antes correspondían a los Juzgados de lo Contencioso-Administrativo, ahora pertenecen a las Secciones de lo C-A de los Tribunales de Instancia. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué entidad es competente para conocer las pretensiones relacionadas con actos y disposiciones en materia administrativa adoptadas por los órganos competentes del Tribunal Constitucional?
+1)El Tribunal de Cuentas.
+2)El Consejo General del Poder Judicial.
+3)El propio Tribunal Constitucional.
+4)Los Juzgados y Tribunales del orden Contencioso-Administrativo.
+Respuesta: 4
+Correcta: ¡Correcto! Son los Juzgados y Tribunales del orden Contencioso-Administrativo quienes conocen de esas pretensiones.
+Errada: Esa no es la respuesta correcta. Los Juzgados y Tribunales del orden Contencioso-Administrativo son los competentes en este caso. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué órgano es competente para conocer los recursos interpuestos contra los actos de cualquier entidad central del Ministerio de Defensa en cuanto a ascensos, orden de escalafón, antigüedad y asignación de destinos?
+1)Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia.
+2)Sala de lo Contencioso-administrativo de la Audiencia Provincial.
+3)Juzgados de lo Contencioso-administrativo.
+4)Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+Respuesta: 4
+Correcta: ¡Exacto! Es la Sala de lo Contencioso-administrativo de la Audiencia Nacional la que conoce de estos recursos.
+Errada: Lo siento, la respuesta correcta es la Sala de lo Contencioso-administrativo de la Audiencia Nacional. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la nueva redacción del art. 95 de la LOPJ, ¿de cuál de los siguientes asuntos conocerá la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia?
+1)Recursos contra disposiciones y actos de los Ministros y Secretarios de Estado en general.
+2)Recursos contra disposiciones y actos emanados de autoridades, organismos, órganos y entidades públicas con competencia en todo el territorio nacional, en los términos que la ley establezca.
+3)Recursos de casación para la unificación de doctrina.
+4)Recursos contra los actos y disposiciones del Consejo de Ministros.
+Respuesta: 2
+Correcta: ¡Correcto! La nueva Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia asume, entre otras, las competencias de los antiguos Juzgados Centrales sobre actos de la administración central.
+Errada: Incorrecto. El nuevo art. 95.e) de la LOPJ atribuye a esta Sección el conocimiento de los recursos contra actos de organismos con competencia nacional. (Respuesta Correcta 2)
+###
+Pregunta: ¿En qué municipios existirá una Oficina de Justicia?
+1)En cada municipio donde no tenga su sede un Tribunal de Instancia.
+2)Únicamente en los municipios de más de 7.000 habitantes que no sean capital de partido judicial.
+3)En todos los municipios de España.
+4)En los municipios que lo soliciten a la Sala de Gobierno del Tribunal Superior de Justicia.
+Respuesta: 1
+Correcta: ¡Correcto! Según el nuevo art. 439 ter de la LOPJ, existirá una Oficina de Justicia en cada municipio donde no haya un Tribunal de Instancia.
+Errada: Incorrecto. La nueva regulación establece las Oficinas de Justicia en todos los municipios que no alberguen la sede de un Tribunal de Instancia. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué capacidad tienen los órganos del orden contencioso administrativo para detectar la falta de jurisdicción?
+1)No tienen la facultad de identificar por sí mismos la falta de jurisdicción.
+2)Pueden identificar la falta de jurisdicción por su propia iniciativa.
+3)Pueden identificar la falta de jurisdicción a instancia de parte.
+4)Solo pueden identificar la falta de jurisdicción si el superior jerárquico l lo solicita.
+Respuesta: 2
+Correcta: ¡Correcto! Los órganos del orden contencioso administrativo pueden identificar de oficio la falta de jurisdicción.
+Errada: Incorrecto, estos órganos tienen la facultad de identificar de oficio la falta de jurisdicción. (Respuesta Correcta 2)
+###
+Pregunta: ¿En qué fecha, según la Disposición Transitoria Primera de la LO 1/2025, se transformarán los Juzgados de Primera Instancia e Instrucción en Secciones de los Tribunales de Instancia?
+1)1 de enero de 2025.
+2)31 de diciembre de 2025.
+3)1 de julio de 2025.
+4)1 de octubre de 2025.
+Respuesta: 3
+Correcta: ¡Correcto! La Disposición Transitoria Primera de la LO 1/2025 establece esta fecha para la primera fase de constitución de los Tribunales de Instancia.
+Errada: Incorrecto. La fecha establecida en la Disposición Transitoria Primera de la LO 1/2025 para la transformación de los Juzgados de Primera Instancia e Instrucción es el 1 de julio de 2025. (Respuesta Correcta 3)
+###
+Pregunta: Una vez constituidos los Tribunales de Instancia, ¿quién pasará a ostentar la Presidencia de los mismos, según la Disposición Transitoria Tercera de la LO 1/2025?
+1)El magistrado con mejor puesto en el escalafón.
+2)El juez Decano o jueza Decana.
+3)El Presidente de la Audiencia Provincial.
+4)Un magistrado elegido por la Junta de Jueces.
+Respuesta: 2
+Correcta: ¡Correcto! La Disposición Transitoria Tercera establece que los actuales Jueces Decanos asumirán la Presidencia de los nuevos Tribunales de Instancia.
+Errada: Incorrecto. La Disposición Transitoria Tercera de la ley prevé que los Jueces Decanos en funciones pasen a ser los Presidentes de los Tribunales de Instancia. (Respuesta Correcta 2)
+###
+Pregunta: Cuando los Tribunales/Juzgados de la Jurisdicción Contencioso-Administrativa detecten de oficio la falta de jurisdicción, ¿cuánto tiempo tienen, después de escuchar a las partes y al Ministerio Fiscal, para resolverla?
+1)5 días.
+2)20 días.
+3)10 días.
+4)15 días.
+Respuesta: 3
+Correcta: ¡Bien hecho! Tras la audiencia con las partes y el Ministerio Fiscal, tienen un plazo común de 10 días para resolver la falta de jurisdicción.
+Errada: Lo siento, esa no es la respuesta correcta. Tras la audiencia con las partes y el Ministerio Fiscal, tienen un período común de 10 días para resolverlo. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué entidad es la responsable de revisar los recursos relacionados con actos y decisiones emitidas por los Tribunales Económico-Administrativos Regionales y Locales que concluyen el proceso económico-administrativo?
+1)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+2)La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+3)La Sala de lo Contencioso-Administrativo de la Audiencia Provincial.
+4)La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia es la encargada de dichos recursos.
+Errada: Incorrecto. Es la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia la que tiene esta competencia. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué órgano tiene la responsabilidad en primera instancia de revisar las decisiones relacionadas con asuntos de extranjería dictadas por la Administración periférica del Estado?
+1)Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.
+2)La Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+3)La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+4)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+Respuesta: 1
+Correcta: ¡Correcto! Esta competencia, antes de los Juzgados de lo Contencioso-Administrativo, corresponde ahora a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.
+Errada: Incorrecto. La competencia en materia de extranjería contra la Administración periférica corresponde en primera instancia a las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia. (Respuesta Correcta 1)
+###
+Pregunta: En única instancia, ¿qué órgano conoce de los recursos contra los actos y disposiciones del Presidente y del Consejo de la Comisión Nacional de los Mercados y la Competencia?
+1)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+2)Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia.
+3)La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+4)La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+Respuesta: 4
+Correcta: ¡Correcto! Conforme al artículo 11.1.f) de la LJCA, esta competencia corresponde a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+Errada: Incorrecto. La competencia para conocer de los recursos contra los actos de la cúpula de la CNMC corresponde a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 3 de la LJCA, ¿qué no está bajo la jurisdicción del orden jurisdiccional contencioso-administrativo?
+1)Las cuestiones relativas a contratos administrativos.
+2)El recurso contencioso-disciplinario militar.
+3)Los actos y disposiciones de las Corporaciones de Derecho Público en el desempeño de funciones públicas.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Correcto! El recurso contencioso-disciplinario militar no está bajo la jurisdicción del orden jurisdiccional contencioso-administrativo.
+Errada: Incorrecto. El recurso contencioso-disciplinario militar no forma parte del ámbito del orden jurisdiccional contencioso-administrativo. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 439 quater de la LOPJ, ¿cuál de los siguientes NO es un servicio que se prestará en las Oficinas de Justicia en los municipios?
+1)La práctica de actos de comunicación procesal que no hayan podido realizarse electrónicamente.
+2)La colaboración con las unidades de medios adecuados de solución de controversias.
+3)La asistencia al juez o jueza de paz del municipio.
+4)El ejercicio de funciones jurisdiccionales en delitos leves.
+Respuesta: 4
+Correcta: ¡Correcto! Las Oficinas de Justicia en los municipios prestan servicios administrativos y de apoyo, pero las funciones jurisdiccionales corresponden exclusivamente a los jueces y juezas de paz.
+Errada: Incorrecto. El ejercicio de funciones jurisdiccionales está reservado a los jueces y juezas de paz, no a la Oficina de Justicia, que es una unidad administrativa de apoyo. (Respuesta Correcta 4)
+###
+Pregunta: ¿Dónde se ubica la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla y León que tiene jurisdicción en las provincias de León, Palencia, Salamanca, Valladolid y Zamora?
+1)En la ciudad de León.
+2)En la ciudad de Zamora.
+3)En la ciudad de Valladolid.
+4)En la ciudad de Salamanca.
+Respuesta: 3
+Correcta: ¡Correcto! La Sala de lo Contencioso-Administrativo con jurisdicción en dichas provincias se encuentra en Valladolid.
+Errada: Esa no es la ubicación correcta. La Sala de lo Contencioso-Administrativo con jurisdicción en esas provincias tiene sede en Valladolid. (Respuesta Correcta 3)
+###
+Pregunta: Según el nuevo artículo 436 de la LOPJ, ¿quién dirigirá cada servicio común de la Oficina Judicial?
+1)Un Juez o Magistrado.
+2)Un funcionario del Cuerpo de Gestión Procesal y Administrativa.
+3)Un Letrado o Letrada de la Administración de Justicia.
+4)El Presidente del Tribunal de Instancia.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 436.6 de la LOPJ establece expresamente que la dirección de cada servicio común corresponderá a un Letrado o Letrada de la Administración de Justicia.
+Errada: Incorrecto. La dirección de los servicios comunes de la Oficina Judicial se atribuye por el nuevo artículo 436.6 de la LOPJ a un Letrado o Letrada de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es la naturaleza de la jurisdicción contencioso-administrativa?
+1)Flexible.
+2)Transferible.
+3)No transferible.
+4)Prorrogable.
+Respuesta: 3
+Correcta: ¡Correcto! La jurisdicción contencioso-administrativa es improrrogable, lo que significa que no puede ser transferida ni alterada.
+Errada: Lo siento, esa no es la respuesta correcta. La jurisdicción contencioso-administrativa es improrrogable. (Respuesta Correcta 3)
+###
+Pregunta: En el nuevo modelo organizativo, el Tribunal Central de Instancia contará con las siguientes Secciones, EXCEPTO:
+1)Sección de lo Social.
+2)Sección de lo Penal.
+3)Sección de Menores.
+4)Sección de Vigilancia Penitenciaria.
+Respuesta: 1
+Correcta: ¡Correcto! El nuevo artículo 95 de la LOPJ enumera las secciones del Tribunal Central de Instancia, entre las que no se encuentra una Sección de lo Social.
+Errada: Incorrecto. La nueva configuración del Tribunal Central de Instancia, según el artículo 95 de la LOPJ, no incluye una Sección de lo Social. (Respuesta Correcta 1)
+###
+Pregunta: Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia, en única o primera instancia, gestionan recursos contra actos de la Administración autonómica que involucran:
+1)Sanciones administrativas que se traducen en multas no mayores a 30.000 euros.
+2)Sanciones administrativas que se traducen en multas no mayores a 40.000 euros.
+3)Sanciones administrativas que se traducen en multas no mayores a 50.000 euros.
+4)Sanciones administrativas que se traducen en multas no mayores a 60.000 euros.
+Respuesta: 4
+Correcta: ¡Muy bien! Las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia asumen, entre otros, los recursos relacionados con sanciones administrativas con multas hasta 60,000 euros.
+Errada: Esa opción no es la correcta. Las Secciones gestionan, entre otros, sanciones administrativas con multas que no superan los 60,000 euros. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cada cuánto tiempo será revisada la planta de los tribunales, según el artículo 29 de la LOPJ modificado por la LO 1/2025?
+1)Cada diez años.
+2)Al menos, cada cinco años.
+3)Cada vez que lo solicite una Comunidad Autónoma.
+4)Anualmente, junto con los Presupuestos Generales del Estado.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 29 de la LOPJ establece que la planta judicial será revisada para adaptarla a las nuevas necesidades, al menos, cada cinco años.
+Errada: Incorrecto. La nueva redacción del artículo 29 de la LOPJ fija un periodo mínimo de revisión de la planta judicial de cinco años. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué órgano es competente para conocer de los recursos devolutivos que la ley establezca contra las resoluciones de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia?
+1)La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+2)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+3)La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid.
+4)No cabe recurso contra dichas resoluciones.
+Respuesta: 1
+Correcta: ¡Correcto! El nuevo artículo 66.c) de la LOPJ atribuye esta competencia a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+Errada: Incorrecto. La competencia para resolver los recursos contra las resoluciones de la Sección de lo C-A del Tribunal Central de Instancia corresponde a la Sala de lo C-A de la Audiencia Nacional, según el art. 66.c) de la LOPJ. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 17 de la LJCA, ¿con qué frecuencia se deben adoptar acuerdos sobre la distribución de casos?
+1)Cada tres años.
+2)Cada cuatro años.
+3)Cada dos años.
+4)Cada cinco años.
+Respuesta: 3
+Correcta: ¡Correcto! De acuerdo con el artículo 17 de la LJCA, los acuerdos sobre distribución de asuntos se adoptan cada dos años.
+Errada: Lo siento, esa no es la respuesta correcta. De acuerdo con el artículo 17 de la LJCA, los acuerdos sobre distribución de asuntos se adoptan cada dos años. (Respuesta Correcta 3)
+###
+Pregunta: ¿En cuál disposición adicional de la LJCA se atribuye a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional el conocimiento de ciertos recursos contra actos, resoluciones y disposiciones específicos?
+1)Disposición Adicional Primera LJCA.
+2)Disposición Adicional Segunda LJCA.
+3)Disposición Adicional Tercera LJCA.
+4)Disposición Adicional Cuarta LJCA.
+Respuesta: 4
+Correcta: ¡Exacto! Es la Disposición Adicional Cuarta de la LJCA la que establece dicha atribución.
+Errada: Esa no es la respuesta correcta. Es la Disposición Adicional Cuarta de la LJCA la que establece dicha atribución. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué órgano conocerá, en primera o única instancia, de los recursos contra disposiciones y actos de autoridades con competencia en todo el territorio nacional?
+1)Las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+2)La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+3)La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+4)La Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 95.e) de la LOPJ atribuye esta competencia a la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+Errada: Incorrecto. Esta competencia corresponde, según el nuevo artículo 95.e) de la LOPJ, a la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia. (Respuesta Correcta 2)
+###
+Pregunta: Según la disposición adicional primera de la LO 1/2025, una vez constituidos los Tribunales de Instancia, las menciones a los Juzgados de lo Social se entenderán hechas a:
+1)Las Secciones de lo Social de los Tribunales de Instancia.
+2)Los Juzgados de lo Social, que se mantienen como órganos unipersonales.
+3)Las Salas de lo Social de los Tribunales Superiores de Justicia.
+4)El Tribunal Central de Instancia.
+Respuesta: 1
+Correcta: ¡Correcto! La disposición adicional primera establece una cláusula general de sustitución terminológica, por la que los Juzgados se convierten en Secciones del orden correspondiente dentro del Tribunal de Instancia.
+Errada: Incorrecto. La disposición adicional primera de la LO 1/2025 es clara al transformar los antiguos juzgados unipersonales en Secciones de los nuevos Tribunales de Instancia. (Respuesta Correcta 1)
+###
+Pregunta: Elija la afirmación que no es correcta:
+1)Los conflictos jurisdiccionales entre los Juzgados, Tribunales y las Administraciones Públicas recaen en el Orden Jurisdiccional Contencioso-Administrativo.
+2)El Orden Jurisdiccional Contencioso-administrativo detectará de oficio la falta de jurisdicción, tras escuchar a las partes y al Ministerio Fiscal.
+3)El recurso contencioso-disciplinario militar no compete al Orden Jurisdiccional Contencioso-Administrativo.
+4)La jurisdicción Contencioso-Administrativa es inalterable.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es cierto que los conflictos jurisdiccionales entre los Juzgados, Tribunales y las Administraciones Públicas no corresponden al Orden Jurisdiccional Contencioso-Administrativo.
+Errada: Lo siento, esa afirmación es correcta. Los conflictos jurisdiccionales entre los Juzgados, Tribunales y las Administraciones Públicas no son competencia del Orden Jurisdiccional Contencioso-Administrativo. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LJCA, ¿de cuál de los siguientes recursos conoce la Sala de lo Contencioso-Administrativo del Tribunal Supremo?
+1)El recurso planteado por la Comisión Nacional de los Mercados y de la Competencia defendiendo la unidad de mercado.
+2)El recurso contra las decisiones del Tribunal Económico-Administrativo Central sobre tributos cedidos.
+3)El recurso contra actos y decisiones de la Comisión Delegada del Gobierno para Asuntos Sociales.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Bien hecho! La Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce del recurso contra actos y disposiciones de la Comisión Delegada del Gobierno para Asuntos Sociales.
+Errada: Esa no es la respuesta correcta. La Sala de lo Contencioso-Administrativo del Tribunal Supremo conoce del recurso contra actos y decisiones de la Comisión Delegada del Gobierno para Asuntos Sociales. (Respuesta Correcta 3)
+###
+Pregunta: Dentro del marco jurisdiccional contencioso-administrativo, ¿cuál instancia es responsable de los actos y decisiones emitidos por entidades de la Administración General del Estado, con alcance en todo el territorio nacional y con un nivel organizativo inferior al de un Secretario de Estado en áreas como personal, propiedades especiales y expropiación forzosa?
+1)La Sala de lo Contencioso Administrativo de la Audiencia Nacional
+2)La Sala de lo Contencioso Administrativo del Tribunal Supremo.
+3)La Sala de lo Contencioso Administrativo de la Audiencia Provincial
+4)La Sala de lo Contencioso Administrativo de los Tribunales Superiores de Justicia
+Respuesta: 4
+Correcta: ¡Correcto! La Sala de lo Contencioso Administrativo de los Tribunales Superiores de Justicia es la entidad responsable en tales casos.
+Errada: Esa no es la respuesta correcta. La Sala de lo Contencioso Administrativo de los Tribunales Superiores de Justicia es quien conoce de esos actos y resoluciones. (Respuesta Correcta 4)
+###
+Pregunta: Si alguien desea impugnar acciones relacionadas con la expropiación, ¿qué órgano jurisdiccional debe encargarse del caso?
+1)El jurisdiccional donde se encuentra ubicada la propiedad en cuestión.
+2)Puede elegirse entre el jurisdiccional donde reside el demandante o donde tiene sede el órgano que emitió el acto impugnado.
+3)Ambas son correctas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Exacto! La jurisdicción competente será aquella donde se ubica el bien inmueble afectado por la expropiación.
+Errada: Esa no es la respuesta correcta. La jurisdicción competente es aquella donde se encuentra ubicado el bien inmueble sujeto a expropiación. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué provincia se encuentra ubicada la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Andalucía que tiene jurisdicción sobre Almería, Granada y Jaén?
+1)Está en Almeria
+2)Está en Granada
+3)Está en Jaén.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Perfecto! La Sala con jurisdicción sobre Almería, Granada y Jaén está ubicada en Granada.
+Errada: Lo siento, esa no es la respuesta correcta. La Sala con jurisdicción sobre estas provincias se encuentra en Granada. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es la provincia sede de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Andalucía con jurisdicción sobre Cádiz, Córdoba, Huelva y Sevilla?
+1)Sevilla.
+2)Cádiz.
+3)Huelva.
+4)Cordoba.
+Respuesta: 1
+Correcta: ¡Muy bien! La Sala con jurisdicción sobre Cádiz, Córdoba, Huelva y Sevilla está en Sevilla.
+Errada: Esa no es la respuesta correcta. La Sala con jurisdicción sobre esas provincias está ubicada en Sevilla. (Respuesta Correcta 1)
+###
+Pregunta: Conforme a la LJCA, ¿ante qué órgano y por qué procedimiento podrá reclamar un funcionario público el reconocimiento de un trienio frente a una Comunidad Autónoma?
+1)La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia, a través del procedimiento ordinario.
+2)La Sección de lo Contencioso-Administrativo del Tribunal de Instancia, siguiendo el procedimiento ordinario.
+3)La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia, a través del procedimiento abreviado.
+4)La Sección de lo Contencioso-Administrativo del Tribunal de Instancia, siguiendo el procedimiento abreviado.
+Respuesta: 4
+Correcta: ¡Correcto! Un funcionario público que quiera reclamar el reconocimiento de un trienio frente a una Comunidad Autónoma debe acudir a la Sección de lo Contencioso-Administrativo del Tribunal de Instancia y seguir el procedimiento abreviado.
+Errada: Incorrecto. Por razón de la materia (personal) y la cuantía, la reclamación de un trienio se tramita por el procedimiento abreviado ante la Sección de lo Contencioso-Administrativo del Tribunal de Instancia. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento abreviado, si el actor pide en su demanda que el recurso se falle sin necesidad de vista, el Letrado de la Administración de Justicia dará traslado para contestar en el plazo de:
+1)Diez días.
+2)Quince días.
+3)Veinte días.
+4)Treinta días.
+Respuesta: 3
+Correcta: ¡Correcto! El nuevo artículo 78.3 de la LJCA establece un plazo de veinte días para contestar la demanda en este supuesto.
+Errada: Incorrecto. La modificación del artículo 78.3 de la LJCA por la LO 1/2025 fija el plazo para contestar la demanda en veinte días cuando no se solicita vista. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado, una vez el actor ha solicitado que el recurso se falle sin vista, la parte demandada podrá solicitarla. ¿Qué órgano decidirá sobre dicha solicitud?
+1)El Juez o la Jueza, mediante auto.
+2)El Letrado de la Administración de Justicia, mediante decreto.
+3)La Sala de Gobierno del Tribunal Superior de Justicia.
+4)El Presidente del Tribunal de Instancia.
+Respuesta: 1
+Correcta: ¡Correcto! La nueva redacción del artículo 78.3 de la LJCA otorga al Juez o Jueza la potestad de decidir sobre la celebración de la vista mediante auto, aunque la haya solicitado la parte demandada.
+Errada: Incorrecto. Es el Juez o Jueza quien valora y decide mediante auto si procede celebrar la vista, según la reforma del artículo 78.3 de la LJCA. (Respuesta Correcta 1)
+###
+Pregunta: Según la nueva redacción del art. 95 de la LOPJ, la Sección de Instrucción del Tribunal Central de Instancia instruirá las causas cuyo enjuiciamiento corresponda a:
+1)Las Secciones de lo Penal de los Tribunales de Instancia.
+2)La Sala de lo Penal de la Audiencia Nacional o, en su caso, a la Sección de lo Penal del propio Tribunal Central de Instancia.
+3)Las Audiencias Provinciales.
+4)La Sala de lo Penal del Tribunal Supremo.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 95.a) de la LOPJ establece esta competencia, manteniendo la conexión con los órganos de enjuiciamiento superiores.
+Errada: Incorrecto. La competencia de la Sección de Instrucción del Tribunal Central de Instancia está vinculada a los delitos que enjuicia la Audiencia Nacional o la propia Sección de lo Penal del Tribunal Central. (Respuesta Correcta 2)
+###
+Pregunta: Los Tribunales a los que se atribuye el ejercicio de la potestad jurisdiccional, según el nuevo artículo 26 LOPJ, son los siguientes, EXCEPTO:
+1)Audiencias Provinciales.
+2)Tribunal Central de Instancia.
+3)Audiencias de Cuentas.
+4)Tribunales de Instancia.
+Respuesta: 3
+Correcta: ¡Correcto! Las Audiencias de Cuentas son órganos de control externo, no forman parte del Poder Judicial.
+Errada: Incorrecto. El artículo 26 de la LOPJ enumera los órganos del Poder Judicial, y entre ellos no se encuentran las Audiencias de Cuentas. (Respuesta Correcta 3)
+###

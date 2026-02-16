@@ -1,0 +1,917 @@
+Pregunta: De acuerdo con el artículo 60 de la LJCA, en relación a la delegación de la práctica de diligencias probatorias, las Salas pueden confiar esta tarea a:
+1)Al Presidente.
+2)Uno de sus Magistrados.
+3)Al Letrado de la Administración de Justicia.
+4)A un funcionario de los cuerpos comunes.
+Respuesta: 2
+Correcta: ¡Excelente! Las Salas tienen la capacidad de delegar la práctica de diligencias probatorias a uno de sus Magistrados según el artículo 60 de la LJCA.
+Errada: Lo siento, esa no es la respuesta correcta. El artículo 60 de la LJCA establece que las Salas pueden delegar la práctica de diligencias probatorias en uno de sus Magistrados. (Respuesta Correcta 2)
+###
+Pregunta: En el marco del procedimiento contencioso-administrativo ordinario, si una de las partes pide que se incluyan más antecedentes en el expediente administrativo porque cree que no está completo, ¿quién tiene la autoridad para decidir sobre esta solicitud?
+1)El Letrado de la Administración de Justicia, con un plazo de tres días para tomar una decisión.
+2)El Letrado de la Administración de Justicia, con un plazo de cinco días para tomar una decisión.
+3)El Letrado de la Administración de Justicia, con un plazo de siete días para tomar una decisión.
+4)El Letrado de la Administración de Justicia, con un plazo de diez días para tomar una decisión.
+Respuesta: 1
+Correcta: ¡Correcto! Es el Letrado de la Administración de Justicia quien tiene la competencia para resolver la solicitud en un plazo de tres días.
+Errada: Incorrecto. Es el Letrado de la Administración de Justicia quien decide sobre la solicitud y tiene tres días para hacerlo. (Respuesta Correcta 1)
+###
+Pregunta: Si el expediente administrativo se recibe después del plazo establecido y después de que se haya concedido tiempo para formalizar la demanda a la parte demandante, ¿qué ocurre a continuación?
+1)El Letrado de la Administración de Justicia siempre muestra el expediente a las partes demandantes y les otorga un plazo común de cinco días para hacer alegaciones adicionales.
+2)El Letrado de la Administración de Justicia siempre muestra el expediente a las partes demandantes y les otorga un plazo común de quince días para hacer alegaciones adicionales.
+3)El Letrado de la Administración de Justicia siempre muestra el expediente a las partes demandantes y les otorga un plazo común de diez días para hacer alegaciones adicionales.
+4)El Letrado de la Administración de Justicia siempre muestra el expediente a las partes demandantes y les otorga un plazo común de siete días para hacer alegaciones adicionales.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia da a las partes demandantes un plazo común de diez días para hacer alegaciones complementarias.
+Errada: Incorrecto. Una vez recibido el expediente, se le permite a las partes demandantes revisarlo y tienen un plazo común de diez días para hacer alegaciones adicionales. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 53 de la LJCA, si se ha superado el plazo para la entrega del expediente administrativo y aún no ha sido enviado, ¿cuál es el siguiente paso?
+1)La parte recurrente puede solicitar un plazo para solicitar el expediente.
+2)La parte recurrida puede solicitar un plazo para formular la contestación.
+3)La parte recurrente puede solicitar un plazo para formular la demanda.
+4)Se da audiencia a las partes para proponer fecha del juicio.
+Respuesta: 3
+Correcta: ¡Correcto! Si el expediente administrativo no se recibe en el plazo establecido, la parte recurrente puede pedir un plazo para formalizar la demanda según el art. 53 LJCA.
+Errada: Lo siento, esa no es la respuesta correcta. El art. 53 LJCA establece que la parte recurrente puede pedir un plazo para formalizar la demanda si el expediente no se entrega a tiempo. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto del procedimiento contencioso-administrativo, si el Juez o Tribunal identifica que no podrán emitir una sentencia en el plazo previsto por la ley, ¿cuál sería la acción adecuada?
+1)Justificarán debidamente la razón y determinarán una nueva fecha específica para la emisión de la sentencia, notificando a todas las partes involucradas.
+2)Justificarán adecuadamente la situación y el Letrado de la Administración de Justicia determinará una nueva fecha específica para emitir la sentencia, notificando a las partes.
+3)Justificarán debidamente la razón y determinarán una nueva fecha específica para la emisión de la sentencia, sin notificar a todas las partes involucradas.
+4)Avisará cuando tenga la sentencia lista, este o no fuera de plazo.
+Respuesta: 1
+Correcta: ¡Correcto! Si el Juez o Tribunal reconoce que no podrán dictar la sentencia en el tiempo estipulado, deben justificar la razón y establecer una nueva fecha, notificando a las partes.
+Errada: Lo siento, esa no es la respuesta correcta. El Juez o Tribunal, al notar un retraso, justificarán la razón y determinarán una nueva fecha, notificando a las partes. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento contencioso-administrativo, cuando se establece el trámite de conclusiones, ¿qué se espera de las partes involucradas?
+1)Que las partes ofrezcan argumentos breves relacionados con los hechos.
+2)Que las partes proporcionen alegatos breves sobre la evidencia presentada.
+3)Que las partes presenten alegaciones concisas sobre las bases legales en las que sustentan sus argumentos.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Durante el trámite de conclusiones, se espera que las partes brinden alegaciones sobre los hechos, la evidencia y las bases jurídicas en las que se sustentan sus argumentos.
+Errada: Incorrecto. Durante este trámite, las partes deben aportar alegaciones relativas a los hechos, la evidencia y las bases legales que respaldan sus pretensiones. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento contencioso-administrativo ordinario, si el defensor de la Administración demandada considera que la acción o disposición administrativa impugnada podría ser ilegal, ¿qué recurso tiene a su disposición?
+1)Podrá pedir la pausa del procedimiento por veinte días para comunicar su opinión fundamentada a la respectiva autoridad.
+2)Podrá pedir la pausa del procedimiento por quince días para comunicar su opinión fundamentada a la respectiva autoridad.
+3)Podrá pedir la pausa del procedimiento por diez días para comunicar su opinión fundamentada a la respectiva autoridad.
+4)Podrá pedir la pausa del procedimiento por tiempo indefinido para comunicar su opinión fundamentada a la respectiva autoridad.
+Respuesta: 1
+Correcta: ¡Correcto! Si el defensor de la Administración demandada tiene dudas sobre la legalidad de una acción, puede solicitar la suspensión del proceso por 20 días para comunicar su opinión.
+Errada: Esa no es la respuesta adecuada. El defensor puede solicitar una pausa de 20 días en el procedimiento para comunicar su perspectiva sobre la posible ilegalidad de la acción. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 59.3 de la LJCA, respecto al auto que desestima las alegaciones previas:
+1)Sí se permite su apelación, pero no se indicará que la demanda se conteste en el tiempo restante.
+2)No se permite su apelación y se indicará que la demanda se conteste en el tiempo restante.
+3)No se permite su apelación ni se indicará que la demanda se conteste en el tiempo restante.
+4)Sí se permite su apelación y se indicará que la demanda se conteste en el tiempo restante.
+Respuesta: 2
+Correcta: ¡Correcto! El auto que rechaza las alegaciones previas no es apelable, y se indicará que la demanda se conteste en el tiempo que quede.
+Errada: Lo siento, esa no es la respuesta correcta. Según el artículo 59.3 de la LJCA, el auto que desestima las alegaciones previas no puede ser apelado y se debe responder a la demanda en el plazo restante. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la prueba en el proceso contencioso administrativo ordinario, ¿cuál de las siguientes afirmaciones es correcta?
+1)Solo se podrá solicitar la admisión de pruebas dentro de los cuatro días siguientes a la admisión de la demanda.
+2)Se recibirá el proceso a prueba si hay desacuerdo en los hechos y estos fueran significativos, según el criterio del órgano jurisdiccional, para la decisión del caso.
+3)Solo se podrá solicitar la admisión de pruebas dentro de los veinte días siguientes a la admisión de la demanda.
+4)Solo se podrá solicitar la admisión de pruebas dentro de los diez días siguientes a la admisión de la demanda.
+Respuesta: 2
+Correcta: ¡Bien hecho! En el proceso contencioso administrativo, la admisión a prueba se realizará cuando exista discrepancia en los hechos y estos sean relevantes para la decisión del caso.
+Errada: Esa no es la correcta. En el proceso contencioso administrativo, la admisión a prueba se realizará cuando exista discrepancia en los hechos y estos sean relevantes para la decisión del caso. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 76 LJCA, una vez interpuesto el recurso contencioso-administrativo, si la Administración demandada reconoce completamente las pretensiones del demandante, ¿qué procedimiento seguirá?
+1)El Letrado de la Administración de Justicia dará audiencia a las partes durante siete días y el Juez o Tribunal dictará un auto concluyendo el procedimiento.
+2)El Letrado de la Administración de Justicia dará audiencia a las partes durante diez días y el Juez o Tribunal dictará un auto concluyendo el procedimiento.
+3)El Letrado de la Administración de Justicia dará audiencia a las partes durante cinco días y el Juez o Tribunal dictará un auto concluyendo el procedimiento.
+4)El Letrado de la Administración de Justicia dará audiencia a las partes durante quince días y el Juez o Tribunal dictará un auto concluyendo el procedimiento.
+Respuesta: 3
+Correcta: ¡Correcto! Si la Administración demandada reconoce completamente las pretensiones del demandante, el Letrado de la Administración de Justicia dará audiencia a las partes durante cinco días y, posteriormente, el Juez o Tribunal dictará un auto concluyendo el procedimiento.
+Errada: Incorrecto. Si la Administración demandada reconoce completamente las pretensiones del demandante, el Letrado de la Administración de Justicia dará audiencia a las partes durante cinco días y, posteriormente, el Juez o Tribunal dictará un auto concluyendo el procedimiento. (Respuesta Correcta 3)
+###
+Pregunta: Después de presentar el escrito de alegaciones previas y notificarlo al demandante, ¿en cuánto tiempo puede este corregir el defecto señalado?
+1)En el plazo de 20 días.
+2)En el plazo de 10 días.
+3)En el plazo de 7 días.
+4)En el plazo de 9 días.
+Respuesta: 2
+Correcta: ¡Bien hecho! Si tras las alegaciones previas se identifica algún defecto, el demandante tiene un plazo de 10 días para subsanarlo.
+Errada: Incorrecto. Si tras las alegaciones previas se identifica algún defecto, el demandante tiene un plazo de 10 días para subsanarlo. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto al intento de conciliación mencionado en el art. 77 LJCA, ¿cuándo puede tener lugar?
+1)En cualquier momento después de la fecha en que se dicte sentencia.
+2)En cualquier momento después de que el caso sea declarado concluso para sentencia.
+3)En cualquier momento antes de la fecha en que se dicte sentencia.
+4)En cualquier momento antes de que el caso sea declarado concluso para sentencia.
+Respuesta: 4
+Correcta: ¡Correcto! Según el art. 77 LJCA, el intento de conciliación puede llevarse a cabo en cualquier momento previo a la declaración de que el caso está listo para sentencia.
+Errada: Incorrecto. Según el art. 77 LJCA, el intento de conciliación puede llevarse a cabo en cualquier momento previo a la declaración de que el caso está listo para sentencia. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso contencioso-administrativo, ¿cuál de las siguientes no puede ser invocada por la parte demandada al responder a la demanda, incluso si fue rechazada en una alegación previa?
+1)Cosa juzgada.
+2)Que la demanda haya sido presentada por una persona sin capacidad.
+3)Que la demanda haya sido presentada por una persona sin legitimación.
+4)La falta de competencia del tribunal.
+Respuesta: 4
+Correcta: ¡Exacto! La falta de competencia del tribunal no puede ser invocada por la parte demandada al contestar la demanda, aunque se hubiera rechazado previamente.
+Errada: Lo siento, la respuesta correcta es que la falta de competencia del tribunal no puede ser invocada nuevamente por la parte demandada al contestar la demanda. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 74 de la LJCA, si el demandante desiste y las demás partes personadas manifiestan su conformidad, ¿cómo se formaliza la conclusión del proceso?
+1)Por auto del Juez.
+2)Por sentencia.
+3)Por decreto del Letrado de la Administración de Justicia.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Muy bien! Cuando hay desistimiento y las partes están de acuerdo, el proceso se concluye mediante decreto del Letrado de la Administración de Justicia.
+Errada: Lo siento, la respuesta correcta es que el proceso se concluye mediante decreto del Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Para que sea admitida en el procedimiento contencioso-administrativo ordinario, ¿cuál es el plazo para presentar el escrito de demanda una vez notificado el auto que declara la caducidad?
+1)Siete días después de la notificación.
+2)Diez días después de la notificación.
+3)El mismo día de la notificación del auto.
+4)Cinco días después de la notificación.
+Respuesta: 3
+Correcta: ¡Correcto! El escrito de demanda debe presentarse el mismo día en que se notifica el auto que declara la caducidad.
+Errada: Lo siento, la respuesta adecuada es que el escrito de demanda debe ser presentado el mismo día de la notificación del auto. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la LJCA, cuando un demandante alega discriminación por motivos de género, orientación sexual, identidad de género, etc., y proporciona pruebas indicativas de ello, ¿quién tiene la responsabilidad de justificar que las medidas adoptadas son objetivas, razonables y proporcionadas?
+1)Depende de la carga de la prueba.
+2)El demandante.
+3)Ambas partes.
+4)El demandado.
+Respuesta: 4
+Correcta: ¡Exacto! En casos de alegación de discriminación, corresponde al demandado proporcionar una justificación objetiva y razonable de las medidas adoptadas.
+Errada: Lo siento, la respuesta correcta es que corresponde al demandado justificar las medidas adoptadas en casos de alegación de discriminación. (Respuesta Correcta 4)
+###
+Pregunta: Una vez presentado el recurso contencioso-administrativo, si las Administraciones demandadas admiten completamente las demandas del demandante en la vía administrativa, ¿cómo se formaliza la finalización del proceso y el cierre del recurso?
+1)Auto.
+2)Diligencia.
+3)Sentencia.
+4)Decreto.
+Respuesta: 1
+Correcta: ¡Exacto! La finalización del proceso y el cierre del recurso se formalizan mediante un auto.
+Errada: Lo siento, la respuesta correcta es "Auto". Es el método mediante el cual se formaliza la conclusión del proceso y el cierre del recurso. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 62 de la LJCA, en lo referente a la petición de las partes para la celebración de una vista, la presentación de conclusiones o la finalización del juicio sin más trámites, ¿cuál de las siguientes respuestas es incorrecta?
+1)El Letrado de la Administración de Justicia ordenará la vista o la redacción de conclusiones escritas si, tras practicar pruebas, alguna de las partes lo solicita.
+2)Si ninguna de las partes ha realizado alguna solicitud, el Letrado de la Administración de Justicia, en circunstancias excepcionales y dependiendo de la naturaleza del caso, puede ordenar una vista o la redacción de conclusiones escritas.
+3)El Letrado de la Administración de Justicia ordenará la vista o las conclusiones escritas si el demandante lo solicita.
+4)El Letrado de la Administración de Justicia actuará de acuerdo con lo que las partes hayan solicitado de manera unánime.
+Respuesta: 2
+Correcta: ¡Correcto! Es el Juez o Tribunal, y no el Letrado de la Administración de Justicia, quien puede acordar de oficio la celebración de vista o la presentación de conclusiones, por lo que la afirmación es incorrecta.
+Errada: Lo siento, la respuesta correcta es que el Letrado de la Administración de Justicia no ordena una vista o redacción de conclusiones escritas sin solicitud de las partes; es el Juez o Tribunal quien puede hacerlo de oficio. (Respuesta Correcta 2)
+###
+Pregunta: Las sentencias definitivas que anulen una norma de un reglamento general:
+1)Solo tendrán impacto directo sobre la validez de las sentencias o actos administrativos que la hayan aplicado antes de que la anulación tenga efectos generales, si la anulación de la norma implica la exclusión o aumento de las sanciones que aún no han sido ejecutadas en su totalidad.
+2)Solo tendrán impacto directo sobre la validez de las sentencias o actos administrativos que la hayan aplicado antes de que la anulación tenga efectos generales, si la anulación de la norma implica la exclusión o reducción de las sanciones que ya han sido ejecutadas en su totalidad.
+3)Solo tendrán impacto directo sobre la validez de las sentencias o actos administrativos que la hayan aplicado después de que la anulación tenga efectos generales, si la anulación de la norma implica la exclusión o reducción de las sanciones que aún no han sido ejecutadas en su totalidad.
+4)Solo tendrán impacto directo sobre la validez de las sentencias o actos administrativos que la hayan aplicado antes de que la anulación tenga efectos generales, si la anulación de la norma implica la exclusión o reducción de las sanciones que aún no han sido ejecutadas en su totalidad.
+Respuesta: 4
+Correcta: ¡Muy bien! La anulación solo tendrá impacto en las sentencias o actos administrativos que la hayan aplicado previamente si la anulación implica la exclusión o reducción de sanciones no completamente ejecutadas.
+Errada: Lo siento, la respuesta correcta es que la anulación solo afecta a las sentencias o actos que la hayan aplicado previamente si implica la exclusión o reducción de sanciones no completamente ejecutadas. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento contencioso-administrativo, ¿quién se encarga de guardar el documento digital que contiene la grabación de la vista?
+1)El Gestor Procesal.
+2)El Tramitador Procesal.
+3)El Juez.
+4)El Letrado de la Administración de Justicia.
+Respuesta: 4
+Correcta: ¡Exacto! Es responsabilidad del Letrado de la Administración de Justicia custodiar el documento electrónico que contiene la grabación de la vista.
+Errada: Lo siento, la respuesta correcta es el Letrado de la Administración de Justicia. Es él quien custodia el documento electrónico que contiene la grabación de la vista. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento contencioso-administrativo, ¿en qué instancia no es apropiado solicitar la admisión de pruebas mediante otrosí?
+1)En la solicitud del expediente administrativo.
+2)Durante la formulación del escrito de alegatos adicionales.
+3)En la contestación de la demanda.
+4)Durante la formulación del escrito de alegatos preliminares.
+Respuesta: 4
+Correcta: ¡Correcto! No es adecuado solicitar la admisión de pruebas mediante otrosí en el escrito de alegatos preliminares.
+Errada: Lo siento, la respuesta correcta es que no es adecuado solicitar la admisión de pruebas mediante otrosí en el escrito de alegatos preliminares. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 70.2 de la LJCA, la sentencia estimará el recurso contencioso-administrativo cuando la disposición, la actuación o el acto incurrieran en:
+1)Cualquier infracción del ordenamiento jurídico, a excepción del abuso de poder.
+2)Únicamente una infracción sustancial de las normas de competencia o de las que regulan el procedimiento.
+3)Cualquier infracción del ordenamiento jurídico, incluido el abuso de poder.
+4)Una desviación de poder, pero no una infracción de la jurisprudencia.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 70.2 de la LJCA establece que la estimación del recurso procede ante cualquier infracción del ordenamiento jurídico, incluyendo expresamente el abuso de poder.
+Errada: La respuesta correcta es que se estimará el recurso ante cualquier infracción del ordenamiento jurídico. El abuso de poder es una de esas infracciones, no una excepción. (Respuesta Correcta 3)
+###
+Pregunta: Al solicitar antecedentes para completar el expediente administrativo por las partes, ¿cuál es el efecto en el plazo correspondiente para formular la demanda o la contestación?
+1)Ninguna es correcta.
+2)Se suspende el plazo en curso.
+3)Se suspende si el Juez lo decide, o a instancia de las partes.
+4)No tiene efectos suspensivos.
+Respuesta: 2
+Correcta: ¡Bien hecho! Solicitar antecedentes para completar el expediente administrativo suspende el plazo en curso para formular la demanda o la contestación.
+Errada: La respuesta correcta es que al solicitar antecedentes para completar el expediente, se suspende el plazo correspondiente para la demanda o contestación. (Respuesta Correcta 2)
+###
+Pregunta: Por norma, en el recurso contencioso-administrativo, después de que el tribunal reciba el expediente administrativo, ¿cuánto tiempo hay para formalizar la demanda?
+1)En un plazo de diez días.
+2)En un plazo de quince días.
+3)En un plazo de veinte días.
+4)En un plazo de siete días.
+Respuesta: 3
+Correcta: ¡Correcto! Una vez recibido el expediente administrativo por el tribunal, la demanda debe formalizarse en un plazo de veinte días.
+Errada: La respuesta correcta es que la demanda debe ser formalizada en un plazo de veinte días tras la recepción del expediente administrativo. (Respuesta Correcta 3)
+###
+Pregunta: Según el art. 59 de la LJCA, cuando se presentan alegaciones previas, ¿cómo procede el Letrado de la Administración de Justicia?
+1)Informa al demandante por cinco días, quien tiene diez días para corregir cualquier error, si fuese necesario.
+2)Informa al demandante por cinco días, quien tiene diez días para corregir cualquier error, si no fuese necesario.
+3)Informa al demandante por diez días, quien tiene diez días para corregir cualquier error, si fuese necesario.
+4)Informa al demandante por diez días, quien tiene diez días para corregir cualquier error, si no fuese necesario.
+Respuesta: 1
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia da traslado al actor por cinco días, y este último tiene un plazo de diez días para subsanar el defecto, si es que procede.
+Errada: La respuesta adecuada es que el Letrado da traslado al demandante por cinco días, y este tiene un plazo de diez días para corregir cualquier error, si es necesario. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el art. 63 de la LJCA, ¿quién asegura que lo grabado o reproducido mantiene su autenticidad e integridad mediante el uso de firmas electrónicas u otros sistemas de seguridad?
+1)El Juez.
+2)El Letrado de la Administración de Justicia.
+3)El Auxilio Judicial.
+4)El Tramitador Procesal.
+Respuesta: 2
+Correcta: ¡Bien hecho! Es el Letrado de la Administración de Justicia quien garantiza la autenticidad e integridad de lo grabado o reproducido.
+Errada: La respuesta correcta es el Letrado de la Administración de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 72 de la LJCA, cuando se reconoce o restablece una situación jurídica individual, la sentencia podrá extender sus efectos a terceros en los supuestos previstos en los artículos:
+1)114 y 115 de la LJCA.
+2)111 y 114 de la LJCA.
+3)113 y 112 de la LJCA.
+4)110 y 111 de la LJCA.
+Respuesta: 4
+Correcta: ¡Exacto! Los efectos pueden extenderse a terceros según lo estipulado en los artículos 110 y 111 de la LJCA.
+Errada: La respuesta adecuada es que estos efectos pueden extenderse a terceros según los artículos 110 y 111 de la LJCA. (Respuesta Correcta 4)
+###
+Pregunta: Ante la providencia dictada por el juez o jueza de la Sección de lo Contencioso-Administrativo en la que se sugiere tratar motivos relevantes no mencionados previamente, ¿es posible presentar algún recurso?
+1)Casación y queja.
+2)Apelación y casación.
+3)Reposición y revisión subsidiariamente.
+4)No es posible.
+Respuesta: 4
+Correcta: ¡Correcto! No se puede presentar recurso contra esta providencia del juez o jueza de la Sección de lo Contencioso-Administrativo.
+Errada: La respuesta correcta es que no es posible presentar un recurso en esta situación. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el art. 74 de la LJCA, si el recurrente desiste, ¿por cuánto tiempo el Letrado de la Administración de Justicia dará traslado a las demás partes?
+1)Por un plazo común de diez días.
+2)Por un plazo común de siete días.
+3)Por un plazo común de cinco días.
+4)Por un plazo común de veinte días.
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia da traslado a las demás partes por un plazo común de cinco días en caso de desistimiento del recurrente.
+Errada: La respuesta correcta es que el Letrado da traslado a las demás partes por un plazo común de cinco días. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué efectos produce una sentencia que declare la inadmisibilidad o desestimación del recurso contencioso-administrativo?
+1)Afecta a los interesados.
+2)Afecta a la Administración exclusivamente.
+3)Afecta exclusivamente entre las partes involucradas en el proceso.
+4)Afecta entre las partes involucradas en el proceso y a los posibles afectados.
+Respuesta: 3
+Correcta: ¡Exacto! Una sentencia que declare la inadmisibilidad o desestimación del recurso tiene efecto solo entre las partes involucradas en el proceso.
+Errada: La respuesta correcta es que la sentencia tiene efecto únicamente entre las partes del proceso. (Respuesta Correcta 3)
+###
+Pregunta: Si la demanda en el proceso contencioso-administrativo ordinario tiene un defecto que puede ser corregido, ¿cómo se procede?
+1)El Letrado de la Administración de Justicia da un plazo máximo de quince días para corregirlo.
+2)El Letrado de la Administración de Justicia da un plazo máximo de diez días para corregirlo.
+3)El Letrado de la Administración de Justicia da un plazo máximo de cinco días para corregirlo.
+4)El Letrado de la Administración de Justicia da un plazo máximo de veinte días para corregirlo.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia concede un plazo no superior a diez días para subsanar el defecto.
+Errada: La respuesta adecuada es que el Letrado concede un plazo no superior a diez días para subsanar el defecto. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso contencioso-administrativo ordinario, ¿cómo se puede acordar el recibimiento a prueba?
+1)Puede ser solicitado por las partes o decidido de oficio por el tribunal.
+2)Al final de las alegaciones por los abogados de las partes.
+3)Exclusivamente de oficio.
+4)Exclusivamente a instancia de parte.
+Respuesta: 1
+Correcta: ¡Correcto! El recibimiento a prueba puede ser solicitado por las partes o acordado de oficio por el tribunal.
+Errada: La respuesta correcta es que el recibimiento a prueba puede ser solicitado por las partes o decidido de oficio por el tribunal. (Respuesta Correcta 1)
+###
+Pregunta: Cuando en el proceso contencioso administrativo común la entidad local demandada no se presenta a pesar de haber sido convocada, ¿cuál es la acción a seguir?
+1)A pesar de su ausencia, se le notificará y se le otorgarán quince días para designar un representante legal o exponer por escrito las razones por las que considera que la solicitud del demandante es inapropiada.
+2)A pesar de su ausencia, se le notificará y se le otorgarán diez días para designar un representante legal o exponer por escrito las razones por las que considera que la solicitud del demandante es inapropiada.
+3)A pesar de su ausencia, se le notificará y se le otorgarán veinte días para designar un representante legal o exponer por escrito las razones por las que considera que la solicitud del demandante es inapropiada.
+4)A pesar de su ausencia, se le notificará y se le otorgarán cinco días para designar un representante legal o exponer por escrito las razones por las que considera que la solicitud del demandante es inapropiada.
+Respuesta: 3
+Correcta: ¡Exacto! La entidad tiene veinte días para contestar a la demanda.
+Errada: La respuesta correcta es que la entidad tiene veinte días para contestar a la demanda. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto contencioso-administrativo, ¿cuándo el Letrado de la Administración de Justicia decide finalizar el litigio para sentenciar tras la respuesta a la demanda?
+1)Cuando el demandante solicita en su escrito que el caso se resuelva sin requerir pruebas adicionales, ni audiencias o conclusiones, y la parte demandada no se opone.
+2)Cuando el demandante solicita en su escrito que el caso se resuelva sin requerir pruebas adicionales, pero con audiencias o conclusiones, y la parte demandada no se opone.
+3)Cuando el demandante solicita en su escrito que el caso se resuelva con la práctica de las pruebas adicionales, pero sin audiencias o conclusiones, y la parte demandada no se opone.
+4)Cuando el demandante solicita en su escrito que el caso se resuelva sin requerir pruebas adicionales, ni audiencias o conclusiones, y la parte demandada se opone.
+Respuesta: 1
+Correcta: ¡Correcto! El Letrado finalizará el litigio si el demandante pide que se resuelva sin más trámites y la parte demandada no objeta.
+Errada: La respuesta adecuada es que el Letrado concluirá el litigio si el demandante pide que se resuelva sin más trámites y la parte demandada no objeta. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LJCA, si se decide proseguir con las conclusiones, ¿cuánto tiempo se otorga para presentar el escrito correspondiente?
+1)Siete días.
+2)Treinta días.
+3)Dos días.
+4)Diez días.
+Respuesta: 4
+Correcta: ¡Bien hecho! Se concede un plazo de diez días para la formulación del escrito de conclusiones.
+Errada: La respuesta correcta es que se otorgan diez días para redactar el escrito de conclusiones. (Respuesta Correcta 4)
+###
+Pregunta: Para invocar el procedimiento de alegaciones previas, ¿qué documento debe acompañar la Administración demandada a su escrito si no lo hubiera remitido antes?
+1)Ninguna es correcta.
+2)El expediente administrativo si ya se ha enviado.
+3)Evidencia de haber hecho la petición previa.
+4)El expediente administrativo.
+Respuesta: 4
+Correcta: ¡Correcto! La Administración debe adjuntar el expediente administrativo si no lo ha enviado previamente.
+Errada: La respuesta adecuada es que la Administración debe presentar el expediente administrativo si aún no lo ha remitido. (Respuesta Correcta 4)
+###
+Pregunta: En un proceso contencioso-administrativo común, ¿cuánto tiempo tiene el demandante para redactar conclusiones escritas?
+1)Veinte días.
+2)Tres días.
+3)Diez días.
+4)Dos días.
+Respuesta: 3
+Correcta: ¡Bien hecho! El demandante tiene diez días para presentar conclusiones escritas.
+Errada: La respuesta correcta es diez días para la presentación de conclusiones escritas. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 59 de la LJCA, marque la afirmación correcta acerca de las alegaciones previas:
+1)Una vez firme el auto que aprueba las alegaciones previas, el Letrado de la Administración de Justicia ordenará la devolución del expediente administrativo a su origen.
+2)Tras recibir las alegaciones previas, se procederá con arreglo a las normas establecidas para los incidentes.
+3)El auto que aprueba las alegaciones previas dictará la inadmisión del recurso.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Perfecto! Todas las opciones son procedimientos establecidos en el artículo 59 de la LJCA.
+Errada: Todas las opciones mencionadas son correctas según el artículo 59 de la LJCA. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 63 de la LJCA, si en la celebración de una vista no se dispone de medios tecnológicos adecuados, ¿qué NO debe registrar el Letrado de la Administración de Justicia en el acta?
+1)La Fecha.
+2)La Sala.
+3)Antecedentes de hecho.
+4)La Duración del Juicio.
+Respuesta: 3
+Correcta: ¡Exacto! Los antecedentes de hecho no son un elemento que deba constar en el acta de la vista.
+Errada: Lo correcto es que no es necesario registrar los antecedentes de hecho en el acta de la vista. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto del recurso contencioso-administrativo, ¿qué argumentos pueden ser presentados por las partes demandadas en los primeros 5 días del período otorgado para responder a la demanda?
+1)Los que puedan resultar en la inadmisibilidad del recurso.
+2)Aquellos que argumenten que el recurso se refiere a elementos que no pueden ser impugnados.
+3)Los que puedan llevar a la incompetencia del tribunal.
+4)Todas las opciones anteriores son válidas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las opciones anteriores son válidas.
+Errada: La respuesta adecuada es que todas las opciones anteriores son válidas según el contexto del recurso contencioso-administrativo. (Respuesta Correcta 4)
+###
+Pregunta: Basándose en el artículo 55 de la LJCA, si las partes consideran que el expediente administrativo no es completo, ¿cuándo pueden pedir que se añadan los antecedentes necesarios?
+1)Dentro del período asignado para presentar la demanda o la respuesta.
+2)Dentro de 5 días.
+3)Dentro de 10 días.
+4)Dentro de 15 días.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las partes pueden solicitar antecedentes adicionales dentro del período para presentar la demanda o la respuesta.
+Errada: De acuerdo con el artículo 55 de la LJCA, las partes tienen el derecho de solicitar antecedentes adicionales dentro del período otorgado para presentar la demanda o la respuesta. (Respuesta Correcta 1)
+###
+Pregunta: Si las partes demandadas, en los primeros cinco días otorgados para responder a la demanda, presentan alegatos mencionados en el artículo 58.1 de la LJCA, ¿cuánto tiempo tiene el actor para responder y, en su caso, corregir posibles defectos, una vez que se le notifica del escrito?
+1)Cinco días para responder, y si es necesario, puede corregir el error en un plazo de diez días.
+2)Cinco días para responder, y si es necesario, puede corregir el error en un plazo de cinco días.
+3)Diez días para responder, y si es necesario, puede corregir el error en un plazo de diez días.
+4)Quince días para responder, y si es necesario, puede corregir el error en un plazo de cinco días.
+Respuesta: 1
+Correcta: ¡Exacto! El actor tiene cinco días para responder y, si es necesario, otros diez días para corregir el defecto.
+Errada: La respuesta correcta es que el actor tiene cinco días para responder y, en caso necesario, un plazo adicional de diez días para corregir el defecto. (Respuesta Correcta 1)
+###
+Pregunta: Dentro del marco del recurso contencioso-administrativo, si no se presenta la demanda en el plazo establecido, ¿qué acción tomará el Tribunal de Instancia o la Sala de manera autónoma?
+1)Anunciará la caducidad del recurso mediante diligencia.
+2)Anunciará la caducidad del recurso mediante un decreto.
+3)Anunciará la caducidad del recurso mediante un auto.
+4)Anunciará la caducidad del recurso mediante sentencia sucinta.
+Respuesta: 3
+Correcta: ¡Correcto! El recurso será declarado caduco mediante un auto.
+Errada: La respuesta correcta es que se anunciará la caducidad del recurso mediante un auto. (Respuesta Correcta 3)
+###
+Pregunta: Identifique la afirmación incorrecta respecto a la sentencia dictada en el proceso contencioso-administrativo:
+1)La sentencia que desestima el recurso contencioso-administrativo sólo tiene efecto entre las partes involucradas.
+2)Las sentencias firmes que anulen un acto administrativo que involucre a un grupo indeterminado de personas serán publicadas.
+3)Si se estima el reconocimiento o restablecimiento de un derecho individual, sólo afectará a las partes involucradas.
+4)Las sentencias firmes que anulan una norma general se aplican desde el día que las partes son notificadas del veredicto.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las sentencias firmes que anulan una norma general tienen efectos generales desde su publicación en el diario oficial correspondiente, no desde la notificación a las partes.
+Errada: Las sentencias que anulan una norma general se aplican desde su publicación oficial, no desde la notificación a las partes. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo al art. 63 de la LJCA, si durante la vista se cuenta con la tecnología adecuada, no es necesario que el Letrado de la Administración de Justicia esté presente a menos que:
+1)Las partes lo soliciten, con al menos tres días de antelación a la vista.
+2)Las partes lo soliciten, con al menos cinco días de antelación a la vista.
+3)Las partes lo soliciten, con al menos siete días de antelación a la vista.
+4)Las partes lo soliciten, con al menos dos días de antelación a la vista.
+Respuesta: 4
+Correcta: ¡Exacto! La presencia del Letrado es necesaria si las partes la solicitan con al menos dos días de antelación.
+Errada: La correcta es que la presencia del Letrado es requerida si las partes lo solicitan al menos con dos días de anticipación. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuándo se permite abandonar el recurso contencioso-administrativo?
+1)Antes de que termine el periodo de pruebas.
+2)En cualquier momento después de que se dicte sentencia.
+3)En cualquier momento antes de que se dicte sentencia.
+4)Antes de que termine el periodo de alegaciones.
+Respuesta: 3
+Correcta: ¡Bien! Se permite el desistimiento del recurso en cualquier momento antes de que se dicte la sentencia.
+Errada: Se puede desistir del recurso en cualquier momento previo a la sentencia. (Respuesta Correcta 3)
+###
+Pregunta: En el recurso contencioso-administrativo, tras concluir el período de pruebas y antes de que el caso se considere listo para sentencia:
+1)El tribunal puede decidir llevar a cabo cualquier prueba que considere esencial.
+2)Ni el tribunal ni las partes pueden solicitar pruebas adicionales.
+3)Solo las partes pueden solicitar pruebas adicionales.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! El tribunal puede decidir de manera autónoma realizar pruebas adicionales que considere esenciales.
+Errada: El tribunal tiene la autoridad para llevar a cabo pruebas adicionales que considere esenciales, incluso después de finalizado el período de pruebas. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento contencioso-administrativo, la sentencia declarará la inadmisibilidad del recurso o de alguna de las pretensiones en los siguientes casos:
+1)Que se hubiera interpuesto por persona incapaz.
+2)Que existiera litispendencia.
+3)Que el Tribunal de Instancia o Tribunal Contencioso-administrativo carezca de jurisdicción.
+4)Todas las respuestas anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! La inadmisibilidad del recurso puede darse en cualquiera de los escenarios mencionados anteriormente.
+Errada: La respuesta correcta es que todos los escenarios mencionados pueden conducir a una declaración de inadmisibilidad. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el art. 75 LJCA, una vez que se produce el allanamiento por parte del demandado, ¿qué acción toma el Juez o Tribunal?
+1)El Letrado de la Administración de Justicia dictará una diligencia que declare el fin del procedimiento.
+2)Dictará una sentencia de conformidad con las pretensiones del demandante, sin más trámites.
+3)El Letrado de la Administración de Justicia dictará un decreto que declare el fin del procedimiento.
+4)Dictará una providencia de conformidad con las pretensiones del demandante, sin más trámites.
+Respuesta: 2
+Correcta: ¡Correcto! Cuando hay allanamiento, el Juez o Tribunal procede a dictar sentencia de acuerdo con lo solicitado por el demandante sin necesidad de más trámites.
+Errada: En caso de allanamiento, el Juez o Tribunal dictará una sentencia de conformidad con las pretensiones del demandante, sin necesidad de más trámites. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del recurso contencioso-administrativo, ¿qué casos deben ser considerados como prioritarios por el Letrado de la Administración de Justicia al fijar la fecha de audiencia?
+1)Los recursos en materia de régimen disciplinario deportivo.
+2)Los recursos en materia de régimen disciplinario militar.
+3)Los recursos directos contra las disposiciones especiales.
+4)Los recursos directos contra las disposiciones generales.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los recursos directos contra las disposiciones generales deben ser considerados como prioritarios al fijar la fecha de audiencia.
+Errada: La respuesta correcta es que los recursos directos contra las disposiciones generales tienen prioridad al momento de fijar la fecha de audiencia. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al art. 60 de la LJCA, las Salas pueden delegar la realización de diligencias probatorias en:
+1)Uno de sus miembros Magistrados.
+2)Una Sección de lo Contencioso-Administrativo de un Tribunal de Instancia.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Según el artículo 60.5 de la LJCA, las Salas pueden comisionar tanto a uno de sus Magistrados como a una Sección de lo Contencioso-Administrativo.
+Errada: La respuesta correcta es que ambas opciones son válidas. La LJCA permite la delegación de la práctica de pruebas tanto en un Magistrado de la propia Sala como en una Sección de lo Contencioso-Administrativo. (Respuesta Correcta 4)
+###
+Pregunta: Indica cuál de las siguientes opciones es errónea respecto a la posibilidad de un acto conciliatorio dentro del proceso, según el art. 77 de la LJCA:
+1)En los juicios de primera o única instancia, ya sea por iniciativa propia o por solicitud, una vez presentada la demanda y la respuesta, el Juez o Tribunal puede proponer a las partes llegar a un acuerdo que resuelva el conflicto cuando el juicio sea sobre la determinación de una cantidad.
+2)En juicios de primera o única instancia, por decisión propia o petición de una parte, después de presentar la demanda y su respuesta, el Juez o Tribunal puede proponer a las partes un posible acuerdo para resolver el litigio cuando el juicio se refiere a temas que admiten arreglo.
+3)El intento de llegar a un acuerdo puede hacerse en cualquier fase antes de que el caso se declare cerrado para dictar sentencia.
+4)La búsqueda de un acuerdo no interrumpe las acciones, a menos que una de las partes involucradas lo pida y el Letrado de la Administración de Justicia esté de acuerdo.
+Respuesta: 4
+Correcta: ¡Bien! La afirmación 4 es incorrecta porque la ley exige el acuerdo común de las partes para suspender las actuaciones, no la petición de una sola parte.
+Errada: La respuesta correcta es la 4. La suspensión del proceso para intentar una conciliación requiere la solicitud de común acuerdo de las partes, no basta con la petición de una de ellas. (Respuesta Correcta 4)
+###
+Pregunta: Una sentencia que determina que el recurso contencioso-administrativo es inadmisible o sin fundamento:
+1)Sólo tendrá consecuencias para las partes involucradas.
+2)Afectará únicamente a las partes involucradas, pero podría impactar a terceros según lo establecido en los artículos 110 y 111 de la LJCA.
+3)Afectará únicamente a los interesados.
+4)Tendrá vinculación general.
+Respuesta: 1
+Correcta: ¡Bien, esa es la correcta! Una sentencia de inadmisión o desestimación solo produce efectos entre las partes del proceso.
+Errada: La respuesta correcta es la 1. Según el art. 72.1 LJCA, las sentencias de inadmisión o desestimación solo producen efectos entre las partes. (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 63 de la LJCA, si durante el acto de la vista se dispone de los medios tecnológicos adecuados, no será necesaria la presencia en el Tribunal de:
+1)El Juez.
+2)El Letrado de la Administración de Justicia.
+3)El Gestor Procesal.
+4)El Tramitador Procesal.
+Respuesta: 2
+Correcta: ¡Exacto, es el Letrado de la Administración de Justicia!
+Errada: La respuesta correcta es el Letrado de la Administración de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 59.1 de la LJCA, cuando el LAJ notifique el escrito de alegaciones previas, se otorgará un plazo de cinco días al demandante, quien podrá corregir el error:
+1)Cuando sea pertinente, en el plazo de cinco días.
+2)Cuando sea pertinente, en el plazo de tres días.
+3)Cuando sea pertinente, en el plazo de dos días.
+4)Cuando sea pertinente, en el plazo de diez días.
+Respuesta: 4
+Correcta: ¡Exacto, cuando sea pertinente, en el plazo de diez días!
+Errada: La respuesta correcta es la 4: Cuando sea pertinente, en el plazo de diez días. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a la LJCA, si el órgano judicial considera relevante tratar motivos importantes para el fallo diferentes a los alegados por las partes, lo comunicará a estas mediante providencia, concediéndoles un plazo para ser oídas de:
+1)Cinco días.
+2)Quince días.
+3)Diez días.
+4)Veinte días.
+Respuesta: 3
+Correcta: ¡Correcto! Se concederá a las partes un plazo de diez días para que formulen alegaciones sobre los nuevos motivos propuestos por el órgano judicial.
+Errada: La respuesta correcta es que el plazo que se concede a las partes para ser oídas sobre los nuevos motivos es de diez días. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso contencioso-administrativo, durante la realización de la prueba pericial, el juez o la jueza dará, si alguna de las partes lo solicita, un tiempo para que puedan pedir aclaraciones sobre el informe pericial presentado. Este período no excederá de:
+1)Dos días.
+2)Siete días.
+3)Diez días.
+4)Cinco días.
+Respuesta: 4
+Correcta: ¡Muy bien! Has acertado en tu elección, el plazo no excederá de cinco días.
+Errada: Lo siento, esa no es la respuesta adecuada. La respuesta correcta es la 4. No te desanimes y sigue practicando. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el art. 63 LJCA, si durante el acto de la vista la sala no cuenta con medios tecnológicos, el acta se redactará manualmente. ¿Quiénes deben firmar dicho acta?
+1)Los representantes legales de las partes.
+2)Los peritos, si corresponde.
+3)Las partes involucradas en el litigio.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto, todas son correctas! Deben firmar el LAJ, el Juez, las partes, sus representantes o defensores y los peritos si han intervenido.
+Errada: La respuesta correcta es la 4, ya que el acta debe ser firmada por todos los intervinientes mencionados. (Respuesta Correcta 4)
+###
+Pregunta: Según el art. 62 LJCA, ¿en qué plazo pueden las partes pedir que se declare el caso concluido para sentencia, sin más trámites, después de que se notifique que el período de prueba ha finalizado?
+1)En un plazo de diez días después de la notificación.
+2)En un plazo de tres días después de la notificación.
+3)En un plazo de cinco días después de la notificación.
+4)En un plazo de dos días después de la notificación.
+Respuesta: 3
+Correcta: ¡Correcto, en un plazo de cinco días después de la notificación!
+Errada: La opción correcta es la 3: En un plazo de cinco días después de la notificación. (Respuesta Correcta 3)
+###
+Pregunta: En la jurisdicción contencioso-administrativa, una vez que el Letrado de la Administración de Justicia haya examinado de oficio la demanda, ¿cuál es el plazo otorgado para subsanar los errores que tenga?
+1)No más de diez días.
+2)No más de cinco días.
+3)No más de tres días.
+4)No más de dos días.
+Respuesta: 1
+Correcta: ¡Correcto, no más de diez días!
+Errada: La opción correcta es la 1: No más de diez días. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso contencioso-administrativo, una vez que el Letrado de la Administración de Justicia haya notificado la demanda y entregado el expediente administrativo, ¿cuánto tiempo se otorga a las partes demandadas que hayan comparecido para contestar?
+1)Diez días.
+2)Veinte días.
+3)Cinco días.
+4)Tres días.
+Respuesta: 2
+Correcta: ¡Correcto, veinte días!
+Errada: La opción correcta es veinte días. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el art. 60.2 LJCA, si de la respuesta a la demanda surgen hechos nuevos que sean relevantes para resolver el caso, ¿cuál es el plazo que tiene el recurrente para solicitar la recepción de pruebas y especificar los medios de prueba que propone?
+1)Dentro de los cinco días posteriores a la notificación.
+2)Dentro de los tres días posteriores a la notificación.
+3)Dentro de los dos días posteriores a la notificación.
+4)Dentro de los diez días posteriores a la notificación.
+Respuesta: 1
+Correcta: ¡Correcto! El plazo es de cinco días posteriores a la notificación del escrito de contestación.
+Errada: La opción correcta es la 1: Dentro de los cinco días posteriores a la notificación. (Respuesta Correcta 1)
+###
+Pregunta: Basándose en el art. 63 LJCA, si se decide realizar una vista, ¿cómo determinará el Letrado de la Administración de Justicia la fecha de audiencia?
+1)A discreción judicial.
+2)Estrictamente por antigüedad de los asuntos.
+3)Estrictamente por orden alfabético.
+4)A discreción del LAJ.
+Respuesta: 2
+Correcta: ¡Correcto! El señalamiento de las vistas atenderá a la mayor brevedad posible y al orden de antigüedad de los asuntos.
+Errada: La respuesta correcta es la 2: Estrictamente por antigüedad de los asuntos. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso contencioso-administrativo, cuando se remite el expediente administrativo al recurrente para que pueda presentar la demanda, ¿de qué forma se realiza esta entrega?
+1)Solo en formato original.
+2)Puede ser en original o en copia.
+3)En copia compulsada.
+4)En copia simple.
+Respuesta: 2
+Correcta: ¡Correcto! El expediente puede remitirse en original o copiado.
+Errada: La respuesta correcta es la 2: Puede ser en original o en copia. (Respuesta Correcta 2)
+###
+Pregunta: La decisión en un procedimiento contencioso-administrativo:
+1)Incluirá un fallo sobre las costas del proceso.
+2)Puede afirmar la aceptación o rechazo del recurso contencioso-administrativo.
+3)Puede determinar la inadmisibilidad del recurso contencioso-administrativo.
+4)Todas las opciones anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Exacto, todas son correctas! La sentencia debe pronunciarse sobre todos esos aspectos.
+Errada: Todas las opciones son correctas y forman parte del contenido posible de una sentencia. (Respuesta Correcta 4)
+###
+Pregunta: Si en un proceso contencioso-administrativo se declara la inadmisibilidad o desestimación del recurso, ¿cuál es el efecto de esa decisión?
+1)Todas son correctas.
+2)Sólo tiene efectos entre las partes involucradas.
+3)Afecta a terceros.
+4)Afecta a interesados.
+Respuesta: 2
+Correcta: ¡Exacto! Sólo tiene efectos entre las partes involucradas.
+Errada: La respuesta correcta es la 2: Sólo tiene efectos entre las partes involucradas. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la LJCA, ¿está permitido que el representante legal de una de las partes desista del procedimiento?
+1)Nunca.
+2)Sí, si el representante cuenta con autorización para desistir.
+3)Sí, siempre y cuando el desistimiento sea confirmado por el recurrente.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto, ambas son correctas! Se requiere poder especial o ratificación personal para el desistimiento.
+Errada: Ambas son correctas. El procurador necesita poder especial o la ratificación del recurrente para desistir. (Respuesta Correcta 4)
+###
+Pregunta: En el caso de que la disposición, actuación o acto impugnados violen cualquier norma del ordenamiento jurídico, incluyendo el abuso de poder:
+1)La sentencia determinará que se ha llevado a cabo prevaricación.
+2)La sentencia estimará el recurso contencioso-administrativo.
+3)La sentencia no admitirá el recurso contencioso-administrativo.
+4)Cuestión prejudicial penal.
+Respuesta: 2
+Correcta: ¡Exacto, la sentencia estimará el recurso contencioso-administrativo!
+Errada: La respuesta correcta es la 2: la sentencia estimará el recurso contencioso-administrativo. (Respuesta Correcta 2)
+###
+Pregunta: En un proceso contencioso-administrativo, si se emite un auto desestimando alegaciones previas:
+1)Sólo puede ser impugnado mediante recurso de queja.
+2)Sólo puede ser impugnado mediante recurso de revisión.
+3)Sólo puede ser impugnado mediante recurso de apelación.
+4)No es susceptible de recurso alguno.
+Respuesta: 4
+Correcta: ¡Exacto! No es susceptible de recurso alguno.
+Errada: La respuesta correcta es la 4: No es susceptible de recurso alguno. (Respuesta Correcta 4)
+###
+Pregunta: Siguiendo el art. 74 LJCA, si el recurrente decide desistir y el Letrado de la Administración de Justicia informa a las otras partes, y estas consienten el desistimiento:
+1)Se declarará concluido el proceso.
+2)Se instruirá la devolución del expediente administrativo a la oficina de origen.
+3)Se ordenará el archivo del expediente.
+4)Todas las anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Exacto, todas las anteriores son correctas! Son las consecuencias del decreto que pone fin al procedimiento por desistimiento.
+Errada: Todas las anteriores son correctas. (Respuesta Correcta 4)
+###
+Pregunta: En el escrito de demanda en el proceso contencioso-administrativo ordinario, se debe incluir:
+1)Los hechos, los fundamentos de Derecho y las pretensiones presentadas, y se pueden argumentar todos los motivos pertinentes, ya se hayan planteado o no ante la Administración.
+2)Los hechos, los fundamentos de Derecho, y se pueden argumentar todos los motivos pertinentes, ya se hayan planteado o no ante la Administración.
+3)Los hechos, los fundamentos de Derecho y las pretensiones presentadas, y se pueden argumentar todos los motivos pertinentes, solo si ya se hayan planteado ante la Administración.
+4)Los hechos, los fundamentos de Derecho o las pretensiones presentadas, y no se pueden argumentar todos los motivos pertinentes.
+Respuesta: 1
+Correcta: ¡Exacto, esa es la correcta!
+Errada: La respuesta correcta es la 1: Los hechos, los fundamentos de Derecho y las pretensiones presentadas, y se pueden argumentar todos los motivos pertinentes, ya se hayan planteado o no ante la Administración. (Respuesta Correcta 1)
+###
+Pregunta: En el recurso contencioso-administrativo, el auto estimatorio de las alegaciones previas:
+1)Declarará la inadmisibilidad del recurso y, una vez firme, el Juez ordenará la devolución del expediente administrativo a la oficina de donde procediere.
+2)Declarará la inadmisibilidad del recurso y, una vez firme, el Tramitador Procesal ordenará la devolución del expediente administrativo a la oficina de donde procediere.
+3)Declarará la inadmisibilidad del recurso y, una vez firme, el Letrado de la Administración de Justicia ordenará la devolución del expediente administrativo a la oficina de donde procediere.
+4)Declarará la inadmisibilidad del recurso y, una vez firme, el Gestor Procesal ordenará la devolución del expediente administrativo a la oficina de donde procediere.
+Respuesta: 3
+Correcta: ¡Excelente! Has elegido la opción correcta.
+Errada: Desafortunadamente, esa no es la respuesta adecuada. La opción correcta es la 3. ¡Sigue practicando y ampliando tus conocimientos! (Respuesta Correcta 3)
+###
+Pregunta: Durante el acto de vista del procedimiento contencioso-administrativo:
+1)Sí se pueden plantear cuestiones que no se hayan abordado en los escritos de demanda y respuesta.
+2)El Juez puede introducir cuestiones no abordadas.
+3)No se pueden plantear cuestiones que no se hayan abordado en los escritos de demanda y respuesta.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Excelente! Has elegido la opción correcta.
+Errada: Desafortunadamente, esa no es la respuesta adecuada. La opción correcta es la 3. ¡Sigue practicando y ampliando tus conocimientos! (Respuesta Correcta 3)
+###
+Pregunta: Si durante el procedimiento contencioso-administrativo las partes llegan a un acuerdo que resuelve el conflicto, el juez o la jueza emitirá un auto finalizando el procedimiento:
+1)Siempre que lo acordado no sea evidentemente contrario a la ley.
+2)Siempre que lo acordado no sea perjudicial para terceros.
+3)Siempre que lo acordado no sea perjudicial para el interés público.
+4)Todas las respuestas anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Exacto, todas las respuestas anteriores son correctas! El juez o la jueza debe verificar que el acuerdo no contraviene el ordenamiento ni lesiona el interés público o de terceros.
+Errada: Todas las respuestas anteriores son correctas. (Respuesta Correcta 4)
+###
+Pregunta: En la jurisdicción contencioso-administrativa, el auto que rechaza las alegaciones previas puede ser impugnado mediante:
+1)Revisión.
+2)Reposición.
+3)Apelación.
+4)No es susceptible de ningún recurso.
+Respuesta: 4
+Correcta: ¡Exacto: no es susceptible de ningún recurso!
+Errada: La respuesta correcta es la 4: no es susceptible de ningún recurso. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento contencioso-administrativo, el Letrado de la Administración de Justicia examinará de oficio la demanda y, en su caso, requerirá que se subsanen los defectos en un plazo de:
+1)No más de quince días.
+2)No más de diez días.
+3)No más de cinco días.
+4)No más de tres días.
+Respuesta: 2
+Correcta: ¡Exacto! El plazo para subsanar no será superior a diez días.
+Errada: La respuesta correcta es que el plazo para subsanar defectos en la demanda no será superior a diez días. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 69 de la LJCA, la sentencia declarará la inadmisibilidad del recurso en todos los siguientes supuestos, EXCEPTO:
+1)Que el Tribunal de Instancia o Tribunal Contencioso-administrativo carezca de jurisdicción.
+2)Que el objeto del recurso no sea susceptible de impugnación.
+3)Que el acto impugnado sea firme y consentido por no haber sido recurrido en tiempo y forma.
+4)Que el acto impugnado no se ajuste a Derecho.
+Respuesta: 4
+Correcta: ¡Correcto! Que el acto no se ajuste a Derecho es un motivo para estimar el recurso, no para declararlo inadmisible.
+Errada: La respuesta correcta es la D. Los otros tres son motivos de inadmisión tasados en el artículo 69 de la LJCA. (Respuesta Correcta 4)
+###
+Pregunta: Los recursos que se presenten contra normativas generales:
+1)No tendrán prioridad, pero una vez finalizados, se priorizarán para su decisión sobre cualquier otro recurso, excepto el proceso especial para proteger derechos fundamentales.
+2)Tendrán prioridad y, una vez finalizados, no se priorizarán para su decisión sobre cualquier otro recurso, excepto el proceso especial para proteger derechos fundamentales.
+3)Tendrán prioridad y, una vez finalizados, se priorizarán para su decisión sobre cualquier otro recurso, excepto el proceso especial para proteger derechos fundamentales.
+4)No tendrán prioridad, pero una vez finalizados ni se priorizarán para su decisión sobre cualquier otro recurso, excepto el proceso especial para proteger derechos fundamentales.
+Respuesta: 3
+Correcta: ¡Correcto! Gozan de preferencia en la tramitación y, una vez conclusos, en la votación y fallo.
+Errada: La respuesta correcta es la 3: Tendrán prioridad y, una vez finalizados, se priorizarán para su decisión sobre cualquier otro recurso, excepto el proceso especial para proteger derechos fundamentales. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál de las siguientes es una forma de terminación del procedimiento contencioso-administrativo según el Capítulo IV del Título IV de la LJCA?
+1)El silencio procesal del demandado.
+2)El desistimiento del recurrente.
+3)La rebeldía del demandado.
+4)La interposición de un recurso extraordinario.
+Respuesta: 2
+Correcta: ¡Correcto! El desistimiento, regulado en el artículo 74, es una de las formas de terminación anormal del procedimiento.
+Errada: La respuesta correcta es el desistimiento. Las otras opciones no son formas de terminación del procedimiento. (Respuesta Correcta 2)
+###
+Pregunta: Una vez que se haya presentado el escrito de alegaciones previas en el procedimiento contencioso-administrativo, ¿cuál será el siguiente paso en la tramitación?
+1)Se seguirá con la audiencia previa.
+2)Se aplicará el procedimiento ordinario.
+3)Se aplicará el procedimiento abreviado.
+4)Se abordarán los incidentes.
+Respuesta: 4
+Correcta: ¡Correcto! La ley indica que las alegaciones previas se sustanciarán con arreglo a las normas establecidas para los incidentes.
+Errada: La respuesta correcta es la 4: Se abordarán los incidentes. (Respuesta Correcta 4)
+###
+Pregunta: Las entidades demandadas, durante el periodo para responder a la demanda, pueden presentar argumentos que puedan señalar la incompetencia del tribunal o la inadmisibilidad del recurso según el art. 69 LJCA. ¿Cuánto tiempo tienen para hacer estas alegaciones?
+1)5 días.
+2)10 días.
+3)15 días.
+4)20 días.
+Respuesta: 1
+Correcta: ¡Correcto! El plazo para formular alegaciones previas es dentro de los primeros 5 días del plazo para contestar a la demanda.
+Errada: La respuesta correcta es la 1: 5 días. (Respuesta Correcta 1)
+###
+Pregunta: Indique la opción que no es correcta en cuanto a la evidencia en el procedimiento contencioso-administrativo estándar:
+1)Las pruebas se realizarán siguiendo las reglas generales del proceso civil.
+2)Si el recurso trata sobre una penalización administrativa o disciplinaria, siempre se admitirá la prueba en caso de desacuerdo en los hechos.
+3)La prueba se admitirá cuando haya desacuerdo en los hechos y estos sean relevantes, según el criterio del tribunal, para resolver el caso.
+4)Normalmente, el plazo para presentar la prueba será de veinte días.
+Respuesta: 4
+Correcta: ¡Correcto! La afirmación es incorrecta. El plazo para la práctica de la prueba es de treinta días, no veinte.
+Errada: La respuesta correcta es la 4. El plazo para practicar la prueba es de treinta días. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuánto tiempo tiene el tribunal para emitir un fallo después de que se haya determinado que el caso está listo para ser resuelto en el procedimiento del recurso contencioso-administrativo?
+1)Cinco días.
+2)Quince días.
+3)Diez días.
+4)Siete días.
+Respuesta: 3
+Correcta: ¡Correcto! El plazo para dictar sentencia es de diez días desde que el pleito fue declarado concluso.
+Errada: La respuesta correcta es diez días. (Respuesta Correcta 3)
+###
+Pregunta: Durante la práctica de la prueba pericial en el procedimiento contencioso-administrativo, ¿cuánto tiempo dará el juez o la jueza a las partes para que puedan solicitar clarificaciones sobre el informe presentado?
+1)No más de cinco días.
+2)No más de diez días.
+3)No más de nueve días.
+4)No más de dos días.
+Respuesta: 1
+Correcta: ¡Correcto! El plazo para solicitar aclaraciones al dictamen pericial no será superior a cinco días.
+Errada: La respuesta correcta es la 1: No más de cinco días. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley de Jurisdicción Contencioso-administrativa, ¿quiénes deben responder primero a la demanda?
+1)La entidad administrativa demandada.
+2)Los interesados.
+3)Quien reciba el expediente primero.
+4)El Ministerio Fiscal.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: La entidad administrativa demandada. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 74 de la LJCA, ¿cuál es la afirmación verdadera en relación al desistimiento?
+1)El demandante puede retirar la demanda en cualquier momento antes de la sentencia.
+2)El demandante puede retirar la demanda en cualquier momento antes del juicio.
+3)El demandante puede retirar la demanda en cualquier momento antes de la prueba.
+4)El demandante puede retirar la demanda en cualquier momento antes de la contestación.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es la 1: El demandante puede retirar la demanda en cualquier momento antes de la sentencia. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso contencioso-administrativo, si las partes consideran que el expediente administrativo está incompleto, pueden pedir más antecedentes durante el plazo de presentación de la demanda o respuesta. ¿Cuánto tiempo tiene el Letrado de la Administración de Justicia para decidir al respecto?
+1)Dos días.
+2)Cinco días.
+3)Cuatro días.
+4)Tres días.
+Respuesta: 4
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: Tres días. (Respuesta Correcta 4)
+###
+Pregunta: Generalmente, una vez que el expediente administrativo ha sido recibido por el tribunal y entregado al demandante, ¿cuánto tiempo tiene este último para presentar la demanda?
+1)Veinte días.
+2)Diez días.
+3)Cinco días.
+4)Siete días.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: Veinte días. (Respuesta Correcta 1)
+###
+Pregunta: De manera general, en el proceso contencioso-administrativo ordinario, si la demanda no se presenta en el tiempo establecido, ¿qué acción tomará el Tribunal de Instancia o la Sala de oficio?
+1)Por decreto, se declarará la caducidad del recurso.
+2)Por auto, se declarará la caducidad del recurso.
+3)Por sentencia, se declarará la caducidad del recurso.
+4)Por providencia, se declarará la caducidad del recurso.
+Respuesta: 2
+Correcta: ¡Bien hecho, sigue así! La caducidad se declara por auto.
+Errada: La respuesta correcta es: Por auto, se declarará la caducidad del recurso. (Respuesta Correcta 2)
+###
+Pregunta: En el contexto contencioso-administrativo, si las partes consideran que el expediente administrativo no es exhaustivo y piden su ampliación, ¿cuánto tiempo tiene el LAJ para responder a esta solicitud?
+1)Dos días.
+2)Tres días.
+3)Siete días.
+4)Diez días.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia tiene un plazo de tres días para resolver la solicitud de completar el expediente administrativo.
+Errada: Lo siento, esa respuesta no es correcta. De acuerdo con la normativa, el LAJ dispone de un plazo de tres días para tomar una decisión sobre la solicitud de completar el expediente administrativo. (Respuesta Correcta 2)
+###
+Pregunta: Dentro del ámbito contencioso-administrativo, si tras desistir de un recurso debido a que la Administración atendió las pretensiones del recurrente, pero posteriormente revoca ese acto:
+1)El demandante puede pedir retomar el proceso desde donde se dejó.
+2)La Administración está obligada a informar al Tribunal inmediatamente sobre la revocación del acto.
+3)El demandado puede pedir retomar el proceso desde donde se dejó.
+4)El LAJ está obligado a informar al Tribunal inmediatamente sobre la revocación del acto.
+Respuesta: 1
+Correcta: ¡Correcto! Cuando la Administración revoca un acto que había llevado al desistimiento del recurso, el recurrente tiene el derecho de solicitar continuar el procedimiento desde el punto en que se encontraba.
+Errada: Lo siento, esa no es la respuesta correcta. En caso de que la Administración revoque un acto que había llevado al desistimiento del recurso, el demandante tiene la opción de retomar el procedimiento desde donde se había dejado. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley de Jurisdicción Contencioso-administrativa, ¿quiénes deben responder primero a la demanda?
+1)La entidad administrativa demandada.
+2)Quien reciba el expediente primero.
+3)Quien reciba el expediente último.
+4)La ley no especifica un orden específico.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: La entidad administrativa demandada. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 74 de la LJCA, ¿cuál es la afirmación verdadera en relación al desistimiento?
+1)El demandante puede retirar la demanda en cualquier momento antes de la sentencia.
+2)El demandante puede retirar la demanda en cualquier momento antes de la prueba.
+3)El Letrado de la Administración de Justicia notificará a las demás partes, dándoles un plazo conjunto de diez días hábiles.
+4)El Letrado de la Administración de Justicia notificará a las demás partes, dándoles un plazo conjunto de veinte días hábiles.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: El demandante puede retirar la demanda en cualquier momento antes de la sentencia. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso contencioso-administrativo, si las partes consideran que el expediente administrativo está incompleto, pueden pedir más antecedentes durante el plazo de presentación de la demanda o respuesta. ¿Cuánto tiempo tiene el Letrado de la Administración de Justicia para decidir al respecto?
+1)Cinco días.
+2)Siete días.
+3)Diez días.
+4)Tres días.
+Respuesta: 4
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: Tres días. (Respuesta Correcta 4)
+###
+Pregunta: Generalmente, una vez que el expediente administrativo ha sido recibido por el tribunal y entregado al demandante, ¿cuánto tiempo tiene este último para presentar la demanda?
+1)Veinte días.
+2)Diez días.
+3)Cinco días.
+4)Siete días.
+Respuesta: 1
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: Veinte días. (Respuesta Correcta 1)
+###
+Pregunta: De manera general, en el proceso contencioso-administrativo ordinario, si la demanda no se presenta en el tiempo establecido, ¿qué acción tomará el Tribunal de Instancia o la Sala de oficio?
+1)Por decreto, se declarará la caducidad del recurso.
+2)Por auto, se declarará la caducidad del recurso.
+3)Por sentencia, se declarará la caducidad del recurso.
+4)Por providencia, se declarará la caducidad del recurso.
+Respuesta: 2
+Correcta: ¡Bien hecho, sigue así! La caducidad se declara por auto.
+Errada: La respuesta correcta es: Por auto, se declarará la caducidad del recurso. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento ordinario de la Jurisdicción Contencioso-administrativa, una vez concluido el caso, ¿cuánto tiempo tiene el tribunal para emitir una sentencia?
+1)7 días.
+2)9 días.
+3)20 días.
+4)10 días.
+Respuesta: 4
+Correcta: ¡Bien hecho, sigue así!
+Errada: La respuesta correcta es: 10 días. (Respuesta Correcta 4)
+###
+Pregunta: Si en el procedimiento contencioso-administrativo, el juez o la jueza decide realizar una prueba de oficio y las partes no tienen la oportunidad de discutir sobre la misma ni en la audiencia ni en las conclusiones escritas, ¿qué deben hacer las partes después de que el Letrado de la Administración de Justicia les informe sobre los resultados de la prueba?
+1)Presentar sus argumentos dentro de un plazo de tres días.
+2)Presentar sus argumentos dentro de un plazo de dos días.
+3)Presentar sus argumentos dentro de un plazo de cinco días.
+4)Presentar sus argumentos dentro de un plazo de siete días.
+Respuesta: 3
+Correcta: ¡Bien hecho, sigue así! El plazo para alegar sobre la prueba practicada para mejor proveer es de cinco días.
+Errada: La respuesta correcta es: Presentar sus argumentos dentro de un plazo de cinco días. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 60 de la LJCA, ¿puede el representante legal de la Administración delegar su capacidad de intervenir en la presentación de pruebas?
+1)Sí, a su superior jerárquico.
+2)Sí, al propio tribunal.
+3)Sí, a un funcionario público.
+4)Nunca.
+Respuesta: 3
+Correcta: ¡Bien hecho, sigue así! La ley permite al Abogado del Estado delegar en un funcionario público de su Abogacía del Estado.
+Errada: La respuesta correcta es: Sí, a un funcionario público. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 72 de la LJCA, cuando se estima una solicitud de reconocimiento o restablecimiento de un estatus legal individual, ¿cuál será el efecto?
+1)Suspensivo.
+2)Solo en los interesados.
+3)Entre las partes.
+4)Solo en la Administración.
+Respuesta: 3
+Correcta: ¡Bien hecho, sigue así! Los efectos de la sentencia se producen entre las partes del proceso.
+Errada: La respuesta correcta es: Entre las partes. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 71 de la LJCA, si una sentencia determina una solicitud de compensación por daños y perjuicios, ¿bajo qué circunstancias se establecerá la cuantía de la indemnización?
+1)Si el demandante lo solicita tácitamente y hay suficiente evidencia en el expediente para determinarlo.
+2)Si el demandante lo solicita expresamente y hay suficiente evidencia en el expediente para determinarlo.
+3)Se determinará siempre el derecho a la compensación.
+4)Si el demandante lo solicita expresamente y no hay suficiente evidencia en el expediente para determinarlo.
+Respuesta: 2
+Correcta: ¡Bien hecho, sigue así! Se requiere solicitud expresa y que existan datos suficientes en el proceso.
+Errada: La respuesta correcta es: Si el demandante lo solicita expresamente y hay suficiente evidencia en el expediente para determinarlo. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 60 de la LJCA, en relación a la delegación de la práctica de diligencias probatorias, las Salas pueden confiar esta tarea a:
+1)Al Presidente.
+2)Uno de sus Magistrados.
+3)Al Letrado de la Administración de Justicia.
+4)A un funcionario de los cuerpos comunes.
+Respuesta: 2
+Correcta: ¡Excelente! Las Salas tienen la capacidad de delegar la práctica de diligencias probatorias a uno de sus Magistrados según el artículo 60 de la LJCA.
+Errada: Lo siento, esa no es la respuesta correcta. El artículo 60 de la LJCA establece que las Salas pueden delegar la práctica de diligencias probatorias en uno de sus Magistrados. (Respuesta Correcta 2)

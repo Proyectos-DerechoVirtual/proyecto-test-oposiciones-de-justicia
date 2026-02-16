@@ -1,0 +1,953 @@
+Pregunta: De acuerdo con la Ley del Jurado, ¿bajo qué circunstancia se procederá a la disolución anticipada del Jurado?
+1)Si el Magistrado-Presidente opina que los hechos acordados por las partes podrían constituir un delito.
+2)Si el Magistrado-Presidente opina que los hechos acordados por las partes podrían no constituir un delito.
+3)Cuando, tras los informes de acusación, el Magistrado-Presidente determine que no hay evidencia que justifique una condena del acusado.
+4)Cuando, tras los informes de acusación, el Magistrado-Presidente determine que hay evidencia que justifique una condena del acusado.
+Respuesta: 3
+Correcta: ¡Exacto! El Jurado se disolverá anticipadamente si no hay pruebas suficientes que justifiquen una condena.
+Errada: Esa no es la respuesta correcta. La opción correcta es C, referente a la falta de evidencia que justifique una condena. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué entidad se encarga de elaborar el listado bianual de posibles jurados?
+1)La Presidencia de la Audiencia Provincial.
+2)La Secretaría de la correspondiente a los Juzgados.
+3)La Secretaría de la correspondiente Audiencia Provincial.
+4)Las Delegaciones Provinciales de la Oficina del Censo Electoral.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las Delegaciones Provinciales de la Oficina del Censo Electoral se encargan de esta tarea.
+Errada: No es correcto. La respuesta adecuada es D, "Las Delegaciones Provinciales de la Oficina del Censo Electoral". (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Orgánica 5/1995 del 22 de mayo, ¿de qué delitos tiene jurisdicción el Tribunal del Jurado?
+1)Delitos de fraudes y exacciones ilegales establecidos en los artículos 436 a 438 del Código Penal.
+2)Delitos de fraudes y exacciones ilegales establecidos en los artículos 435 a 438 del Código Penal.
+3)Delitos de fraudes y exacciones ilegales establecidos en los artículos 436 a 439 del Código Penal.
+4)Delitos de fraudes y exacciones ilegales establecidos en los artículos 430 a 440 del Código Penal.
+Respuesta: 1
+Correcta: ¡Correcto! El Tribunal del Jurado tiene competencia sobre los delitos de fraudes y exacciones ilegales.
+Errada: Esa no es la respuesta adecuada. La correcta es A, referente a los delitos de fraudes y exacciones ilegales. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto del procedimiento ante el Tribunal del Jurado, identifique la afirmación incorrecta:
+1)La jurisdicción del Tribunal del Jurado incluye el juicio de delitos conexos, siempre que la relación surja de que dos o más individuos cometan múltiples delitos en diferentes lugares o momentos con acuerdo previo.
+2)La competencia del Tribunal del Jurado se basa en el supuesto delito, sin considerar la participación o nivel de ejecución del acusado.
+3)En delitos contra individuos, el Tribunal del Jurado sólo tiene jurisdicción si el delito es consumado.
+4)Si un acto podría ser dos o más delitos, el Tribunal del Jurado tiene jurisdicción si al menos dos de estos delitos están bajo su competencia.
+Respuesta: 4
+Correcta: ¡Correcto! Si un solo acto puede ser considerado dos o más delitos, la competencia no necesariamente recae en el Tribunal del Jurado solo porque dos de ellos estén bajo su jurisdicción.
+Errada: Esa opción no es la incorrecta. La afirmación incorrecta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Respecto al papel del jurado en el Tribunal del Jurado:
+1)Ninguna es correcta.
+2)Se remunerará al jurado según lo establecido reglamentariamente.
+3)Se indemnizará al jurado según lo establecido reglamentariamente.
+4)El jurado recibirá tanto remuneración como indemnización conforme a lo estipulado reglamentariamente.
+Respuesta: 4
+Correcta: ¡Exacto! El jurado recibe tanto remuneración como indemnización según lo establecido reglamentariamente.
+Errada: Esa no es la respuesta correcta. La correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento en el Tribunal del Jurado, ¿quién añadirá el documento que define el objetivo del veredicto al acta del juicio?
+1)El Letrado de la Administración de Justicia, proporcionando una copia del acta a las partes y a cada miembro del jurado, no anotando las solicitudes rechazadas de las partes.
+2)El Letrado de la Administración de Justicia, proporcionando una copia del acta a las partes y a cada miembro del jurado, anotando las solicitudes rechazadas de las partes.
+3)El Ministerio Fiscal, proporcionando una copia del acta a las partes y a cada miembro del jurado, anotando las solicitudes rechazadas de las partes.
+4)El Juez, proporcionando una copia del acta a las partes y a cada miembro del jurado, anotando las solicitudes rechazadas de las partes.
+Respuesta: 2
+Correcta: ¡Bien hecho! Es el Letrado de la Administración de Justicia quien proporciona una copia del acta a las partes y a cada miembro del jurado, anotando las solicitudes rechazadas.
+Errada: Lo siento, esa no es la respuesta correcta. La opción correcta es la B. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica del Tribunal del Jurado, identifique quiénes no pueden actuar como Jurados:
+1)Personas que no enfrentan serias dificultades debido a responsabilidades familiares.
+2)Personas que enfrentan serias dificultades debido a responsabilidades familiares.
+3)Aquellos que estén suspendidos en su empleo o posición pública debido a un procedimiento penal.
+4)Aquellos que no estén suspendidos en su empleo o posición pública debido a un procedimiento penal.
+Respuesta: 3
+Correcta: ¡Exacto! Aquellas personas suspendidas en su empleo o cargo público a causa de un proceso penal no pueden desempeñar la función de jurado.
+Errada: Esa no es la respuesta correcta. La opción correcta es la C. (Respuesta Correcta 3)
+###
+Pregunta: Si el Jurado emite un veredicto de no culpabilidad, ¿cuál sería el siguiente paso?
+1)El Magistrado-Presidente dictaminará inmediatamente una sentencia absolutoria y, si corresponde, ordenará la liberación inmediata del acusado.
+2)El Magistrado-Presidente dictaminará inmediatamente una sentencia condenatoriay, si corresponde, ordenará la liberación inmediata del acusado.
+3)El Magistrado-Presidente dictaminará inmediatamente una sentencia absolutoria y, si corresponde, ordenará la encarcelación inmediata del acusado.
+4)El Magistrado-Presidente dictaminará inmediatamente una sentencia absolutoria y, si corresponde, ordenará la liberación a los 2 días del acusado.
+Respuesta: 1
+Correcta: ¡Bien hecho! En caso de un veredicto de no culpabilidad, el Magistrado-Presidente dictará de inmediato una sentencia absolutoria y, si es necesario, ordenará la liberación del acusado.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué circunstancias el Magistrado-Presidente retornará el acta al Jurado tras revisar su copia?
+1)Si no se alcanza la mayoría necesaria en alguna de las votaciones sobre puntos específicos.
+2)Todas son correctas.
+3)Si el Jurado no emite un pronunciamiento sobre todos los hechos presentados.
+4)Si no se pronuncian sobre la culpabilidad o inocencia de todos los acusados en relación con todos los hechos delictivos imputados.
+Respuesta: 2
+Correcta: ¡Correcto! El Magistrado-Presidente devolverá el acta en cualquiera de esas situaciones.
+Errada: Esa opción no es la única circunstancia. La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Indique cuándo el jurado no será disuelto:
+1)Cuando el Magistrado-Presidente, a pesar del acuerdo entre las partes, cree que no hay razones suficientes para considerar que el hecho en cuestión no fue cometido.
+2)Cuando el Magistrado, a pesar del acuerdo entre las partes, cree que hay razones suficientes para considerar que el hecho en cuestión no fue cometido.
+3)Cuando el Magistrado-Presidente, a pesar del acuerdo entre las partes, cree que hay razones suficientes para considerar que el hecho en cuestión fue cometido.
+4)Cuando el Magistrado-Presidente, a pesar del acuerdo entre las partes, cree que hay razones suficientes para considerar que el hecho en cuestión fue cometido.
+Respuesta: 3
+Correcta: ¡Bien hecho! El jurado no se disolverá en la situación descrita en la opción C.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cómo está compuesto el Tribunal del Jurado en el ámbito de la Audiencia Provincial?
+1)Nueve Jurados, un Magistrado de la Audiencia Provincial que preside y, durante el juicio, tres Jurados suplentes.
+2)Nueve Jurados, un Magistrado de la Audiencia Provincial que preside y, durante el juicio, dos Jurados suplentes.
+3)Diez Jurados, un Magistrado de la Audiencia Provincial que preside y, durante el juicio, dos Jurados suplentes.
+4)Nueve Jurados, un Magistrado de la Audiencia Nacional que preside y, durante el juicio, tres Jurados suplentes.
+Respuesta: 2
+Correcta: ¡Correcto! La composición correcta es nueve Jurados, un Magistrado de la Audiencia Provincial que preside y dos Jurados suplentes.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: En relación a la audiencia preliminar de las partes sobre la procedencia de la apertura del juicio oral ante el Tribunal del Jurado, ¿cuál es la afirmación correcta?
+1)El Juez puede decidir convocarla y esta decisión no es recurrible.
+2)La defensa del acusado no puede renunciar a su celebración.
+3)El Juez puede decidir no convocarla y esta decisión no es recurrible.
+4)La defensa del acusado puede renunciar a su celebración.
+Respuesta: 4
+Correcta: ¡Exacto! La defensa del acusado tiene la opción de renunciar a la audiencia preliminar.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo al artículo 68 de la Ley Orgánica del Tribunal del Jurado, si el Jurado emite un veredicto de culpabilidad, ¿qué sucede a continuación?
+1)El Magistrado-Presidente dará la palabra al Fiscal para que se pronuncien sobre los puntos indicados en la ley.
+2)El Magistrado-Presidente dará la palabra al Fiscal y a las otras partes para que se pronuncien sobre los puntos indicados en la ley.
+3)El Magistrado-Presidente dará la palabra al LAJ y a las otras partes para que se pronuncien sobre los puntos indicados en la ley.
+4)El Magistrado-Presidente dará la palabra a las partes para que se pronuncien sobre los puntos indicados en la ley.
+Respuesta: 2
+Correcta: ¡Correcto! Una vez que el Jurado emite un veredicto de culpabilidad, el Magistrado-Presidente solicita la opinión del Fiscal y de las demás partes involucradas.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: En el contexto del Tribunal del Jurado, ¿cuál de las siguientes afirmaciones sobre quiénes pueden ser parte del Jurado es correcta?
+1)Las personas mayores de 60 años no pueden ser jurados.
+2)Las personas mayores de 65 años no pueden ser jurados.
+3)Las personas mayores de 50 años no pueden ser jurados.
+4)Las personas mayores de 55 años no pueden ser jurados.
+Respuesta: 2
+Correcta: ¡Bien hecho! Es correcto decir que las personas mayores de 65 años no pueden ser jurados.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuántos votos son necesarios para establecer respectivamente la culpabilidad y la inculpabilidad?
+1)5 y 5.
+2)7 y 5.
+3)10 y 7.
+4)7 y 7.
+Respuesta: 3
+Correcta: ¡Exacto! Se necesitan 7 votos para establecer culpabilidad y 5 para inculpabilidad.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto del juicio oral en el proceso ante el Tribunal del Jurado, ¿cuál es la afirmación incorrecta?
+1)El Magistrado-Presidente puede decidir disolver el Jurado si se prevé que el proceso se suspenda durante dos días o más.
+2)El Magistrado-Presidente puede decidir disolver el Jurado si se prevé que el proceso se suspenda durante tres días o más.
+3)El Magistrado-Presidente puede decidir disolver el Jurado si se prevé que el proceso se suspenda durante cinco días o más.
+4)El Magistrado-Presidente puede decidir disolver el Jurado si se prevé que el proceso se suspenda durante siete días o más.
+Respuesta: 3
+Correcta: ¡Correcto! El Magistrado-Presidente no disuelve automáticamente al Jurado simplemente porque se espera una suspensión del proceso de cinco días o más.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley Orgánica del Tribunal del Jurado, ¿cuál es la afirmación correcta sobre cómo se justifica devolver el acta al Jurado?
+1)El Magistrado-Presidente redactará inmediatamente un acta sobre la devolución del acta al Jurado.
+2)El Letrado de la Administración de Justicia redactará un acta sobre la devolución del acta al Jurado en un plazo de tres días.
+3)El Magistrado-Presidente, al devolver el acta, lo hará en presencia de las partes y sus abogados, una vez que el Tribunal esté constituido.
+4)El Magistrado-Presidente, al devolver el acta, lo hará en presencia de las partes, con la asistencia del Letrado de la Administración de Justicia y una vez que el Tribunal esté constituido.
+Respuesta: 4
+Correcta: ¡Bien hecho! La correcta es que el Magistrado-Presidente, al devolver el acta, lo hará con el Tribunal constituido, asistido del Letrado de la Administración de Justicia y en presencia de las partes.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento ante el Tribunal del Jurado, cuando se establece el objeto del veredicto, ¿cuál es la correcta función del Magistrado-Presidente?
+1)No podrá combinar en un solo párrafo hechos que sean tanto favorables como desfavorables, o hechos donde algunos puedan considerarse probados y otros no.
+2)No podrá combinar en un solo párrafo hechos que sean tanto favorables como desfavorables, o hechos donde algunos deban considerarse probados.
+3)No podrá combinar en un solo párrafo hechos que sean solo favorables , o hechos donde algunos puedan considerarse probados y otros no.
+4)No podrá combinar en un solo párrafo hechos que sean solo desfavorables, o hechos donde algunos puedan considerarse probados y otros no.
+Respuesta: 1
+Correcta: ¡Correcto! El Magistrado-Presidente no debe combinar hechos de naturaleza contradictoria en un solo párrafo.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento de la Ley del Tribunal del Jurado, ¿quiénes pueden ser excusados de desempeñar la función de jurado?
+1)No es evitable.
+2)Aquellos que hayan desempeñado funciones efectivas de jurado en los cinco años previos a su nueva designación.
+3)Aquellos que enfrenten un trastorno significativo debido a responsabilidades familiares.
+4)Aquellos que tengan más de 60 años.
+Respuesta: 3
+Correcta: ¡Exacto! Aquellos que enfrentan problemas graves debido a responsabilidades familiares pueden ser excusados de ser jurados.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso ante el Tribunal del Jurado, ¿quién decide si las sesiones del juicio se realizarán a puerta cerrada?
+1)Es una decisión del Magistrado-Presidente, después de escuchar a las partes y consultar al jurado.
+2)Es una decisión del Magistrado-Presidente, después de escuchar a las partes.
+3)Es una decisión del Magistrado-Presidente, después de escuchar al jurado.
+4)Es una decisión exclusiva del Magistrado-Presidente.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es el Magistrado-Presidente quien decide, pero debe escuchar a las partes y consultar al jurado.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto del Tribunal del Jurado, su competencia se extiende a los delitos conexos cuando:
+1)Dos o más personas realizan varios delitos en diferentes lugares o momentos, y habían acordado previamente hacerlo.
+2)Uno de los delitos se cometió con el propósito de llevar a cabo otros, facilitar su realización o asegurar su impunidad.
+3)Dos o más personas, estando juntas, cometen diferentes delitos al mismo tiempo.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! La competencia del Tribunal del Jurado se extiende a los delitos conexos en todas las situaciones descritas.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Respecto al ejercicio de la función de jurado, ¿cuál de las siguientes afirmaciones es incorrecta?
+1)El desempeño de las funciones de jurado será retribuido.
+2)Se requiere estar en pleno ejercicio de los derechos civiles y políticos.
+3)La función de jurado es un derecho ejercitable por aquellos ciudadanos que no tienen impedimentos para ello.
+4)El desempeño de la función de jurado se considera, en términos laborales y funcionariales, como el cumplimiento de un deber inexcusable de carácter público y personal.
+Respuesta: 2
+Correcta: ¡Bien hecho! No se requiere estar en pleno ejercicio de los derechos civiles y políticos para ser jurado.
+Errada: La respuesta incorrecta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Si el Jurado emite un veredicto de culpabilidad, el Magistrado-Presidente, tras oír al Fiscal y a las demás partes:
+1)Dictará sentencia en la forma prevenida en la Ley de Enjuiciamiento Criminal.
+2)Acordará la continuación del juicio oral para la práctica de la prueba.
+3)Dictará sentencia inmediatamente en el acto de la vista.
+4)Devolverá el acta al Jurado para que se pronuncie sobre la aplicación de los beneficios de remisión condicional de la pena.
+Respuesta: 1
+Correcta: ¡Correcto! La sentencia se dictará de conformidad con lo previsto en el artículo 70 de la Ley del Tribunal del Jurado y en la Ley de Enjuiciamiento Criminal.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto de la deliberación del Jurado, el Magistrado-Presidente podrá citar a los jurados a una comparecencia si no entregan el acta de votación después de:
+1)Dos días desde el inicio de la deliberación.
+2)Tres días desde el inicio de la deliberación.
+3)Siete días desde el inicio de la deliberación.
+4)Diez días desde el inicio de la deliberación.
+Respuesta: 1
+Correcta: ¡Exacto! Si los jurados no entregan el acta de votación después de dos días desde el inicio de la deliberación, el Magistrado-Presidente puede convocarlos a una comparecencia.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el auto de hechos justiciables que dictará el Magistrado que presidirá el Tribunal del Jurado, todas las siguientes reglas se deben seguir, excepto una. ¿Cuál es la excepción?
+1)En cada párrafo, se podrán incluir términos susceptibles de ser tenidos por probados unos y por no probados otros.
+2)En cada párrafo, no se podrán incluir términos susceptibles de ser tenidos por probados unos y por no probados otros.
+3)En cada párrafo, se podrán incluir términos susceptibles de ser tenidos por probados unos.
+4)En cada párrafo, se podrán incluir términos susceptibles de ser tenidos por no probados.
+Respuesta: 1
+Correcta: ¡Correcto! No es apropiado incluir en un mismo párrafo términos que pueden ser considerados probados y no probados.
+Errada: La excepción es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 30 de la Ley del Tribunal del Jurado, una vez presentado el escrito de calificación de la defensa, ¿cuál es la acción correcta que debe seguir el Juez?
+1)El Juez señalará el día más lejano posible para audiencia preliminar de las partes sobre la apertura del juicio oral, a menos que estén pendientes diligencias de investigación solicitadas por la defensa del imputado y aprobadas por el Juez.
+2)El Juez señalará el día más próximo posible para audiencia preliminar de las partes sobre la apertura del juicio oral, a menos que estén pendientes diligencias de investigación solicitadas por la defensa del imputado y no aprobadas por el Juez.
+3)El Juez señalará el día más próximo posible para audiencia preliminar de las partes sobre la apertura del juicio oral, a menos que no estén pendientes diligencias de investigación solicitadas por la defensa del imputado y aprobadas por el Juez.
+4)El Juez señalará el día más próximo posible para audiencia preliminar de las partes sobre la apertura del juicio oral, a menos que estén pendientes diligencias de investigación solicitadas por la defensa del imputado y aprobadas por el Juez.
+Respuesta: 4
+Correcta: ¡Exacto! El Juez señalará una fecha para la audiencia preliminar, a menos que estén pendientes ciertas diligencias solicitadas por la defensa.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quiénes son incompatibles para desempeñar la función de jurado?
+1)Los miembros activos de las Fuerzas y Cuerpos de Seguridad.
+2)El Presidente del Gobierno.
+3)Los Presidentes de las Comunidades Autónomas.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Todas las opciones listadas son incompatibles para ser jurado.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Respecto a la sentencia en el procedimiento ante el Tribunal del Jurado, ¿cuál afirmación es correcta?
+1)La sentencia se acompañará del acta del Jurado, se publicará y no se archivará conforme a la normativa, y se certificará en la causa.
+2)La sentencia se acompañará del acta del Jurado, no se publicará y archivará conforme a la normativa, y se certificará en la causa.
+3)La sentencia se acompañará del acta del Jurado, se publicará y archivará conforme a la normativa, y se certificará en la causa.
+4)La sentencia no se acompañará del acta del Jurado, se publicará y archivará conforme a la normativa, y se certificará en la causa.
+Respuesta: 3
+Correcta: ¡Correcto! La sentencia se unirá al acta del Jurado, se publicará y archivará adecuadamente, extendiendo una certificación en la causa.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: Si un jurado tiene incertidumbres respecto a algún aspecto del objeto del veredicto durante el procedimiento ante el Tribunal del Jurado, ¿qué acción puede tomar?
+1)Pedir que el Magistrado-Presidente proporcione instrucciones adicionales en una audiencia privada. Durante esta, el Letrado de la Administración de Justicia estará presente junto con el Ministerio Fiscal y las demás partes involucradas.
+2)Pedir que el Magistrado-Presidente proporcione instrucciones adicionales en una audiencia pública. Durante esta, el Letrado de la Administración de Justicia estará presente junto con el Ministerio Fiscal y las demás partes involucradas.
+3)Pedir que el Magistrado-Presidente proporcione instrucciones adicionales en una audiencia pública. Durante esta, el Letrado de la Administración de Justicia estará ausente junto con el Ministerio Fiscal y las demás partes involucradas.
+4)Pedir que el Magistrado-Presidente proporcione instrucciones adicionales en una audiencia pública. Durante esta, el Letrado de la Administración de Justicia estará presente junto con el Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Perfecto! Si un jurado tiene dudas, puede solicitar instrucciones adicionales en una audiencia pública con todos los participantes relevantes.
+Errada: La respuesta adecuada es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la votación de los jurados, identifica la afirmación incorrecta:
+1)Los votos serán nominales, secretos y se realizarán por orden alfabético, siendo el último en votar el portavoz.
+2)Para que un hecho sea considerado probado y favorable al acusado, necesita al menos cinco votos.
+3)Todos los jurados tienen el deber de votar, sin excepciones.
+4)Se requieren un mínimo de siete votos para determinar la culpabilidad de alguien.
+Respuesta: 1
+Correcta: ¡Correcto! La votación es nominal, secreta y se realiza por orden alfabético.
+Errada: La afirmación incorrecta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el criterio para determinar la competencia del Tribunal del Jurado?
+1)En base al grado de participación.
+2)Tomando en cuenta el supuesto acto delictivo.
+3)Según la consumación del delito.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Bien hecho! Se toma en cuenta el supuesto acto delictivo.
+Errada: La correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: ¿Dónde puede celebrarse el Juicio del Tribunal del Jurado?
+1)Solo en la jurisdicción del Tribunal Supremo
+2)Solo en la jurisdicción del Tribunal Superior de Justicia.
+3)Exclusivamente en la Audiencia Provincial, Tribunal Superior de Justicia y Tribunal Supremo.
+4)Solo en la jurisdicción de la Audiencia Provincial.
+Respuesta: 3
+Correcta: ¡Excelente! El juicio puede llevarse a cabo en la Audiencia Provincial, Tribunal Superior de Justicia y Tribunal Supremo.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: Para que se consideren probados los hechos favorables al acusado en el juicio ante el Tribunal del Jurado, ¿cuántos votos son necesarios?
+1)Por lo menos siete votos
+2)Por lo menos tres votos
+3)Por lo menos cinco votos
+4)Por lo menos cuatro votos
+Respuesta: 3
+Correcta: ¡Correcto! Se necesitan al menos cinco votos para considerar probados hechos favorables al acusado.
+Errada: La respuesta adecuada es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 40 de la Ley del Tribunal del Jurado, una vez que las partes han formulado las preguntas pertinentes a un jurado potencial, ¿cuántos jurados pueden recusar sin proporcionar una razón específica?
+1)Las acusaciones pueden recusar hasta cuatro y las defensas hasta cuatro.
+2)Las acusaciones pueden recusar hasta cuatro y las defensas hasta ocho.
+3)Las acusaciones pueden recusar hasta tresy las defensas hasta tres.
+4)Las acusaciones pueden recusar hasta cuatro y las defensas hasta cinco.
+Respuesta: 1
+Correcta: ¡Bien hecho! Ambas partes, acusaciones y defensas, pueden recusar hasta cuatro jurados sin dar una razón concreta.
+Errada: La opción correcta es la A. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quiénes NO están aptos para desempeñarse como jurado?
+1)Los que no están suspendidos de su empleo o cargo público en un procedimiento penal.
+2)Los que están suspendidos de su empleo o cargo público en un procedimiento penal.
+3)Las personas condenadas por un delito intencional que no han sido rehabilitadas.
+4)Las personas condenadas por un delito intencional que han sido rehabilitadas.
+Respuesta: 3
+Correcta: ¡Correcto! Quienes han sido condenados por un delito intencional y no han obtenido rehabilitación no pueden ser jurados.
+Errada: La respuesta adecuada es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: ¿Para cuáles delitos es competente el Tribunal del Jurado según el Código Penal?
+1)Delitos de asesinato.
+2)Malversación de fondos públicos.
+3) Infidelidad en la custodia de documentos.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Perfecto! El Tribunal del Jurado es competente para conocer todos esos delitos mencionados.
+Errada: La respuesta adecuada es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 3 de la Ley Orgánica del Tribunal del Jurado, ¿bajo qué principios deben actuar los jurados?
+1)Con independencia, responsabilidad, imparcialidad y acatando la Ley.
+2)Con imparcialidad, responsabilidad y acatando la Ley.
+3)Con independencia, responsabilidad y acatando la Ley.
+4)Con independencia y acatando la Ley.
+Respuesta: 3
+Correcta: ¡Muy bien! Los jurados actúan con independencia, responsabilidad y siempre de acuerdo con la Ley.
+Errada: La respuesta adecuada es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento ante el Tribunal del Jurado, el Magistrado-Presidente disolverá el Jurado y dictará sentencia de conformidad si las partes, al inicio del juicio oral, alcanzan un acuerdo con el que:
+1)La pena máxima solicitada no exceda de dos años de privación de libertad o de seis años si es de distinta naturaleza.
+2)La pena máxima solicitada exceda de dos años de privación de libertad o de seis años si es de distinta naturaleza.
+3)La pena máxima solicitada no exceda de cinco años de privación de libertad o de diez años si es de distinta naturaleza.
+4)El Magistrado-Presidente se muestre conforme con la pena solicitada y los hechos aceptados.
+Respuesta: 4
+Correcta: ¡Correcto! En el procedimiento ante el Tribunal del Jurado, la conformidad es posible si el Magistrado-Presidente está de acuerdo con el nuevo escrito de calificación y la pena solicitada.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: En relación al acta de cada sesión en el procedimiento ante el Tribunal del Jurado, ¿cuál de las siguientes afirmaciones es correcta?
+1) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente, los jurados y los letrados de las partes.
+2) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente.
+3) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente y los jurados.
+4) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente y los letrados de las partes.
+Respuesta: 1
+Correcta: ¡Exacto! El acta de cada sesión es redactada por el Letrado de la Administración de Justicia y firmada por el Magistrado-Presidente, los jurados y los letrados de las partes.
+Errada: La opción correcta es la A. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley Orgánica del Tribunal del Jurado, ¿cuál de las siguientes afirmaciones sobre la votación del Jurado es incorrecta?
+1)La votación se realizará de forma nominal, en voz alta y en orden alfabético, siendo el último en votar el portavoz.
+2)No se permite que ningún jurado se abstenga de votar. Si ocurre, se considerará como voto a favor de que el hecho perjudicial para la defensa es cierto.
+3)Se votará sobre la culpabilidad o inocencia de cada acusado por cada delito imputado, siempre que se haya obtenido la mayoría requerida en la votación sobre los hechos.
+4)Si no se alcanza la mayoría necesaria en la votación sobre los hechos, se podrá votar sobre el hecho en cuestión con las aclaraciones que se consideren necesarias.
+Respuesta: 2
+Correcta: ¡Correcto! La afirmación incorrecta es la B.
+Errada: La respuesta adecuada es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Para el juicio oral ante el Tribunal del Jurado, ¿quiénes deben estar presentes?
+1)Tanto el acusado como su abogado defensor.
+2)Sólo el acusado.
+3)Sólo el abogado defensor.
+4)Tanto el procurador como el abogado defensor.
+Respuesta: 1
+Correcta: ¡Bien hecho! La presencia del acusado y su abogado defensor es esencial.
+Errada: La opción correcta es la A. (Respuesta Correcta 1)
+###
+Pregunta: La competencia para conocer y decidir sobre una causa por un delito de homicidio consumado, según el artículo 138 del Código Penal, corresponde:
+1)A la Sección de lo Penal del Tribunal de Instancia, en única instancia.
+2)Al Tribunal del Jurado, sin perjuicio de la instrucción que corresponda a la Sección de Instrucción del Tribunal de Instancia.
+3)A la Sala de lo Penal de la Audiencia Nacional.
+4)A la Audiencia Provincial, sin perjuicio de la instrucción que corresponda al Tribunal de Instancia.
+Respuesta: 2
+Correcta: ¡Correcto! El Tribunal del Jurado es competente para el conocimiento y fallo de las causas por delito de homicidio (art. 138 CP), y la instrucción corresponde al órgano de instrucción competente (Sección de Instrucción del Tribunal de Instancia).
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el art. 14 de la Ley de Enjuiciamiento Criminal (redacción LO 1/2025), un delito leve será conocido y fallado por:
+1)El Juez de Paz.
+2)La Sección de lo Penal del Tribunal de Instancia.
+3)El Juez de lo Penal.
+4)La Sección de Instrucción del Tribunal de Instancia, salvo excepciones legales.
+Respuesta: 4
+Correcta: ¡Correcto! De conformidad con el artículo 14.1 de la LECrim, el conocimiento y fallo de los juicios por delito leve corresponde a la Sección de Instrucción del Tribunal de Instancia, salvo excepciones legales.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley Orgánica del Tribunal del Jurado, ¿bajo qué principios deben actuar los jurados?
+1)Con independencia, responsabilidad, imparcialidad y acatando la Ley.
+2)Con imparcialidad, responsabilidad y acatando la Ley.
+3)Con independencia, responsabilidad y acatando la Ley.
+4)Con independencia y acatando la Ley.
+Respuesta: 3
+Correcta: ¡Muy bien! Los jurados actúan con independencia, responsabilidad y siempre de acuerdo con la Ley.
+Errada: La respuesta adecuada es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: En relación al acta de cada sesión en el procedimiento ante el Tribunal del Jurado, ¿cuál de las siguientes afirmaciones es correcta?
+1) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente, los jurados y los letrados de las partes.
+2) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente.
+3) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente y los jurados.
+4) El Letrado de la Administración de Justicia redactará el acta de cada sesión, que será firmada por el Magistrado-Presidente y los letrados de las partes.
+Respuesta: 1
+Correcta: ¡Exacto! El acta de cada sesión es redactada por el Letrado de la Administración de Justicia y firmada por el Magistrado-Presidente, los jurados y los letrados de las partes.
+Errada: La opción correcta es la A. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley Orgánica del Tribunal del Jurado, ¿cuál de las siguientes afirmaciones sobre la votación del Jurado es incorrecta?
+1)La votación se realizará de forma nominal, en voz alta y en orden alfabético, siendo el último en votar el portavoz.
+2)No se permite que ningún jurado se abstenga de votar. Si ocurre, se considerará como voto a favor de que el hecho perjudicial para la defensa es cierto.
+3)Se votará sobre la culpabilidad o inocencia de cada acusado por cada delito imputado, siempre que se haya obtenido la mayoría requerida en la votación sobre los hechos.
+4)Si no se alcanza la mayoría necesaria en la votación sobre los hechos, se podrá votar sobre el hecho en cuestión con las aclaraciones que se consideren necesarias.
+Respuesta: 2
+Correcta: ¡Correcto! La afirmación incorrecta es la B.
+Errada: La respuesta adecuada es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Para el juicio oral ante el Tribunal del Jurado, ¿quiénes deben estar presentes?
+1)Tanto el acusado como su abogado defensor.
+2)Sólo el acusado.
+3)Sólo el abogado defensor.
+4)Tanto el procurador como el abogado defensor.
+Respuesta: 1
+Correcta: ¡Bien hecho! La presencia del acusado y su abogado defensor es esencial.
+Errada: La opción correcta es la A. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el art. 14 de la Ley de Enjuiciamiento Criminal (redacción LO 1/2025), para el conocimiento y fallo de las causas por delitos, la Audiencia Provincial es el órgano competente en los demás casos, salvo que:
+1)El delito fuere de los atribuidos al Tribunal del Jurado.
+2)Corresponda a la Sala de lo Penal de la Audiencia Nacional.
+3)El delito fuere de los atribuidos a la Sección de lo Penal del Tribunal de Instancia, en cuyo caso será este órgano competente.
+4)Todas las opciones anteriores son correctas.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 14.4 de la LECrim establece la excepción de que si el delito fuere de los atribuidos al Tribunal de Jurado, el conocimiento y fallo corresponderá a este.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: Antes del segundo período de sesiones, ¿con cuánta antelación las Audiencias Provinciales anunciarán las causas programadas para juicio oral en las que participarán jurados?
+1)50 días antes del 21 de marzo, inicio del segundo periodo.
+2)30 días antes del 21 de marzo, inicio del segundo periodo.
+3)40 días antes del 21 de marzo, inicio del segundo periodo.
+4)40 días antes del 20 de marzo, inicio del segundo periodo.
+Respuesta: 3
+Correcta: ¡Muy bien! Las Audiencias Provinciales hacen el anuncio con 40 días de antelación al 21 de marzo.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento ante el tribunal del jurado, ¿bajo qué circunstancias se celebrará el juicio oral a puerta cerrada?
+1)Cuando el Magistrado-Presidente, tras consultar al Jurado, lo considere adecuado.
+2)Cuando el Magistrado-Presidente, tras oír a las partes sin consultar al Jurado, lo considere adecuado.
+3)Cuando el Magistrado-Presidente, tras oír a las partes y consultar al Jurado, lo considere inadecuado.
+4)Cuando el Magistrado-Presidente, tras oír a las partes y consultar al Jurado, lo considere adecuado.
+Respuesta: 4
+Correcta: ¡Correcto! La opción D es la adecuada.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Una vez que se haya completado la lista definitiva de jurados para cada provincia, ¿a quién se enviará dicha lista?
+1)Al Presidente de la Audiencia Provincial correspondiente.
+2)Al Presidente de la Audiencia Nacional correspondiente.
+3)Al Presidente de la Sala de lo Penal del Tribunal Supremo.
+4)Al Presidente de la Sala de lo Penal del Tribunal Superior de Justicia.
+Respuesta: 1
+Correcta: ¡Bien hecho! La opción A es la correcta.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso ante el Tribunal del Jurado, ¿quién es el responsable de redactar el objeto del veredicto?
+1)El Magistrado-Presidente.
+2)El Ministerio Fiscal.
+3)El Jurado.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Exacto! La opción A es la correcta.
+Errada: La respuesta adecuada es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué momento el Jurado cesará en sus funciones en el proceso ante el Tribunal del Jurado?
+1)Ninguna es correcta.
+2)Una vez que se haya leído el veredicto.
+3)Cuando el proceso se archive.
+4)Cuando se dicte sentencia.
+Respuesta: 2
+Correcta: ¡Correcto! La opción B es la adecuada.
+Errada: La respuesta adecuada es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Si el día y hora señalados para el juicio no asisten al menos veinte de los candidatos convocados como jurados, ¿qué acción se llevará a cabo?
+1)Se fijará una nueva fecha para el juicio dentro de los próximos cinco días.
+2)Se fijará una nueva fecha para el juicio dentro de los próximos diez días.
+3)Se fijará una nueva fecha para el juicio dentro de los próximos quince días.
+4)Se fijará una nueva fecha para el juicio dentro de los próximos veinte días.
+Respuesta: 2
+Correcta: ¡Muy bien! La opción B es la correcta.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Si una persona designada como jurado resulta ser cónyuge de una de las partes involucradas en el proceso, esto se considera:
+1)Ninguna es correcta.
+2)Una razón inválida para que la persona se excuse de ser jurado.
+3)Una razón válida para que la persona se excuse de ser jurado.
+4)Una prohibición para que la persona actúe como jurado.
+Respuesta: 4
+Correcta: ¡Correcto! La opción D es la adecuada.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento del Tribunal del Jurado, ¿cuántos votos a favor se requieren para aplicar al acusado los beneficios de remisión condicional de la pena?
+1)Seis votos.
+2)Siete votos.
+3)Nueve votos.
+4)Cinco votos.
+Respuesta: 4
+Correcta: ¡Bien hecho! La opción D es la correcta.
+Errada: La respuesta adecuada es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: Respecto a las instrucciones que se brindan a los jurados en el procedimiento ante el Tribunal del Jurado, indique cuál de las siguientes afirmaciones es incorrecta:
+1)Se les indicará que no deben considerar aquellos medios probatorios que hayan sido declarados ilícitos o nulos por el Magistrado-Presidente.
+2)Las instrucciones abordarán el contenido de sus funciones, las normas que guían sus deliberaciones y votaciones, y cómo deben expresar su veredicto.
+3)Se les explicará con detalle la naturaleza de los hechos que han sido discutidos, en relación con los hechos mencionados en el documento que se les entrega, de manera que puedan comprenderlo.
+4)El Magistrado-Presidente les proporcionará instrucciones al mismo tiempo que el Letrado de la Administración de Justicia les da el documento con el objeto del veredicto.
+Respuesta: 4
+Correcta: ¡Exacto! La opción D es incorrecta y, por lo tanto, es la respuesta correcta.
+Errada: La opción D es la respuesta correcta porque es incorrecta en su afirmación. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso ante el Tribunal del Jurado, la celebración del juicio oral:
+1)No necesita que estén presentes ni el acusado ni el abogado defensor.
+2)Requiere la presencia tanto del abogado defensor.
+3)Requiere la presencia tanto del acusado como del abogado defensor.
+4)Requiere la presencia tanto del acusado.
+Respuesta: 3
+Correcta: ¡Correcto! La opción C es la adecuada.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: Indique cuál de los siguientes NO es un requisito para ser jurado:
+1)Poseer conocimientos básicos sobre el Derecho español.
+2)Ser un ciudadano español mayor de edad.
+3)Estar en pleno ejercicio de sus derechos políticos.
+4)Todas son requisitos para ser jurado.
+Respuesta: 1
+Correcta: ¡Exacto! La opción A es la correcta.
+Errada: La respuesta adecuada es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién lleva a cabo los sorteos para establecer la lista bienal de candidatos a jurados?
+1)El Gobierno Central.
+2)Las Delegaciones Provinciales de la Oficina del Censo Electoral.
+3)Las Delegaciones del Gobierno en las Comunidades Autónomas.
+4)La Oficina Central del Censo Electoral.
+Respuesta: 2
+Correcta: ¡Bien hecho! La opción B es la correcta.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: En relación con el procedimiento ante el Tribunal del Jurado, seleccione la afirmación incorrecta:
+1)No es esencial que los jurados juren o prometan desempeñar fielmente su cargo.
+2)Una vez que se introducen los nombres de los jurados en una urna, el Letrado de la Administración de Justicia los extrae uno por uno y lee el nombre en voz alta.
+3)La selección final de los jurados se realiza mediante sorteo.
+4)Ni el actor civil ni los terceros responsables civiles pueden recusar a los miembros del jurado sin una razón válida.
+Respuesta: 1
+Correcta: ¡Correcto! La opción A es la incorrecta y, por lo tanto, es la respuesta adecuada.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto de la prueba en el proceso ante el Tribunal del Jurado, indique cuál de las siguientes afirmaciones es INCORRECTA:
+1)Los jurados tienen la facultad de hacer preguntas oralmente a testigos, peritos y acusados con el objetivo de clarificar y determinar los hechos objeto de la prueba.
+2)Los jurados pueden revisar por sí mismos los libros, documentos, papeles y otras pruebas materiales.
+3)Las diligencias enviadas por el Juez Instructor pueden ser mostradas a los jurados durante la presentación de las pruebas.
+4)Para llevar a cabo una prueba de inspección ocular, el Tribunal al completo, incluidos los jurados, se trasladará al lugar de los hechos.
+Respuesta: 1
+Correcta: ¡Exacto! La opción A es incorrecta.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley Orgánica 5/1995 de 22 de mayo del Tribunal del Jurado, ¿cuántos votos son necesarios para determinar la culpabilidad de un acusado por un hecho delictivo específico?
+1)Cinco votos.
+2)Seis votos.
+3)Siete votos.
+4)Nueve votos.
+Respuesta: 3
+Correcta: ¡Correcto! La opción C es la adecuada.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 9 de la Ley Orgánica del Tribunal del Jurado, ¿quién está incapacitado para ser jurado?
+1)Las personas que han sido condenadas por delitos cometidos por imprudencia y que no han sido rehabilitadas.
+2)Aquellas personas que estén en situación de detención.
+3)Las personas que, en un proceso administrativo, hayan sido suspendidas de su puesto o cargo público mientras dure dicha suspensión.
+4)Las personas mayores de 60 años.
+Respuesta: 2
+Correcta: ¡Bien hecho! La opción B es correcta.
+Errada: La respuesta adecuada es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: Con base en la Ley Orgánica del Tribunal del Jurado, cuando la deliberación del Jurado se alarga hasta requerir un descanso, ¿quién toma la iniciativa para permitirlo?
+1)El Magistrado-Presidente, por su propia cuenta o tras una solicitud del Jurado, concederá el descanso necesario, sin asegurar la incomunicación.
+2)El Magistrado-Presidente, por su propia cuenta o tras una solicitud del Jurado, concederá el descanso necesario, asegurando la incomunicación.
+3)El Magistrado-Presidente, tras una solicitud del Jurado, concederá el descanso necesario, asegurando la incomunicación.
+4)El Magistrado-Presidente, por su propia cuenta, concederá el descanso necesario, asegurando la incomunicación.
+Respuesta: 2
+Correcta: ¡Correcto! La opción B es la adecuada.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién está a cargo de redactar el acta de votación del Jurado?
+1)El portavoz, salvo que disienta del criterio predominante, en tal situación, los jurados no elegirán al responsable de la redacción.
+2)El portavoz, salvo que disienta del criterio predominante, en tal situación, los jurados elegirán al responsable de la redacción.
+3)El portavoz, cuando disienta del criterio predominante, en tal situación, los jurados elegirán al responsable de la redacción.
+4)El portavoz, siempre que disienta del criterio predominante, en tal situación, los jurados elegirán al responsable de la redacción.
+Respuesta: 2
+Correcta: ¡Muy bien! La opción B es la correcta.
+Errada: La respuesta correcta es la opción B. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cómo se realiza la votación entre los miembros del Jurado?
+1)Nominalmente, por escrito y siguiendo un orden alfabético, donde el portavoz es el primero en votar.
+2)Nominalmente, por escrito y siguiendo un orden alfabético, donde el portavoz es el último en votar.
+3)Nominalmente, verbalmente y siguiendo un orden alfabético, donde el portavoz es el último en votar.
+4)Nominalmente, verbalmente y siguiendo un orden alfabético, donde el portavoz es el primero en votar.
+Respuesta: 3
+Correcta: ¡Perfecto! La opción C es la correcta.
+Errada: La respuesta correcta es la opción C. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 36 de la Ley del Jurado, ¿cuándo es posible objetar los medios probatorios?
+1)En la práctica de la prueba.
+2)Antes de dictar sentencia.
+3)En el período de instrucción.
+4)Al momento de presentarse ante el Tribunal del Jurado.
+Respuesta: 4
+Correcta: ¡Excelente! La opción D es la correcta.
+Errada: La respuesta correcta es la opción D. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuántos jurados de reserva están presentes en el juicio del Tribunal del Jurado?
+1)Uno.
+2)Cuatro.
+3)Tres.
+4)Dos.
+Respuesta: 4
+Correcta: ¡Exacto! Se requieren dos jurados suplentes.
+Errada: La opción correcta es D, se requieren dos jurados suplentes. (Respuesta Correcta 4)
+###
+Pregunta: Según el auto de apertura de juicio oral, ¿cuál de las siguientes opciones NO se determina?
+1)El tribunal encargado del juicio.
+2)Los posibles jurados que han sido objetados.
+3)El Fiscal encargado del juicio.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Correcto! No se determinan los candidatos a jurados que han sido recusados.
+Errada: La respuesta correcta es B. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 36 de la Ley Orgánica 5/1995 del Tribunal del Jurado, ¿cuál de las siguientes acciones NO pueden hacer las partes al presentarse?
+1)Ninguna es correcta.
+2)Introducir nuevos medios probatorios.
+3)Señalar la violación de un derecho fundamental.
+4)Ambas son correctas.
+Respuesta: 2
+Correcta: ¡Muy bien! Las partes no pueden introducir nuevos medios probatorios.
+Errada: La opción correcta es B. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso del Tribunal del Jurado, después de escuchar a las partes, ¿cuándo y cómo se les proporcionará a los jurados el escrito con el objeto del veredicto?
+1)De inmediato, por el Magistrado-Presidente en sesión pública, con la asistencia del Letrado de la Administración de Justicia y en presencia de las partes.
+2)De inmediato, por el Magistrado-Presidente en sesión pública, con la asistencia del Letrado de la Administración de Justicia y en ausencia de las partes.
+3)De inmediato, por el Magistrado-Presidente en sesión pública, con la asistencia del Ministerio Fiscal y en presencia de las partes.
+4)De inmediato, por el Magistrado-Presidente en sesión pública, con la asistencia del Ministerio Fiscal y en ausencia de las partes.
+Respuesta: 1
+Correcta: ¡Correcto! Se les proporcionará de inmediato por el Magistrado-Presidente en sesión pública.
+Errada: La respuesta correcta es A. (Respuesta Correcta 1)
+###
+Pregunta: ¿Para cuáles delitos es competente el Tribunal del Jurado?
+1)Delitos cometidos por funcionarios públicos en sus funciones.
+2)Todas son correctas.
+3)Delitos contra individuos.
+4) Delitos contra la reputación.
+Respuesta: 2
+Correcta: ¡Exacto! El Tribunal del Jurado tiene competencia para todos los delitos mencionados.
+Errada: La respuesta correcta es B. (Respuesta Correcta 2)
+###
+Pregunta: Durante el proceso ante el Tribunal del Jurado, ¿en qué momento se deben presentar las cuestiones previas?
+1)Al presentarse formalmente ante el Tribunal encargado del juicio.
+2)Al comenzar el juicio oral.
+3)Al finalizar el juicio oral.
+4)En cualquier momento del juicio oral.
+Respuesta: 1
+Correcta: ¡Correcto! Las cuestiones previas se presentan al personarse formalmente ante el Tribunal encargado del juicio.
+Errada: La respuesta adecuada es A. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 60 de la Ley Orgánica del Tribunal del Jurado, ¿cuántos votos son necesarios para determinar la no culpabilidad del acusado?
+1)Siete votos.
+2)Nueve votos.
+3)Seis votos.
+4)Cinco votos.
+Respuesta: 4
+Correcta: ¡Exacto! Se requieren cinco votos para establecer la no culpabilidad del acusado.
+Errada: La respuesta correcta es D, se necesitan cinco votos. (Respuesta Correcta 4)
+###
+Pregunta: ¿De qué manera se lleva a cabo la deliberación del Jurado?
+1)En público, y los jurados pueden divulgar lo discutido.
+2)En privado, y los jurados no pueden divulgar lo discutido.
+3)En público, y los jurados no pueden divulgar lo discutido.
+4)En privado, y los jurados pueden divulgar lo discutido.
+Respuesta: 2
+Correcta: ¡Bien hecho! La deliberación es en privado y no se puede revelar lo discutido.
+Errada: La respuesta adecuada es B. (Respuesta Correcta 2)
+###
+Pregunta: Una vez dictado el auto que inicia el juicio oral en el proceso ante el Tribunal del Jurado, ¿cuánto tiempo tiene el Juez para convocar a las partes a comparecer ante el Tribunal encargado del juicio?
+1)Cinco días.
+2)Veinte días.
+3)Quince días.
+4)Siete días.
+Respuesta: 3
+Correcta: ¡Correcto! El Juez tiene un plazo de quince días para convocar a las partes.
+Errada: La opción correcta es C, el plazo es de quince días. (Respuesta Correcta 3)
+###
+Pregunta: Durante la selección del jurado, una vez que las partes han hecho las preguntas pertinentes a los candidatos, ¿cuántos miembros pueden ser recusados por las acusaciones sin necesidad de alegar un motivo específico?
+1)Hasta 4 candidatos.
+2)Hasta 3 candidatos.
+3)Hasta 5 candidatos.
+4)Hasta 7 candidatos.
+Respuesta: 1
+Correcta: ¡Exacto! Las acusaciones pueden recusar hasta 4 candidatos sin alegar un motivo específico.
+Errada: La respuesta correcta es A, las acusaciones pueden recusar hasta 4 candidatos. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento ante el Tribunal del Jurado, ¿de cuántas secciones constará el acta que se elaborará después de que el Jurado haya votado?
+1)Dos secciones.
+2)Tres secciones.
+3)Cuatro secciones.
+4)Cinco secciones.
+Respuesta: 4
+Correcta: ¡Correcto! El acta constará de cinco secciones.
+Errada: La opción correcta es D, el acta se compone de cinco secciones. (Respuesta Correcta 4)
+###
+Pregunta: Al menos treinta días antes de la fecha programada para el inicio del juicio oral, ¿qué procedimiento se seguirá en relación con el sorteo de candidatos a jurados?
+1)El Magistrado que presidirá el Tribunal del Jurado ordenará que el Secretario, en audiencia pública, realice el sorteo de 50 candidatos de la lista provincial.
+2)El Magistrado que presidirá el Tribunal del Jurado ordenará que el Secretario, en audiencia pública, realice el sorteo de 40 candidatos de la lista provincial.
+3)El Magistrado que presidirá el Tribunal del Jurado ordenará que el Secretario, en audiencia pública, realice el sorteo de 45 candidatos de la lista provincial.
+4)El Magistrado que presidirá el Tribunal del Jurado ordenará que el Secretario, en audiencia pública, realice el sorteo de 36 candidatos de la lista provincial.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Magistrado ordenará que el Secretario, en audiencia pública, realice el sorteo de 36 candidatos.
+Errada: La respuesta adecuada es D, se sortean 36 candidatos en audiencia pública bajo la dirección del Magistrado. (Respuesta Correcta 4)
+###
+Pregunta: La competencia para conocer y decidir sobre una causa por un delito de homicidio consumado, según el artículo 138 del Código Penal, corresponde:
+1)Al Tribunal del Jurado, sin perjuicio de la instrucción que corresponda a la Sección de Instrucción del Tribunal de Instancia.
+2)Al Juez de lo Penal.
+3)El Tribunal del Jurado.
+4)Los Jueces de Instrucción en caso de acuerdo.
+Respuesta: 1
+Correcta: ¡Correcto! El Tribunal del Jurado es competente para el conocimiento y fallo de las causas por delito de homicidio (art. 138 CP), y la instrucción corresponde al órgano de instrucción competente (Sección de Instrucción del Tribunal de Instancia).
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de las siguientes afirmaciones sobre la competencia del Tribunal del Jurado en delitos conexos, de acuerdo con la LOTJ, es incorrecta?
+1)La competencia del Tribunal del Jurado se extiende al enjuiciamiento de los delitos conexos con los que le son propios, salvo cuando el conocimiento de estos últimos corresponda a las Secciones de Instrucción del Tribunal de Instancia.
+2)El Tribunal del Jurado no será competente por delitos conexos que no le sean propios, si el delito que sea de la competencia del Jurado no es consumado y el otro delito sí.
+3)Que una persona cometa dos o más delitos diferentes y algunos sean de la competencia del Jurado, no determina que la competencia sea del Tribunal del Jurado por la conexión.
+4)Cuando la conexión se produzca porque dos o más personas se conciertan para la ejecución de dos o más delitos de la competencia del Tribunal del Jurado, éste conocerá de los delitos conexos que no sean de su competencia.
+Respuesta: 1
+Correcta: La afirmación es incorrecta porque la ley establece que la competencia del Jurado en delitos conexos se extiende "aun cuando el conocimiento de estos últimos corresponda a otro órgano jurisdiccional" (art. 5.2.b LOTJ). No existe la excepción de la Sección de Instrucción del Tribunal de Instancia.
+Errada: La respuesta correcta es la opción A. (Respuesta Correcta 1)
+###
+Pregunta: El Magistrado-Presidente devolverá el acta del veredicto al Jurado en cuál de las siguientes situaciones:
+1)Si el veredicto es subsanable.
+2)Si no se pronunció sobre todos los hechos.
+3)Si se pronunció sobre todos los hechos.
+4)Si el veredicto es erróneo.
+Respuesta: 2
+Correcta: ¡Correcto! El acta se devuelve si el jurado no se ha pronunciado sobre la totalidad de los hechos.
+Errada: La respuesta correcta es B; el acta se devuelve si el jurado no ha emitido un veredicto sobre todos los hechos. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 12 de la Ley Orgánica del Tribunal del Jurado, ¿cuál de las siguientes no es una razón válida para excusarse de ser jurado?
+1)Ser mayor de 60 años.
+2)Haber actuado como jurado en los cinco años anteriores a la nueva designación.
+3)Ser mayor de 65 años.
+4)Tener un trastorno grave debido a responsabilidades familiares.
+Respuesta: 2
+Correcta: ¡Exactamente! Haber sido jurado en los últimos cinco años no es una excusa válida.
+Errada: La respuesta correcta es B; haber actuado como jurado en los últimos cinco años no es una razón válida. (Respuesta Correcta 2)
+###
+Pregunta: El Tribunal del Jurado sólo es competente en el caso de delitos consumados en relación a:
+1)Delitos contra el honor.
+2)Delitos contra las personas.
+3)Delitos de salud pública.
+4)Delitos de seguridad víal.
+Respuesta: 2
+Correcta: ¡Correcto! El Tribunal del Jurado sólo tiene competencia en delitos consumados contra las personas.
+Errada: La respuesta correcta es B; el Tribunal del Jurado solo es competente en delitos consumados contra las personas. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuántos votos son necesarios para determinar la culpabilidad en un procedimiento ante el Tribunal del Jurado?
+1)Cinco votos.
+2)Nueve votos.
+3)Siete votos.
+4)Ocho votos.
+Respuesta: 3
+Correcta: ¡Exactamente! Se requieren siete votos para establecer la culpabilidad.
+Errada: La respuesta correcta es C, se necesitan siete votos para determinar la culpabilidad. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento ante el Tribunal del Jurado, una vez que se ha dictado el auto de apertura de juicio oral, ¿cuál es el plazo que tienen las partes para presentarse ante el tribunal competente?
+1)Diez días
+2)Tres días
+3)Quince días
+4)Cinco días
+Respuesta: 3
+Correcta: ¡Correcto! Las partes tienen un plazo de quince días para convocar a las partes.
+Errada: La opción correcta es C, el plazo es de quince días. (Respuesta Correcta 3)
+###
+Pregunta: ¿Durante qué período pueden los candidatos a jurados presentar reclamaciones sobre su inclusión en las listas?
+1)Durante los primeros diez días de noviembre.
+2)Durante los primeros quince días de noviembre.
+3)Durante los primeros siete días de noviembre.
+4)Durante los primeros cinco días de noviembre.
+Respuesta: 2
+Correcta: ¡Exacto! Las reclamaciones pueden presentarse durante los primeros quince días de noviembre.
+Errada: La respuesta correcta es B, los candidatos pueden presentar reclamaciones durante los primeros quince días de noviembre. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 10 de la Ley Orgánica del Tribunal del Jurado, ¿cuál de las siguientes personas está habilitada para actuar como jurado?
+1)Los profesores universitarios que no enseñan disciplinas jurídicas, pero no relacionadas con la medicina legal.
+2)Los profesores universitarios que enseñan disciplinas jurídicas o relacionadas con la medicina legal.
+3)Los profesores universitarios que no enseñan disciplinas jurídicas o relacionadas con la medicina legal.
+4)Los profesores universitarios que no enseñan disciplinas jurídicas ni relacionadas con la medicina legal.
+Respuesta: 3
+Correcta: ¡Correcto! Los profesores universitarios que no enseñan materias jurídicas o de medicina legal pueden actuar como jurados.
+Errada: La respuesta correcta es C, sólo los profesores universitarios que no enseñan materias jurídicas o relacionadas con la medicina legal pueden actuar como jurado. (Respuesta Correcta 3)
+###
+Pregunta: La competencia para conocer y decidir sobre una causa por un delito de homicidio consumado, según el artículo 138 del Código Penal, corresponde:
+1)Al Tribunal del Jurado, sin perjuicio de la instrucción que corresponda a la Sección de Instrucción del Tribunal de Instancia.
+2)Al Juzgado de lo Penal.
+3)La Audiencia Provincial.
+4)La Audiencia Nacional.
+Respuesta: 1
+Correcta: ¡Correcto! El Tribunal del Jurado es competente para el conocimiento y fallo de las causas por delito de homicidio (art. 138 CP), y la instrucción corresponde al órgano de instrucción competente (Sección de Instrucción del Tribunal de Instancia).
+Errada: La respuesta correcta es A, La Audiencia Provincial es quien tiene la competencia en este caso. (Respuesta Correcta 1)
+###
+Pregunta: Respecto al Tribunal del Jurado, ¿cuál de los siguientes delitos no puede ser juzgado por conexión?
+1)El delito de prevaricación
+2)El delito de estafa
+3)El delito de amenazas
+4)El delito de lesiones
+Respuesta: 1
+Correcta: ¡Correcto! El delito de prevaricación no puede ser juzgado por conexión en relación con el Tribunal del Jurado.
+Errada: La respuesta correcta es A, el delito de prevaricación no puede ser juzgado por conexión. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley del Tribunal del Jurado, hay un plazo de tres días establecido para:
+1)Resolver excusas.
+2)Devolver el cuestionario.
+3)Resolver excusas, advertencias y recusaciones.
+4)Resolver recusaciones.
+Respuesta: 3
+Correcta: ¡Bien hecho! Hay un plazo de tres días para resolver excusas, advertencias y recusaciones.
+Errada: La respuesta correcta es C, el plazo de tres días se establece para resolver excusas, advertencias y recusaciones. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso ante el Tribunal del Jurado, ¿cuántos votos se requieren como mínimo para declarar como probados hechos que sean contrarios al acusado?
+1)Al menos cinco votos.
+2)Al menos siete votos.
+3)Al menos nueve votos.
+4)Al menos tres votos.
+Respuesta: 2
+Correcta: ¡Perfecto! Se requieren al menos siete votos para declarar como probados hechos contrarios al acusado.
+Errada: La respuesta correcta es B, se necesitan al menos siete votos para declarar probados hechos contrarios al acusado. (Respuesta Correcta 2)
+###
+Pregunta: Si el acusado no goza de aforamiento, ¿de cuántos jurados y magistrados se compone el Tribunal del Jurado?
+1)Nueve jurados y un Magistrado de la Audiencia Provincial.
+2)Once jurados y un Magistrado de la Audiencia Provincial.
+3)Nueve jurados y un Magistrado de la Audiencia Nacional.
+4)Once jurados y un Magistrado de la Audiencia Nacional.
+Respuesta: 1
+Correcta: ¡Correcto! El Tribunal del Jurado se compone de nueve jurados y un Magistrado de la Audiencia Provincial cuando el acusado no es aforado.
+Errada: La respuesta adecuada es A. Cuando el acusado no es aforado, el Tribunal del Jurado consta de nueve jurados y un Magistrado de la Audiencia Provincial. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué delito entre las opciones no es juzgado por el Tribunal del Jurado?
+1)Incendios forestales.
+2)Amenazas.
+3)Estafa
+4)Lesiones
+Respuesta: 1
+Correcta: ¡Exacto! El delito de incendios forestales no es competencia del Tribunal del Jurado.
+Errada: La respuesta correcta es A. El Tribunal del Jurado no tiene competencia para juzgar delitos de incendios forestales. (Respuesta Correcta 1)
+###
+Pregunta: Conforme a la LOTJ, previo a entregar el documento con el propósito del veredicto a los jurados, el Magistrado-Presidente consulta a las partes para posibles inclusiones o exclusiones. Si las solicitudes de una parte son negadas, ¿qué acción puede tomar?
+1)Deben apelar la decisión del Magistrado-Presidente.
+2)Pueden apelar la decisión del Magistrado-Presidente.
+3)Pueden expresar su desacuerdo para efectos del recurso adecuado contra el fallo final.
+4)Pueden expresar su acuerdo para efectos del recurso adecuado contra el fallo final.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las partes pueden expresar su desacuerdo para efectos del recurso adecuado contra el fallo si sus solicitudes son rechazadas.
+Errada: La opción correcta es C. Si sus peticiones son denegadas, las partes pueden manifestar su desacuerdo para futuros recursos contra la sentencia. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento del Tribunal del Jurado, ¿cuántos jurados puede la defensa recusar sin necesidad de justificar el motivo?
+1)2
+2)3
+3)4
+4)5
+Respuesta: 3
+Correcta: ¡Correcto! En el procedimiento ante el Tribunal del Jurado, la defensa puede recusar a 4 jurados sin necesidad de alegar un motivo.
+Errada: La respuesta adecuada es C. La defensa puede recusar a 4 jurados sin tener que justificar la causa. (Respuesta Correcta 3)
+###
+Pregunta: De los delitos listados a continuación, ¿cuál es juzgado por el Tribunal del Jurado?
+1)Lesiones.
+2)Tráfico de influencias.
+3)Estafa
+4)Amenazas
+Respuesta: 2
+Correcta: ¡Correcto! El delito de tráfico de influencias es competencia del Tribunal del Jurado.
+Errada: La respuesta adecuada es B. El delito de tráfico de influencias es el que es competencia del Tribunal del Jurado. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Orgánica del Tribunal del Jurado, ¿cómo está formado el Tribunal del Jurado?
+1) Consta de nueve jurados y un magistrado del ente encargado del juicio.
+2) Consta de once jurados y un magistrado del ente encargado del juicio.
+3) Consta de siete jurados y un magistrado del ente encargado del juicio.
+4) Consta de ocho jurados y un magistrado del ente encargado del juicio.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Tribunal del Jurado está compuesto por nueve jurados y un magistrado del ente encargado del juicio.
+Errada: La respuesta correcta es A. El Tribunal del Jurado se compone de nueve jurados y un magistrado del órgano de enjuiciamiento. (Respuesta Correcta 1)
+###
+Pregunta: Una vez finalizada la votación en el procedimiento del Tribunal del Jurado, ¿cuál es el proceso a seguir con el acta generada?
+1)Entregar al Magistrado-Presidente una copia y este convocará a las partes por un medio rápido, para que después, el portavoz del Jurado proclame el veredicto en una sesión privada.
+2)Entregar al Magistrado-Presidente una copia y este convocará a las partes por un medio rápido, para que antes, el portavoz del Jurado proclame el veredicto en una sesión pública.
+3)Entregar al Magistrado-Presidente una copia y este convocará a las partes por un medio rápido, para que después, el portavoz del Jurado proclame el veredicto en una sesión pública.
+4)No entregar al Magistrado-Presidente una copia y este convocará a las partes por un medio rápido, para que después, el portavoz del Jurado proclame el veredicto en una sesión pública.
+Respuesta: 3
+Correcta: ¡Correcto! Una vez votado, se entrega una copia del acta al Magistrado-Presidente y, tras convocar a las partes, el veredicto se anuncia públicamente por el portavoz del Jurado.
+Errada: La opción correcta es C. Después de la votación, se entrega una copia del acta al Magistrado-Presidente quien convoca a las partes, y seguidamente el portavoz del Jurado proclama el veredicto públicamente. (Respuesta Correcta 3)
+###
+Pregunta: El propósito principal de la comparecencia en el art. 25 de la Ley del Tribunal del Jurado es:
+1)Realizar las diligencias solicitadas por las partes.
+2)Realizar las diligencias solicitadas por el juez.
+3)Especificar la acusación.
+4)Pedir la iniciación de la vista.
+Respuesta: 3
+Correcta: ¡Acertado! El principal objetivo de la comparecencia es especificar la acusación.
+Errada: La respuesta correcta es C. La finalidad principal de la comparecencia es concretar la imputación. (Respuesta Correcta 3)
+###
+Pregunta: De conformidad con el artículo 2 de la Ley Orgánica del Tribunal del Jurado, cuando el juicio del Jurado se debe llevar a cabo en el Tribunal Supremo debido al aforamiento del acusado, ¿quién actuará como Magistrado-Presidente del Tribunal del Jurado?
+1)El Magistrado de mayor edad en la sala de lo Penal del Tribunal Supremo.
+2)Un Magistrado seleccionado de la Sala de lo Penal del Tribunal Supremo
+3)Un Magistrado seleccionado de la Audiencia Nacional.
+4)Un Magistrado seleccionado de la Audiencia Provincial.
+Respuesta: 2
+Correcta: ¡Correcto! De acuerdo con la ley, un Magistrado de la Sala de lo Penal del Tribunal Supremo actuará como Magistrado-Presidente en tales circunstancias.
+Errada: La respuesta correcta es B. En esos casos, un Magistrado de la Sala de lo Penal del Tribunal Supremo se desempeña como Magistrado-Presidente. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a la audiencia preliminar establecida en el artículo 30 de la Ley Orgánica del Tribunal del Jurado, si el Juez decide no convocarla, ¿qué recurso tienen las partes?
+1)Las partes pueden presentar una queja ante el Tribunal Superior de Justicia
+2)Las partes pueden presentar una queja ante el Tribunal Supremo
+3)Las partes pueden presentar una queja ante la Audiencia Nacional
+4)Las partes pueden presentar una queja ante la Audiencia Provincial
+Respuesta: 4
+Correcta: ¡Bien hecho! Si el Juez no convoca la audiencia preliminar, las partes pueden presentar una queja ante la Audiencia Provincial.
+Errada: La opción correcta es D. En caso de que el Juez no convoque la audiencia preliminar, las partes tienen el derecho de presentar una queja ante la Audiencia Provincial. (Respuesta Correcta 4)
+###
+Pregunta: ¿Dónde se lleva a cabo generalmente el juicio del jurado?
+1)En la jurisdicción de la Audiencia Provincial.
+2)En la jurisdicción de la Audiencia Nacional.
+3)En la jurisdicción del Juzgados de lo Penal.
+4)En la jurisdicción del Juzgado de Paz.
+Respuesta: 1
+Correcta: ¡Exacto! El juicio del jurado se celebra, por norma general, en la Audiencia Provincial.
+Errada: La respuesta adecuada es A. Generalmente, el juicio del jurado se celebra en el ámbito de la Audiencia Provincial. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el principal propósito de la audiencia preliminar establecida en el artículo 30 de la Ley del Tribunal del Jurado?
+1)Ambas son correctas.
+2)Determinar si procede o no la apertura del juicio oral.
+3)Resolver las cuestiones iniciales mencionadas en el artículo 666 de la LECrim presentadas por las partes.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Muy bien! El principal objetivo de la audiencia preliminar es decidir sobre la pertinencia de la apertura del juicio oral.
+Errada: La respuesta correcta es B. El objetivo principal de la audiencia preliminar es determinar si es adecuado abrir el juicio oral. (Respuesta Correcta 2)
+###
+Pregunta: En un proceso ante el Tribunal del Jurado, ¿cuántos candidatos a jurado deben estar presentes para que el Magistrado-Presidente inicie la sesión?
+1)Un mínimo de treinta candidatos.
+2)Un mínimo de veinte y cinco candidatos.
+3)Un mínimo de veinte y siete candidatos.
+4)Un mínimo de veinte candidatos.
+Respuesta: 4
+Correcta: ¡Perfecto! Se requiere la presencia de al menos veinte candidatos a jurado para que el Magistrado-Presidente comience la sesión.
+Errada: La respuesta adecuada es D. Para que el Magistrado-Presidente inicie la sesión en un proceso ante el Tribunal del Jurado, es necesario que asistan al menos veinte candidatos a jurado. (Respuesta Correcta 4)

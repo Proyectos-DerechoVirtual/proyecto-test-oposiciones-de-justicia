@@ -1,0 +1,521 @@
+Pregunta: Basándose en el art. 465 de la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes afirmaciones es correcta?
+1)Aquellos que actúen como peritos por mandato judicial podrán solicitar remuneraciones justas si no reciben ya un salario establecido por entidades estatales, provinciales o municipales. 
+2)Aquellos que actúen como testigos por mandato judicial podrán solicitar remuneraciones justas si no reciben ya un salario establecido por entidades estatales, provinciales o municipales. 
+3)Aquellos que actúen como peritos por mandato de parte podrán solicitar remuneraciones justas si reciben ya un salario establecido por entidades estatales, provinciales o municipales. 
+4)Aquellos que actúen como peritos por mandato judicial podrán solicitar remuneraciones justas si no reciben ya un salario establecido por entidades privadas. 
+Respuesta: 1
+Correcta: ¡Correcto! Los peritos que actúan por orden judicial tienen derecho a honorarios justos si no tienen una remuneración preestablecida.
+Errada: Lo siento, esa no es la respuesta correcta. Los peritos tienen derecho a reclamar honorarios justos si no tienen una remuneración predeterminada. (Respuesta Correcta 1)
+###
+Pregunta: En cuanto a la recusación de peritos según la Ley de Enjuiciamiento Criminal, ¿cuál afirmación es incorrecta?
+1)Si no se puede repetir la pericia en el juicio oral, se puede recusar al perito. 
+2)Un perito puede ser recusado si tiene parentesco hasta el cuarto grado con el acusador o el acusado. 
+3)Si la pericia puede ser repetida en el juicio oral, los peritos designados no pueden ser recusados. 
+4)Tener una amistad profunda o enemistad evidente no es motivo para recusar a un perito. 
+Respuesta: 4
+Correcta: ¡Exacto! Tener una amistad íntima o enemistad clara sí es una razón válida para recusar a un perito.
+Errada: Lo siento, esa opción no es la correcta. Las amistades íntimas o enemistades claras son motivos válidos para recusar a un perito. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a lo establecido en la Ley de Enjuiciamiento Civil, ¿puede el Letrado de la Administración de Justicia, a instancia de parte, solicitar la colaboración de organismos públicos para la investigación de bienes del ejecutado?
+1)No, es una tarea del Ministerio Fiscal.
+2)Sí, en todo caso.
+3)Sí, pero sólo si el Juez de Primera Instancia lo autoriza.
+4)No, sólo puede solicitar información a los organismos tributarios.
+Respuesta: 2
+Correcta: ¡Correcto! Según el art. 583 LEC, el Letrado de la Administración de Justicia podrá solicitar la colaboración de organismos públicos para la investigación de bienes.
+Errada: Incorrecto. La Ley Orgánica 1/2025, en su disposición final trigésima octava, modifica el artículo 583 LEC, permitiendo al Letrado de la Administración de Justicia solicitar la colaboración de organismos públicos para la investigación de bienes. (Respuesta Correcta 2)
+###
+Pregunta: Los miembros de la Policía Judicial deberán entregar los atestados y partes al Juez de Instrucción o al Letrado de la Administración de Justicia del Tribunal competente, en el plazo de:
+1)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 285, apartado 2, de la LECRIM. 
+2)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 283, apartado 2, de la LECRIM. 
+3)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 280, apartado 2, de la LECRIM. 
+4)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 284, apartado 2, de la LECRIM. 
+Respuesta: 4
+Correcta: ¡Correcto! Los miembros de la Policía Judicial deben informar dentro de un periodo de 24 horas.
+Errada: Incorrecto. La respuesta correcta es que tienen un plazo de 24 horas para informar de sus acciones. (Respuesta Correcta 4)
+###
+Pregunta: En las investigaciones de muertes violentas o con indicios de actividad criminal, si a simple vista se puede deducir la causa de la muerte:
+1)Ninguna es correcta. 
+2)Se procederá al juicio. 
+3)No se realizará una autopsia al cuerpo. 
+4)Se realizará una autopsia al cuerpo. 
+Respuesta: 4
+Correcta: ¡Bien hecho! En tales circunstancias, es necesario realizar una autopsia para determinar la causa exacta de la muerte.
+Errada: Lo siento, esa no es la respuesta correcta. En tales situaciones, es esencial llevar a cabo una autopsia para establecer con certeza la causa de la muerte. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a lo establecido en la Ley de Enjuiciamiento Civil, ¿puede el Letrado de la Administración de Justicia, a instancia de parte, solicitar la colaboración de organismos públicos para la investigación de bienes del ejecutado?
+1)No, sólo puede solicitar información a los organismos tributarios.
+2)Sí, en todo caso.
+3)Sí, pero sólo si el Juez de Primera Instancia lo autoriza.
+4)No, es una tarea del Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Correcto! Según el art. 583 LEC, el Letrado de la Administración de Justicia podrá solicitar la colaboración de organismos públicos para la investigación de bienes.
+Errada: Incorrecto. La Ley Orgánica 1/2025, en su disposición final trigésima octava, modifica el artículo 583 LEC, permitiendo al Letrado de la Administración de Justicia solicitar la colaboración de organismos públicos para la investigación de bienes. (Respuesta Correcta 2)
+###
+Pregunta: En los casos de muerte violenta o con indicios de criminalidad, cuando el Juez de Instrucción se persone en el lugar de los hechos y se pueda deducir a simple vista la causa de la muerte, se procederá a:
+1)El Juez de Instrucción ordenará el entierro del cadáver, y solo en caso de ser requerido por el Fiscal, se realizará una autopsia. 
+2)El Juez de Instrucción no realizará una autopsia, ya que la causa de la muerte es evidente. 
+3)Se realizará la autopsia al cadáver siempre. 
+4)El Juez de Instrucción ordenará que se realice la autopsia solo si el caso lo requiere. 
+Respuesta: 3
+Correcta: Correcto. Según el artículo 343 LECrim, siempre se hará la autopsia en los casos de muerte violenta o con indicios de criminalidad, sin excepción.
+Errada: Incorrecto. La respuesta correcta es que la autopsia se realizará siempre en casos de muertes violentas o con indicios de criminalidad. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál de las siguientes afirmaciones es la más precisa con respecto al artículo 428 de la Ley de Enjuiciamiento Criminal?
+1)La declaración del investigado o encausado es un medio de prueba. 
+2)La declaración del investigado o encausado es un medio de defensa. 
+3)La declaración del investigado o encausado es un medio de prueba y de defensa, dependiendo del caso. 
+4)La declaración del investigado o encausado es un medio de defensa, y puede ser un medio de prueba. 
+Respuesta: 2
+Correcta: ¡Correcto! La declaración del investigado es un medio de defensa, como se indica en el artículo 428 LECrim.
+Errada: Lo siento, esa no es la respuesta correcta. La declaración del investigado o encausado es, según el artículo 428 LECrim, un medio de defensa. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué tipo de recurso cabe contra la resolución judicial que deniegue el uso de medios de investigación tecnológica, solicitados por la Policía Judicial?
+1)Recurso de apelación. 
+2)Recurso de reforma. 
+3)Recurso de queja. 
+4)Recurso de casación. 
+Respuesta: 2
+Correcta: ¡Correcto! Contra la resolución judicial que deniegue el uso de medios de investigación tecnológica, solicitados por la Policía Judicial, cabe recurso de reforma, según la LECrim.
+Errada: Incorrecto. La respuesta correcta es el recurso de reforma. (Respuesta Correcta 2)
+###
+Pregunta: ¿A qué órgano corresponde la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer?
+1)Al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer.
+2)Al Juez de Violencia sobre la Mujer.
+3)Al Juez de Instrucción.
+4)Al Letrado de la Administración de Justicia del Juzgado de Instrucción.
+Respuesta: 1
+Correcta: ¡Correcto! La Ley Orgánica 1/2025, en su disposición final trigésima octava, modifica el artículo 773 LECrim, para atribuir la competencia para la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer.
+Errada: Lo siento, esa no es la respuesta correcta. La respuesta correcta es que la competencia para la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer corresponde al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer. (Respuesta Correcta 1)
+###
+Pregunta: En las investigaciones de muertes violentas o con indicios de actividad criminal, si a simple vista se puede deducir la causa de la muerte:
+1)Ninguna es correcta. 
+2)Se procederá al juicio. 
+3)No se realizará una autopsia al cuerpo. 
+4)Se realizará una autopsia al cuerpo. 
+Respuesta: 4
+Correcta: ¡Bien hecho! En tales circunstancias, es necesario realizar una autopsia para determinar la causa exacta de la muerte.
+Errada: Lo siento, esa no es la respuesta correcta. En tales situaciones, es esencial llevar a cabo una autopsia para establecer con certeza la causa de la muerte. (Respuesta Correcta 4)
+###
+Pregunta: ¿A qué órgano corresponde la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer?
+1)Al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer.
+2)Al Juez de Violencia sobre la Mujer.
+3)Al Juez de Instrucción.
+4)Al Letrado de la Administración de Justicia del Juzgado de Instrucción.
+Respuesta: 1
+Correcta: ¡Correcto! La Ley Orgánica 1/2025, en su disposición final trigésima octava, modifica el artículo 773 LECrim, para atribuir la competencia para la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer.
+Errada: Lo siento, esa no es la respuesta correcta. La respuesta correcta es que la competencia para la tramitación de las diligencias urgentes por delitos de violencia sobre la mujer corresponde al Letrado de la Administración de Justicia del Juzgado de Violencia sobre la Mujer. (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 449 bis de la LECRIM, en situaciones donde la autoridad judicial ordene la declaración del testigo como evidencia preconstituida, ¿cuál es la situación correcta respecto a la defensa?
+1)La asistencia del sujeto investigado citado inapropiadamente bloqueará la evidencia preconstituida. 
+2)Si el defensor de la persona investigada no comparece sin justificación o hay urgencia, el proceso se llevará a cabo con un abogado de oficio específicamente designado. 
+3)La no asistencia del sujeto investigado citado apropiadamente bloqueará la evidencia preconstituida. 
+4)Si el defensor de la persona investigada comparece sin justificación o hay urgencia, el proceso se llevará a cabo con un abogado de oficio específicamente designado. 
+Respuesta: 2
+Correcta: ¡Exactamente! En casos de urgencia o incomparecencia injustificada, se designará un abogado de oficio.
+Errada: Lo siento, esa respuesta es incorrecta. En ciertas circunstancias, un abogado de oficio puede ser designado. (Respuesta Correcta 2)
+###
+Pregunta: Basándose en el art. 477 de la LECRIM sobre el acto pericial, ¿cuál de las siguientes afirmaciones es incorrecta?
+1)Puede ser dirigido por el Fiscal si el Juez delega esa responsabilidad. 
+2)El Juez instructor o el Juez de Paz, si este último tiene delegación, lo presidirán. 
+3)En el contexto del artículo 353, el Juez instructor puede delegar a un oficial de Policía judicial. 
+4)El Letrado de la Administración de Justicia involucrado en el caso siempre estará presente. 
+Respuesta: 1
+Correcta: ¡Bien hecho! El Fiscal no puede presidir el acto pericial incluso si el Juez delega esa función.
+Errada: Incorrecto, el acto pericial no puede ser presidido por el Fiscal, incluso con la delegación del Juez. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el art. 335 LECRIM, si se encuentra la persona o el objeto relacionado con el delito, ¿quién detallará su condición y detalles?
+1)Ninguna es correcta. 
+2)El Fiscal. 
+3)El Juez instructor. 
+4)La Policía. 
+Respuesta: 3
+Correcta: ¡Correcto! Es el Juez instructor quien describe detalladamente el estado y las circunstancias de la persona o cosa hallada.
+Errada: Lo siento, la opción correcta es que es el Juez instructor quien tiene esa responsabilidad. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al art. 464 de la LECRIM, elija la afirmación correcta sobre las sanciones a los peritos:
+1)Si un perito, al estar en una situación del artículo 416 de la LECRIM, entrega un informe sin antes informar al Juez que lo nombró, será sancionado con una multa de entre 300 y 4,000 euros, salvo que el hecho genere responsabilidad penal. 
+2)Si un perito, al estar en una situación del artículo 416 de la LECRIM, entrega un informe sin antes informar al Juez que lo nombró, será sancionado con una multa de entre 500 y 5,000 euros, salvo que el hecho genere responsabilidad penal. 
+3)Si un perito, al estar en una situación del artículo 416 de la LECRIM, entrega un informe sin antes informar al Juez que lo nombró, será sancionado con una multa de entre 200 y 5,000 euros, salvo que el hecho genere responsabilidad penal. 
+4)Si un perito, al estar en una situación del artículo 416 de la LECRIM, entrega un informe sin antes informar al Juez que lo nombró, será sancionado con una multa de entre 600 y 6,000 euros, salvo que el hecho genere responsabilidad penal. 
+Respuesta: 3
+Correcta: ¡Bien hecho! Los peritos que no cumplen con ciertas obligaciones pueden ser sancionados con multas, a menos que la situación conduzca a responsabilidades penales.
+Errada: La opción correcta es que hay multas específicas por no cumplir con ciertas obligaciones antes de presentar informes como perito. (Respuesta Correcta 3)
+###
+Pregunta: Basándote en el art. 449 ter de la LECrim, ¿en cuál de los siguientes delitos no se exige que el testimonio de un testigo menor de 14 años se realice como prueba preconstituida?
+1)Delitos contra el patrimonio y el orden socioeconómico. 
+2)Delitos contra la libertad e indemnidad sexuales. 
+3)Delitos relacionados con el ejercicio de derechos fundamentales y libertades públicas. 
+4)Delitos de organización y grupo criminal. 
+Respuesta: 1
+Correcta: ¡Correcto! Los delitos contra el patrimonio y el orden socioeconómico no requieren necesariamente que el testimonio de un menor de 14 años se tome como prueba preconstituida.
+Errada: Lo siento, la opción correcta es A. El testimonio de un menor en delitos contra el patrimonio no necesita ser preconstituido. (Respuesta Correcta 1)
+###
+Pregunta: Con respecto a la Ley de Enjuiciamiento Criminal, ¿puede el acusado intentar recusar a los expertos designados por el Juez?
+1)Sí, por viva voz, indicando el motivo y la prueba testifical, sin necesidad de un Procurador. 
+2)Sí, por escrito, indicando el motivo y la prueba testifical, sin necesidad de un Procurador. 
+3)Sí, por escrito, in indicar el motivo y la prueba testifical, con necesidad de un Procurador. 
+4)Sí, por escrito, indicando el motivo y la prueba testifical, con necesidad de un Procurador. 
+Respuesta: 2
+Correcta: ¡Exactamente! El acusado puede intentar recusar a los expertos por escrito sin necesidad de un Procurador.
+Errada: La opción correcta es B. El acusado tiene el derecho de recusar a los expertos si lo considera necesario. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el art. 353 de la LECrim, si el Juez de instrucción no pudiera estar presente en el procedimiento anatómico, ¿qué ocurriría?
+1)Delegará en un funcionario de Policía Judicial, certificando su asistencia el Letrado de la Administración de Justicia del caso. 
+2)Delegará en un Fiscal, certificando su asistencia el Letrado de la Administración de Justicia del caso. 
+3)Delegará en un Gestor Procesal, certificando su asistencia el Letrado de la Administración de Justicia del caso. 
+4)Designará a un funcionario de Policía, y el Letrado de la Administración de Justicia certificará su asistencia. 
+Respuesta: 1
+Correcta: ¡Correcto! Si el Juez no puede asistir, delegará en un funcionario de Policía Judicial.
+Errada: La opción correcta es A. En tales circunstancias, la responsabilidad recae en un funcionario de Policía Judicial. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué sucede si no es posible determinar el Registro Civil o parroquia donde debe estar el nacimiento o bautismo del acusado, o si no existe su inscripción?
+1)No se detendrá el sumario. 
+2)Se solicitarán informes sobre la edad del acusado a los médicos forenses después de un examen físico. 
+3)Ninguna es correcta. 
+4)Ambas son correctas. 
+Respuesta: 4
+Correcta: ¡Bien hecho! El sumario no se detendrá, y se buscarán pruebas adicionales sobre la edad del acusado.
+Errada: La respuesta correcta es D. Ambas acciones (A y B) pueden llevarse a cabo. (Respuesta Correcta 4)
+###
+Pregunta: El Letrado de la Administración de Justicia informará al acusado sobre la decisión de realizar una inspección ocular con:
+1)La anticipación que permita su naturaleza. 
+2)Una antelación mínima de 15 horas. 
+3)Una antelación mínima de 12 horas. 
+4)Una antelación mínima de 24 horas. 
+Respuesta: 1
+Correcta: ¡Correcto! La anticipación se determinará según la índole de la inspección.
+Errada: Lo siento, la opción correcta es A. La anticipación varía según la naturaleza de la inspección. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 419 de la LECrim, si un testigo no puede acudir físicamente a un llamado judicial debido a un impedimento, ¿qué acción tomará el Juez instructor encargado de recibir la declaración?
+1)Se desplazará al hogar del testigo, siempre que la vida de este no corra riesgo debido a la declaración. 
+2)Se desplazará al hogar del testigo, siempre que la vida de este corra riesgo debido a la declaración. 
+3)Eximirá al testigo de la necesidad de comparecer. 
+4)Ninguna es correcta. 
+Respuesta: 1
+Correcta: ¡Exacto! El Juez se desplazará al domicilio del testigo si este no puede comparecer físicamente.
+Errada: Incorrecto. El Juez se desplazará al domicilio del testigo si este no puede comparecer físicamente. (Respuesta Correcta 1)
+###
+Pregunta: Basándose en la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes afirmaciones sobre la diligencia pericial es errónea?
+1)Si los peritos requieren descanso, el tiempo necesario puede ser otorgado por el Juez o su representante. 
+2)Es responsabilidad del Letrado de la Administración de Justicia garantizar que no se altere la evidencia durante la diligencia pericial. 
+3)Si la naturaleza de la diligencia lo exige, el Juez o su representante pueden posponerla. 
+4)Una vez realizada la inspección, los peritos pueden retirarse para deliberar y elaborar sus conclusiones, si lo solicitan. 
+Respuesta: 2
+Correcta: ¡Bien hecho! Es el Juez quien debe garantizar que no se altere la evidencia durante la diligencia pericial, no el Letrado de la Administración de Justicia.
+Errada: Incorrecto. Es el Juez quien debe garantizar que no se altere la evidencia durante la diligencia pericial, no el Letrado de la Administración de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: Si es necesario obtener un informe pericial sobre cómo se ocultó la evidencia del delito, ¿qué acción se toma?
+1)El Juez solicitará el informe pericial sin demora. 
+2)El Juez solicitará el informe pericial en un lapso de 2 días. 
+3)El Juez solicitará el informe pericial en un lapso de 5 días. 
+4)El Juez solicitará el informe pericial en un lapso de 7 días. 
+Respuesta: 1
+Correcta: ¡Correcto! El Juez solicitará de inmediato el informe pericial.
+Errada: Incorrecto. El Juez solicitará de inmediato el informe pericial. (Respuesta Correcta 1)
+###
+Pregunta: Si hay desacuerdo entre los peritos, ¿cuál de las siguientes afirmaciones es incorrecta?
+1)Si no se pueden realizar más operaciones ni repetir las ya hechas, el nuevo perito solo discutirá con los demás y presentará sus conclusiones si no está de acuerdo con ninguno. 
+2)Se nombrará a un nuevo perito y, si es posible, se repetirán las operaciones previas y se realizarán las que sean necesarias. 
+3)Si hay un número par de peritos, el Letrado de la Administración de Justicia designará a otro. 
+4)Si no es posible repetir las operaciones, el nuevo perito solo discutirá con los demás y presentará sus conclusiones junto con el perito con el que esté de acuerdo. 
+Respuesta: 3
+Correcta: ¡Correcto! El nombramiento de un perito adicional en caso de número par no es competencia del Letrado de la Administración de Justicia.
+Errada: Incorrecto. El nombramiento de un perito adicional en caso de número par no es competencia del Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Con base en la Ley de Enjuiciamiento Criminal, en relación a los bienes incautados o aprehendidos durante un procedimiento penal, ¿cuál es la medida correcta que se adopta?
+1)Los bienes de lícito comercio y perecederos se venderán a solicitud del Ministerio Fiscal, sin previa notificación al propietario. 
+2)Si no es posible mantener los objetos en su estado original, el Juez decidirá la mejor manera de preservarlos. 
+3)Si es posible mantener los objetos en su estado original, el Juez decidirá la mejor manera de preservarlos. 
+4)Los bienes de lícito comercio y perecederos se venderán a solicitud del Juez, sin previa notificación al propietario. 
+Respuesta: 2
+Correcta: ¡Correcto! El Juez determina cómo conservar de la mejor manera los objetos si no se pueden mantener en su estado original.
+Errada: Incorrecto. El Juez determina cómo conservar de la mejor manera los objetos si no se pueden mantener en su estado original. (Respuesta Correcta 2)
+###
+Pregunta: Según el protocolo policial, cuando el autor del delito es desconocido, ¿en qué circunstancias debe la Policía Judicial enviar el informe al Ministerio Fiscal y al Juez?
+1)En delitos contra la integridad física o relacionados con la corrupción. 
+2)Si las partes piden que se les envíe el informe. 
+3)Si el fiscal pide que se le envíe el informe. 
+4)Siempre que se realice alguna acción después de 24 horas de abrir el atestado. 
+Respuesta: 1
+Correcta: ¡Correcto! El atestado se envía en casos de delitos contra la integridad física o corrupción.
+Errada: Incorrecto. El atestado se envía en casos de delitos contra la integridad física o corrupción. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 329 de la LECRIM, ¿cuál es el procedimiento del Juez instructor para llevar a cabo una inspección ocular?
+1)Puede requerir que las personas presentes en la escena no se retiren y que otras cercanas se presenten, tomándoles declaración individualmente. 
+2)Puede requerir que las personas presentes en la escena se retiren y que otras cercanas se presenten, tomándoles declaración individualmente. 
+3)Debe requerir que las personas presentes en la escena no se retiren y que otras cercanas se presenten, tomándoles declaración individualmente. 
+4)Debe requerir que las personas presentes en la escena se retiren y que otras cercanas se presenten, tomándoles declaración individualmente. 
+Respuesta: 1
+Correcta: ¡Bien hecho! El Juez puede requerir la permanencia y presentación de individuos para tomarles declaración individualmente.
+Errada: Incorrecto. El Juez puede requerir la permanencia y presentación de individuos para tomarles declaración individualmente. (Respuesta Correcta 1)
+###
+Pregunta: En relación con los peritos, ¿cuál de las siguientes afirmaciones es incorrecta?
+1)Es posible que los peritos no tengan una titulación oficial. 
+2)El Juez solo utilizará peritos con una titulación oficial. 
+3)Los peritos titulares poseen un título oficial en un área regulada por la Administración. 
+4)Los peritos no titulares, aunque no tengan un título oficial, tienen conocimientos o habilidades especiales en un área particular. 
+Respuesta: 2
+Correcta: ¡Correcto! Esta afirmación es incorrecta, ya que los Jueces pueden utilizar tanto peritos titulares como no titulares.
+Errada: Incorrecto. Los Jueces pueden utilizar tanto peritos titulares como no titulares, según las necesidades del caso. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 287 LECRIM, las diligencias para comprobar el delito que el Ministerio Fiscal encomiende a la Policía Judicial, ¿en qué plazo deben practicarse?
+1)En un plazo máximo de 12 horas, según sus atribuciones respectivas. 
+2)En un plazo máximo de 5 horas, según sus atribuciones respectivas. 
+3)Sin dilación, según sus atribuciones respectivas. 
+4)En un plazo máximo de 7 horas, según sus atribuciones respectivas. 
+Respuesta: 3
+Correcta: ¡Correcto! Deben practicarse "sin dilación".
+Errada: Incorrecto. Deben practicarse "sin dilación". (Respuesta Correcta 3)
+###
+Pregunta: En relación a la inspección ocular y el artículo 327 LECRIM, ¿cuál afirmación es incorrecta para mayor claridad o comprobación de los hechos?
+1)Se hará el retrato de las personas que hubiesen sido objeto del delito. 
+2)Se levantará el plano del lugar suficientemente detallado. 
+3)Se hará la copia o diseño de los efectos o instrumentos del mismo que se hubiesen hallado. 
+4)Se hará consignar en los autos la descripción de los accidentes del terreno o situación de las habitaciones. 
+Respuesta: 4
+Correcta: ¡Correcto! Esta es la afirmación incorrecta en relación con la inspección ocular.
+Errada: Incorrecto. La afirmación incorrecta en relación con la inspección ocular es que se consignará en los autos la descripción de los accidentes del terreno o situación de las habitaciones. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 377 LECRIM sobre los informes del procesado, señala la respuesta correcta:
+1)Se podrán pedir a los funcionarios de policía del pueblo o pueblos donde hubiese residido. 
+2)El Juez de lo Penal puede solicitarlos, ya sea de oficio o a instancia del Ministerio Fiscal. 
+3)Se deberá pedir a los funcionarios de policía del pueblo o pueblos donde hubiese residido. 
+4)El Juez de lo Penal puede solicitarlos, ya sea de oficio o a instancia de las partes. 
+Respuesta: 1
+Correcta: ¡Exacto! Los informes se pueden solicitar a los funcionarios de policía del lugar de residencia del procesado.
+Errada: Incorrecto. Los informes se pueden solicitar a los funcionarios de policía del lugar de residencia del procesado. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 367 ter LECRIM sobre la destrucción de efectos judiciales, indica la afirmación incorrecta:
+1)Se hará constar en los autos. 
+2)Se realizará por el Juez instructor que tenga la custodia, una vez hechos los informes analíticos y aseguradas las muestras. 
+3)Puede decretarse si es necesario o conveniente debido a la naturaleza de los efectos o el peligro de su almacenamiento. 
+4)Se realizará previa audiencia al Ministerio Fiscal y al propietario, si se conoce, o a quien tenía los efectos. 
+Respuesta: 2
+Correcta: ¡Correcto! Esta es la afirmación incorrecta en relación a la destrucción de efectos judiciales.
+Errada: Incorrecto. La afirmación incorrecta es que la destrucción se realiza por el Juez instructor que tiene la custodia, tras los informes y aseguramiento de muestras. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el artículo 346 LECRIM, quienes tienen el deber de reemplazar a los médicos forenses y eviten hacerlo, ¿cuál será la consecuencia?
+1)Incurrirán en multa. 
+2)Incurrirán en inhabilitación. 
+3)Incurrirán en demérito. 
+4)Incurrirán en causa de separación. 
+Respuesta: 1
+Correcta: ¡Correcto! Aquellos que eviten su deber incurrirán en una multa.
+Errada: Incorrecto. Aquellos que eviten su deber incurrirán en una multa. (Respuesta Correcta 1)
+###
+Pregunta: Con respecto a la declaración, en fase de instrucción, cuando hay imputación de una persona jurídica, ¿cuál es la respuesta correcta?
+1)La declaración tiene como objetivo averiguar los hechos y la participación de la entidad imputada u otras personas que podrían haber intervenido en los mismos. 
+2)La declaración tiene como objetivo averiguar los hechos o la participación de la entidad imputada y otras personas que podrían haber intervenido en los mismos. 
+3)La declaración tiene como objetivo averiguar los hechos y la participación de la entidad imputada, pero no de otras personas. 
+4)La declaración tiene como objetivo averiguar los hechos y la participación de la entidad imputada y otras personas que podrían haber intervenido en los mismos. 
+Respuesta: 4
+Correcta: ¡Exacto! La declaración tiene como propósito entender los hechos y el involucramiento de todos los participantes.
+Errada: Incorrecto. La declaración busca averiguar los hechos y la participación de la entidad y otros involucrados. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál de las siguientes respuestas es incorrecta respecto a quienes están dispensados de declarar?
+1)El hermano del procesado sobre los hechos que este le haya confiado. 
+2)El Procurador del procesado sobre los hechos que este le haya confiado. 
+3)El Abogado del procesado sobre los hechos que este le haya confiado. 
+4)Traductores e intérpretes sobre las comunicaciones entre el acusado y quienes estén exentos de declarar, relacionado con su trabajo de traducción. 
+Respuesta: 2
+Correcta: ¡Correcto! El Procurador del procesado no está exento de declarar sobre los hechos confiados por el procesado.
+Errada: Incorrecto. El Procurador del procesado no está exento de declarar sobre hechos confiados por el procesado. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 379 LECRIM, ¿en cuánto tiempo debe el Jefe del Registro en el Ministerio proporcionar los antecedentes penales solicitados o, en su caso, certificación negativa?
+1)En un plazo inamovible de cinco días. 
+2)En un plazo inamovible de dos días. 
+3)En un plazo inamovible de tres días. 
+4)En un plazo inamovible de siete días. 
+Respuesta: 3
+Correcta: ¡Exacto! El plazo es inamovible y de tres días.
+Errada: Incorrecto. El plazo correcto es inamovible y de tres días. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 549 LOPJ, ¿cuál función le corresponde específicamente a las unidades de Policía Judicial?
+1)Averiguar sobre los responsables de delitos, detenerlos y notificar al Ministerio Fiscal según lo establecido. 
+2)Garantizar que se cumplan las órdenes y decisiones de la autoridad judicial o fiscal. 
+3)Ayudar a la autoridad judicial en acciones que se lleven a cabo en su sede, aunque no necesiten presencia policial. 
+4)Realizar formalmente acciones que requieran coerción y solo sean ordenadas por autoridad judicial. 
+Respuesta: 2
+Correcta: ¡Correcto! La Policía Judicial garantiza el cumplimiento de las órdenes y resoluciones judiciales o fiscales.
+Errada: Incorrecto. La función correcta es garantizar el cumplimiento de las órdenes y resoluciones judiciales o fiscales. (Respuesta Correcta 2)
+###
+Pregunta: Según la LECRIM, las acciones para preparar el juicio y determinar la comisión de delitos, sus circunstancias, y la culpabilidad de los delincuentes se denominan:
+1)Investigación. 
+2)El auto de culpabilidad. 
+3)El sumario. 
+4)La denuncia. 
+Respuesta: 3
+Correcta: ¡Correcto! Esas acciones se denominan "El sumario".
+Errada: Incorrecto. Esas acciones se refieren a "El sumario". (Respuesta Correcta 3)
+###
+Pregunta: Señale cuál de las siguientes afirmaciones acerca de los testigos es incorrecta.
+1)El testigo podrá dictar por sí mismo las contestaciones. 
+2)Los testigos declararán de viva voz. 
+3)Los testigos podrán consultar algún apunte que contenga datos difíciles de recordar. 
+4)Los testigos pueden leer respuestas que lleven escritas. 
+Respuesta: 4
+Correcta: ¡Correcto! Los testigos no pueden simplemente leer respuestas pre-escritas.
+Errada: Incorrecto. Los testigos no deben simplemente leer respuestas que tienen escritas previamente. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué circunstancias puede el juez acordar la prórroga del plazo máximo de la investigación?
+1)Solamente a instancia del Ministerio Fiscal, después de escuchar a los abogados. 
+2)De oficio o a instancia de parte, después de escuchar a las partes. 
+3)Solamente a instancia del Ministerio Fiscal, después de escuchar a las partes. 
+4)Solamente a instancia del Juez, después de escuchar a las partes. 
+Respuesta: 2
+Correcta: ¡Exacto! El juez puede acordar la prórroga ya sea de oficio o por petición, siempre oyendo a las partes involucradas.
+Errada: Incorrecto. El juez puede acordar la prórroga de oficio o a instancia de parte, siempre y cuando haya escuchado a las partes. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto al Médico Forense, señale la afirmación que es incorrecta:
+1)Necesitará el permiso del Presidente de la Audiencia para ausentarse del lugar de residencia si es por cinco días o menos. 
+2)Necesitará el permiso del Presidente de la Audiencia para ausentarse del lugar de residencia si es por diez días o menos. 
+3)Necesitará el permiso del Presidente de la Audiencia para ausentarse del lugar de residencia si es por quince días o menos. 
+4)Necesitará el permiso del Presidente de la Audiencia para ausentarse del lugar de residencia si es por doce días o menos. 
+Respuesta: 2
+Correcta: ¡Correcto! Esta afirmación no es precisa en relación con las regulaciones actuales del Médico Forense.
+Errada: Incorrecto. El Médico Forense no necesita específicamente el permiso del Presidente de la Audiencia para ausentarse por un periodo de diez días o menos. (Respuesta Correcta 2)
+###
+Pregunta: A tenor del art. 301 de la LECRIM, en relación con el "principio de secreto" de la fase instructora del proceso penal, si un funcionario público revela indebidamente el contenido del sumario, ¿qué consecuencia se desprende?
+1)Será corregido con multa de 500 a 1.000 euros. 
+2)Incurrirá en la responsabilidad que el Código Civil señale en su lugar respectivo. 
+3)Será corregido con multa de 200 a 5.000 euros. 
+4)Incurrirá en la responsabilidad que el Código Penal señale en su lugar respectivo. 
+Respuesta: 4
+Correcta: ¡Exacto! El artículo 301 LECRIM indica que el funcionario incurrirá en la responsabilidad que el Código Penal señale.
+Errada: Incorrecto. Según el art. 301 LECRIM, el funcionario incurrirá en la responsabilidad que el Código Penal señale. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 386 LECrim, si el procesado está detenido, ¿cuándo se le recibirá la primera declaración?
+1)Dentro del término de doce horas, que podrá prorrogarse por otras cuarenta y ocho horas, si mediare causa grave. 
+2)Dentro del término de veinticuatro horas, que podrá prorrogarse por otras veintiocho horas, si mediare causa grave. 
+3)Dentro del término de diez horas, que podrá prorrogarse por otras veinticuatro horas, si mediare causa grave. 
+4)Dentro del término de veinticuatro horas, que podrá prorrogarse por otras cuarenta y ocho horas, si mediare causa grave. 
+Respuesta: 4
+Correcta: ¡Correcto! Según el art. 386 LECrim, el procesado debe ser recibido en declaración dentro de 24 horas, prorrogables por 48 horas si hay causa grave.
+Errada: Incorrecto. Según el art. 386 LECrim, el término correcto es de 24 horas, prorrogables por 48 horas si hay una causa grave. (Respuesta Correcta 4)
+###
+Pregunta: Con base en el artículo 414 LECRIM, si miembros de las Oficinas Consulares resisten a recibir en su domicilio o residencia oficial al Juez o a declarar cuanto supieran sobre lo que les fuera preguntado, ¿qué se procede?
+1)Que el Juez lo comunicará inmediatamente al Ministerio de Justicia, remitiendo testimonio instructivo, y se abstendrá de todo procedimiento respecto a ellas, hasta que el consulado le comunique la resolución que sobre el caso se dictare. 
+2)Que el Juez lo comunicará inmediatamente al Ministerio de Justicia, remitiendo testimonio instructivo, y se abstendrá de todo procedimiento respecto a ellas, hasta que el funcionario le comunique la resolución que sobre el caso se dictare. 
+3)Que el Juez lo comunicará inmediatamente al Ministerio de Justicia, remitiendo testimonio instructivo, y se abstendrá de todo procedimiento respecto a ellas, hasta que el Ministro le comunique la resolución que sobre el caso se dictare. 
+4)Que el Juez lo comunicará inmediatamente al Ministerio de Justicia, remitiendo testimonio instructivo, y no se abstendrá de todo procedimiento respecto a ellas, hasta que el Ministro le comunique la resolución que sobre el caso se dictare. 
+Respuesta: 3
+Correcta: ¡Exacto! Según el art. 414 LECrim, el Juez comunicará al Ministerio de Justicia y se abstendrá de procedimientos hasta recibir respuesta.
+Errada: Incorrecto. La respuesta adecuada es que el Juez lo comunicará al Ministerio de Justicia y se abstendrá de actuar hasta que reciba una respuesta del mismo. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 412 LECRIM, ¿quiénes están exentos de presentarse cuando el Juez los llama, pero no de declarar como testigos?
+1)El Fiscal General del Estado. 
+2)Los Diputados o Senadores. 
+3)El Presidente del Tribunal Constitucional. 
+4)El Presidente del Tribunal Supremo. 
+Respuesta: 2
+Correcta: ¡Correcto! Los Diputados o Senadores están exentos de presentarse, pero deben declarar en su despacho oficial o en la sede del órgano al que pertenecen.
+Errada: Incorrecto. Los Diputados o Senadores están exentos de presentarse, pero tienen la obligación de declarar en sus respectivos lugares oficiales. (Respuesta Correcta 2)
+###
+Pregunta: En la fase de instrucción de un proceso penal, si un testigo es cónyuge del procesado o tiene una relación análoga a la matrimonial, ¿qué se aplica?
+1)Está dispensado de la obligación de comparecer para declarar como testigo. 
+2)No tiene la obligación de declarar en contra del procesado. 
+3)Tiene la obligación de declarar en contra del procesado. 
+4)No está dispensado de la obligación de comparecer para declarar como testigo. 
+Respuesta: 2
+Correcta: ¡Correcto! Los cónyuges o personas con relación análoga a la matrimonial no están obligadas a declarar en contra del procesado.
+Errada: Incorrecto. Los cónyuges o personas con relación análoga a la matrimonial no tienen la obligación de declarar en contra del procesado. (Respuesta Correcta 2)
+###
+Pregunta: Los Jueces de instrucción y los Fiscales, ¿cada cuánto comunicarán a sus respectivos superiores la calificación razonada del comportamiento de los funcionarios que bajo su dirección prestan servicios de Policía Judicial?
+1)Cada bimestre. 
+2)Cada 5 meses. 
+3)Cada semestre. 
+4)Cada 4 meses. 
+Respuesta: 3
+Correcta: ¡Exacto! Deben comunicarlo cada semestre.
+Errada: Incorrecto. La respuesta correcta es cada semestre. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 328 de la Ley de Enjuiciamiento Criminal, el Juez instructor, respecto a los vestigios del delito, ¿cuándo deberá describirlos y consultar el parecer de peritos?
+1)Cuando el delito que se persiga haya dejado vestigios o pruebas materiales de su perpetración. 
+2)Si se tratare de un robo o de cualquier otro delito cometido con fractura, escalamiento o violencia. 
+3)Cuando el delito que se persiga no haya dejado vestigios o pruebas materiales de su perpetración. 
+4)Ninguna es correcta. 
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 328 LECrim establece esta disposición para esos delitos específicos.
+Errada: Incorrecto. El art. 328 LECrim menciona que se debe describir y consultar peritos especialmente si se trata de un robo o delitos cometidos con fractura, escalamiento o violencia. (Respuesta Correcta 2)
+###
+Pregunta: Si un testigo se personara como acusación particular y fuese cónyuge del procesado, ¿está exento de la obligación de declarar en el proceso penal contra su pareja?
+1)No, estando obligado a declarar incluso si deja de estar personado como acusación particular. 
+2)Sí, siempre que no tengan hijos en común. 
+3)Sí, pues el cónyuge del procesado está dispensado de la obligación de declarar. 
+4)Dos son correctas. 
+Respuesta: 1
+Correcta: ¡Correcto! El testigo personado como acusación particular, aun siendo cónyuge, está obligado a declarar.
+Errada: Incorrecto. Aunque sea cónyuge del procesado, si se personó como acusación particular, está obligado a declarar. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuáles son causas de recusación de los peritos, conforme al artículo 468 LECrim?
+1)Haber sido sancionado disciplinariamente. 
+2)Ambas son correctas. 
+3)El interés indirecto en la causa o en otra semejante. 
+4)Ninguna es correcta. 
+Respuesta: 3
+Correcta: ¡Correcto! El interés indirecto en la causa o en otra similar es una causa de recusación para los peritos.
+Errada: Incorrecto. De acuerdo con el art. 468 LECrim, una de las causas de recusación para peritos es el interés indirecto en la causa o en otra similar. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 326 de la Ley de Enjuiciamiento Criminal, cuando se ponga de manifiesto la existencia de huellas o vestigios cuyo análisis biológico pudiera contribuir al esclarecimiento del hecho investigado:
+1)El Juez de Instrucción adoptará u ordenará a la Policía Judicial o al médico forense que adopte las medidas necesarias para que la recogida, custodia y examen de aquellas muestras se verifique en condiciones que garanticen su autenticidad. 
+2)El Juez de Instrucción adoptará u ordenará a la Policía Judicial y al médico forense que adopte las medidas necesarias para que la recogida, custodia y examen de aquellas muestras se verifique en condiciones que garanticen su autenticidad. 
+3)El Juez de de lo Penal adoptará u ordenará a la Policía Judicial o al médico forense que adopte las medidas necesarias para que la recogida, custodia y examen de aquellas muestras se verifique en condiciones que garanticen su autenticidad. 
+4)El Fiscal adoptará u ordenará a la Policía Judicial o al médico forense que adopte las medidas necesarias. 
+Respuesta: 1
+Correcta: ¡Exacto! El Juez de Instrucción tiene la potestad de ordenar la adopción de estas medidas.
+Errada: Incorrecto. El Juez de Instrucción es quien adoptará o dará la orden a la Policía Judicial o al médico forense para que lo hagan. (Respuesta Correcta 1)
+###
+Pregunta: El nombramiento de los peritos se notificará:
+1)Al Ministerio Fiscal en el plazo de 2 días. 
+2)Al acusador particular. 
+3)Al Juez en el plazo de 2 días. 
+4)Al ofendido en el plazo de 2 días. 
+Respuesta: 2
+Correcta: ¡Correcto! Se notifica al actor particular.
+Errada: Incorrecto. Se debe notificar al actor particular. (Respuesta Correcta 2)
+###
+Pregunta: De conformidad con el artículo 6 de la Ley 4/2015, del Estatuto de la Víctima del delito, ¿qué comunicará la Policía Judicial al denunciante en caso de no ser identificado el autor?
+1)Que en caso de no ser identificado el autor en el plazo de veinticuatro horas, las actuaciones no se remitirán a la autoridad judicial, sin perjuicio de su derecho a reiterar la denuncia ante el juzgado de instrucción. 
+2)Que en caso de no ser identificado el autor en el plazo de cuarenta y ocho horas, las actuaciones no se remitirán a la autoridad judicial, sin perjuicio de su derecho a reiterar la denuncia ante la fiscalía o el juzgado de instrucción. 
+3)Que en caso de no ser identificado el autor en el plazo de cuarenta y ocho horas, las actuaciones se remitirán a la autoridad judicial, sin perjuicio de su derecho a reiterar la denuncia ante la fiscalía o el juzgado de instrucción. 
+4)Que en caso de ser identificado el autor en el plazo de cuarenta y ocho horas, las actuaciones no se remitirán a la autoridad judicial, sin perjuicio de su derecho a reiterar la denuncia ante la fiscalía o el juzgado de instrucción. 
+Respuesta: 2
+Correcta: ¡Exacto! Así es la comunicación que se le hace al denunciante según el artículo mencionado.
+Errada: Incorrecto. La correcta es que si no se identifica al autor en 48 horas, las actuaciones no se remiten, pero el denunciante puede reiterar la denuncia. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 286 LECRIM, cuando el Juez de instrucción se presentase a formar el sumario:
+1)Cesarán las diligencias de prevención que estuviere practicando cualquier Autoridad o agente de policía, poniendo a su disposición al Fiscal en el lapso de 2 días. 
+2)Cesarán las diligencias de prevención que estuviere practicando cualquier Autoridad o agente de policía, poniendo a su disposición a los detenidos, si los hubiese. 
+3)Continuarán las diligencias de prevención que estuviere practicando cualquier Autoridad o agente de policía. 
+4)Ninguna es correcta. 
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo mencionado, cesarán las diligencias y se pondrán a disposición del juez a los detenidos.
+Errada: Incorrecto. La disposición correcta es que cesarán las diligencias y se pondrán a disposición del juez a los detenidos. (Respuesta Correcta 2)
+###
+Pregunta: Cuando el delito fuere de los que no dejan huellas de su perpetración, ¿cómo procurará el Juez instructor hacer constar la ejecución del delito y sus circunstancias, así como la preexistencia de la cosa cuando el delito hubiese tenido por objeto la sustracción de la misma?
+1)Por declaración de testigos, de la Policía Nacional y por los demás medios de comprobación del delito. 
+2)Por declaración de testigos, de la Policía Judicial y por los demás medios de comprobación del delito. 
+3)Por declaraciones de testigos y por los demás medios de comprobación del delito. 
+4)Por declaración de testigos, de la fiscalía y por los demás medios de comprobación del delito. 
+Respuesta: 3
+Correcta: ¡Exacto! El Juez se basará en las declaraciones de testigos y otros medios de comprobación.
+Errada: Incorrecto. El Juez hará constar la ejecución del delito basándose en declaraciones de testigos y otros medios de comprobación. (Respuesta Correcta 3)
+###
+Pregunta: Los miembros de la Policía Judicial tienen un límite de tiempo para informar a la autoridad judicial o al Ministerio Fiscal sobre las acciones que han llevado a cabo. Este límite es:
+1)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 285, apartado 2, de la LECRIM. 
+2)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 283, apartado 2, de la LECRIM. 
+3)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 280, apartado 2, de la LECRIM. 
+4)No más de 24 horas después de haber llevado a cabo las diligencias, a excepción de casos de fuerza mayor o lo estipulado en el artículo 284, apartado 2, de la LECRIM. 
+Respuesta: 4
+Correcta: ¡Correcto! Los miembros de la Policía Judicial deben informar dentro de un periodo de 24 horas.
+Errada: Incorrecto. La respuesta correcta es que tienen un plazo de 24 horas para informar de sus acciones. (Respuesta Correcta 4)
+###
+Pregunta: En las investigaciones de muertes violentas o con indicios de actividad criminal, si a simple vista se puede deducir la causa de la muerte:
+1)Ninguna es correcta. 
+2)Se procederá al juicio. 
+3)No se realizará una autopsia al cuerpo. 
+4)Se realizará una autopsia al cuerpo. 
+Respuesta: 4
+Correcta: ¡Bien hecho! En tales circunstancias, es necesario realizar una autopsia para determinar la causa exacta de la muerte.
+Errada: Lo siento, esa no es la respuesta correcta. En tales situaciones, es esencial llevar a cabo una autopsia para establecer con certeza la causa de la muerte. (Respuesta Correcta 4)

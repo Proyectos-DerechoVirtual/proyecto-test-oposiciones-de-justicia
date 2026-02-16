@@ -1,0 +1,899 @@
+Pregunta: De acuerdo con el artículo 983 de la LECrim, cuando un acusado es absuelto mediante sentencia, ¿cuándo será liberado?
+1)Será liberado de a las 12 horas, salvo que un recurso con efecto suspensivo o cualquier otra razón legal justifique mantenerlo en detención.
+2)Será liberado de a las 24 horas, salvo que un recurso con efecto suspensivo o cualquier otra razón legal justifique mantenerlo en detención.
+3)Será liberado de inmediato, salvo que un recurso sin efecto suspensivo o cualquier otra razón legal justifique mantenerlo en detención.
+4)Será liberado de inmediato, salvo que un recurso con efecto suspensivo o cualquier otra razón legal justifique mantenerlo en detención.
+Respuesta: 4
+Correcta: ¡Correcto! Una persona absuelta es liberada inmediatamente, a menos que haya razones legales que impidan su liberación.
+Errada: Lo siento, esa no es la respuesta correcta. Un acusado absuelto es liberado inmediatamente, a menos que haya motivos legales que justifiquen mantenerlo detenido. (Respuesta Correcta 4)
+###
+Pregunta: Si un acusado absuelto es retenido debido a un recurso con efecto suspensivo o por otros motivos legales, ¿qué tipo de documento lo ordenará?
+1)Un decreto con explicación de los motivos.
+2)Un requerimiento con explicación de los motivos.
+3)Un auto con explicación de los motivos.
+4)Una carta-orden con explicación de los motivos.
+Respuesta: 3
+Correcta: ¡Exactamente! Un auto motivado es el que ordena esta situación.
+Errada: Incorrecto. Es un auto motivado el que establece este tipo de retenciones. (Respuesta Correcta 3)
+###
+Pregunta: Si los activos de un condenado no son suficientes para cubrir las responsabilidades económicas según el art. 246 LECRIM, ¿cómo se determinará el orden de pago?
+1)Segun indica la ley rituaria penal.
+2)Según lo que establece el Código Penal.
+3)Según lo que establece el Código Civil.
+4)Según lo que establece la Ley Orgánica del Poder Judicial.
+Respuesta: 2
+Correcta: ¡Bien hecho! El orden de pago se determinará según lo establecido en el Código Penal.
+Errada: Lamentablemente, eso no es correcto. El orden de pago se establece según lo que determina el Código Penal. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el Código Penal, ¿bajo qué circunstancias una Comunidad Autónoma será responsable de los daños causados por uno de sus agentes en el desempeño de su función si este cometió un delito?
+1)Cuando el daño resulte directamente de la operación de los servicios públicos asignados al agente.
+2)Cuando el daño resulte directamente de la operación de los servicios privados asignados al agente.
+3)Cuando el daño resulte indirectamente de la operación de los servicios públicos asignados al agente.
+4)Cuando el daño resulte indirectamente de la operación de los servicios privados asignados al agente.
+Respuesta: 1
+Correcta: ¡Perfecto! Una Comunidad Autónoma responderá cuando el daño sea una consecuencia directa de la operación de los servicios públicos asignados.
+Errada: Esa no es la respuesta correcta. Una Comunidad Autónoma será responsable si el daño resulta directamente de la operación de los servicios públicos que le estuvieran confiados al agente. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el Código Penal, ¿qué responsabilidad pecuniaria debe ser abonada primero por el condenado?
+1)Las costas.
+2)La multa.
+3)La compensación por daños y perjuicios.
+4)Ninguna de las anteriores.
+Respuesta: 3
+Correcta: ¡Correcto! La prioridad es compensar el daño y los perjuicios causados.
+Errada: Esa no es la respuesta adecuada. El primer pago que debe realizar el condenado es la compensación por daños y perjuicios. (Respuesta Correcta 3)
+###
+Pregunta: Según el Código Penal, ¿cuál es la responsabilidad civil de alguien que ha obtenido beneficios de un delito sin haber participado directamente en él?
+1)Estará obligado a compensar el daño hasta el monto de su beneficio exclusivamente.
+2)Estará obligado a donar lo obtenido o compensar el daño hasta el monto de su beneficio.
+3)Estará obligado a devolver lo obtenido y a compensar el daño hasta el monto de su beneficio.
+4)Estará obligado a devolver lo obtenido o compensar el daño hasta el monto de su beneficio.
+Respuesta: 4
+Correcta: ¡Exacto! La persona debe restituir o compensar hasta el monto de lo que haya beneficiado.
+Errada: Lamentablemente, eso no es correcto. La persona deberá restituir o compensar hasta el monto de lo que haya beneficiado. (Respuesta Correcta 4)
+###
+Pregunta: Tras aceptar un decreto en un proceso de delito leve, ¿a quién corresponde la ejecución de las sentencias?
+1)El Juez de guardia.
+2)Al Tribunal que la haya emitido.
+3)Al Letrado de la Adminstración de Justicia.
+4)Al Ministerio Fiscal y al demandante o denunciante si lo hubiere.
+Respuesta: 2
+Correcta: ¡Bien hecho! La ejecución corresponde al Tribunal que emitió la sentencia.
+Errada: Esa no es la respuesta correcta. La ejecución de la sentencia corresponde al Tribunal que la emitió. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué recurso es procedente contra los autos de las Audiencias Provinciales y, en su caso, de la Audiencia Nacional, al resolver recursos de apelación que no sean aptos para casación ordinaria?
+1)Recurso de casación ordinario.
+2)Recurso de súplica.
+3)Recurso de casación para unificación de doctrina ante la Sala de lo Penal del Tribunal Supremo, conforme a la Ley de Enjuiciamiento Criminal.
+4)Recurso de reforma.
+Respuesta: 3
+Correcta: ¡Acertado! El recurso de casación para unificación de doctrina es el adecuado en este caso.
+Errada: Esa no es la respuesta adecuada. El recurso apropiado es el de casación para unificación de doctrina. (Respuesta Correcta 3)
+###
+Pregunta: Tras la casación por la Sala Segunda del Tribunal Supremo, ¿quién ejecuta la sentencia?
+1)El Tribunal Supremo directamente.
+2)El Ministerio Fiscal.
+3)El LAJ.
+4)El Tribunal que emitió la sentencia casada, basado en una certificación de la Sala Segunda.
+Respuesta: 4
+Correcta: ¡Correcto! La sentencia es ejecutada por el Tribunal que emitió la sentencia casada.
+Errada: Lo siento, esa no es la respuesta adecuada. La ejecución corre a cargo del Tribunal que emitió la sentencia casada. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al art. 243 LECRIM, tras la tasación y regulación de costas, ¿cuánto tiempo se le da al Ministerio Fiscal y a la parte condenada al pago para presentar sus observaciones?
+1)Tres días.
+2)Cinco días.
+3)Siete días.
+4)Nueve días.
+Respuesta: 1
+Correcta: ¡Perfecto! Se otorga un plazo de tres días.
+Errada: Incorrecto. Se concede un plazo de tres días para presentar observaciones. (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes no es una función del Juez de Vigilancia Penitenciaria:
+1)Dictar la pena.
+2)Corregir posibles abusos y desviaciones en el cumplimiento del régimen penitenciario.
+3)Asegurar el cumplimiento de la pena impuesta.
+4)Proteger los derechos de los reclusos.
+Respuesta: 1
+Correcta: ¡Correcto! No es una función Dictar la pena.
+Errada: La respuesta correcta es la 1. La imposición de la pena corresponde al tribunal sentenciador, no al de Vigilancia Penitenciaria. (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones sobre las costas es incorrecta:
+1)Las costas incluyen indemnizaciones a testigos que las hayan solicitado, siempre que deban ser pagadas, y otros gastos incurridos durante la instrucción del caso.
+2)Las costas incluyen los honorarios que devengan el Juez, Abogados y peritos.
+3)Las costas incluyen el costo del papel sellado utilizado en el caso.
+4)Las costas incluyen el pago de los derechos arancelarios.
+Respuesta: 2
+Correcta: ¡Exactamente! Las costas no incluyen honorarios devengados por el Juez.
+Errada: Lo siento, esa opción no es correcta. Las costas no incluyen los honorarios o retribuciones del Juez, ya que su salario forma parte de los gastos generales del Estado. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Disposición Adicional 5º de la Ley Orgánica del Poder Judicial, ¿quién resuelve los recursos contra las decisiones del Juez de Vigilancia Penitenciaria en materia de ejecución de penas cuando el condenado cumple varias de ellas?
+1)El juzgado o tribunal que impuso la pena más blanda y, si varios lo hicieron con igual gravedad, el que lo hizo primero.
+2)El juzgado o tribunal que impuso la pena más severa y, si varios lo hicieron con igual gravedad, el que lo hizo primero.
+3)El juzgado o tribunal que impuso la pena más blanda y, si varios lo hicieron con igual gravedad, el que lo hizo último.
+4)El juzgado o tribunal que impuso la pena más severa y, si varios lo hicieron con igual gravedad, el que lo hizo último.
+Respuesta: 4
+Correcta: ¡Correcto! La competencia corresponde al que impuso la pena más grave y, en caso de empate, al que la impuso en último lugar.
+Errada: Esa no es la respuesta adecuada. La competencia corresponde al tribunal que impuso la pena más grave y, en caso de empate, al que la impuso en último lugar. (Respuesta Correcta 4)
+###
+Pregunta: Cuando se declara la responsabilidad civil derivada de un delito, ¿qué deben hacer los jueces y tribunales?
+1)Establecer razonadamente en sus resoluciones las bases para determinar el monto de daños e indemnizaciones, debiendo definirlo en la misma resolución.
+2)Establecer razonadamente en sus resoluciones las bases para determinar el monto de los honorarios del abogado, pudiendo definirlo en la misma resolución o al momento de su ejecución.
+3)Establecer razonadamente en sus resoluciones las bases para determinar las costas, pudiendo definirlo en la misma resolución o al momento de su ejecución.
+4)Establecer razonadamente en sus resoluciones las bases para determinar el monto de daños e indemnizaciones, pudiendo definirlo en la misma resolución o al momento de su ejecución.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los jueces y tribunales deben establecer las bases para determinar el monto de daños e indemnizaciones en sus resoluciones.
+Errada: Esa no es la respuesta correcta. Los jueces y tribunales deben establecer las bases para determinar el monto de daños e indemnizaciones en sus resoluciones. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué tipo de resolución se puede emitir respecto al pago de las costas procesales?
+1)Declarar las costas de oficio
+2)Condenar al querellante particular o actor civil a su pago.
+3)Condenar a los acusados al pago, especificando la proporción que corresponda a cada uno si hay varios.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Todas las opciones mencionadas son resoluciones válidas respecto al pago de las costas procesales.
+Errada: Esa opción no es correcta. Todas las opciones mencionadas son resoluciones válidas respecto al pago de las costas procesales. (Respuesta Correcta 4)
+###
+Pregunta: Según el Código Penal, ¿quiénes son considerados responsables civiles subsidiarios?
+1)Los curadores con facultades de representación plena que convivan con la persona a quien prestan apoyo, salvo que haya culpa y negligencia de su parte.
+2)Los curadores con facultades de representación plena que convivan con la persona a quien prestan apoyo, salvo que haya culpa o negligencia de su parte.
+3)Los curadores con facultades de representación plena que convivan con la persona a quien prestan apoyo, siempre que haya culpa o negligencia de su parte.
+4)Los curadores sin facultades de representación plena que convivan con la persona a quien prestan apoyo, siempre que haya culpa o negligencia de su parte.
+Respuesta: 3
+Correcta: ¡Correcto! Los curadores con representación plena que convivan con la persona a quien apoyan son considerados responsables civiles subsidiarios si hay culpa o negligencia de su parte.
+Errada: Lo siento, esa opción no es correcta. Los curadores con representación plena que convivan con la persona a quien apoyan son considerados responsables civiles subsidiarios si hay culpa o negligencia de su parte. (Respuesta Correcta 3)
+###
+Pregunta: Si no se impugna la tasación de costas practicada en el plazo de 3 días establecido en la LeCrim, ¿qué ocurre?
+1)Se actuará de acuerdo con lo estipulado en la Ley Orgánica del Poder Judicial.
+2)Se actuará de acuerdo con lo estipulado en la Ley de Enjuiciamiento Criminal.
+3)Se actuará de acuerdo con lo estipulado en el Código Penal.
+4)Se actuará de acuerdo con lo estipulado en la Ley de Enjuiciamiento Civil.
+Respuesta: 4
+Correcta: ¡Exacto! Si no se impugna la tasación de costas, se actuará conforme a lo dispuesto en la Ley de Enjuiciamiento Civil.
+Errada: Esa no es la respuesta adecuada. Si no se impugna la tasación de costas, se actuará conforme a lo dispuesto en la Ley de Enjuiciamiento Civil. (Respuesta Correcta 4)
+###
+Pregunta: ¿A qué órgano judicial le corresponde ejecutar las sentencias en juicios sobre delitos leves?
+1)Al órgano que haya conocido del juicio. Si no puede practicar por sí mismo todas las diligencias necesarias, se dirigirá al órgano judicial de la circunscripción donde deben tener efecto, para consultar.
+2)Al órgano que haya conocido del juicio. Si puede practicar por sí mismo todas las diligencias necesarias, se dirigirá al órgano judicial de la circunscripción donde deben tener efecto, para que las practique.
+3)Al órgano que haya conocido del juicio. Si no puede practicar por sí mismo todas las diligencias necesarias, se dirigirá al órgano judicial de la circunscripción donde deben tener efecto, para que las practique.
+4)Al órgano que haya conocido del juicio. Si no puede practicar por sí mismo todas las diligencias necesarias, no se dirigirá al órgano judicial de la circunscripción donde deben tener efecto, para que las practique.
+Respuesta: 3
+Correcta: ¡Correcto! La ejecución de sentencias en juicios sobre delitos leves corresponde al órgano que conoció del juicio, y en caso de no poder llevar a cabo todas las diligencias, se dirigirá al órgano judicial apropiado.
+Errada: Esa opción no es correcta. La ejecución de sentencias en juicios sobre delitos leves corresponde al órgano que conoció del juicio, y en caso de no poder llevar a cabo todas las diligencias, se dirigirá al órgano judicial apropiado. (Respuesta Correcta 3)
+###
+Pregunta: Según la LOPJ, corresponde especialmente al Juez de Vigilancia aprobar las sanciones de aislamiento en celda:
+1)De duración superior a diez días
+2)De duración superior a doce días
+3)De duración superior a catorce días
+4)De duración superior a quince días
+Respuesta: 3
+Correcta: ¡Correcto! Según la LOGP, corresponde al Juez de Vigilancia aprobar las sanciones de aislamiento en celda de duración superior a catorce días.
+Errada: Esa no es la respuesta adecuada. Según la LOGP, corresponde al Juez de Vigilancia aprobar las sanciones de aislamiento en celda de duración superior a catorce días. (Respuesta Correcta 3)
+###
+Pregunta: Según el Código Penal, toda persona criminalmente responsable de un delito:
+1)No lo es también civilmente si del hecho se derivaren daños o perjuicios.
+2)Lo es también civilmente si del hecho se derivaren daños o perjuicios. Si son dos o más los responsables de un delito los jueces o tribunales no señalarán la cuota de que deba responder cada uno.
+3)Lo es también penalmente si del hecho se derivaren daños o perjuicios. Si son dos o más los responsables de un delito los jueces o tribunales señalarán la cuota de que deba responder cada uno.
+4)Lo es también civilmente si del hecho se derivaren daños o perjuicios. Si son dos o más los responsables de un delito los jueces o tribunales señalarán la cuota de que deba responder cada uno.
+Respuesta: 4
+Correcta: ¡Exacto! Toda persona criminalmente responsable de un delito es también civilmente responsable si del hecho se derivan daños o perjuicios, y los jueces o tribunales señalarán la cuota de que deba responder cada uno.
+Errada: Lo siento, esa opción no es correcta. Toda persona criminalmente responsable de un delito es también civilmente responsable si del hecho se derivan daños o perjuicios, y los jueces o tribunales señalarán la cuota de que deba responder cada uno. (Respuesta Correcta 4)
+###
+Pregunta: En los recursos contra las resoluciones del Juez de Vigilancia Penitenciaria, ¿cómo se atribuirá el conocimiento de los que correspondan a las Audiencias donde haya más de una sección?
+1)Mediante las normas de reparto, se atribuirá el conocimiento de los recursos que les correspondan según la Disposición Adicional 4ª LOPJ, con carácter exclusivo, a una o dos secciones.
+2)Mediante las normas de reparto, se atribuirá el conocimiento de los recursos que les correspondan según la Disposición Adicional 5ª LOPJ, con carácter exclusivo, a una o dos secciones.
+3)Mediante las normas de reparto, se atribuirá el conocimiento de los recursos que les correspondan según la Disposición Adicional 6ª LOPJ, con carácter exclusivo, a una o dos secciones.
+4)Mediante las normas de reparto, se atribuirá el conocimiento de los recursos que les correspondan según la Disposición Adicional 3ª LOPJ, con carácter exclusivo, a una o dos secciones.
+Respuesta: 2
+Correcta: ¡Bien hecho! Mediante las normas de reparto, se atribuye el conocimiento de los recursos que correspondan según la Disposición Adicional 5ª LOPJ a una o dos secciones de manera exclusiva.
+Errada: Esa respuesta no es la correcta. Mediante las normas de reparto, se atribuye el conocimiento de los recursos que correspondan según la Disposición Adicional 5ª LOPJ a una o dos secciones de manera exclusiva. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quiénes están legitimados para interponer recurso de casación para la unificación de doctrina ante la Sala de lo Penal del Tribunal Supremo en los casos señalados por la Disposición Adicional 5ª de la Ley Orgánica del Poder Judicial?
+1)El Ministerio Fiscal.
+2)El Ministerio Fiscal y el letrado del penado.
+3)El Ministerio Fiscal y el letrado de la acusación.
+4)El Ministerio Fiscal y el Juez.
+Respuesta: 2
+Correcta: ¡Correcto! Tanto el Ministerio Fiscal como el letrado del penado están legitimados para interponer el recurso de casación en los casos indicados.
+Errada: Esa respuesta no es la adecuada. Tanto el Ministerio Fiscal como el letrado del penado están legitimados para interponer el recurso de casación en los casos indicados. (Respuesta Correcta 2)
+###
+Pregunta: ¿Dónde se resolverá sobre el pago de las costas procesales?
+1)En los autos que pongan término a la causa o a cualquiera de los incidentes.
+2)En los autos o sentencias que pongan término a la causa o a cualquiera de los incidentes.
+3)En las sentencias que pongan término a la causa o a cualquiera de los incidentes.
+4)En los autos o sentencias que pongan término a la causa y a cualquiera de los incidentes.
+Respuesta: 2
+Correcta: ¡Exacto! Las costas procesales se resolverán en los autos o sentencias que pongan término a la causa o a cualquier incidente.
+Errada: Esa no es la respuesta correcta. Las costas procesales se resolverán en los autos o sentencias que pongan término a la causa o a cualquier incidente. (Respuesta Correcta 2)
+###
+Pregunta: Cuando los bienes del responsable civil no sean suficientes para satisfacer de una vez todas las responsabilidades pecuniarias, ¿qué podrá hacer el Juez o Tribunal?
+1)Podrá fraccionar su pago, señalando, según su prudente arbitrio y en atención a las necesidades del perjudicado y a las posibilidades económicas del responsable, el período e importe de los plazos. Para ello, será necesaria la audiencia del perjudicado.
+2)Podrá fraccionar su pago, señalando, según su prudente arbitrio y en atención a las necesidades del perjudicado y a las posibilidades económicas del responsable, el período e importe de los plazos. Para ello, no será necesaria la audiencia del perjudicado.
+3)No podrá fraccionar su pago, señalando, según su prudente arbitrio y en atención a las necesidades del perjudicado y a las posibilidades económicas del responsable, el período e importe de los plazos. Para ello, será necesaria la audiencia del perjudicado.
+4)Podrá fraccionar su pago, señalando, según su prudente arbitrio y en atención a las necesidades del perjudicado o a las posibilidades económicas del responsable, el período e importe de los plazos. Para ello, no será necesaria la audiencia del perjudicado.
+Respuesta: 1
+Correcta: ¡Bien hecho! Cuando los bienes del responsable civil no sean suficientes, el Juez o Tribunal puede fraccionar su pago considerando tanto las necesidades del perjudicado como las posibilidades económicas del responsable, siendo necesaria la audiencia del perjudicado.
+Errada: Esa respuesta no es la adecuada. Cuando los bienes del responsable civil no sean suficientes, el Juez o Tribunal puede fraccionar su pago considerando tanto las necesidades del perjudicado como las posibilidades económicas del responsable, siendo necesaria la audiencia del perjudicado. (Respuesta Correcta 1)
+###
+Pregunta: En materia de recursos contra las resoluciones de los Jueces de Vigilancia Penitenciaria relacionados con clasificación de penados o concesión de la libertad condicional, ¿tendrá el recurso efecto suspensivo?
+1)Sí, siempre y cuando la resolución objeto del recurso pueda dar lugar a la excarcelación del interno o se trate de condenados por delitos graves.
+2)Sí, siempre y cuando la resolución objeto del recurso pueda dar lugar a la excarcelación del interno y se trate de condenados por delitos graves.
+3)No, siempre y cuando la resolución objeto del recurso pueda dar lugar a la excarcelación del interno y se trate de condenados por delitos graves.
+4)Nunca cuando la resolución objeto del recurso pueda dar lugar a la excarcelación del interno y se trate de condenados por delitos graves.
+Respuesta: 2
+Correcta: ¡Correcto! El recurso tendrá efecto suspensivo si la resolución puede dar lugar a la excarcelación del interno y se trata de condenados por delitos graves.
+Errada: Lo siento, esa opción no es correcta. El recurso tendrá efecto suspensivo si la resolución puede dar lugar a la excarcelación del interno y se trata de condenados por delitos graves. (Respuesta Correcta 2)
+###
+Pregunta: ¿En qué se basan las costas dentro de un procedimiento penal?
+1)En la suma de los conceptos posteriores.
+2)En el esfuerzo del Ministerio Fiscal.
+3)En el trabajo del Juez.
+4)En las tarifas que acumulan los Abogados y expertos.
+Respuesta: 4
+Correcta: ¡Exacto! Las costas en un procedimiento penal se basan, entre otros conceptos, en las tarifas que acumulan los Abogados y expertos.
+Errada: Lamentablemente, esa no es la opción correcta. Las costas en un procedimiento penal se basan, entre otros conceptos, en las tarifas que acumulan los Abogados y expertos. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 4.5 de la Ley Orgánica 5/2003, ¿qué entidad aborda el recurso de queja contra las decisiones del Juez Central de Vigilancia Penitenciaria?
+1)El Juzgado de Instrucción.
+2)La Sala de lo Penal de la Audiencia Nacional.
+3)El Juzgado de lo Penal.
+4)La Sala de lo Penal de la Audiencia Provincial.
+Respuesta: 2
+Correcta: ¡Bien hecho! La Sala de lo Penal de la Audiencia Nacional es quien conoce del recurso de queja en este caso.
+Errada: No es correcto. La Sala de lo Penal de la Audiencia Nacional es quien conoce del recurso de queja en este caso. (Respuesta Correcta 2)
+###
+Pregunta: Según el Código Penal, ¿hasta qué medida son civilmente responsables los aseguradores?
+1)Hasta donde determine el Letrado de la Administración de Justicia.
+2)Hasta el monto de indemnización acordado contractualmente.
+3)Hasta el monto de indemnización definido legalmente o acordado contractualmente.
+4)Hasta el monto de indemnización definido legalmente.
+Respuesta: 3
+Correcta: ¡Correcto! Los aseguradores son civilmente responsables hasta el monto de indemnización definido legalmente o acordado contractualmente.
+Errada: Lo siento, esa opción no es la correcta. Los aseguradores son civilmente responsables hasta el monto de indemnización definido legalmente o acordado contractualmente. (Respuesta Correcta 3)
+###
+Pregunta: Según la LECrim, ¿cuánto tiempo hay para objetar como excesivas algunas de las tarifas de honorarios?
+1)8 días.
+2)4 días.
+3)3 días.
+4)2 días.
+Respuesta: 3
+Correcta: ¡Exactamente! Se dispone de 3 días para objetar como excesivas algunas tarifas de honorarios.
+Errada: Esa respuesta no es correcta. Se dispone de 3 días para objetar como excesivas algunas tarifas de honorarios. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la LOPJ, ¿dónde deben residir los jueces y magistrados que sirven en las Secciones de Vigilancia Penitenciaria?
+1)En la capital de la provincia donde se ubique la prisión principal.
+2)En la población donde tenga su sede la Sección de Vigilancia Penitenciaria.
+3)En cualquiera de los municipios donde exista un centro penitenciario bajo su jurisdicción.
+4)No tienen obligación de residencia específica, siempre que garanticen su disponibilidad.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 333 de la LOPJ establece que los jueces y magistrados deben residir en la población donde el órgano jurisdiccional tenga su sede.
+Errada: Incorrecto. La obligación general de residencia, según el artículo 333 de la LOPJ, es en la población donde el órgano tenga su sede. (Respuesta Correcta 2)
+###
+Pregunta: En un proceso penal, ¿cómo actúa el Ministerio Fiscal respecto a la acción civil?
+1)Inicia la acción penal independientemente de la presencia de un acusador particular en el proceso.
+2)Inicia la acción civil junto con la penal independientemente de la presencia de un acusador particular en el proceso.
+3)Inicia la acción civil junto con la penal denpendiendo de la presencia de un acusador particular en el proceso.
+4)Inicia la acción civil independientemente de la presencia de un acusador particular en el proceso.
+Respuesta: 2
+Correcta: ¡Correcto! Salvo renuncia expresa del ofendido, el Ministerio Fiscal ejercitará la acción civil conjuntamente con la penal.
+Errada: No es correcto. Por regla general, el Ministerio Fiscal ejercita la acción civil junto con la penal, haya o no acusador particular, a menos que el ofendido renuncie a ella. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué establece el Código Penal sobre la restitución de un bien obtenido mediante un acto delictivo?
+1)No debe ser restituido, si es posible, en su estado original, sin compensación por los daños que el juez estime.
+2)Debe ser restituido, si es posible, en su estado original, con compensación por los daños que el juez estime.
+3)Debe ser restituido, si no es posible, en su estado original, con compensación por los daños que el juez estime.
+4)Debe ser restituido, si es posible, en su estado original, sin compensación por los daños que el juez estime.
+Respuesta: 2
+Correcta: ¡Correcto! Debe ser restituido, si es posible, en su estado original, con compensación por los daños que el juez estime.
+Errada: La respuesta correcta es la 2. La restitución incluye la cosa en sí y el abono de los deterioros y menoscabos. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál entidad jurídica es responsable de proteger los derechos de los reclusos en prisión?
+1)El Defensor del reo.
+2)El Juez de Instrucción.
+3)El Juez de Vigilancia Penitenciaria.
+4)El Juez de lo Penal.
+Respuesta: 3
+Correcta: ¡Bien! Es el Juez de Vigilancia Penitenciaria.
+Errada: Incorrecto. Es el Juez de Vigilancia Penitenciaria, según el art. 94 de la LOPJ. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo al artículo 988 de la Ley de Enjuiciamiento Criminal, ¿qué tipo de recurso puede interponerse contra el auto que resume todas las penas impuestas al recluso y establece el máximo tiempo de cumplimiento?
+1)Recurso de súplica.
+2)Recurso de reforma.
+3)Recurso de casación por violación de la ley.
+4)Recurso de casación ordinario.
+Respuesta: 3
+Correcta: ¡Bien! Es Recurso de casación por violación de la ley.
+Errada: Incorrecto. El artículo 988 LECrim establece que contra dicho auto procederá el recurso de casación por infracción de ley. (Respuesta Correcta 3)
+###
+Pregunta: En situaciones de calumnias o injurias hechas públicamente, ¿cómo es considerada la responsabilidad civil del dueño del medio de comunicación usado para difundirlas?
+1)El dueño es considerado responsable civil solidariamente.
+2)El dueño es considerado responsable penal solidariamente.
+3)El dueño no es considerado responsable civil solidariamente.
+4)El dueño es considerado responsable civil mancumanadamente.
+Respuesta: 1
+Correcta: ¡Bien! El dueño es considerado responsable civil solidariamente.
+Errada: Incorrecto. Según el artículo 212 del Código Penal, en estos casos, la persona física o jurídica propietaria del medio informativo es responsable civil solidaria. (Respuesta Correcta 1)
+###
+Pregunta: En el auto donde se suman todas las penas dictadas a un delincuente en diversos procedimientos penales, indicando el máximo tiempo de cumplimiento, ¿qué recurso es posible interponer?
+1)Recurso de casación por violación de la ley.
+2)Recurso de casación ordinario.
+3)Recurso de casación para unificación de doctrina.
+4)Recurso de queja.
+Respuesta: 1
+Correcta: ¡Correcto! Recurso de casación por violación de la ley.
+Errada: Incorrecto. La respuesta correcta es el recurso de casación por infracción de ley, conforme al artículo 988 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: En lo que respecta a las costas procesales según la LECRIM, elija la afirmación verdadera:
+1)Tras la valoración y regulación de las costas, el Ministerio fiscal y la parte obligada al pago tendrán dos días para presentar sus argumentos
+2)Tras la valoración y regulación de las costas, el Ministerio fiscal y la parte obligada al pago tendrán cinco días para presentar sus argumentos
+3)Tras la valoración y regulación de las costas, el Ministerio fiscal y la parte obligada al pago tendrán tres días para presentar sus argumentos
+4)Tras la valoración y regulación de las costas, el Ministerio fiscal y la parte obligada al pago tendrán cuatro días para presentar sus argumentos
+Respuesta: 3
+Correcta: ¡Bien hecho! La regulación establece que, una vez determinadas las costas, tanto el Ministerio Fiscal como la parte condenada al pago tienen tres días para presentar sus observaciones.
+Errada: Esa no es la respuesta correcta. Según la LECRIM, después de valorar y regular las costas, se da un plazo de tres días al Ministerio fiscal y a la parte condenada al pago para que expresen su opinión. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 985 de la LECrim, ¿quién es responsable de la ejecución de las sentencias en casos de delito?
+1)El Tribunal que emitió el veredicto definitivo.
+2)El Tribunal de segunda instancia.
+3)El Tribunal que emitió el recurso definitivo.
+4)El Tribunal del domicilio del ejectuado.
+Respuesta: 1
+Correcta: ¡Correcto! La responsabilidad de la ejecución de las sentencias en casos de delito recae en el Tribunal que emitió el veredicto final.
+Errada: Lo siento, esa respuesta es incorrecta. La ejecución de las sentencias en casos de delito es tarea del Tribunal que ha emitido el veredicto definitivo. (Respuesta Correcta 1)
+###
+Pregunta: Según la Disposición Adicional 5ª de la Ley Orgánica del Poder Judicial, ¿qué recurso es válido contra el auto que define el máximo tiempo de cumplimiento de condena o rechaza su establecimiento?
+1)Sólo se puede presentar un recurso de queja.
+2)Sólo se puede presentar un recurso de apelación.
+3)Sólo se puede presentar un recurso de reforma.
+4)Recurso de casación por violación de la ley.
+Respuesta: 4
+Correcta: ¡Exacto! La Disposición Adicional 5ª permite un recurso de casación por infracción de ley contra dicho auto.
+Errada: Esa respuesta no es correcta. De acuerdo con la Disposición Adicional 5ª, se permite presentar un recurso de casación por infracción de ley contra ese tipo de auto. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es una función del Juez de Vigilancia Penitenciaria?
+1)Decidir sobre recursos relacionados con la clasificación inicial y cambios de grado basándose en los informes de los Equipos de Observación y Tratamiento y, en su caso, de la Central de Observación.
+2)Otorgar permisos de salida que duren más de dos días, excepto para aquellos en tercer grado.
+3)Atender las solicitudes o quejas de los reclusos sobre el régimen y tratamiento penitenciario que afecten sus derechos fundamentales o beneficios penitenciarios.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de Vigilancia Penitenciaria tiene todas esas funciones.
+Errada: Esa respuesta no es correcta. Todas las opciones listadas son funciones del Juez de Vigilancia Penitenciaria. (Respuesta Correcta 4)
+###
+Pregunta: En lo que respecta a la ejecución de decisiones penales sobre responsabilidad civil, ¿qué normativa es aplicable?
+1)Se aplicará lo establecido en la Ley Orgánica del Poder Judicial.
+2)Se aplicará lo establecido en la Ley de Enjuiciamiento Civil.
+3)Se aplicará lo establecido en la Ley de Enjuiciamiento Criminal.
+4)Se aplicará lo que el LAJ estime oportuno.
+Respuesta: 2
+Correcta: ¡Exacto! Los pronunciamientos sobre responsabilidad civil en sentencias penales se ejecutan conforme a lo dispuesto en la Ley de Enjuiciamiento Civil.
+Errada: La respuesta correcta es que se aplicará lo establecido en la Ley de Enjuiciamiento Civil. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al nuevo artículo 988 bis de la LECrim, una vez incoada la ejecutoria, ¿qué plazo se concede a la representación del condenado para pronunciarse sobre la suspensión de la pena o el aplazamiento de responsabilidades pecuniarias?
+1)Cinco días.
+2)Diez días.
+3)Quince días.
+4)Veinte días.
+Respuesta: 2
+Correcta: ¡Correcto! La reforma de la LECrim por la LO 1/2025 introduce el artículo 988 bis, que establece un trámite inicial en la ejecutoria con un plazo de diez días para que la defensa formule sus peticiones.
+Errada: Incorrecto. El nuevo artículo 988 bis.1 de la LECrim, introducido por la LO 1/2025, fija este plazo en diez días. (Respuesta Correcta 2)
+###
+Pregunta: En relación a los pronunciamientos sobre responsabilidad civil en sentencias penales:
+1)Ninguna es correcta.
+2)Se determinarán posteriormente.
+3)La ejecución provisional se llevará a cabo según lo dispuesto en la Ley de Enjuiciamiento Civil.
+4)La ejecución provisional se llevará a cabo según lo dispuesto en la Ley de Enjuiciamiento Criminal.
+Respuesta: 3
+Correcta: ¡Perfecto! La ejecución provisional de pronunciamientos sobre responsabilidad civil en sentencias penales se hace conforme a la Ley de Enjuiciamiento Civil.
+Errada: No es correcto. Se sigue la Ley de Enjuiciamiento Civil para la ejecución provisional de dichos pronunciamientos en sentencias penales. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué situaciones las costas en el proceso penal comprenden el pago de indemnizaciones a los testigos?
+1)Solo si los testigos no las han solicitado y son indemnizaciones que deben ser abonadas.
+2)Solo si los testigos las han solicitado y no son indemnizaciones que deben ser abonadas.
+3)Solo si los testigos las han solicitado y son indemnizaciones que deben ser abonadas.
+4)Solo si los testigos las han solicitado o son indemnizaciones que deben ser abonadas.
+Respuesta: 3
+Correcta: ¡Correcto! Conforme al art. 241.1.3ª de la LECrim, deben cumplirse ambos requisitos: que las hayan reclamado y que sean de abono.
+Errada: Esa respuesta no es correcta. El art. 241.1.3ª de la LECrim exige ambos requisitos de forma acumulativa: que el testigo reclame la indemnización y que esta sea procedente. (Respuesta Correcta 3)
+###
+Pregunta: En la ejecución de sentencias penales, ¿cómo se procederá con las tercerías de dominio o de mejor derecho?
+1)Conforme a lo estipulado en la Ley de Enjuiciamiento Civil.
+2)Conforme a lo estipulado en la Ley de Enjuiciamiento Criminal.
+3)Conforme a lo estipulado en la Ley Orgnáica del Poder Judicial.
+4)Ninguna de las anteriores.
+Respuesta: 1
+Correcta: ¡Exacto! Las tercerías de dominio o de mejor derecho en la ejecución de sentencias penales se regulan por la Ley de Enjuiciamiento Civil.
+Errada: La respuesta correcta es que las tercerías se rigen por la Ley de Enjuiciamiento Civil. (Respuesta Correcta 1)
+###
+Pregunta: ¿Contra qué tipo de auto de la Ley de Enjuiciamiento Criminal se puede presentar un recurso de casación por infracción de ley?
+1)Contra el auto que establece el plazo máximo de condena de un condenado.
+2)Contra el auto que establece el plazo mínimo de condena de un condenado.
+3)Ambas son correctas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! Se puede presentar un recurso de casación por infracción de ley contra el auto que define el tiempo máximo de condena de un convicto.
+Errada: Esa no es la respuesta correcta. Se puede presentar un recurso de casación por infracción de ley contra el auto que establece el tiempo máximo de condena de un reo. (Respuesta Correcta 1)
+###
+Pregunta: ¿A quién pueden dirigirse los Jueces de Vigilancia Penitenciaria con propuestas sobre la organización y funcionamiento de los servicios penitenciarios?
+1)Al órgano administrativo correspondiente.
+2)Al Ministro de Justicia.
+3)A la Secretaría General de Instituciones Penitenciarias
+4)Al Director.
+Respuesta: 3
+Correcta: ¡Correcto! Los Jueces de Vigilancia Penitenciaria pueden enviar sus propuestas a la Secretaría General de Instituciones Penitenciarias.
+Errada: La respuesta correcta es que las propuestas se dirigen a la Secretaría General de Instituciones Penitenciarias. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, ¿qué consecuencias tiene un delito?
+1)Cada delito conlleva una acción penal para sancionar al culpable y puede, además, generar una acción civil que busca la restitución, reparación y compensación por el acto delictivo.
+2)Cada delito conlleva una acción civil para sancionar al culpable.
+3)Cada delito conlleva una acción penal para sancionar al culpable o generar una acción civil que busca la restitución, reparación y compensación por el acto delictivo.
+4)Cada delito conlleva una acción penal para sancionar al culpable y puede, además, generar una acción civil que busca la restitució o reparación o compensación por el acto delictivo.
+Respuesta: 1
+Correcta: ¡Perfecto! De todo delito se deriva una acción penal y, en algunos casos, una acción civil que busca la restitución, reparación y compensación por el delito.
+Errada: No es correcto. De cada delito surge una acción penal y, en ciertas circunstancias, una acción civil que busca restitución, reparación y compensación. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué elementos abarca la responsabilidad civil derivada de un delito de acuerdo al Código Penal y la Ley de Enjuiciamiento Criminal?
+1)Comprende la reparación del daño y compensación tanto por daños materiales como morales
+2)Comprende la devolución del objeto y la reparación del daño.
+3)Comprende la devolución del objeto.
+4)Comprende la devolución del objeto, reparación del daño y compensación tanto por daños materiales como morales
+Respuesta: 4
+Correcta: ¡Correcto! La responsabilidad civil derivada de un delito incluye la restitución de la cosa, la reparación del daño y la indemnización por perjuicios tanto materiales como morales.
+Errada: No es correcto. La responsabilidad civil derivada de un delito comprende la restitución de la cosa, la reparación del daño y la indemnización de perjuicios tanto materiales como morales. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué se puede hacer contra las decisiones del Juez de Vigilancia Penitenciaria en relación con el régimen penitenciario?
+1)Son recurribles en apelación o reforma siempre que no se hayan emitido al resolver un recurso de apelación contra una resolución administrativa. La Audiencia Provincial correspondiente conocerá de la apelación o queja.
+2)Son recurribles en apelación o casación siempre que no se hayan emitido al resolver un recurso de apelación contra una resolución administrativa. La Audiencia Provincial correspondiente conocerá de la apelación o queja.
+3)Son recurribles en apelación o queja siempre que no se hayan emitido al resolver un recurso de apelación contra una resolución administrativa. La Audiencia Nacional correspondiente conocerá de la apelación o queja.
+4)Son recurribles en apelación o queja siempre que no se hayan emitido al resolver un recurso de apelación contra una resolución administrativa. La Audiencia Provincial correspondiente conocerá de la apelación o queja.
+Respuesta: 4
+Correcta: ¡Correcto! Las decisiones del Juez de Vigilancia Penitenciaria relativas al régimen penitenciario pueden ser recurridas en apelación o queja, salvo cuando se hayan emitido resolviendo un recurso de apelación contra una resolución administrativa.
+Errada: La respuesta correcta es que las decisiones del Juez de Vigilancia Penitenciaria son recurribles en apelación o queja, salvo cuando se hayan dictado al resolver un recurso de apelación contra una resolución administrativa. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué situación de la tasación de costas en el proceso penal se sigue lo establecido en el Código Penal?
+1)Si los bienes del condenado no son suficientes para cubrir todas las responsabilidades pecuniarias, se seguirá el orden y preferencia de pago establecido en los artículos pertinentes del LEC.
+2)Si los bienes del condenado no son suficientes para cubrir todas las responsabilidades pecuniarias, se seguirá el orden y preferencia de pago establecido en los artículos pertinentes de la Lecrim.
+3)Si los bienes del condenado no son suficientes para cubrir todas las responsabilidades pecuniarias, se seguirá el orden y preferencia de pago establecido en los artículos pertinentes del Código Civil.
+4)Si los bienes del condenado no son suficientes para cubrir todas las responsabilidades pecuniarias, se seguirá el orden y preferencia de pago establecido en los artículos pertinentes del Código Penal.
+Respuesta: 4
+Correcta: ¡Bien hecho! Si los bienes del condenado no son suficientes para satisfacer todas las responsabilidades pecuniarias, el orden y preferencia de pago se determina de acuerdo con las disposiciones relevantes del Código Penal.
+Errada: La respuesta correcta es que si los bienes del condenado no cubren todas las responsabilidades pecuniarias, el orden y preferencia de pago se determina según lo establecido en el Código Penal. (Respuesta Correcta 4)
+###
+Pregunta: Cuando se establecen costas de oficio según el art. 242 LeCrim, ¿qué no procede?
+1)Pago de honorarios.
+2)Pago de derechos arancelarios.
+3)Pago de indemnizaciones a testigos que las hayan solicitado, si deben ser reembolsadas.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Exacto! Cuando se establecen costas de oficio, no se realiza el pago de derechos arancelarios.
+Errada: La respuesta correcta es que cuando se establecen costas de oficio, no se efectúa el pago de derechos arancelarios. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, el Juez de Vigilancia Penitenciaria tiene la competencia específica de:
+1)Suspender la ejecución de una pena de prisión de menos de tres años.
+2)Suspender la ejecución de una pena de prisión de menos de cinco años.
+3)Suspender la ejecución de una pena de prisión de menos de dos años.
+4)Decidir sobre propuestas de libertad condicional de los condenados y acordar las revocaciones que procedan
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de Vigilancia Penitenciaria tiene la competencia específica de resolver sobre propuestas de libertad condicional y acordar revocaciones cuando corresponda.
+Errada: La respuesta correcta es que el Juez de Vigilancia Penitenciaria decide sobre propuestas de libertad condicional y acuerda las revocaciones pertinentes. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, una vez realizada la tasación y regulación de las costas, ¿cuánto tiempo tienen el Ministerio fiscal y la parte condenada al pago para presentar sus argumentos?
+1)Dos días.
+2)Tres días.
+3)Cinco días.
+4)Siete días.
+Respuesta: 2
+Correcta: ¡Correcto! Según la Ley de Enjuiciamiento Criminal, una vez hechas la tasación y regulación de las costas, se otorga un plazo de tres días al Ministerio Fiscal y a la parte condenada al pago para presentar sus alegaciones.
+Errada: La respuesta correcta es tres días. Una vez hecha la tasación y regulación de las costas, tanto el Ministerio Fiscal como la parte condenada tienen un plazo de tres días para presentar sus argumentos. (Respuesta Correcta 2)
+###
+Pregunta: Según la LeCrim, tras realizar la tasación y regulación de las costas procesales, ¿a quién se le otorga un plazo de tres días para presentar alegaciones?
+1)Al Ministerio Fiscal.
+2)A la parte condenada al pago.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Tanto el Ministerio Fiscal como la parte condenada al pago tienen un plazo de tres días para presentar sus argumentos una vez realizada la tasación y regulación de las costas procesales.
+Errada: Las respuestas correctas son el Ministerio Fiscal y la parte condenada al pago. Ambos tienen un plazo de tres días para presentar alegaciones tras la tasación y regulación de costas. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal, para la exacción de los derechos y honorarios devengados en la causa, ¿ante quién deben presentar los Procuradores y Abogados la minuta detallada de los mismos?
+1)Ante el Juez o Presidente del Tribunal que conoció de la causa.
+2)Ante el Letrado de la Administración de Justicia del órgano que conoció de la causa.
+3)Ante el Colegio de Abogados o Procuradores correspondiente.
+4)Ante el Ministerio Fiscal para que inste su pago.
+Respuesta: 2
+Correcta: ¡Correcto! Conforme a la LEC (aplicable supletoriamente), la reclamación de honorarios conocida como "jura de cuentas" se tramita ante el Letrado de la Administración de Justicia.
+Errada: Incorrecto. El procedimiento de jura de cuentas para la reclamación de honorarios de abogados y procuradores se sustancia ante el Letrado de la Administración de Justicia del órgano que conoció del asunto. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién es el responsable de ejecutar la sentencia dictada después de la de casación por la Sala segunda del Tribunal Supremo en el ámbito penal?
+1)El Juez de Instrucción.
+2)El Tribunal que hubiese pronunciado la sentencia en segunda instanca.
+3)El Tribunal que hubiese pronunciado la sentencia casada.
+4)El Tribunal que hubiese pronunciado la sentencia en primera instanca.
+Respuesta: 3
+Correcta: ¡Bien hecho! La sentencia dictada tras la de casación por la Sala segunda del Tribunal Supremo en el ámbito penal es ejecutada por el Tribunal que pronunció la sentencia original que fue casada.
+Errada: La respuesta correcta es el Tribunal que hubiese pronunciado la sentencia original que fue casada. Es el responsable de ejecutar la sentencia dictada tras la de casación. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál libro de la LECrim se dedica a la ejecución de las sentencias?
+1)El Libro V.
+2)El Libro VII.
+3)El Libro VI.
+4)El Libro VIV.
+Respuesta: 2
+Correcta: ¡Correcto! El Libro VII de la LECrim se dedica a la ejecución de las sentencias.
+Errada: La respuesta correcta es el Libro VII. Es en este libro de la LECrim donde se aborda la ejecución de las sentencias. (Respuesta Correcta 2)
+###
+Pregunta: Cuando una acción calificada legalmente como delito es llevada a cabo y el perjudicado ha influido, a través de su comportamiento, en el daño resultante, ¿qué sucederá con respecto a la compensación?
+1)El Fiscal tiene la facultad de ajustar el monto de la compensación.
+2)El responsable no estará obligado a pagar ninguna compensación.
+3)El LAJ tiene la facultad de ajustar el monto de la compensación.
+4)Los jueces o tribunales tienen la facultad de ajustar el monto de la compensación.
+Respuesta: 4
+Correcta: ¡Exacto! Si la víctima ha contribuido al daño, los jueces o tribunales tienen la capacidad de ajustar la compensación.
+Errada: La respuesta correcta es que los jueces o tribunales tienen la facultad de ajustar el monto de la compensación según las circunstancias. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién tiene el deber de impulsar el proceso de ejecución de la sentencia penal?
+1)La acusación, aunque el Juez o Tribunal tenga la autoridad de asegurar el cumplimiento de la pena.
+2)El Letrado de la Administración de Justicia, aunque el Juez o Tribunal tenga la autoridad de asegurar el cumplimiento de la pena.
+3)El Juez o Tribunal tiene la autoridad de asegurar el cumplimiento de la pena.
+4)El Ministerio Fiscal, aunque el Juez o Tribunal tenga la autoridad de asegurar el cumplimiento de la pena.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 984 de la LECrim, corresponde al Letrado de la Administración de Justicia el impulso de la ejecución de la sentencia.
+Errada: Incorrecto. El artículo 984 de la LECrim atribuye el impulso de la ejecución al Letrado de la Administración de Justicia, sin perjuicio de las competencias del Juez o Tribunal. (Respuesta Correcta 2)
+###
+Pregunta: Para ejecutar la responsabilidad civil resultante de un delito, ¿a quién puede el Letrado de la Administración de Justicia delegar las tareas de investigación patrimonial para identificar ingresos y bienes del condenado?
+1)A la Agencia Estatal de Administración Tributaria.
+2)A los entes tributarios de las haciendas forales.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El Letrado puede encomendar estas investigaciones tanto a la Agencia Estatal de Administración Tributaria como a las haciendas forales.
+Errada: La respuesta adecuada es que el Letrado puede encomendar la investigación tanto a la Agencia Estatal de Administración Tributaria como a las haciendas forales. (Respuesta Correcta 4)
+###
+Pregunta: Dadas las siguientes opciones, ¿cuál es verdadera?
+1)Obliga a resarcir el daño según la ley. El afectado puede elegir reclamar la responsabilidad civil ante la jurisdicción civil.
+2)Obliga a resarcir el daño según la ley. El afectado debe elegir reclamar la responsabilidad civil ante la jurisdicción civil.
+3)Obliga a resarcir el daño según la ley. El afectado no puede elegir reclamar la responsabilidad civil ante la jurisdicción civil.
+4)Obliga a resarcir el daño según la ley. El afectado puede elegir reclamar la responsabilidad civil ante la jurisdicción penal.
+Respuesta: 1
+Correcta: ¡Acertaste! Al cometer un delito, se debe resarcir el daño y el afectado tiene la opción de buscar reparación en la jurisdicción civil.
+Errada: La respuesta adecuada es que al cometer un delito, es necesario resarcir el daño conforme a la ley y el afectado tiene la elección de buscar reparación en la jurisdicción civil. (Respuesta Correcta 1)
+###
+Pregunta: Según el nuevo artículo 988 bis.4 de la LECrim, ¿a quién corresponde practicar las liquidaciones de condena?
+1)Al Juez o Tribunal sentenciador.
+2)Al Ministerio Fiscal.
+3)Al Letrado de la Administración de Justicia.
+4)A la Oficina de Ejecutorias, sin especificar el funcionario.
+Respuesta: 3
+Correcta: ¡Correcto! La LO 1/2025 atribuye expresamente esta función al Letrado de la Administración de Justicia en el nuevo trámite de ordenación de la ejecutoria.
+Errada: Incorrecto. La reforma introducida por la LO 1/2025 en el artículo 988 bis.4 de la LECrim asigna la práctica de las liquidaciones de condena al Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 989 de la LECrim, en su redacción tras la LO 1/2025, para la ejecución de la responsabilidad civil derivada del delito se aplicarán, en lo no regulado en el Código Penal u otra norma penal, las disposiciones de:
+1)La Ley de Enjuiciamiento Criminal, con carácter preferente.
+2)La Ley de Enjuiciamiento Civil.
+3)La Ley Orgánica del Poder Judicial.
+4)El Reglamento de desarrollo que dicte el Gobierno.
+Respuesta: 2
+Correcta: ¡Bien hecho! El artículo 989 de la LECrim, modificado por la LO 1/2025, remite expresamente a las disposiciones sobre ejecución de la Ley de Enjuiciamiento Civil.
+Errada: Incorrecto. La redacción del artículo 989 de la LECrim tras la reforma de la LO 1/2025 establece que se aplicarán las disposiciones sobre ejecución de la Ley de Enjuiciamiento Civil. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo al artículo 989 de la LECrim, las decisiones sobre responsabilidad civil:
+1)Son ejecutables provisionalmente conforme a lo establecido en el CC.
+2)Son ejecutables provisionalmente conforme a lo establecido en el CP.
+3)Son ejecutables provisionalmente conforme a lo establecido en la Lecrim.
+4)Son ejecutables provisionalmente conforme a lo establecido en la LECiv.
+Respuesta: 4
+Correcta: ¡Correcto! Son ejecutables provisionalmente conforme a lo establecido en la LECiv.
+Errada: Incorrecto. Son ejecutables provisionalmente conforme a lo establecido en la LECiv. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es la responsabilidad del Juez de Vigilancia Penitenciaria en relación con los permisos de salida?
+1)Denegar salidas con duración mayor a dos días, excluyendo a los clasificados en tercer grado.
+2)Aprobar permisos de salida para aquellos clasificados en tercer grado.
+3)Autorizar salidas con duración mayor a dos días, excluyendo a los clasificados en tercer grado.
+4)Otorgar todos los permisos de salida sin excepción.
+Respuesta: 3
+Correcta: ¡Correcto! Autorizar salidas con duración mayor a dos días, excluyendo a los clasificados en tercer grado.
+Errada: Incorrecto. Una de sus competencias es autorizar permisos de salida de duración superior a dos días, a excepción de los penados clasificados en tercer grado. (Respuesta Correcta 3)
+###
+Pregunta: Según la Disposición Adicional Quinta de la LOPJ, contra las resoluciones del Juez de Vigilancia Penitenciaria en materia de ejecución de penas, que no se hayan dictado resolviendo un recurso de apelación contra una resolución administrativa, ¿qué recursos caben?
+1)Recurso de reforma y subsidiario de apelación.
+2)Recurso de casación para unificación de doctrina.
+3)Recurso de apelación y queja.
+4)Solo recurso de reposición ante el propio Juez.
+Respuesta: 3
+Correcta: ¡Exacto! La Disposición Adicional Quinta, apartado 4, de la LOPJ establece que contra dichas resoluciones cabrán los recursos de apelación y queja.
+Errada: Incorrecto. La Disposición Adicional Quinta de la LOPJ indica que contra estas resoluciones del Juez de Vigilancia Penitenciaria caben los recursos de apelación y queja. (Respuesta Correcta 3)
+###
+Pregunta: Después de aprobar o modificar la tasación de costas en el proceso penal, ¿cuál es el siguiente paso?
+1)Se cobrarán inmediatamente las costas usando la vía de apremio de la Ley de Enjuiciamiento Civil, sin afectar a los bienes de los condenados a su pago.
+2)Se cobrarán inmediatamente las costas usando la vía de apremio de la Ley de Enjuiciamiento Civil, afectando a los bienes de los condenados a su pago.
+3)Se cobrarán inmediatamente las costas usando la vía de apremio de la Ley de Enjuiciamiento Criminal, afectando a los bienes de los condenados a su pago.
+4)Se cobrarán en las 24 horas las costas usando la vía de apremio de la Ley de Enjuiciamiento Civil, afectando a los bienes de los condenados a su pago.
+Respuesta: 2
+Correcta: ¡Correcto! Se cobrarán inmediatamente las costas usando la vía de apremio de la Ley de Enjuiciamiento Civil, afectando a los bienes de los condenados a su pago.
+Errada: Incorrecto. Se cobrarán inmediatamente las costas usando la vía de apremio de la Ley de Enjuiciamiento Civil, afectando a los bienes de los condenados a su pago. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a la Ley Orgánica General Penitenciaria, ¿cuál es la jurisdicción de la Dirección General de Instituciones Penitenciarias del Ministerio de Justicia?
+1)Supervisión e gestión de las instituciones penitenciarias, excluyendo las Comunidades Autónomas que han asumido la ejecución de la legislación penitenciaria en sus estatutos.
+2)Supervisión, gestión e inspección de las instituciones penitenciarias, excluyendo las Comunidades Autónomas que han asumido la ejecución de la legislación penitenciaria en sus estatutos.
+3)Supervisión, gestión e inspección de las instituciones penitenciarias, incluyendo las Comunidades Autónomas que han asumido la ejecución de la legislación penitenciaria en sus estatutos.
+4)Supervisión e inspección de las instituciones penitenciarias, excluyendo las Comunidades Autónomas que han asumido la ejecución de la legislación penitenciaria en sus estatutos.
+Respuesta: 2
+Correcta: ¡Correcto! Supervisión, gestión e inspección de las instituciones penitenciarias, excluyendo las Comunidades Autónomas que han asumido la ejecución de la legislación penitenciaria en sus estatutos.
+Errada: Incorrecto. La respuesta correcta es la 2, que incluye las tres funciones principales sobre los centros no transferidos. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué abarca el deber de compensar los daños causados por un acto calificado como delito?
+1)Ninguna es correcta.
+2)Compensación por daños materiales y morales a la víctima, así como daños a sus familiares o a terceros
+3)Compensación por daños materiales y morales a la víctima.
+4)Compensación por daños materiales y morales a sus familiares o a terceros.
+Respuesta: 2
+Correcta: ¡Correcto! Compensación por daños materiales y morales a la víctima, así como daños a sus familiares o a terceros.
+Errada: Incorrecto. La indemnización de perjuicios comprende no solo los causados al agraviado, sino también a sus familiares o a terceros. (Respuesta Correcta 2)
+###
+Pregunta: En la ejecución de sentencias por delitos contra la Hacienda Pública, si el obligado al pago no está de acuerdo con las modificaciones realizadas por la Administración Pública según la Ley General Tributaria, ¿cuánto tiempo tiene para presentar su desacuerdo al Tribunal competente?
+1)10 días después de ser notificado.
+2)15 días después de ser notificado.
+3)20 días después de ser notificado.
+4)30 días después de ser notificado.
+Respuesta: 4
+Correcta: ¡Bien! 30 días después de ser notificado.
+Errada: Incorrecto. El plazo es de 30 días después de ser notificado. (Respuesta Correcta 4)
+###
+Pregunta: Durante la tasación de costas en un procedimiento penal, ¿bajo qué circunstancias pueden los peritos y testigos, citados por alguna de las partes, solicitar el pago de sus honorarios e indemnizaciones?
+1)Si la intervención del perito supera un valor de 6.000 euros.
+2)Si no se ha otorgado a las partes el derecho a la asistencia jurídica gratuita.
+3)Si se ha otorgado a las partes el derecho a la asistencia jurídica gratuita.
+4)Si el Letrado de la Administración de Justicia decide que los testigos deben ser compensados.
+Respuesta: 2
+Correcta: ¡Correcto! En situaciones donde las partes no han obtenido el derecho a asistencia jurídica gratuita, peritos y testigos pueden solicitar su compensación.
+Errada: La respuesta correcta es la 2. Es en el contexto donde no se ha otorgado a las partes el derecho a asistencia jurídica gratuita donde pueden exigir su pago. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 78 de la Ley General Penitenciaria, en cuestiones relativas a los Jueces de Vigilancia Penitenciaria y sus procedimientos, ¿a qué legislación nos debemos referir?
+1)A la Ley de Enjuiciamiento Criminal.
+2)A los reglamentos pertinentes.
+3)A las leyes pertinentes.
+4)A la Ley de Enjuiciamiento Civil.
+Respuesta: 3
+Correcta: ¡Correcto! Las cuestiones sobre los Jueces de Vigilancia Penitenciaria y sus procedimientos están reguladas por las leyes pertinentes.
+Errada: La respuesta correcta es la 3. Las leyes pertinentes regulan estos aspectos, no solo la Ley General Penitenciaria. (Respuesta Correcta 3)
+###
+Pregunta: Según la Disposición Adicional 5ª de la Ley Orgánica del Poder Judicial, ¿cuál es el impacto de las decisiones del Tribunal Supremo al abordar los recursos de casación para unificar la doctrina?
+1)No alterarán las situaciones legales derivadas de fallos previos a la sentencia impugnada, salvo las excepciones previstas en la norma.
+2)No alterarán las situaciones legales derivadas de fallos previos a la sentencia impugnada en ningún caso.
+3)Sí alterarán las situaciones legales derivadas de fallos previos a la sentencia impugnada en ningún caso.
+4)No alterarán las situaciones legales derivadas de fallos posteriores a la sentencia impugnada en ningún caso.
+Respuesta: 2
+Correcta: ¡Perfecto! La opción 2 es la correcta. Las decisiones del Tribunal Supremo, en este contexto, no afectan a las situaciones legales establecidas por sentencias anteriores.
+Errada: La respuesta correcta es la opción 2. Las decisiones del Tribunal Supremo no modifican situaciones establecidas por veredictos anteriores en estos casos. (Respuesta Correcta 2)
+###
+Pregunta: Si una persona ha sido condenada en varios procesos por actos que podrían haber sido abordados en uno solo, ¿quién determinará el límite de cumplimiento de las penas?
+1)El Juez o Tribunal que emitió la primera sentencia, ya sea de oficio, a petición del Fiscal o del condenado
+2)El Ministerio Fiscal.
+3)El Juez o Tribunal que emitió la última sentencia, ya sea de oficio, a petición del Fiscal o del condenado
+4)El LAJ, ya sea de oficio, a petición del Fiscal o del condenado
+Respuesta: 3
+Correcta: Correcto: El Juez o Tribunal que emitió la última sentencia, ya sea de oficio, a petición del Fiscal o del condenado
+Errada: Incorrecto. Es el Juez o Tribunal que dictó la última sentencia quien debe proceder a la acumulación y fijación del límite máximo de cumplimiento. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 80.1 del Código Penal, ¿en qué circunstancias los jueces pueden suspender la ejecución de penas que privan de libertad?
+1)Si la pena no supera dos años y es probable que su ejecución prevenga futuros delitos del condenado.
+2)Si la pena no supera dos años y es probable que su ejecución no prevenga futuros delitos del condenado.
+3)Si la pena no supera seis años y es probable que su ejecución no prevenga futuros delitos del condenado.
+4)Si la pena no supera seis años y es probable que su ejecución prevenga futuros delitos del condenado.
+Respuesta: 2
+Correcta: Correcto: Si la pena no supera dos años y es probable que su ejecución no prevenga futuros delitos del condenado.
+Errada: Incorrecto. La suspensión se basa en que la ejecución de la pena no sea necesaria para evitar la comisión futura de nuevos delitos por el penado. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el Código Penal, ¿los individuos bajo la influencia del alcohol o sustancias tóxicas tienen responsabilidad civil?
+1)Solo son responsables penales.
+2)No son civilmente responsables.
+3)Sí, son civilmente responsables.
+4)Sí, son civilmente responsables, pero los jueces decidirán en qué medida deben responder con sus activos.
+Respuesta: 3
+Correcta: Correcto, Sí, son civilmente responsables.
+Errada: Incorrecto. La exención de la responsabilidad criminal no comprende la de la civil, según el artículo 118 del Código Penal. (Respuesta Correcta 3)
+###
+Pregunta: Después de ser absuelto mediante sentencia, un acusado será liberado de inmediato, a menos que:
+1)Un recurso sin efectos suspensivos justifique retrasar la liberación.
+2)Un recurso con efectos suspensivos justifique retrasar la liberación.
+3)Ninguna es correcta.
+4)Haya indicios de reincidencia.
+Respuesta: 2
+Correcta: Correcto: Un recurso con efectos suspensivos justifique retrasar la liberación.
+Errada: Incorrecto. La liberación inmediata tras la absolución puede impedirse si existe otra causa legal para la prisión o si se interpone un recurso con efecto suspensivo. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica General Penitenciaria, ¿qué función no es competencia del Juez de Vigilancia Penitenciaria?
+1)Ratificar sanciones de aislamiento en celda inferiores a 5 días.
+2)Ratificar sanciones de aislamiento en celda inferiores a 10 días.
+3)Ratificar sanciones de aislamiento en celda inferiores a 3 días.
+4)Ratificar sanciones de aislamiento en celda, independientemente de su duración.
+Respuesta: 4
+Correcta: Correcto: Ratificar sanciones de aislamiento en celda, independientemente de su duración.
+Errada: Incorrecto. La función del JVP es aprobar las sanciones de aislamiento de duración superior a catorce días, no ratificar todas independientemente de su duración. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué no se puede determinar en una resolución que decide el pago de las costas en el proceso penal?
+1)Ordenar su pago al denunciante particular o al actor civil.
+2)Imponer su pago a los acusados, sin dividir el monto equitativamente entre ellos si hay varios.
+3)Imponer su pago a los acusados, distribuyendo la cantidad proporcionalmente si hay varios.
+4)Imponer su pago a los acusados, dividiendo el monto equitativamente entre ellos si hay varios.
+Respuesta: 4
+Correcta: Correcto: Imponer su pago a los acusados, dividiendo el monto equitativamente entre ellos si hay varios.
+Errada: Incorrecto. El art. 240.2º de la LECrim especifica que si son varios los condenados, el tribunal señalará la parte proporcional de cada uno, no una división equitativa. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo puede manifestarse la obligación de reparar el daño derivado de un delito cometido?
+1)Mediante obligaciones de dar, hacer o no hacer, que serán definidas por el Juez o Tribunal en función de la naturaleza del daño y las circunstancias del culpable. El Juez o Tribunal también decidirá si estas deben ser satisfechas personalmente por el culpable o pueden ser realizadas a su cargo.
+2)Mediante obligaciones de dar, hacer o no hacer, que serán definidas por el Juez o Tribunal en función de la naturaleza del daño y las circunstancias del culpable. El Juez o Tribunal también decidirá si estas pueden ser satisfechas personalmente por el culpable o pueden ser realizadas a su cargo.
+3)Mediante obligaciones de dar, hacer o no hacer, que serán definidas por el Juez o Tribunal en función de la naturaleza del daño y las circunstancias del culpable. El Juez o Tribunal también decidirá si estas deben ser satisfechas personalmente por el culpable o pueden ser realizadas a su cargo.
+4)Mediante obligaciones de dar, hacer o no hacer, que serán definidas por el Juez o Tribunal en función de la naturaleza del daño y las circunstancias del culpable. El Juez o Tribunal también decidirá si estasn no deben ser satisfechas personalmente por el culpable o pueden ser realizadas a su cargo.
+Respuesta: 1
+Correcta: Correcto. Mediante obligaciones de dar, hacer o no hacer, que serán definidas por el Juez o Tribunal en función de la naturaleza del daño y las circunstancias del culpable. El Juez o Tribunal también decidirá si estas deben ser satisfechas personalmente por el culpable o pueden ser realizadas a su cargo.
+Errada: Incorrecto. La respuesta correcta es la 1. El art. 112 del Código Penal establece que la reparación del daño podrá consistir en obligaciones de dar, de hacer o de no hacer que el Juez o Tribunal establecerá. (Respuesta Correcta 1)
+###
+Pregunta: ¿Los veredictos sobre la responsabilidad civil en un fallo penal pueden ser ejecutados provisionalmente?
+1)Sí, según lo establecido en la Ley de Enjuiciamiento Civil.
+2)Sí, según lo establecido en la Ley de Enjuiciamiento Criminal.
+3)Sí, según lo establecido en el Código Penal.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: Correcto, según lo establecido en la Ley de Enjuiciamiento Civil.
+Errada: Incorrecto. Conforme al art. 989 de la LECrim, los pronunciamientos sobre responsabilidad civil son susceptibles de ejecución provisional con arreglo a lo dispuesto en la LEC. (Respuesta Correcta 1)
+###
+Pregunta: Según la LOGP, ¿qué tarea está específicamente asignada al Juez de Vigilancia?
+1)Conceder permisos de salida que superen los cinco días, excluyendo a los del tercer grado.
+2)Conceder permisos de salida que superen los cinco días, incluyendo a los del tercer grado.
+3)Conceder permisos de salida que superen los dos días, excluyendo a los del tercer grado.
+4)Conceder permisos de salida que superen los dos días, incluyendo a los del tercer grado.
+Respuesta: 3
+Correcta: Correcto: Conceder permisos de salida que superen los dos días, excluyendo a los del tercer grado.
+Errada: Incorrecto. Es competencia del JVP autorizar los permisos de salida cuya duración sea superior a dos días, excepto los de los clasificados en tercer grado. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo a la LeCrim, si el Tribunal encargado de ejecutar la sentencia no puede llevar a cabo todas las diligencias por sí mismo, ¿a quién se dirigirá?
+1)Al Juzgado de Instrucción.
+2)Al órgano judicial del territorio o zona donde las diligencias deben realizarse.
+3)Al Tribunal superior del área donde las diligencias deben efectuarse.
+4)Al Juzgado de Vigilancia Penintenciaria.
+Respuesta: 2
+Correcta: Correcto: Al órgano judicial del territorio o zona donde las diligencias deben realizarse.
+Errada: Incorrecto. Se dirigirá al órgano judicial de la circunscripción en que deban tener efecto, para que las practique. (Respuesta Correcta 2)
+###
+Pregunta: Basado en la Disposición adicional quinta de la Ley Orgánica del Poder Judicial, ¿cuándo los recursos de apelación contra decisiones del Juez de Vigilancia Penitenciaria tendrán efecto suspensivo y proceso prioritario y urgente?
+1)Cuando no concierna a la clasificación de reclusos o libertad condicional que pueda resultar en la liberación del prisionero, siempre que haya sido condenado por crímenes serios.
+2)Cuando concierna a la clasificación de reclusos o libertad condicional que pueda resultar en la liberación del prisionero, salvo que haya sido condenado por crímenes serios.
+3)Cuando concierna a la clasificación de reclusos o libertad condicional que pueda resultar en la liberación del prisionero, siempre que haya sido condenado por crímenes serios.
+4)Cuando concierna a la clasificación de reclusos y de libertad condicional que pueda resultar en la liberación del prisionero, siempre que haya sido condenado por crímenes serios.
+Respuesta: 3
+Correcta: Correcto: Cuando concierna a la clasificación de reclusos o libertad condicional que pueda resultar en la liberación del prisionero, siempre que haya sido condenado por crímenes serios.
+Errada: Incorrecto. El efecto suspensivo se da cuando la resolución pueda dar lugar a la excarcelación del interno y, además, se trate de condenados por delitos graves. (Respuesta Correcta 3)
+###
+Pregunta: La Ley de Enjuiciamiento Criminal en el apartado de ejecución de sentencias, ¿qué estipula sobre los confinados que podrían estar dementes?
+1)Aquellos prisioneros sospechosos de demencia serán evaluados, y la Comandancia de la prisión generará un informe, que se enviará a la Audiencia Provincial.
+2)Aquellos prisioneros sospechosos de demencia serán evaluados, y la Comandancia de la prisión generará un informe, que se enviará al Tribunal que dictó la sentencia
+3)Aquellos prisioneros sospechosos de demencia serán evaluados, y la Dirección de la prisión generará un informe, que se enviará al Tribunal que dictó la sentencia
+4)Aquellos prisioneros sospechosos de demencia serán evaluados, y la Comandancia de la prisión generará un informe, que se enviará al Tribunal del domicilio del reo.
+Respuesta: 3
+Correcta: ¡Excelente! Has seleccionado la respuesta correcta.
+Errada: Incorrecto. La ley se refiere a la "Dirección" del establecimiento, no a la "Comandancia", y el informe se remite al Tribunal sentenciador. (Respuesta Correcta 3)
+###
+Pregunta: En el cálculo de costas en el proceso penal, ¿a quién corresponde tasar aquellas relacionadas con el papel sellado utilizado en el caso y los aranceles?
+1)Al Ministerio Fiscal.
+2)Al Auxilio Procesal que actúe en la ejecución de la sentencia.
+3)Al Gestor Procesal que actúe en la ejecución de la sentencia.
+4)Al Letrado de la Administración de Justicia que participe en la ejecución de la sentencia.
+Respuesta: 4
+Correcta: Correcto, al Letrado de la Administración de Justicia que participe en la ejecución de la sentencia.
+Errada: Incorrecto. Es el Letrado de la Administración de Justicia quien practica la tasación de costas. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál de las siguientes funciones no es responsabilidad del Juez de Vigilancia Penitenciaria?
+1)Permitir salidas de más de dos días.
+2)Decidir sobre los recursos relacionados con la clasificación inicial.
+3)Tomar decisiones sobre las propuestas de libertad condicional y revocarlas si es necesario.
+4)Aprobar la liberación total de aquellos condenados a penas de privación de libertad.
+Respuesta: 4
+Correcta: Correcto: Aprobar la liberación total de aquellos condenados a penas de privación de libertad.
+Errada: Incorrecto. La aprobación de la libertad definitiva por cumplimiento de la condena corresponde al tribunal sentenciador, no al Juez de Vigilancia. (Respuesta Correcta 4)
+###
+Pregunta: Si se encomienda a un Juez de instrucción realizar ciertas diligencias para la ejecución de una sentencia, ¿qué acciones llevará a cabo?
+1)Notificará inmediatamente al Fiscal que dictó la sentencia sobre la finalización de las diligencias, adjuntando un testimonio de las acciones llevadas a cabo. Estas diligencias serán archivadas por el Letrado de la Administración de Justicia que estuvo involucrado.
+2)Notificará inmediatamente al Tribunal que dictó la sentencia sobre la finalización de las diligencias, adjuntando un testimonio de las acciones llevadas a cabo. Estas diligencias serán archivadas por el Gestor Procesal que estuvo involucrado.
+3)Notificará inmediatamente al Tribunal que dictó la sentencia sobre la finalización de las diligencias, adjuntando un testimonio de las acciones llevadas a cabo. Estas diligencias serán archivadas por el Letrado de la Administración de Justicia que estuvo involucrado.
+4)Notificará inmediatamente al Tribunal que dictó la sentencia sobre la finalización de las diligencias, adjuntando un testimonio de las acciones llevadas a cabo. Estas diligencias serán archivadas por el Tramitador Procesal que estuvo involucrado.
+Respuesta: 3
+Correcta: Correcto: Notificará inmediatamente al Tribunal que dictó la sentencia sobre la finalización de las diligencias, adjuntando un testimonio de las acciones llevadas a cabo. Estas diligencias serán archivadas por el Letrado de la Administración de Justicia que estuvo involucrado.
+Errada: Incorrecto. El archivo de las diligencias practicadas por exhorto corresponde al Letrado de la Administración de Justicia del órgano exhortado. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto de las costas judiciales, si las partes argumentan que son indebidas o desmedidas, ¿cómo se procederá?
+1)Ninguna es correcta
+2)Según lo previsto en la Ley de Enjuiciamiento Civil
+3)Según lo previsto en la Ley de Enjuiciamiento Criminal
+4)Según lo previsto en la Ley de Jurisdicción Voluntaria
+Respuesta: 2
+Correcta: Correcto: Según lo previsto en la Ley de Enjuiciamiento Civil
+Errada: Incorrecto. El artículo 245 de la LECrim remite a la Ley de Enjuiciamiento Civil para la sustanciación de la impugnación de costas por indebidas o excesivas. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué se puede hacer frente a las decisiones del Juez de Vigilancia Penitenciaria en lo que respecta a la ejecución de sanciones?
+1)Se pueden recurrir en apelación y queja ante el tribunal que dictó la sentencia, excepto si fueron en respuesta a un recurso de apelación contra una decisión administrativa que no esté relacionada con la clasificación del convicto
+2)Se pueden recurrir en apelación y queja ante el tribunal que dictó la sentencia, incluso si fueron en respuesta a un recurso de apelación contra una decisión administrativa que no esté relacionada con la clasificación del convicto
+3)Se pueden recurrir en apelación y queja ante el tribunal que dictó la sentencia, excepto si fueron en respuesta a un recurso de reforma contra una decisión administrativa que no esté relacionada con la clasificación del convicto
+4)No se pueden recurrir en apelación y queja ante el tribunal que dictó la sentencia, excepto si fueron en respuesta a un recurso de apelación contra una decisión administrativa que esté relacionada con la clasificación del convicto
+Respuesta: 1
+Correcta: Correcto: Se pueden recurrir en apelación y queja ante el tribunal que dictó la sentencia, excepto si fueron en respuesta a un recurso de apelación contra una decisión administrativa que no esté relacionada con la clasificación del convicto
+Errada: Incorrecto. La DA 5ª de la LOPJ establece que son recurribles en apelación y queja ante el tribunal sentenciador, salvo que ya resuelvan una apelación contra una resolución administrativa. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuándo se liberará a la persona que ha sido condenada, según la prisión preventiva?
+1)Se liberará 12 horas después de la publicación de la sentencia.
+2)Se liberará 24 horas después de la publicación de la sentencia.
+3)Se liberará 48 horas después de la publicación de la sentencia.
+4)Se liberará de inmediato, salvo que un recurso con efecto suspensivo u otros factores legales requieran postergar su liberación.
+Respuesta: 4
+Correcta: Correcto: Se liberará de inmediato, salvo que un recurso con efecto suspensivo u otros factores legales requieran postergar su liberación.
+Errada: Incorrecto. La liberación es inmediata, salvo que proceda su retención por otra causa o por un recurso suspensivo. (Respuesta Correcta 4)
+###
+Pregunta: Si un acusado es absuelto, ¿bajo qué condiciones no se le liberaría inmediatamente?
+1)Por inquisitoria.
+2)Por providencia.
+3)Por auto motivado.
+4)Por sentencia motivada.
+Respuesta: 3
+Correcta: Correcto: Por auto motivado.
+Errada: Incorrecto. El artículo 983 de la LECrim exige que la retención de un absuelto se ordene por auto motivado. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el Código Penal, ¿en qué circunstancias es responsable una Comunidad Autónoma por daños ocasionados por uno de sus agentes que cometió un delito en funciones?
+1)Cuando el daño sea una consecuencia directa del servicio público encomendado al agente.
+2)Cuando el daño no sea una consecuencia directa del servicio público encomendado al agente.
+3)Cuando el daño sea una consecuencia directa del servicio público extralimitado al agente.
+4)Cuando el daño no sea una consecuencia directa del servicio público extralimitado al agente.
+Respuesta: 1
+Correcta: Correcto: Cuando el daño sea una consecuencia directa del servicio público encomendado al agente.
+Errada: Incorrecto. La responsabilidad civil subsidiaria del Estado, CCAA, etc., surge cuando los daños son consecuencia directa del funcionamiento de los servicios públicos que les estuvieren confiados. (Respuesta Correcta 1)
+###
+Pregunta: Luego de un proceso de casación por la Sala Segunda del Tribunal Supremo, ¿quién ejecuta la sentencia?
+1)Se ejecutará por el Tribunal que emitió la sentencia de apelación, sin recibir una certificación de la Sala mencionada.
+2)Se ejecutará por el Tribunal que emitió la sentencia de apelación, tras recibir una certificación de la Sala mencionada.
+3)Se ejecutará por el Tribunal que emitió la sentencia original, sin recibir una certificación de la Sala mencionada.
+4)Se ejecutará por el Tribunal que emitió la sentencia original, tras recibir una certificación de la Sala mencionada.
+Respuesta: 4
+Correcta: Correcto: Se ejecutará por el Tribunal que emitió la sentencia original, tras recibir una certificación de la Sala mencionada.
+Errada: Incorrecto. La ejecución corresponde al tribunal que dictó la sentencia casada, una vez reciba la certificación de la sentencia de casación del Tribunal Supremo. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué recurso puede presentarse contra las decisiones de las Audiencias Provinciales y, si aplica, de la Audiencia Nacional, al resolver recursos de apelación que no estén sujetos a casación ordinaria?
+1)Recurso de casación por violación de ley, conforme a las disposiciones de la Ley de Enjuiciamiento Criminal.
+2)Recurso de casación por infracción procesal, conforme a las disposiciones de la Ley de Enjuiciamiento Criminal.
+3)Recurso de casación para unificar doctrina ante la Sala de lo Penal del Tribunal Supremo, conforme a las disposiciones de la Ley de Enjuiciamiento Criminal.
+4)Recurso de casación ordinario, conforme a las disposiciones de la Ley de Enjuiciamiento Criminal.
+Respuesta: 3
+Correcta: Correcto: Recurso de casación para unificar doctrina ante la Sala de lo Penal del Tribunal Supremo, conforme a las disposiciones de la Ley de Enjuiciamiento Criminal.
+Errada: Incorrecto. Este recurso específico está previsto para unificar doctrina en ciertos supuestos, como los de la DA 5ª de la LOPJ. (Respuesta Correcta 3)
+###
+Pregunta: Según el art. 243 de la LECRIM, una vez hecha la tasación y regulación de costas, ¿en cuánto tiempo se notificará al Ministerio Fiscal y a la parte condenada al pago para recibir comentarios?
+1)Tres días.
+2)Dos días.
+3)Cuatro días.
+4)Cinco días.
+Respuesta: 1
+Correcta: Correcto: Tres días.
+Errada: Incorrecto. El plazo que establece el art. 243 de la LECrim es de tres días. (Respuesta Correcta 1)
+###
+Pregunta: Indica cuál de las siguientes afirmaciones es correcta sobre las responsabilidades del Juez de Vigilancia Penitenciaria:
+1)Puede corregir excesos o desvíos en la aplicación de las normas penitenciarias.
+2)Protege los derechos de los internos.
+3)Asegura el cumplimiento de las penas impuestas.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: Correcto, todas son funciones del Juez de Vigilancia Penitenciaria.
+Errada: Incorrecto, todas son funciones del Juez de Vigilancia Penitenciaria. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién es el encargado de ejecutar las sentencias dictadas tras el proceso de aceptación de decreto para delitos leves?
+1)El Juzgado de lo Penal.
+2)El Juzgado que emitió la sentencia.
+3)El Juzgado de Instrucción
+4)El Juzgado que este de Guardia.
+Respuesta: 2
+Correcta: Correcto: El Juzgado que emitió la sentencia.
+Errada: Incorrecto. La ejecución corresponde al órgano que conoció del juicio y dictó la sentencia. (Respuesta Correcta 2)
+###
+Pregunta: Según el Código Penal, ¿cuál es la primera obligación financiera que el condenado debe cumplir?
+1)Pagar los honorarios de los peritos.
+2)Pagar a los testigos, si estos lo solicitan.
+3)Reparar el daño ocasionado y compensar cualquier daño.
+4)Cubrir las costas.
+Respuesta: 3
+Correcta: Correcto: Reparar el daño ocasionado y compensar cualquier daño.
+Errada: Incorrecto. El artículo 126 del Código Penal establece que la reparación del daño y la indemnización de perjuicios tienen prioridad sobre el resto de responsabilidades pecuniarias. (Respuesta Correcta 3)

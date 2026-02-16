@@ -1,0 +1,908 @@
+Pregunta: Cuando un menor detenido es interrogado, ¿quién o quiénes deben estar presentes?
+1)Su abogado y aquellos con patria potestad, tutela o custodia del menor, incluso cuando las circunstancias sugieran lo contrario.
+2)Solo sus padres o tutores.
+3)Su abogado y aquellos con patria potestad, tutela o custodia del menor, excepto cuando las circunstancias sugieran lo contrario.
+4)Solo su abogado.
+Respuesta: 3
+Correcta: ¡Correcto! Durante el interrogatorio, deben estar presentes el abogado y los responsables del menor, a menos que las circunstancias sugieran no hacerlo.
+Errada: La respuesta correcta es C. El abogado y aquellos con patria potestad, tutela o custodia deben estar presentes, a menos que las circunstancias indiquen lo contrario. (Respuesta Correcta 3)
+###
+Pregunta: Si un menor ha cometido delitos en diferentes lugares, ¿qué criterio se prioriza para determinar la competencia territorial de la Sección de Menores del Tribunal de Instancia que llevará el caso?
+1)El domicilio del menor.
+2)El lugar donde fue detenido el menor.
+3)El lugar de los hechos.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Exacto! Según el artículo 3 de la LORPM, se prioriza el domicilio del menor para determinar la jurisdicción competente.
+Errada: El criterio principal es el domicilio del menor, por lo que la respuesta correcta es A, conforme al artículo 3 de la LORPM. (Respuesta Correcta 1)
+###
+Pregunta: Si alguien en el proceso penal de responsabilidad de menores no respeta el derecho de confidencialidad y divulgación de datos del menor, ¿cuáles serían las consecuencias?
+1)Solo será sujeto a responsabilidades disciplinarias.
+2)Solo será sujeto a responsabilidades civiles.
+3)Se enfrentará tanto a responsabilidades civiles como penales.
+4)Solo será sujeto a responsabilidades penales.
+Respuesta: 3
+Correcta: ¡Bien hecho! Quien infrinja la confidencialidad del menor puede enfrentar responsabilidades civiles y penales.
+Errada: La respuesta adecuada es C. La violación del derecho a la confidencialidad puede llevar a responsabilidades civiles y penales. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 5/2000, ¿quién dirige la investigación de los hechos y supervisa las acciones en beneficio del menor, asegurando que se cumplan las garantías del proceso?
+1)La Policía Judicial.
+2)Los progenitores.
+3)El Juez o Magistrado de la Sección de Menores.
+4)El Ministerio Fiscal.
+Respuesta: 4
+Correcta: ¡Correcto! Según la LO 5/2000, es el Ministerio Fiscal quien dirige la instrucción y vela por el interés del menor y la observancia de las garantías.
+Errada: La respuesta adecuada es D. Es el Ministerio Fiscal quien dirige la investigación e instruye el procedimiento, supervisando las acciones en interés del menor. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal del menor, si se demuestra que el menor padece de una enajenación mental durante la instrucción del Ministerio Fiscal, ¿qué tipo de acción se puede proponer?
+1)Una acción de internamiento acorde al interés del menor según la Ley de responsabilidad penal del menor.
+2)Una acción disciplinaria acorde al interés del menor según la Ley Orgánica de responsabilidad penal del menor.
+3)Una acción terapéutica acorde al interés del menor según la Ley Orgánica de responsabilidad penal del menor.
+4)Las penas que impongan el Código Penal
+Respuesta: 3
+Correcta: ¡Correcto! Según la LO 5/2000, se puede proponer una medida terapéutica en interés del menor.
+Errada: La respuesta adecuada es C. Se puede optar por una medida terapéutica en interés del menor según la LO 5/2000. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 5/2000, cuando el presunto autor de los hechos es menor de catorce años, ¿qué procedimiento se sigue?
+1)El Ministerio Fiscal remite testimonio de los particulares a la entidad pública de protección de menores para que se adopten las medidas de protección previstas en la Ley Orgánica 8/2021.
+2)El Ministerio Fiscal proporciona datos a la organización pública de protección de menores y se toman medidas según la Ley Orgánica 1/1995.
+3)El Ministerio Fiscal proporciona datos a la organización pública de protección de menores y se toman medidas según la Ley Orgánica 5/2000.
+4)El Ministerio Fiscal proporciona datos a la organización pública de protección de menores y se toman medidas según la Ley Orgánica 2/1996.
+Respuesta: 1
+Correcta: ¡Bien hecho! Cuando el autor es menor de 14 años, no se le exige responsabilidad penal, y el Ministerio Fiscal debe comunicarlo a la entidad de protección de menores para que se apliquen las medidas de protección de la LO 8/2021.
+Errada: La respuesta correcta es la A. La Ley Orgánica 1/1996 fue derogada. La normativa actual de protección de la infancia es la Ley Orgánica 8/2021. (Respuesta Correcta 1)
+###
+Pregunta: La Ley Orgánica 5/2000 se aplica para determinar la responsabilidad de aquellos que cometen hechos tipificados como delitos en el Código Penal. ¿A qué grupo de edad se aplica?
+1)Entre 12 y 16 años.
+2)Entre 14 y 16 años.
+3)Entre 14 y 18 años.
+4)Entre 12 y 18 años.
+Respuesta: 3
+Correcta: ¡Exacto! La LO 5/2000 se aplica a aquellos entre 14 y 18 años.
+Errada: La respuesta adecuada es C. La ley se aplica a personas entre 14 y 18 años. (Respuesta Correcta 3)
+###
+Pregunta: Una vez que el Letrado de la Administración de Justicia ha incorporado el escrito de alegaciones y otros documentos relevantes a las diligencias, ¿cuál es el siguiente paso que se inicia ante la Sección de Menores del Tribunal de Instancia?
+1)La fase de mediación.
+2)La fase de ejecución.
+3)La fase de instrucción.
+4)La fase de audiencia.
+Respuesta: 4
+Correcta: ¡Exacto! Según el artículo 31 de la LORPM, una vez remitido el expediente por el Fiscal, se procede a la fase de audiencia.
+Errada: La respuesta correcta es D. Tras la fase de instrucción del Fiscal, se inicia la fase de audiencia ante la Sección de Menores. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley de Responsabilidad Penal de los Menores, ¿quién tiene la responsabilidad de comunicar al menor, de manera clara y adaptada a su edad, las medidas y responsabilidad civil solicitadas por el Ministerio Fiscal?
+1)El Letrado de la Administración de Justicia.
+2)El Juez o Magistrado.
+3)Los Padres.
+4)El Defensor del menor.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es el Letrado de la Administración de Justicia quien informa al menor en términos claros y adecuados a su edad.
+Errada: La respuesta correcta es A. El Letrado de la Administración de Justicia es el encargado de informar al menor. (Respuesta Correcta 1)
+###
+Pregunta: Según la LO 5/2000 sobre responsabilidad penal del menor, en casos no específicamente mencionados en la ley, ¿qué normativas se aplican de forma supletoria?
+1)Para temas sustantivos, se aplica el Código Penal y leyes penales especiales. Para procedimientos, se utiliza la Ley de Enjuiciamiento Criminal, especialmente los procedimientos por aceptación de decreto.
+2)Para temas sustantivos, se aplica el Código Penal. Para procedimientos, se utiliza la Ley de Enjuiciamiento Criminal, especialmente los procedimientos ordinarios.
+3)Para temas sustantivos, se aplica el Código Penal y leyes penales especiales. Para procedimientos, se utiliza la Ley de Enjuiciamiento Civil, especialmente los procedimientos abreviados.
+4)Para temas sustantivos, se aplica el Código Penal y leyes penales especiales. Para procedimientos, se utiliza la Ley de Enjuiciamiento Criminal, especialmente los procedimientos abreviados.
+Respuesta: 4
+Correcta: ¡Correcto! La normativa supletoria aplica el Código Penal y leyes especiales para sustantivos y la Ley de Enjuiciamiento Criminal para procedimientos, específicamente los procedimientos abreviados.
+Errada: La respuesta adecuada es D. Se utiliza el Código Penal y leyes penales especiales para temas sustantivos, y para procedimientos, se aplica la Ley de Enjuiciamiento Criminal, centrándose en procedimientos abreviados. (Respuesta Correcta 4)
+###
+Pregunta: Contra la sentencia dictada por la Sección de Menores del Tribunal de Instancia, ¿de qué plazo se dispone para interponer recurso de apelación ante la Audiencia Provincial?
+1)Cinco días desde la fecha de notificación.
+2)Diez días desde la fecha de notificación.
+3)Quince días desde la fecha de notificación.
+4)Veinte días desde la fecha de notificación.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 41.1 de la LORPM, tras su reforma por la LO 8/2021, tienes un plazo de diez días desde la notificación para presentar el recurso.
+Errada: La respuesta correcta es B. El plazo para el recurso de apelación se amplió a diez días con la reforma de la LO 8/2021. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 51 de la Ley 5/2000 sobre Responsabilidad Penal de los Menores, ¿quién NO tiene autoridad para solicitar el cambio de medidas por otras que se consideren más apropiadas según esta ley?
+1)Todos pueden solicitar el cambio de medidas.
+2)El Fiscal.
+3)El abogado del menor.
+4)El equipo técnico encargado.
+Respuesta: 4
+Correcta: ¡Exacto! El equipo técnico no tiene la autoridad para solicitar el cambio de medidas según esta ley.
+Errada: La respuesta correcta es D. El equipo técnico no tiene la capacidad para instar la sustitución de las medidas. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento regulado en la LO 5/2000, ¿en qué momento se ordena formar la pieza separada de responsabilidad civil?
+1)Cuando se presente la acción civil.
+2)Al comunicarse al órgano judicial la incoación del expediente por el Ministerio Fiscal.
+3)Cuando la sentencia detalla las responsabilidades civiles resultantes del acto delictivo.
+4)Al informarse al órgano judicial sobre el cierre del expediente.
+Respuesta: 2
+Correcta: ¡Bien hecho! La pieza separada de responsabilidad civil se abre al comunicarse al órgano judicial la incoación del expediente, según el art. 61.3 LORPM.
+Errada: La respuesta correcta es B. La pieza de responsabilidad civil se separa al comunicarse la incoación del expediente a la Sección de Menores del Tribunal de Instancia. (Respuesta Correcta 2)
+###
+Pregunta: Después de que termine la audiencia en el procedimiento de responsabilidad penal de menores, ¿cuánto tiempo tiene el Juez para emitir un fallo?
+1)Cinco días.
+2)Quince días.
+3)Veinte días.
+4)Siete días.
+Respuesta: 1
+Correcta: ¡Exactamente! El Juez tiene un máximo de cinco días para dictar sentencia una vez que se ha finalizado la audiencia.
+Errada: La respuesta correcta es A. El Juez tiene un plazo de cinco días para dictar sentencia después de finalizar la audiencia. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso de responsabilidad penal de menores, ¿cuál es la duración máxima de la medida cautelar de internamiento, incluyendo su prórroga?
+1)Tres meses, prorrogables por otros tres meses.
+2)Seis meses, prorrogables por otros seis meses.
+3)Seis meses, prorrogables por otros tres meses.
+4)Nueve meses, prorrogables por otros tres meses.
+Respuesta: 2
+Correcta: ¡Correcto! Tras la reforma del artículo 28.3 de la LORPM por la LO 8/2021, la medida cautelar de internamiento puede durar hasta seis meses, prorrogables por otros seis meses más.
+Errada: La respuesta correcta es B. La reforma de la LO 8/2021 estableció que la duración del internamiento cautelar es de seis meses, prorrogable por otros seis. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Orgánica que regula la responsabilidad penal de menores, ¿cómo se formaliza la suspensión, reducción o sustitución de la medida que se le ha impuesto al menor?
+1)Diligencia de ordenación.
+2)Decreto.
+3)Sentencia.
+4)Auto detalladamente justificado.
+Respuesta: 4
+Correcta: ¡Correcto! La modificación de la medida se hace a través de un auto motivado.
+Errada: La respuesta correcta es D. La suspensión, reducción o sustitución de la medida se realiza mediante un auto que está debidamente justificado. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la LO 5/2000, si a un menor se le impone más de una medida en diferentes sentencias, ¿quién es competente para la ejecución de todas ellas?
+1)El Ministerio Fiscal.
+2)El Letrado de la Administración de Justicia.
+3)El Juez o Magistrado que dictó la segunda sentencia firme.
+4)El Juez o Magistrado que dictó la primera sentencia firme.
+Respuesta: 4
+Correcta: ¡Exacto! Es el Juez o Magistrado que dictó la primera sentencia firme quien se encarga de la ejecución de todas las medidas.
+Errada: La respuesta correcta es D. El Juez o Magistrado que dictó la primera sentencia firme es el competente para la ejecución de todas las medidas. (Respuesta Correcta 4)
+###
+Pregunta: Según la Tercera Disposición Adicional de la Ley Orgánica 5/2000, que regula la responsabilidad penal de menores, se mantiene un registro de decisiones definitivas en el Ministerio de Justicia conforme a dicha ley. ¿Quiénes tienen permitido acceder a esta información?
+1)Los Magistrados especializados en Menores y el Ministerio Público, en virtud de lo establecido en la Ley Orgánica que regula la responsabilidad penal de menores, considerando lo dispuesto en la Ley Orgánica de Protección de Datos Personales y normativas adicionales.
+2)Los Padres en virtud de la Ley Orgánica de Protección de Datos.
+3)Los Magistrados especializados en Menores y el Ministerio Público, en virtud de lo establecido en la Ley Orgánica que regula la responsabilidad penal de menores.
+4)Solo los Magistrados especializados en Menores, según lo definido en la Ley Orgánica sobre responsabilidad penal de menores y conforme a la Ley Orgánica de Protección de Datos Personales y reglamentaciones relacionadas.
+Respuesta: 1
+Correcta: ¡Exacto! Los datos del registro pueden ser utilizados por los Magistrados especializados en Menores y el Ministerio Público, siempre considerando la protección de datos personales.
+Errada: Lo siento, esa no es la respuesta adecuada. La información del registro es accesible para los Magistrados especializados en Menores y el Ministerio Público, tomando en cuenta la protección de datos personales. (Respuesta Correcta 1)
+###
+Pregunta: Durante el proceso penal de un menor, si en la fase de investigación el Ministerio Fiscal evidencia que el menor presenta una alteración mental o cualquier otro supuesto previsto en el Código Penal, ¿cuál sería la intervención a seguir?
+1)Se instaurarán las medidas preventivas necesarias para la seguridad y tutela del menor de acuerdo con las normas civiles pertinentes.
+2)Se instaurarán las medidas preventivas necesarias para la seguridad y tutela del menor de acuerdo con las normas penales pertinentes.
+3)Se instaurarán las medidas preventivas necesarias para la seguridad y tutela del menor de acuerdo con las normas laborales pertinentes.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! En tal caso, se establecen medidas preventivas para la protección del menor conforme a las normas civiles.
+Errada: Esa no es la respuesta correcta. Si el Ministerio Fiscal determina una alteración mental o cualquier otro supuesto en el menor, se aplicarán medidas preventivas basadas en las normas civiles. (Respuesta Correcta 1)
+###
+Pregunta: En el contexto del procedimiento penal de menores, ¿bajo qué condiciones el Ministerio Fiscal puede pedir al órgano judicial el archivo del caso debido a un acuerdo o compensación entre el menor y el afectado?
+1)Cuando se haya alcanzado el acuerdo y se hayan cumplido las obligaciones de compensación con la persona afectada por el delito, o si estas acciones no se pudieron realizar por razones fuera del control del menor.
+2)Cuando se haya alcanzado el acuerdo o se hayan cumplido las obligaciones de compensación con la persona afectada por el delito, o si estas acciones no se pudieron realizar por razones fuera del control del menor.
+3)Cuando se haya alcanzado el acuerdo o se hayan cumplido las obligaciones de compensación con la persona afectada por el delito, e incluso si estas acciones no se pudieron realizar por razones fuera del control del menor.
+4)Cuando se haya alcanzado el acuerdo y se hayan cumplido las obligaciones de compensación con la persona afectada por el delito, e incluso si estas acciones no se pudieron realizar por razones fuera del control del menor.
+Respuesta: 2
+Correcta: ¡Correcto! El Ministerio Fiscal puede solicitar el archivo si se ha alcanzado un acuerdo o se han cumplido las obligaciones de compensación, o si estas no se pudieron efectuar por motivos fuera del control del menor.
+Errada: Lamentablemente, esa no es la respuesta adecuada. La clave es que el archivo se puede solicitar si el acuerdo o las obligaciones de compensación no se pudieron realizar por razones ajenas al menor. (Respuesta Correcta 2)
+###
+Pregunta: Contra las providencias y autos no definitivos dictados por las Secciones de Menores de los Tribunales de Instancia, ¿qué recurso cabe y en qué plazo?
+1)Recurso de reforma en el plazo de cinco días.
+2)Recurso de reforma en el plazo de tres días.
+3)Recurso de revisión en el plazo de cinco días.
+4)Recurso de revisión en el plazo de tres días.
+Respuesta: 2
+Correcta: ¡Perfecto! El artículo 14 de la LORPM establece que contra las providencias y autos cabe recurso de reforma en el plazo de tres días tras la notificación.
+Errada: La respuesta correcta es la B. El recurso procedente es el de reforma, no el de revisión, y debe presentarse en un plazo de tres días. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 7 de la LORPM, ¿cuál de las siguientes es una medida que puede ser impuesta al menor?
+1)Internamiento en régimen de fin de semana.
+2)Amonestación verbal por parte del equipo técnico.
+3)Prohibición de aproximarse o comunicarse con la víctima, sus familiares u otras personas que determine el Juez.
+4)Obligación de realizar trabajos forzados en beneficio de la comunidad.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 7.1.f) de la LORPM contempla expresamente la prohibición de aproximarse o comunicarse con determinadas personas como una de las medidas aplicables.
+Errada: Incorrecto. La respuesta correcta es C. La amonestación es una medida, pero la impone el Juez; el internamiento de fin de semana no existe como tal; y los trabajos no son forzados. La prohibición de comunicación sí es una medida prevista. (Respuesta Correcta 3)
+###
+Pregunta: Con base en la Ley Orgánica que regula la responsabilidad penal de menores, ¿dónde se llevarán a cabo las sanciones de privación de libertad conforme a esta ley?
+1)En instalaciones diseñadas para jóvenes infractores, inspiradas en las estipuladas en la normativa carcelaria para sanciones de privación de libertad a adultos.
+2)En instalaciones diseñadas para adultos infractores, distintas a las estipuladas en la normativa carcelaria para sanciones de privación de libertad a adultos.
+3)En instalaciones diseñadas para jóvenes infractores, distintas a las estipuladas en la normativa carcelaria para sanciones de privación de libertad a adultos.
+4)En las instalaciones contempladas en la normativa carcelaria para sanciones de privación de libertad para adultos, si ha sido decidido por la Sección de Menores del Tribunal Central de Instancia.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las sanciones de privación de libertad se efectuarán en centros específicamente diseñados para jóvenes infractores y separados de las instalaciones penitenciarias para adultos.
+Errada: Esa no es la respuesta correcta. Las sanciones de privación de libertad se efectúan en centros exclusivos para jóvenes infractores, distintos de las instalaciones penitenciarias destinadas a adultos. (Respuesta Correcta 3)
+###
+Pregunta: Con base en la LO 5/2000, cuando los menores están sometidos a la sanción de permanencia durante el fin de semana, deberán estar en su hogar o en una institución desde la tarde o noche del viernes hasta la noche del domingo, con una duración máxima de:
+1)12 horas.
+2)24 horas.
+3)36 horas.
+4)72 horas.
+Respuesta: 3
+Correcta: ¡Perfecto! El periodo máximo de permanencia durante el fin de semana es de 36 horas.
+Errada: Lo siento, esa no es la respuesta adecuada. El periodo máximo de permanencia durante el fin de semana es de 36 horas. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 64 de la LORPM, una vez firme la sentencia, la ejecución de la responsabilidad civil se llevará a cabo por el Letrado de la Administración de Justicia mediante:
+1)Auto.
+2)Decreto.
+3)Providencia.
+4)Sentencia separada.
+Respuesta: 2
+Correcta: ¡Exacto! Según la normativa procesal, el Letrado de la Administración de Justicia impulsa y formaliza la ejecución de la responsabilidad civil a través de decretos.
+Errada: La respuesta correcta es B. La ejecución de la responsabilidad civil se sustancia por los trámites de la Ley de Enjuiciamiento Civil y es dirigida por el Letrado de la Administración de Justicia mediante decreto. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso de responsabilidad penal del menor, ¿cuál de los siguientes ítems no se incluirá en el archivo personal único que la entidad pública debe crear para cada menor a quien se le ha asignado la ejecución de una medida?
+1)Las decisiones judiciales relacionadas.
+2)Los informes concernientes al menor.
+3)La documentación que los tutores legales del menor no pueden presentar regularmente.
+4)La documentación que los tutores legales del menor deben presentar regularmente.
+Respuesta: 4
+Correcta: ¡Correcto! En el expediente personal único no se incluirá la documentación que los tutores legales del menor deben presentar de forma regular.
+Errada: Lo siento, esa respuesta es incorrecta. La documentación que los tutores legales del menor tienen que entregar regularmente no se añade al expediente personal único. (Respuesta Correcta 4)
+###
+Pregunta: ¿A quién corresponde la instrucción de los procedimientos de responsabilidad penal de los menores según la LO 5/2000?
+1)A la Sección de Menores del Tribunal de Instancia.
+2)A la Sección de lo Penal del Tribunal de Instancia.
+3)A la Sección de Instrucción del Tribunal de Instancia.
+4)Al Ministerio Fiscal.
+Respuesta: 4
+Correcta: ¡Perfecto! La instrucción de los procedimientos de responsabilidad penal de menores recae en el Ministerio Fiscal.
+Errada: Esa no es la respuesta correcta. La responsabilidad de conducir la instrucción de los procedimientos de responsabilidad penal para menores es del Ministerio Fiscal. (Respuesta Correcta 4)
+###
+Pregunta: Según la LO 5/2000 que regula la responsabilidad penal de menores, si a un menor se le impone una medida de internamiento en régimen semiabierto y llega a los 18 años sin haber completado su sanción, ¿qué acontece?
+1)La medida continuará siendo ejecutada hasta que se alcancen los objetivos planteados en la sentencia donde se determinó.
+2)La medida continuará siendo ejecutada hasta que se alcancen los objetivos planteados en la sentencia donde se determinó, basándose en los criterios del Ministerio Fiscal.
+3)La medida continuará siendo ejecutada hasta que se alcancen los objetivos planteados en la sentencia donde se determinó, basándose en los criterios expuestos en la misma sentencia.
+4)La medida continuará siendo ejecutada hasta que se alcancen los objetivos planteados en la sentencia donde se determinó, basándose en los criterios expuestos en la ley.
+Respuesta: 4
+Correcta: ¡Exacto! La medida de internamiento seguirá siendo ejecutada hasta que se cumplan los objetivos establecidos en la sentencia, conforme a lo descrito en la ley.
+Errada: Lo siento, esa no es la respuesta correcta. La medida continuará siendo ejecutada hasta que se alcancen los objetivos establecidos en la sentencia basándose en los criterios mencionados en la ley. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 9 de la LO 5/2000 que rige la responsabilidad penal juvenil, ¿cuál es la medida aplicable cuando los actos realizados se consideran como delito leve?
+1)Supervisión de la libertad por un período no mayor a seis meses.
+2)Supervisión de la libertad por un período no mayor a doce meses.
+3)Supervisión de la libertad por un período no mayor a cinco meses.
+4)Supervisión de la libertad por un período no mayor a tres meses.
+Respuesta: 1
+Correcta: ¡Excelente! La medida adecuada para un delito leve, según el artículo 9 de la LO 5/2000, es la supervisión de la libertad por un período no mayor a seis meses.
+Errada: Lamentablemente esa no es la respuesta correcta. La medida adecuada para un delito leve es la supervisión de la libertad por un período no mayor a seis meses. (Respuesta Correcta 1)
+###
+Pregunta: Si la Sección de Menores del Tribunal de Instancia no dicta sentencia de conformidad tras recibir el expediente del Ministerio Fiscal, ¿qué opción no podrá escoger?
+1)Examinar su competencia de oficio.
+2)Llevar a cabo las pruebas sugeridas por las partes y que fueron denegadas por el Ministerio Fiscal durante la investigación.
+3)Convocar a las partes para una vista oral.
+4)Archivar el expediente.
+Respuesta: 2
+Correcta: ¡Bien hecho! El órgano judicial no puede practicar pruebas que fueron denegadas por el Fiscal en la fase de instrucción, sin perjuicio de que las partes puedan volver a proponerlas en la fase de audiencia.
+Errada: Lo siento, esa no es la respuesta correcta. El órgano judicial no tiene la capacidad de llevar a cabo pruebas denegadas por el Ministerio Fiscal durante la investigación sin que se vuelvan a proponer y admitir en la fase de audiencia. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica que controla la responsabilidad penal juvenil, ¿quién se encargará de garantizar los derechos de las víctimas y de quienes resultaron afectados por los actos de los menores?
+1)El Ministerio Fiscal junto con la Policía Judicial.
+2)El Ministerio Fiscal junto con la Sección de Instrucción.
+3)El Ministerio Fiscal junto con la Sección de lo Penal.
+4)El Ministerio Fiscal junto con la Sección de Menores del Tribunal de Instancia.
+Respuesta: 4
+Correcta: ¡Perfecto! La responsabilidad de garantizar los derechos de las víctimas y afectados por actos de menores recae en el Ministerio Fiscal junto con la Sección de Menores.
+Errada: Esa no es la respuesta correcta. El Ministerio Fiscal junto con la Sección de Menores del Tribunal de Instancia son los encargados de garantizar los derechos de las víctimas y afectados. (Respuesta Correcta 4)
+###
+Pregunta: En el ámbito de la responsabilidad penal juvenil, ¿cuándo puede el Juez competente optar por suspender la ejecución de la sentencia?
+1)De manera autónoma o a solicitud del Ministerio Fiscal o del abogado defensor del menor, después de haber escuchado a estos y al representante del equipo técnico y de la entidad estatal de protección o reforma juvenil.
+2)De manera autónoma o a solicitud del abogado defensor del menor, después de haber escuchado a estos y al representante del equipo técnico y de la entidad estatal de protección o reforma juvenil.
+3)De manera autónoma o a solicitud del Ministerio Fiscal o del abogado defensor del menor, después de haber escuchado a estos y al representante de la entidad estatal de protección o reforma juvenil.
+4)De manera autónoma o a solicitud del Ministerio Fiscal, después de haber escuchado a estos y al representante del equipo técnico y de la entidad estatal de protección o reforma juvenil.
+Respuesta: 1
+Correcta: ¡Perfecto! La ejecución de la sentencia puede ser suspendida autónomamente o por solicitud del Ministerio Fiscal o del abogado defensor del menor, tras considerar las opiniones relevantes.
+Errada: Esa no es la respuesta correcta. La ejecución puede ser suspendida de forma autónoma o a solicitud del Ministerio Fiscal o del abogado defensor del menor, tras considerar las opiniones relevantes. (Respuesta Correcta 1)
+###
+Pregunta: ¿A quién corresponde la ejecución de las medidas adoptadas por los órganos judiciales en sus sentencias firmes, en el ámbito de la responsabilidad penal de menores?
+1)A las Comunidades Autónomas y a las ciudades de Ceuta y Melilla.
+2)Al Ministerio Fiscal.
+3)A los centros de internamiento.
+4)A las provincias.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las Comunidades Autónomas y las ciudades de Ceuta y Melilla son responsables de ejecutar las medidas establecidas por los órganos judiciales de menores.
+Errada: Lo siento, esa no es la respuesta adecuada. Las Comunidades Autónomas y las ciudades de Ceuta y Melilla son las encargadas de implementar estas decisiones. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley Orgánica 5/2000 de 12 de enero, si el individuo que comete actos tipificados como delitos es menor de 14 años, ¿qué se aplica?
+1)No se le aplicará lo establecido en las regulaciones de protección de menores en el Código Civil y otras leyes vigentes.
+2)Se le aplicará lo establecido en las regulaciones de protección de menores en el Código Penal y otras leyes vigentes.
+3)Se le aplicará lo establecido en las regulaciones de protección de menores en el Código Civil y otras leyes vigentes.
+4)Se le aplicará conforme a la Ley Orgánica 5/2000 de Responsabilidad Penal de los Menores.
+Respuesta: 3
+Correcta: ¡Exacto! A los menores de 14 años se les aplica lo establecido en las regulaciones de protección del Código Civil y otras leyes pertinentes.
+Errada: Esa no es la respuesta adecuada. A los menores de 14 años se les aplica lo establecido en las regulaciones de protección del Código Civil y otras leyes vigentes. (Respuesta Correcta 3)
+###
+Pregunta: Si durante la instrucción, el Fiscal determina que los hechos no son competencia de las Secciones de Menores, ¿a qué entidad derivará el expediente?
+1)Al Juzgado de Mayores.
+2)A la jurisdicción de lo Penal adecuada.
+3)A la jurisdicción de Instrucción adecuada.
+4)Al órgano jurisdiccional competente.
+Respuesta: 4
+Correcta: ¡Correcto! Si los hechos no son competencia de las Secciones de Menores, el Fiscal derivará el expediente al órgano jurisdiccional que resulte competente.
+Errada: Incorrecto. Si los hechos no son competencia de las Secciones de Menores, el Fiscal derivará el expediente al órgano jurisdiccional competente. (Respuesta Correcta 4)
+###
+Pregunta: Con base en la Ley Orgánica 5/2000, indique qué aspecto no necesita ser considerado por el órgano judicial al emitir una sentencia:
+1)La edad que tiene el menor en el momento de la emisión de la sentencia.
+2)Si el menor ha cometido previamente otros actos delictivos.
+3)Las alegaciones presentadas por el Ministerio Fiscal, las partes involucradas y el abogado del menor.
+4)Si el menor ha cometido posteriormente otros actos delictivos.
+Respuesta: 2
+Correcta: ¡Bien hecho! El órgano judicial no necesita considerar si el menor ha cometido previamente otros actos delictivos al emitir una sentencia.
+Errada: Lo siento, esa respuesta es incorrecta. El aspecto que el órgano judicial no necesita considerar es si el menor ha cometido previamente otros actos delictivos. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica 5/2000, ¿quiénes deben estar presentes en la audiencia que se celebra ante la Sección de Menores del Tribunal de Instancia?
+1)El Ministerio Fiscal y las partes involucradas y el menor, quien puede ir acompañado de sus tutores legales a menos que el Juez decida lo contrario.
+2)El Ministerio Fiscal, las partes involucradas, el abogado del menor, un miembro del equipo técnico y el menor, quien puede ir acompañado de sus tutores legales siempre.
+3)El Ministerio Fiscal, las partes involucradas, el abogado del menor, un miembro del equipo técnico y el menor, quien puede ir acompañado de sus tutores legales a menos que el Juez decida lo contrario.
+4)El Ministerio Fiscal, las partes involucradas, el abogado del menor, y el menor, quien no puede ir acompañado de sus tutores legales a menos que el Juez decida lo contrario.
+Respuesta: 3
+Correcta: ¡Exacto! En la audiencia deben estar presentes el Ministerio Fiscal, las partes involucradas, el abogado del menor, un miembro del equipo técnico y el menor, quien puede ir acompañado de sus tutores legales a menos que el Juez decida lo contrario.
+Errada: Esa respuesta es incorrecta. En la audiencia, además del Ministerio Fiscal, las partes involucradas y el abogado del menor, debe estar presente un miembro del equipo técnico y el menor, quien puede ir acompañado de sus tutores legales a menos que el Juez decida lo contrario. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 5/2000, que aborda la responsabilidad penal de menores, ¿quién sería competente para juzgar un delito de terrorismo cometido por un joven de dieciséis años?
+1)El Tribunal Superior de Justicia, la sección de Menores.
+2)Los magistrados especializados en menores de la Audiencia Provincial.
+3)La Sección de Menores del Tribunal Central de Instancia.
+4)El Tribunal Central de Instrucción.
+Respuesta: 3
+Correcta: ¡Perfecto! Cuando se trata de un delito de terrorismo cometido por un menor, la competencia corresponde a la Sección de Menores del Tribunal Central de Instancia.
+Errada: Lamentablemente esa no es la respuesta correcta. En el caso de un delito de terrorismo cometido por un menor de edad, la competencia es de la Sección de Menores del Tribunal Central de Instancia. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál de las siguientes es una sanción posible por cometer faltas graves en los centros de internamiento para menores?
+1)Todas las opciones son incorrectas.
+2)La negación de salidas recreativas durante uno a dos meses.
+3)El aislamiento del grupo durante tres a cinco fines de semana.
+4)La negación de salidas recreativas durante uno a cinco meses.
+Respuesta: 1
+Correcta: ¡Correcto! Todas las opciones dadas son incorrectas en relación a las sanciones por faltas graves en centros de internamiento para menores.
+Errada: Esa opción no es correcta. Ninguna de las respuestas proporcionadas es una sanción válida por cometer faltas graves en centros de internamiento para menores. (Respuesta Correcta 1)
+###
+Pregunta: ¿Puede un menor acusado salir del recinto durante la audiencia?
+1)Ninguna es correcta.
+2)Sí, si el Juez lo ve adecuado, a petición de las partes, pensando en el bienestar del menor.
+3)Sí, si el Juez lo ve adecuado, por propia iniciativa, pensando en el bienestar del menor.
+4)Sí, si el Juez lo ve adecuado, ya sea por propia iniciativa o a petición de las partes, pensando en el bienestar del menor.
+Respuesta: 4
+Correcta: ¡Exactamente! El menor acusado puede salir del recinto durante la audiencia si el Juez lo ve adecuado, ya sea por propia iniciativa o a petición de las partes, siempre pensando en el bienestar del menor.
+Errada: La respuesta no es correcta. Un menor acusado puede abandonar el recinto durante la audiencia si el Juez lo ve adecuado, ya sea por propia iniciativa o a petición de las partes, siempre pensando en el bienestar del menor. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Orgánica 5/2000, de 12 de enero, que aborda la responsabilidad penal de menores, ¿a quiénes puede aplicarse?
+1)Para responsabilizar a individuos de más de dieciséis años y menos de dieciocho años.
+2)Para responsabilizar a individuos de menos de dieciocho años.
+3)Para responsabilizar a individuos de más de doce años y menos de dieciocho años.
+4)Para responsabilizar a individuos de más de catorce años y menos de dieciocho años.
+Respuesta: 4
+Correcta: ¡Exacto! La LO 5/2000 se aplica para exigir la responsabilidad de personas mayores de catorce años y menores de dieciocho.
+Errada: Lo siento, la respuesta no es correcta. La LO 5/2000 se utiliza para exigir la responsabilidad de personas mayores de catorce años y menores de dieciocho. (Respuesta Correcta 4)
+###
+Pregunta: Frente a la decisión del órgano judicial que dictamina sobre la imposición de medidas provisionales, ¿qué recursos son posibles?
+1)Es admisible el recurso de apelación, que debe presentarse en un plazo de cinco días tras notificar la decisión.
+2)Es admisible el recurso de apelación, que debe presentarse en un plazo de tres días tras notificar la decisión.
+3)Es inadmisible el recurso de apelación.
+4)Es admisible el recurso de apelación, que debe presentarse en un plazo de siete días tras notificar la decisión.
+Respuesta: 1
+Correcta: ¡Bien hecho! Se puede interponer un recurso de apelación en un plazo de cinco días después de la notificación de la decisión.
+Errada: Esa respuesta no es correcta. La decisión permite un recurso de apelación que debe presentarse en un plazo de cinco días tras la notificación. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo a la LO 5/2000 que regula la responsabilidad penal de menores, si el acto es considerado un delito con pena en el Código Penal o en leyes penales especiales de quince años o más, el juez:
+1)Debe sentenciar un internamiento en régimen cerrado de uno a ocho años, acompañado, si es el caso, por libertad vigilada con asistencia educativa de hasta tres años, si al cometer el acto, el menor tenía dieciséis o diecisiete años.
+2)Debe sentenciar un internamiento en régimen cerrado de uno a ocho años, acompañado, si es el caso, por libertad vigilada con asistencia educativa de hasta siete años, si al cometer el acto, el menor tenía dieciséis o diecisiete años.
+3)Debe sentenciar un internamiento en régimen cerrado de uno a ocho años, acompañado, si es el caso, por libertad vigilada con asistencia educativa de hasta cinco años, si al cometer el acto, el menor tenía dieciséis o diecisiete años.
+4)Debe sentenciar un internamiento en régimen cerrado de uno a ocho años, acompañado, si es el caso, por libertad vigilada con asistencia educativa de hasta diez años, si al cometer el acto, el menor tenía dieciséis o diecisiete años.
+Respuesta: 3
+Correcta: ¡Correcto! El juez debe dictaminar un internamiento en régimen cerrado de uno a ocho años, acompañado si es necesario, por libertad vigilada con asistencia educativa de hasta cinco años, si el menor tenía dieciséis o diecisiete años al cometer el acto.
+Errada: La respuesta es incorrecta. El juez tiene la obligación de establecer un internamiento en régimen cerrado de uno a ocho años, con la posible adición de libertad vigilada con asistencia educativa de hasta cinco años, si el menor tenía dieciséis o diecisiete años en el momento del delito. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley Orgánica 5/2000, que aborda la responsabilidad penal de los menores, el Ministerio Fiscal:
+1)Tiene la autoridad para por sí solo realizar acciones que restrinjan derechos fundamentales; en cambio, no puede solicitar al tribunal la realización de las acciones esenciales para el éxito de las investigaciones.
+2)Tiene la autoridad para por sí solo realizar acciones que restrinjan derechos fundamentales; en cambio, debe solicitar al tribunal la realización de las acciones esenciales para el éxito de las investigaciones.
+3)No tiene la autoridad para por sí solo realizar acciones que restrinjan derechos fundamentales; en cambio, no puede solicitar al tribunal la realización de las acciones esenciales para el éxito de las investigaciones.
+4)No tiene la autoridad para por sí solo realizar acciones que restrinjan derechos fundamentales; en cambio, debe solicitar al tribunal la realización de las acciones esenciales para el éxito de las investigaciones.
+Respuesta: 4
+Correcta: ¡Correcto! El Ministerio Fiscal debe solicitar al tribunal la realización de acciones que restrinjan derechos fundamentales si son esenciales para las investigaciones.
+Errada: Lo siento, esa respuesta no es acertada. El Ministerio Fiscal necesita solicitar al tribunal la realización de acciones que restrinjan derechos fundamentales si son necesarias para las investigaciones. (Respuesta Correcta 4)
+###
+Pregunta: Contra las providencias y autos no definitivos dictados por las Secciones de Menores de los Tribunales de Instancia:
+1)Es posible interponer un recurso de reforma ante el mismo órgano.
+2)Es viable un recurso de revisión ante el mismo órgano.
+3)No es posible interponer recurso de reforma.
+4)Es viable un recurso de apelación ante el mismo órgano.
+Respuesta: 1
+Correcta: ¡Bien hecho! Según el artículo 14 de la LORPM, es posible interponer un recurso de reforma ante el mismo órgano que dictó la resolución.
+Errada: La respuesta no es correcta. Contra las providencias y autos no definitivos de las Secciones de Menores cabe recurso de reforma. (Respuesta Correcta 1)
+###
+Pregunta: En el marco del procedimiento penal de menores, ¿a quién enviará la entidad pública los informes sobre la ejecución de las medidas adoptadas?
+1)A la Sección de Menores del Tribunal de Instancia y al Ministerio Fiscal.
+2)A la Sección de Instrucción del Tribunal de Instancia y al Ministerio Fiscal.
+3)A la Sección de lo Penal del Tribunal de Instancia y al Ministerio Fiscal.
+4)Exclusivamente a la Sección de Menores del Tribunal de Instancia.
+Respuesta: 1
+Correcta: ¡Perfecto! La entidad pública enviará los informes a la Sección de Menores y al Ministerio Fiscal.
+Errada: La respuesta es inexacta. Los informes se envían tanto a la Sección de Menores del Tribunal de Instancia como al Ministerio Fiscal. (Respuesta Correcta 1)
+###
+Pregunta: Conforme a la Ley Orgánica 5/2000, reguladora de la responsabilidad penal de los menores, los delitos leves cometidos por menores prescribirán:
+1)A los seis meses.
+2)Al año.
+3)A los dos años.
+4)A los tres meses.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 6 de la LORPM, en consonancia con el Código Penal, los delitos leves prescriben al año.
+Errada: Incorrecto. La respuesta correcta es la B. Conforme al artículo 6 de la LORPM, el plazo de prescripción para los delitos leves es de un año. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 23.2 de la LORPM, el Ministerio Fiscal debe dar vista del expediente al letrado del menor y, en su caso, a quien haya ejercitado la acción penal tantas veces como aquel lo solicite, en un plazo no superior a:
+1)Veinticuatro horas.
+2)Doce horas.
+3)Cuarenta y ocho horas.
+4)Treinta y seis horas.
+Respuesta: 1
+Correcta: ¡Correcto! Según dicho artículo, el Ministerio Fiscal tiene 24 horas para proporcionar acceso al expediente al letrado del menor cuando este lo solicite.
+Errada: Según dicho artículo, el Ministerio Fiscal tiene 24 horas para proporcionar acceso al expediente al letrado del menor cuando este lo solicite. (Respuesta Correcta 1)
+###
+Pregunta: Si a un menor de edad se le ha impuesto una medida de internamiento en régimen cerrado y alcanza la edad de 18 años sin haberla finalizado, el juez:
+1)Podrá acordar que su cumplimiento se lleve a cabo en centro penitenciario.
+2)No podrá acordar que su cumplimiento se lleve a cabo en centro penitenciario.
+3)Se le pondrá en libertad.
+4)Se acudirá a una vista para decidir si se modifican las penas impuestas.
+Respuesta: 1
+Correcta: ¡Correcto! El juez tiene la facultad de decidir que el menor cumpla el resto de su medida en un centro penitenciario una vez que cumpla 18 años, según lo estipulado en la Ley Orgánica 5/2000.
+Errada: El juez tiene la facultad de decidir que el menor cumpla el resto de su medida en un centro penitenciario una vez que cumpla 18 años, según lo estipulado en la Ley Orgánica 5/2000. (Respuesta Correcta 1)
+###
+Pregunta: Sobre quién puede personarse en el procedimiento como acusadores particulares según la Ley Orgánica 5/2000:
+1)Los padres de las personas directamente ofendidas por el delito, en cualquier caso.
+2)Todas son correctas.
+3)Los padres de los menores directamente ofendidos por el delito.
+4)Los tutores legales de la víctima incapaz.
+Respuesta: 1
+Correcta: ¡Correcto! No es válido que los padres de las personas directamente ofendidas por el delito se personen como acusadores particulares en cualquier situación. Su participación depende de otros factores, como la minoría de edad de la persona ofendida.
+Errada: No es válido que los padres de las personas directamente ofendidas por el delito se personen como acusadores particulares en cualquier situación. Su participación depende de otros factores, como la minoría de edad de la persona ofendida. (Respuesta Correcta 1)
+###
+Pregunta: En relación a la responsabilidad civil derivada de un delito cometido por un menor:
+1)En el Código Penal.
+2)En el Código Civil.
+3)En La Ley de Enjuiciamiento Criminal.
+4)En La Ley de Enjuiciamiento Civil.
+Respuesta: 1
+Correcta: ¡Correcto! La extensión de la responsabilidad civil derivada de un delito cometido por un menor está regulada en el Código Penal.
+Errada: La extensión de la responsabilidad civil derivada de un delito cometido por un menor está regulada en el Código Penal. (Respuesta Correcta 1)
+###
+Pregunta: Según la LO 5/2000 que rige la responsabilidad penal de los menores, ¿cuál de las siguientes acciones no es competencia de las Secciones de Menores de los Tribunales de Instancia?
+1)Abordar delitos cometidos por menores fuera de España cuando la jurisdicción española deba conocerlos de acuerdo con la LO 5/2000 y los Acuerdos Internacionales.
+2)Abordar delitos cometidos por menores fuera de España cuando la jurisdicción española deba conocerlos de acuerdo con la LEC y los Acuerdos Internacionales.
+3)Abordar delitos cometidos por menores fuera de España cuando la jurisdicción española deba conocerlos de acuerdo con la LECRIM y los Acuerdos Internacionales.
+4)Abordar delitos cometidos por menores fuera de España cuando la jurisdicción española deba conocerlos de acuerdo con la LOPJ y los Acuerdos Internacionales.
+Respuesta: 4
+Correcta: ¡Bien hecho! Es correcto que las Secciones de Menores no tienen competencia para conocer delitos cometidos por menores fuera de España bajo ciertas circunstancias, rigiéndose por la LOPJ.
+Errada: Los órganos judiciales de menores no pueden tratar delitos realizados por menores fuera de España en ciertos contextos, cuya competencia viene determinada por la LOPJ. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la LO 5/2000 sobre responsabilidad penal de menores, ¿en qué situación no se puede establecer la medida de internamiento en un centro cerrado?
+1)En hechos definidos como delito contra la salud pública, donde se haya presentado un alto riesgo para la vida o salud de las personas.
+2)En hechos definidos como delito por imprudencia grave, donde se haya presentado un alto riesgo para la vida o salud de las personas.
+3)En hechos definidos como delito por dolo, donde se haya presentado un alto riesgo para la vida o salud de las personas.
+4)En hechos definidos como delito por robo, donde se haya presentado un alto riesgo para la vida o salud de las personas.
+Respuesta: 2
+Correcta: ¡Correcto! Los hechos catalogados como delito por imprudencia grave no pueden ser sancionados con internamiento en régimen cerrado, según el art. 10.3 LORPM.
+Errada: No se puede imponer la reclusión en un centro cerrado para delitos por imprudencia grave, aunque representen un riesgo grave. (Respuesta Correcta 2)
+###
+Pregunta: ¿Tiene el Juez la autoridad para determinar que las sesiones del procedimiento sobre responsabilidad penal de menores sean privadas?
+1)Solo si el Ministerio Fiscal lo pide.
+2)Sí, si favorece al interés del acusado o de la víctima.
+3)Nunca.
+4)Siempre.
+Respuesta: 2
+Correcta: ¡Muy bien! El Juez puede determinar que las sesiones sean privadas si favorece al acusado o a la víctima.
+Errada: El Juez tiene la facultad de hacer las sesiones privadas si es en el mejor interés del imputado o la víctima. (Respuesta Correcta 2)
+###
+Pregunta: Basándose en el artículo 47 de la Ley 5/2000 de Responsabilidad Penal de los Menores, ¿cuál de las siguientes afirmaciones es verdadera?
+1)La prioridad es la ejecución de la medida de internamiento terapéutico sobre cualquier otra.
+2)La medida de internamiento en un régimen cerrado es prioritaria sobre todas las demás.
+3)La medida de internamiento en un régimen abierto es prioritaria sobre todas las demás.
+4)La medida de libertad vigilada es prioritaria sobre todas las demás.
+Respuesta: 1
+Correcta: ¡Excelente! La prioridad es la ejecución de la medida de internamiento terapéutico.
+Errada: La medida de internamiento terapéutico tiene prioridad sobre las demás. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es la condición vinculada a la suspensión de la ejecución de una sentencia emitida por el Juez de Menores?
+1)El menor debe comprometerse a adoptar una actitud proclive a su reintegración en la sociedad, evitando reincidencias.
+2)El Juez podría imponer un periodo de libertad vigilada durante la suspensión o la obligación de realizar una actividad socio-educativa recomendada por el equipo técnico, incluyendo potencialmente la participación de los guardianes del menor.
+3)Durante la suspensión, el menor no debe ser condenado firmemente por un delito, o no serle aplicada otra medida bajo la LO 5/2000.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Muy bien! Todas las opciones mencionadas son condiciones vinculadas a la suspensión.
+Errada: Todas las opciones mencionadas son correctas. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 36 de la LO 5/2000, si el menor muestra su conformidad con los hechos, ¿cuál sería el procedimiento a seguir ante la Sección de Menores del Tribunal de Instancia?
+1)El órgano judicial debe dictar resolución de conformidad. Si el abogado del menor no concuerda, se debe decidir sobre la continuación del proceso, razonando la decisión en la sentencia.
+2)El órgano judicial puede emitir una resolución acorde. Si el abogado del menor no concuerda, no se debe decidir sobre la continuación del proceso.
+3)El órgano judicial puede emitir una resolución acorde. Si el abogado del menor concuerda, se debe decidir sobre la continuación del proceso.
+4)El órgano judicial puede emitir una resolución acorde. Si el abogado del menor no concuerda, se debe decidir sobre la continuación del proceso y razonar su decisión en la sentencia.
+Respuesta: 4
+Correcta: ¡Correcto! Si el abogado del menor no concuerda con el reconocimiento de hechos, el órgano judicial decide sobre la continuación del proceso.
+Errada: El órgano judicial puede dictar sentencia de conformidad, pero debe decidir sobre la continuación del proceso si hay discrepancias del letrado. (Respuesta Correcta 4)
+###
+Pregunta: Durante el proceso de responsabilidad penal del menor, si se verifica que el menor tiene una enajenación mental, ¿cómo se actúa?
+1)Se tomarán las medidas precautorias necesarias, empezando la instrucción y presentando los alegatos conforme a la Ley Orgánica que regula la responsabilidad penal de menores.
+2)Se tomarán las medidas precautorias necesarias, finalizando la instrucción y presentando los alegatos conforme a la Ley Orgánica que regula la responsabilidad penal de menores.
+3)No se tomarán las medidas precautorias necesarias, finalizando la instrucción y presentando los alegatos conforme a la Ley Orgánica que regula la responsabilidad penal de menores.
+4)Se tomarán las medidas precautorias necesarias, finalizando la instrucción y presentando los alegatos conforme a la Ley de Enjuiciamiento Criminal.
+Respuesta: 2
+Correcta: ¡Bien hecho! Se tomarán las medidas precautorias necesarias y se finalizará la instrucción
+Errada:  Se tomarán medidas precautorias, finalizando la instrucción y presentando alegatos conforme a la ley. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Orgánica que regula la responsabilidad penal de los menores, ¿cuál de los siguientes no es un deber de los menores internados?
+1)Todas son correctas.
+2)Adherirse a las reglas internas del centro.
+3)Ninguna es correcta.
+4)Contribuir a las necesidades del centro mediante la participación en tareas laborales.
+Respuesta: 4
+Correcta: ¡Correcto! El menor internado no tiene el deber de contribuir a las necesidades del centro mediante la participación en tareas laborales.
+Errada: Los menores internados no tienen el deber de participar en tareas laborales para ayudar al centro. (Respuesta Correcta 4)
+###
+Pregunta: Desde la apertura del expediente, ¿cuál es un derecho del menor?
+1)Elegir a un abogado para su defensa o tener uno asignado de oficio y poder hablar con él de manera confidencial, incluso antes de dar testimonio.
+2)Ser notificado por el Juez, el Ministerio Fiscal o un oficial de policía acerca de sus derechos.
+3)Ser consultado por el Juez o Tribunal antes de tomar cualquier decisión que lo afecte directamente.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! El menor tiene todos estos derechos desde la apertura del expediente.
+Errada: Desde la apertura del expediente, el menor tiene todos los derechos mencionados. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo debe ser redactada la sentencia por el Juez en un procedimiento penal para menores?
+1)Usando un lenguaje sencillo y adaptado a la comprensión del menor.
+2)De la misma manera que en otros procedimientos legales, ya que el abogado del menor se lo puede explicar.
+3)De la misma manera que en otros procedimientos legales.
+4)De la misma manera que en otros procedimientos legales, con la excepción del fallo, el cual debe ser adaptado a su edad.
+Respuesta: 1
+Correcta: ¡Excelente! La sentencia debe ser redactada en un lenguaje sencillo y adaptado al menor.
+Errada: La sentencia debe ser escrita de manera que el menor pueda entenderla. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley Orgánica que regula la responsabilidad penal de los menores, ¿bajo qué principio se guía la actividad de los centros de internamiento?
+1)Todas son correctas.
+2)El principio que reconoce que el menor no tiene derechos y sigue siendo miembro de la sociedad, denominado principio de resocialización.
+3)El principio de reeducación, que se basa en que el centro debe enfocarse en la educación del menor.
+4)El principio que reconoce que el menor tiene derechos y sigue siendo miembro de la sociedad, denominado principio de resocialización.
+Respuesta: 4
+Correcta: ¡Muy bien! La actividad de los centros de internamiento se guía por el principio de resocialización.
+Errada: La actividad de los centros de internamiento sigue el principio de resocialización. (Respuesta Correcta 4)
+###
+Pregunta: Si la Sección de Menores no dicta sentencia de conformidad, ¿puede ordenar el sobreseimiento mediante auto motivado?
+1)Sí, tomando en cuenta la solicitud del Ministerio Fiscal y los argumentos de las partes, permitiendo los recursos estipulados en la LORPM.
+2)Sí, tomando en cuenta la solicitud del Ministerio Fiscal y los argumentos de las partes, permitiendo los recursos estipulados en la LECRIM.
+3)Sí, tomando en cuenta la solicitud del Ministerio Fiscal y los argumentos de las partes, permitiendo los recursos estipulados en la LOPJ.
+4)Sí, tomando en cuenta la solicitud del Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Bien hecho! El órgano judicial puede ordenar el sobreseimiento basándose en la solicitud del Ministerio Fiscal, y los recursos aplicables son los de la LECRIM, que actúa como supletoria.
+Errada: El órgano judicial tiene la facultad de ordenar el sobreseimiento y los recursos aplicables son los establecidos con carácter general en la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 26.1 de la LORPM, para solicitar la práctica de diligencias durante la fase de instrucción, ¿a quién deben dirigirse las partes?
+1)A la Sección de Menores del Tribunal de Instancia, quien no decidirá su aprobación a través de un auto fundamentado.
+2)A la Sección de Menores del Tribunal de Instancia, quien decidirá su aprobación a través de un auto fundamentado.
+3)Al Ministerio Fiscal, quien no tomará la decisión sobre su aprobación.
+4)Al Ministerio Fiscal, quien tomará la decisión sobre su aprobación.
+Respuesta: 4
+Correcta: ¡Correcto! Durante la instrucción, las partes pueden dirigirse al Ministerio Fiscal para solicitar diligencias, y este decidirá sobre su práctica.
+Errada: La instrucción la dirige el Ministerio Fiscal, por lo que las partes deben dirigirse a él para solicitar diligencias. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la LO 5/2000 que regula la responsabilidad penal del menor, si un menor comienza a cumplir una medida de internamiento en una prisión, ¿qué ocurre con las demás medidas impuestas?
+1)Las demás medidas que estén pendientes o que no se estén cumpliendo simultáneamente con la medida de internamiento se anulan si son compatibles con el régimen penitenciario.
+2)Las demás medidas que estén pendientes o que se estén cumpliendo simultáneamente con la medida de internamiento se anulan si no son compatibles con el régimen penitenciario.
+3)Las demás medidas que estén pendientes o que se estén cumpliendo simultáneamente con la medida de internamiento se anulan si son compatibles con el régimen penitenciario.
+4)Las demás medidas que no estén pendientes o que se estén cumpliendo simultáneamente con la medida de internamiento se anulan si no son compatibles con el régimen penitenciario.
+Respuesta: 2
+Correcta: ¡Muy bien! Las demás medidas se anulan si no son compatibles con el régimen penitenciario.
+Errada: Las demás medidas se anulan si no coinciden con el régimen penitenciario. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 9 de la LO 5/2000 que rige la responsabilidad penal juvenil, ¿cuál es la medida aplicable cuando los actos realizados se consideran como delito leve?
+1)Supervisión de la libertad por un período no mayor a seis meses.
+2)Supervisión de la libertad por un período no mayor a doce meses.
+3)Supervisión de la libertad por un período no mayor a cinco meses.
+4)Supervisión de la libertad por un período no mayor a tres meses.
+Respuesta: 1
+Correcta: ¡Excelente! La medida adecuada para un delito leve, según el artículo 9 de la LO 5/2000, es la supervisión de la libertad por un período no mayor a seis meses.
+Errada: La medida adecuada para un delito leve es la supervisión de la libertad por un período no mayor a seis meses. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley Orgánica que controla la responsabilidad penal juvenil, ¿quién se encargará de garantizar los derechos de las víctimas y de quienes resultaron afectados por los actos de los menores?
+1)El Ministerio Fiscal junto con la Policía Judicial.
+2)El Ministerio Fiscal junto con la Sección de Instrucción.
+3)El Ministerio Fiscal junto con la Sección de lo Penal.
+4)El Ministerio Fiscal junto con la Sección de Menores del Tribunal de Instancia.
+Respuesta: 4
+Correcta: ¡Perfecto! La responsabilidad de garantizar los derechos de las víctimas y afectados por actos de menores recae en el Ministerio Fiscal junto con la Sección de Menores.
+Errada: El Ministerio Fiscal junto con la Sección de Menores del Tribunal de Instancia son los encargados de garantizar los derechos de las víctimas y afectados. (Respuesta Correcta 4)
+###
+Pregunta: Durante la etapa de Audiencia, ¿en cuánto tiempo decidirá el Juez de Menores acerca de la relevancia de las pruebas sugeridas?
+1)Dentro de 3 días tras recibir el documento de alegaciones del abogado del menor.
+2)Dentro de 7 días tras recibir el documento de alegaciones del abogado del menor.
+3)Dentro de 12 días tras recibir el documento de alegaciones del abogado del menor.
+4)Dentro de 5 días tras recibir el documento de alegaciones del abogado del menor.
+Respuesta: 4
+Correcta: ¡Excelente! El Juez de Menores decide sobre la pertinencia de las pruebas en un plazo de 5 días tras recibir el documento de alegaciones.
+Errada: El Juez tiene un plazo de 5 días para decidir sobre la pertinencia de las pruebas después de recibir las alegaciones del abogado del menor. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley Orgánica 5/2000, de 12 de enero, si el menor y su abogado solo discrepan en cuanto a la responsabilidad civil en el escrito de alegaciones, ¿cómo se llevará a cabo la audiencia?
+1)Todas son correctas.
+2)Tal discrepancia será presentada ante el Juez de Menores según lo establecido en la Ley Orgánica y se emitirá un auto.
+3)La audiencia versará sobre tanto la responsabilidad penal como la civil.
+4)La audiencia se centrará únicamente en las pruebas y discusión de los aspectos vinculados a esa responsabilidad.
+Respuesta: 4
+Correcta: ¡Correcto! Si solo hay discrepancias sobre la responsabilidad civil, la audiencia se centrará solo en esos aspectos.
+Errada: La audiencia se enfocará en discutir y probar solo los puntos relacionados con la responsabilidad civil. (Respuesta Correcta 4)
+###
+Pregunta: Si el Ministerio Fiscal, el menor, su familia o quien presente la acción penal lo solicita, ¿cómo puede el Juez de Menores declarar la confidencialidad del expediente?
+1)A través de una sentencia justificada.
+2)A través de un decreto justificado.
+3)A través de un auto justificado.
+4)A través de una providencia justificada.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Juez de Menores puede declarar la confidencialidad del expediente mediante un auto justificado.
+Errada: El Juez de Menores tiene la facultad de declarar el secreto del expediente a través de un auto justificado. (Respuesta Correcta 3)
+###
+Pregunta: Para que se aplique la LO 5/2000 sobre responsabilidad penal de menores, ¿cuáles condiciones deben cumplirse?
+1)Que tengan menos de dieciocho años al momento de cometer el delito.
+2)Que tengan entre doce y dieciocho años al momento de cometer el delito.
+3)Que tengan entre catorce y dieciséis años al momento de cometer el delito.
+4)Que tengan entre catorce y dieciocho años al momento de cometer el delito.
+Respuesta: 4
+Correcta: ¡Correcto! Que tengan entre catorce y dieciocho años al momento de cometer el delito.
+Errada: Que tengan entre catorce y dieciocho años al momento de cometer el delito. (Respuesta Correcta 4)
+###
+Pregunta: El principio de legalidad está regulado por el artículo 43 de la Ley Orgánica 5/2000. ¿Qué estipula este principio?
+1)Que siempre pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con una sentencia definitiva siguiendo el procedimiento de la LECRIM.
+2)Que solo pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con una sentencia definitiva siguiendo el procedimiento de esta Ley.
+3)Que solo pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con un auto definitivo siguiendo el procedimiento de esta Ley.
+4)Que nunca pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con una sentencia definitiva siguiendo el procedimiento de esta Ley.
+Respuesta: 2
+Correcta: ¡Correcto! Solo pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con una sentencia definitiva siguiendo el procedimiento de esta Ley.
+Errada: Que solo pueden aplicarse las medidas de la Ley Orgánica de responsabilidad penal de menores con una sentencia definitiva siguiendo el procedimiento de esta Ley. (Respuesta Correcta 2)
+###
+Pregunta: ¿Bajo qué circunstancias puede el Ministerio Fiscal abstenerse de iniciar un expediente de corrección en el ámbito educativo y familiar del menor?
+1)Si los actos denunciados son delitos leves sin violencia o intimidación, según lo estipulado en el Código Penal o leyes penales especiales.
+2)Si los actos denunciados son delitos menos graves con violencia o intimidación o delitos leves, según lo estipulado en el Código Penal o leyes penales especiales.
+3)Si los actos denunciados son delitos leves sin violencia o intimidación, según lo estipulado en el Código Penal o leyes penales especiales.
+4)Si los actos denunciados son delitos menos graves con violencia e intimidación y delitos leves, según lo estipulado en el Código Penal o leyes penales especiales.
+Respuesta: 3
+Correcta: ¡Correcto! La opción correcta es C, ya que la ley permite al Fiscal desistir en delitos leves (anteriormente faltas) sin violencia o intimidación. Las opciones A y C son idénticas, pero se mantiene la C como referencia.
+Errada: Si los actos denunciados son delitos leves sin violencia o intimidación, según lo estipulado en el Código Penal o leyes penales especiales. (Respuesta Correcta 3)
+###
+Pregunta: Basándote en el artículo 19 de la LO 5/2000 sobre Responsabilidad Penal del Menor, ¿en qué circunstancias es viable el desistimiento de la continuación del expediente?
+1)Todas son correctas.
+2)Si el acto atribuido al menor es catalogado como delito grave.
+3)Si el acto atribuido al menor es catalogado como delito menos grave.
+4)Si el acto atribuido al menor es catalogado como delito menos grave o leve.
+Respuesta: 4
+Correcta: ¡Correcto! El desistimiento es posible si el hecho imputado al menor es un delito menos grave o leve.
+Errada: Lo siento, la respuesta correcta es la opción D: Si el acto atribuido al menor es catalogado como delito menos grave o leve. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuánto tiempo tiene el Ministerio Fiscal para permitir que el abogado del menor y, si corresponde, el demandante penal, revisen el expediente?
+1)No más de 48 horas.
+2)No más de 24 horas.
+3)No más de 15 horas.
+4)No más de 10 horas.
+Respuesta: 2
+Correcta: ¡Bien hecho! El plazo es no superior a 24 horas.
+Errada: Lo siento, la respuesta correcta es la opción B: No más de 24 horas. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 37 de la Ley Orgánica 5/2000, si es necesario realizar una audiencia, el juez solicitará a las partes civilmente responsables que expresen:
+1)Sus opiniones acerca de la falta de más pruebas y sobre la posible infracción de algún derecho fundamental durante el procedimiento.
+2)Sus opiniones sobre el entorno social del menor.
+3)Sus opiniones acerca de la falta de más pruebas o sobre la posible infracción de algún derecho fundamental durante el procedimiento.
+4)Sus opiniones acerca de la necesidad de más pruebas o sobre la posible infracción de algún derecho fundamental durante el procedimiento.
+Respuesta: 4
+Correcta: ¡Exacto! El juez invita a expresar opiniones sobre la práctica de nuevas pruebas o posibles vulneraciones de derechos fundamentales.
+Errada: La respuesta correcta es la opción D: Sus opiniones acerca de la necesidad de más pruebas o sobre la posible infracción de algún derecho fundamental durante el procedimiento. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley Orgánica que regula la responsabilidad penal de los menores, ¿cuál de las siguientes medidas de vigilancia y seguridad en los centros no está permitida?
+1)Exámenes regulares de individuos, según lo establecido reglamentariamente.
+2)Revisiones de sus habitaciones.
+3)Atar a una persona a un objeto estático certificado, según lo estipulado reglamentariamente.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! No está permitido atar a una persona a un objeto estático certificado.
+Errada: La respuesta correcta es la opción C: Atar a una persona a un objeto estático certificado, según lo estipulado reglamentariamente. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 5/2000, si las obligaciones impuestas al menor bajo libertad vigilada impiden que conviva con sus padres o tutores, ¿qué acción se toma?
+1)El abogado de la acusación particular debe enviar detalles a la entidad pública protectora del menor, y esta entidad promoverá medidas de protección según la Ley Orgánica de protección jurídica del menor.
+2)El LAJ debe enviar detalles a la entidad pública protectora del menor, y esta entidad promoverá medidas de protección según la Ley Orgánica de protección jurídica del menor.
+3)El Ministerio Fiscal debe enviar detalles a la entidad pública protectora del menor, y esta entidad promoverá medidas de protección según la Ley Orgánica de protección jurídica del menor.
+4)El Juez debe enviar detalles a la entidad pública protectora del menor, y esta entidad promoverá medidas de protección según la Ley Orgánica de protección jurídica del menor.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Ministerio Fiscal debe enviar detalles a la entidad protectora del menor, que a su vez promoverá medidas de protección.
+Errada: El Ministerio Fiscal debe enviar detalles a la entidad pública protectora del menor, y esta entidad promoverá medidas de protección según la legislación vigente. (Respuesta Correcta 3)
+###
+Pregunta: Según la LO 5/2000, ¿cuál es la duración máxima de las medidas aplicables a menores?
+1)Cinco años, contabilizando el tiempo previamente servido en una medida cautelar.
+2)Tres años, contabilizando el tiempo previamente servido en una medida cautelar.
+3)Siete años, contabilizando el tiempo previamente servido en una medida cautelar.
+4)Dos años, contabilizando el tiempo previamente servido en una medida cautelar.
+Respuesta: 4
+Correcta: ¡Correcto! La duración máxima es de dos años, teniendo en cuenta el tiempo ya servido bajo medida cautelar.
+Errada: La respuesta correcta es la opción D: Dos años, contabilizando el tiempo previamente servido en una medida cautelar. (Respuesta Correcta 4)
+###
+Pregunta: Indique cuál de las siguientes no es un derecho de los menores internados:
+1)Derecho a comunicarse de manera confidencial con sus abogados, el juez de menores a cargo, el Ministerio Fiscal y los inspectores de centros de detención.
+2)Derecho a quedarse en el centro bajo la autoridad judicial pertinente hasta su liberación, a excepción de las salidas y actividades permitidas fuera del centro.
+3)Derecho para aquellos sentenciados a recibir un programa de tratamiento personalizado.
+4)Derecho a que la entidad pública encargada del centro garantice su vida, bienestar físico y salud.
+Respuesta: 2
+Correcta: ¡Correcto! Los menores internados no tienen el derecho específico de quedarse en el centro hasta su liberación a excepción de salidas permitidas.
+Errada: Los menores internados no tienen el derecho específico de quedarse en el centro hasta su liberación a excepción de salidas permitidas. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 7 de la LO 5/2000, elija la afirmación verdadera sobre las medidas aplicables a los menores:
+1)Las personas bajo libertad vigilada deben adherirse a las reglas de conducta establecidas por el juez.
+2)Las personas bajo libertad vigilada deben adherirse a las reglas de conducta establecidas por el Ministerio Fiscal.
+3)Las personas bajo libertad vigilada deben adherirse a las reglas de conducta establecidas por el abogado de la acusación particular.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! Las personas bajo libertad vigilada están obligadas a seguir las reglas de conducta impuestas por el juez.
+Errada: Las personas bajo libertad vigilada están obligadas a seguir las reglas de conducta impuestas por el juez. (Respuesta Correcta 1)
+###
+Pregunta: Basándose en el artículo 15 de la LO 5/2000, ¿cuándo prescriben las medidas con una duración superior a dos años?
+1)En dos años.
+2)En tres años.
+3)En siete años.
+4)En cuatro años.
+Respuesta: 2
+Correcta: ¡Correcto! Las medidas que duran más de dos años prescriben en tres años.
+Errada: Las medidas que duran más de dos años prescriben en tres años. (Respuesta Correcta 2)
+###
+Pregunta: Si un menor es detenido por oficiales de la policía, ¿cuál de las siguientes afirmaciones describe correctamente el procedimiento?
+1)Dentro de un plazo no mayor a doce horas, el menor debe ser liberado o entregado al Ministerio Fiscal.
+2)Dentro de un plazo no mayor a quince horas, el menor debe ser liberado o entregado al Ministerio Fiscal.
+3)Dentro de un plazo no mayor a veinticuatro horas, el menor debe ser liberado o entregado al Ministerio Fiscal.
+4)Dentro de un plazo no mayor a cuarenta y ocho horas, el menor debe ser liberado o entregado al Ministerio Fiscal.
+Respuesta: 3
+Correcta: ¡Correcto! Según el procedimiento, el menor detenido debe ser liberado o entregado al Ministerio Fiscal dentro de las veinticuatro horas.
+Errada: Según el procedimiento, el menor detenido debe ser liberado o entregado al Ministerio Fiscal dentro de las veinticuatro horas. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la LECRIM, en el supuesto de que un recurrente con derecho a asistencia jurídica gratuita comparezca ante la Sala Segunda del Tribunal Supremo sin representación, el Letrado de la Administración de Justicia deberá:
+1)Solicitar la designación de un Abogado y Procurador para el recurrente completamente insolvente.
+2)Solicitar la designación de un Abogado y Procurador para el recurrente parcialmente insolvente.
+3)Solicitar la designación de un Abogado y Procurador para el recurrente.
+4)Devolver los autos para que se subsane el defecto por la parte.
+Respuesta: 3
+Correcta: ¡Correcto! En estos casos, el Letrado de la Administración de Justicia tiene la obligación de iniciar los trámites para designar de oficio a los profesionales que asistirán al recurrente.
+Errada: El Letrado de la Administración de Justicia debe solicitar la designación de Abogado y Procurador para el recurrente que tiene reconocido el derecho a la asistencia jurídica gratuita. (Respuesta Correcta 3)
+###
+Pregunta: Basándose en el artículo 4 de la LO 5/2000, ¿cuál de estos derechos no está garantizado a las víctimas o personas afectadas por delitos cometidos por menores?
+1)Derecho a recibir una notificación escrita de la sentencia emitida, incluso si no participaron en el expediente.
+2)Derecho a ser notificado por escrito de las medidas cautelares de protección tomadas, en casos de víctimas de violencia de género.
+3)Derecho a ser informado por el Letrado de la Administración de Justicia de todas las decisiones que puedan influir en sus intereses, si lo han solicitado.
+4)Derecho a recibir información constante sobre el estado procesal del supuesto agresor, en casos de delitos violentos.
+Respuesta: 3
+Correcta: ¡Correcto! La opción C no está garantizada a las víctimas o personas afectadas por delitos cometidos por menores según el artículo 4 de la LO 5/2000, ya que la información sobre las resoluciones la realiza de oficio el órgano judicial, no a instancia de parte.
+Errada: Esta opción no está garantizada en esos términos, ya que la ley establece la notificación de las resoluciones relevantes, no de "todas las decisiones que puedan influir en sus intereses". (Respuesta Correcta 3)
+###
+Pregunta: Si el órgano judicial decide sobre la pertinencia de las pruebas propuestas, ¿en cuánto tiempo el Letrado de la Administración de Justicia debe fijar la fecha y hora para la audiencia?
+1)En los cinco días siguientes.
+2)En los quince días siguientes.
+3)En los veinte días siguientes.
+4)En los diez días siguientes.
+Respuesta: 4
+Correcta: ¡Correcto! Según la Ley, el Letrado de la Administración de Justicia establecerá la fecha y hora para la audiencia en los diez días siguientes.
+Errada: Según la Ley, el Letrado de la Administración de Justicia establecerá la fecha y hora para la audiencia en los diez días siguientes. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Orgánica reguladora de la responsabilidad penal del menor, si un menor viola la medida privativa de libertad impuesta, ¿qué acción se toma?
+1)Se llevará a cabo su reingreso en el mismo centro del que escapó o en otro adecuado a sus condiciones.
+2)Se llevará a cabo su reingreso en el mismo centro del que escapó o en otro que el Ministerio Fiscal considere adecuado.
+3)Se llevará a cabo su reingreso en distinto centro del que escapó o en otro adecuado a sus condiciones.
+4)Se llevará a cabo su reingreso en el mismo centro del que escapó o en otro que el Juez considere adecuado.
+Respuesta: 1
+Correcta: ¡Correcto! Si un menor quebranta la medida privativa de libertad, se llevará a cabo su reingreso en el centro del que escapó o en otro adecuado a sus condiciones.
+Errada: Si un menor quebranta la medida privativa de libertad, se llevará a cabo su reingreso en el centro del que escapó o en otro adecuado a sus condiciones. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento de responsabilidad penal del menor, ¿quién puede solicitar al Juez que adopte medidas cautelares?
+1)A instancia del abogado del menor.
+2)A instancia del Juez.
+3)A instancia del Ministerio Fiscal.
+4)A instancia de la acusación particular.
+Respuesta: 3
+Correcta: ¡Correcto! En el procedimiento de responsabilidad penal del menor, las medidas cautelares se adoptarán a instancia del Ministerio Fiscal.
+Errada: En el procedimiento de responsabilidad penal del menor, las medidas cautelares se adoptarán a instancia del Ministerio Fiscal. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué recurso se puede interponer contra una sentencia dictada por el Juez de Menores según la Ley Orgánica 5/2000?
+1)Se permite el recurso de queja ante la correspondiente Audiencia Provincial.
+2)Se permite el recurso de apelación ante la correspondiente Audiencia Provincial.
+3)Se permite el recurso de reposición ante la correspondiente Audiencia Provincial.
+4)Se permite el recurso de súplica ante la correspondiente Audiencia Provincial.
+Respuesta: 2
+Correcta: ¡Correcto! Según la Ley Orgánica 5/2000, se puede interponer un recurso de apelación ante la correspondiente Audiencia Provincial contra una sentencia dictada por el Juez de Menores.
+Errada: Según la Ley Orgánica 5/2000, se puede interponer un recurso de apelación ante la correspondiente Audiencia Provincial contra una sentencia dictada por el Juez de Menores. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Orgánica reguladora de la responsabilidad penal del menor, ¿cuál es la duración máxima de la medida de prestaciones en beneficio de la comunidad?
+1)50 horas.
+2)60 horas.
+3)85 horas.
+4)100 horas.
+Respuesta: 4
+Correcta: ¡Correcto! Según la Ley, la medida de prestaciones en beneficio de la comunidad tiene una duración máxima de 100 horas.
+Errada: Según la Ley, la medida de prestaciones en beneficio de la comunidad tiene una duración máxima de 100 horas. (Respuesta Correcta 4)
+###
+Pregunta: Según la LO 5/2000 sobre medidas que pueden ser impuestas a menores y las reglas generales para su determinación, ¿cuál de las siguientes afirmaciones es errónea?
+1)Bajo la medida de prestaciones en beneficio de la comunidad, el individuo llevará a cabo tareas no retribuidas de interés social o para ayudar a personas desfavorecidas.
+2)Las tareas socio-educativas son actividades educativas específicas destinadas a mejorar la habilidad social del menor, sin encarcelamiento ni supervisión.
+3)No se puede aplicar la medida de prestaciones en beneficio de la comunidad sin el acuerdo del menor.
+4)La privación de licencias administrativas para el uso de armas puede ser impuesta de forma accesoria si el delito fue cometido con un arma.
+Respuesta: 1
+Correcta: ¡Exacto! La opción A es incorrecta en la pregunta original. La medida de prestaciones en beneficio de la comunidad no implica tareas remuneradas, sino no retribuidas.
+Errada: La medida de prestaciones en beneficio de la comunidad no implica tareas remuneradas. (Respuesta Correcta 1)
+###
+Pregunta: Al ingresar un menor en un centro para ejecutar una medida privativa de libertad, ¿cómo se le debe proporcionar la información estipulada en la Ley Orgánica de responsabilidad penal de menores?
+1)Por escrito y en un lenguaje que comprenda.
+2)Oralmente o de manera escrita en el idioma oficial de la Comunidad Autónoma del centro y en un idioma que el menor comprenda si no conoce el anterior.
+3)Por voz y en un lenguaje que comprenda.
+4)Oralmente o de manera escrita en un idioma que el menor comprenda.
+Respuesta: 1
+Correcta: ¡Correcto! De acuerdo con la ley, la información debe ser proporcionada de forma escrita en un idioma que el menor entienda.
+Errada: La ley establece que la información debe ser proporcionada de forma escrita en un idioma que el menor entienda. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso de responsabilidad penal de un menor, ¿cuándo se considera que ha tenido lugar la conciliación a efectos de poder archivar el expediente?
+1)Cuando el menor y sus tutores legales admiten el daño y se disculpan con la víctima, y esta última acepta las disculpas.
+2)Cuando el menor no admite el daño y pide disculpas a la víctima, y esta última las acepta.
+3)Cuando el menor admite el daño y pide disculpas a la víctima, y esta última las acepta.
+4)Cuando el menor admite el daño y pide disculpas a la víctima, y esta última no las acepta.
+Respuesta: 3
+Correcta: ¡Correcto! La conciliación se considera efectuada cuando el menor reconoce el daño, se disculpa con la víctima y esta acepta dichas disculpas.
+Errada: La conciliación se considera efectuada cuando el menor reconoce el daño, pide disculpas y la víctima las acepta. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 28.3 de la LORPM, ¿cuál es la duración máxima total que puede alcanzar la medida cautelar de internamiento, incluyendo su posible prórroga?
+1)Nueve meses.
+2)Doce meses.
+3)Seis meses.
+4)Quince meses.
+Respuesta: 2
+Correcta: ¡Correcto! La Ley Orgánica 8/2021 modificó el art. 28.3 de la LORPM, estableciendo que la duración máxima es de seis meses, prorrogable por otros seis meses, sumando un total de doce meses.
+Errada: La duración máxima inicial es de seis meses, y puede ser prorrogada por un único periodo de hasta otros seis meses más. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Orgánica de responsabilidad penal del menor, en el caso de un delito cometido por un menor asociado o al servicio de una banda delictiva, ¿qué aplica?
+1)Si el menor tenía dieciséis años cuando cometió el delito y el acto es de extrema gravedad, el juez deberá imponer de tres a seis años de internamiento en un régimen cerrado, seguido por libertad vigilada con asistencia educativa hasta un máximo de cinco años.
+2)Si el menor tenía dieciséis años cuando cometió el delito y el acto es de extrema gravedad, el juez deberá imponer de uno a cinco años de internamiento en un régimen cerrado, seguido por libertad vigilada con asistencia educativa hasta un máximo de cinco años.
+3)Si el menor tenía dieciséis años cuando cometió el delito y el acto es de extrema gravedad, el juez deberá imponer de uno a seis años de internamiento en un régimen cerrado, seguido por libertad vigilada con asistencia educativa hasta un máximo de cinco años.
+4)Si el menor tenía dieciséis años cuando cometió el delito y el acto es de extrema gravedad, el juez deberá imponer de dos a seis años de internamiento en un régimen cerrado, seguido por libertad vigilada con asistencia educativa hasta un máximo de cinco años.
+Respuesta: 3
+Correcta: ¡Bien hecho! Si el delito es de extrema gravedad y el menor tenía dieciséis años, el juez impone una serie de medidas severas en función de la gravedad.
+Errada: Si el delito es de extrema gravedad y el menor tenía dieciséis años, el juez impone una serie de medidas severas en función de la gravedad. (Respuesta Correcta 3)
+###
+Pregunta: ¿Ante qué órgano se puede interponer recurso de apelación contra las sentencias y autos dictados por la Sección de Menores del Tribunal Central de Instancia?
+1)Ante la Sala de lo Penal de la Audiencia Nacional.
+2)Ante el Tribunal Superior de Justicia.
+3)Ante la Sala de lo Penal de la Audiencia Provincial.
+4)Ante el Tribunal Supremo.
+Respuesta: 1
+Correcta: ¡Exacto! Los recursos de apelación contra las decisiones de la Sección de Menores del Tribunal Central de Instancia se presentan ante la Sala de lo Penal de la Audiencia Nacional.
+Errada: Los recursos de apelación contra las decisiones de la Sección de Menores del Tribunal Central de Instancia se presentan ante la Sala de lo Penal de la Audiencia Nacional. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LO 5/2000 que regula la responsabilidad penal del menor, ¿cuál es la duración máxima de la medida de permanencia de fin de semana?
+1)Ocho fines de semana.
+2)Seis fines de semana.
+3)Cuatro fines de semana.
+4)Dos fines de semana.
+Respuesta: 1
+Correcta: ¡Correcto! La duración máxima de la medida de permanencia de fin de semana es de ocho fines de semana.
+Errada: La duración máxima de la medida de permanencia de fin de semana es de ocho fines de semana. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley Orgánica 5/2000, si la acusación propone la medida de tratamiento ambulatorio para el menor, ¿cómo se actuará?
+1)Si el menor, su abogado y los responsables civiles están de acuerdo y se manifiestan ante el órgano judicial, se dictará sentencia sin más trámites.
+2)Si el menor, su abogado y los responsables civiles están de acuerdo y se manifiestan ante el órgano judicial, se dictará decreto sin más trámites.
+3)Si el menor, su abogado y los responsables civiles están de acuerdo y se manifiestan ante el órgano judicial, se dictará auto sin más trámites.
+4)Si el menor y su abogado están de acuerdo y lo expresan ante el órgano judicial, se dictará sentencia sin necesidad de la aprobación de los responsables civiles.
+Respuesta: 1
+Correcta: ¡Bien hecho! La sentencia se dicta sin más trámites si el menor, su abogado y los responsables civiles están de acuerdo y se manifiestan ante el órgano judicial.
+Errada: La sentencia se dicta sin más trámites si el menor, su abogado y los responsables civiles están de acuerdo y se manifiestan ante la Sección de Menores. (Respuesta Correcta 1)
+###
+Pregunta: Una vez que el menor ha cumplido la medida impuesta, según la LO 5/2000, ¿qué órgano declarará el archivo definitivo de la ejecutoria?
+1)La Sección de Menores del Tribunal de Instancia.
+2)La Sección de Instrucción del Tribunal de Instancia.
+3)La Sección de lo Penal del Tribunal de Instancia.
+4)El Ministerio Fiscal.
+Respuesta: 1
+Correcta: ¡Exacto! Una vez cumplida la medida, la Sección de Menores del Tribunal de Instancia dictará una resolución para proceder al archivo de la ejecutoria.
+Errada: Una vez cumplida la medida, el órgano judicial que llevaba la ejecución dictará una resolución para proceder al archivo del caso. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley Orgánica que regula la responsabilidad penal de los menores, en el caso de un delito realizado por un menor que forme parte o actúe en nombre de una banda dedicada a esos actos:
+1)Si el menor tenía dieciséis años en el momento de cometer el delito y este es de extrema gravedad, el Juez tiene que dictar una medida de internamiento en un régimen cerrado de entre uno a seis años, seguido de libertad vigilada con asistencia educativa por un máximo de cinco años.
+2)Si el menor tenía dieciséis años en el momento de cometer el delito y este es de extrema gravedad, el Juez tiene que dictar una medida de internamiento en un régimen abierto de entre uno a seis años, seguido de libertad vigilada con asistencia educativa por un máximo de cinco años.
+3)Si el menor tenía dieciséis años en el momento de cometer el delito y este es de extrema gravedad, el Juez tiene que dictar una medida de internamiento en un régimen semicerrado de entre uno a seis años, seguido de libertad vigilada con asistencia educativa por un máximo de cinco años.
+4)Si el menor tenía dieciséis años en el momento de cometer el delito y este es de extrema gravedad, el Juez tiene que dictar una medida de internamiento en un régimen semiabierto de entre uno a seis años, seguido de libertad vigilada con asistencia educativa por un máximo de cinco años.
+Respuesta: 1
+Correcta: ¡Correcto! La ley especifica que para tales circunstancias y edades, el Juez debe imponer estas medidas específicas.
+Errada: Lo siento, pero eso no es correcto. Para un menor de dieciséis años que comete un delito de extrema gravedad mientras actúa en nombre de una banda, la ley dicta medidas específicas de internamiento y posterior libertad vigilada. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LO 5/2000, ¿cuántos fines de semana como máximo puede durar la medida de permanencia de fin de semana para un menor?
+1)Ocho fines de semana.
+2)1 mes.
+3)Treinta fines de semana.
+4)3 meses.
+Respuesta: 1
+Correcta: ¡Exacto! La LO 5/2000 estipula que la duración máxima de esta medida es de ocho fines de semana.
+Errada: Desafortunadamente, no es correcto. Según la LO 5/2000, la duración máxima de la medida de permanencia de fin de semana es de ocho fines de semana. (Respuesta Correcta 1)

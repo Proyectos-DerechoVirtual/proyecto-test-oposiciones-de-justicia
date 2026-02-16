@@ -1,0 +1,404 @@
+Pregunta: Según el art. 106 de la LJCA, si la Administración es sentenciada a pagar una cantidad determinada, ¿cómo se categorizará el crédito asignado para este pago dentro de su presupuesto?
+1)Como un crédito extraordinario
+2)Como un crédito ampliable
+3)Como un crédito ordinario
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! El crédito se considerará ampliable según el art. 106 LJCA.
+Errada: La respuesta correcta es un "crédito ampliable", conforme lo establece el art. 106 LJCA. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 77 LJCA, cuando una disputa legal se resuelve mediante un acuerdo de mediación y no se establece un plazo para el cumplimiento de las obligaciones, ¿cuánto tiempo debe esperar la parte afectada para solicitar el cumplimiento y ejecución forzosa del acuerdo?
+1)31 días
+2)Dos meses.
+3)Un mes.
+4)30 días.
+Respuesta: 2
+Correcta: ¡Correcto! La parte afectada puede solicitar el cumplimiento y ejecución forzosa después de dos meses.
+Errada: Deberías esperar dos meses para solicitar la ejecución forzosa si no se ha establecido un plazo. (Respuesta Correcta 2)
+###
+Pregunta: En la jurisdicción contencioso-administrativa, una vez levantada una medida cautelar, ¿cuál es el plazo dentro del cual la Administración o cualquier parte que solicite una indemnización por daños puede presentar esta solicitud?
+1)Dentro del año siguiente a la fecha de levantamiento.
+2)Dentro del mes siguiente a la fecha de levantamiento.
+3)Dentro de los dos años siguientes a la fecha de levantamiento.
+4)Dentro de los dos meses siguientes a la fecha de levantamiento.
+Respuesta: 1
+Correcta: ¡Exacto! La indemnización puede solicitarse dentro del año siguiente a la fecha del levantamiento de la medida cautelar.
+Errada: El plazo correcto para solicitar indemnización es dentro del año siguiente a la fecha del levantamiento de la medida cautelar. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 131 de la LJCA, ¿cómo y en qué plazo se resolverá un incidente cautelar?
+1)Mediante providencia, en un plazo de cinco días.
+2)Mediante auto, en un plazo de cinco días.
+3)Mediante auto, en un plazo de tres días.
+4)Mediante providencia, en un plazo de tres días.
+Respuesta: 2
+Correcta: ¡Acertaste! El incidente cautelar será resuelto mediante auto en un plazo de cinco días, conforme al art. 131 LJCA.
+Errada: Según el artículo 131 de la LJCA, el incidente cautelar se resolverá mediante auto en un plazo de cinco días. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el artículo 139 de la LJCA sobre las Costas Procesales, elige la afirmación correcta:
+1)Si los particulares no pagan las costas impuestas voluntariamente, la Administración acreedora procederá con el método de apremio.
+2)En casos de estimación o desestimación parcial, el juez puede decidir imponer las costas a una de las partes si considera que actuó de mala fe o con temeridad, justificando su decisión.
+3)Si el recurso es totalmente desestimado, el juez puede optar por no imponer las costas al recurrente si considera que hay circunstancias que lo justifiquen.
+4)Todas las opciones anteriores son verdaderas.
+Respuesta: 4
+Correcta: ¡Excelente! El artículo 139 LJCA contempla todas estas situaciones.
+Errada: La respuesta correcta es "d", ya que el artículo 139 LJCA engloba todos los escenarios mencionados. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 103 de la LJCA, ¿bajo qué circunstancias se declarará la nulidad de actos o disposiciones que contradigan las sentencias?
+1)Por el LAJ.
+2)De oficio.
+3)A solicitud de una de las partes.
+4)Ambas son correctas
+Respuesta: 3
+Correcta: ¡Correcto! El órgano jurisdiccional puede declarar la nulidad a instancia de parte.
+Errada: De acuerdo con el artículo 103 LJCA, la nulidad se puede declarar a solicitud de una de las partes. (Respuesta Correcta 3)
+###
+Pregunta: Con base en la Ley 29/1998 que regula la Jurisdicción Contencioso-administrativa, una vez que una sentencia es firme, el Letrado de la Administración de Justicia debe:
+1)Informar en un plazo de 5 días al órgano responsable de la acción objeto del recurso
+2)Informar en un plazo de 10 días al órgano responsable de la acción objeto del recurso
+3)Informar en un plazo de 9 días al órgano responsable de la acción objeto del recurso
+4)Informar en un plazo de 12 días al órgano responsable de la acción objeto del recurso
+Respuesta: 2
+Correcta: ¡Bien hecho! El Letrado debe comunicarlo en un plazo de 10 días.
+Errada: La respuesta correcta es "b". Según la Ley 29/1998, el plazo es de 10 días. (Respuesta Correcta 2)
+###
+Pregunta: La LJCA establece que se pueden expropiar los derechos o intereses reconocidos frente a la Administración en una sentencia firme por razones de:
+1)Temor justificado de guerra.
+2)Riesgo real de alteración grave de los derechos y libertades de los ciudadanos.
+3)Amenaza a la integridad territorial.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todas las situaciones listadas son consideradas causas de utilidad pública o de interés social según la LJCA.
+Errada: Todas las opciones listadas son razones válidas según la LJCA. La respuesta correcta es "d". (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 131 de la LJCA, el incidente cautelar se gestionará en una sección separada, con oportunidad de ser escuchada la parte opuesta. ¿Quién lo organizará y cómo será resuelto?
+1)Por el Letrado de la Administración de Justicia en un máximo de 15 días, y será decidido por auto en los próximos 5 días.
+2)Por el Letrado de la Administración de Justicia en un máximo de 20 días, y será decidido por auto en los próximos 10 días.
+3)Por el Letrado de la Administración de Justicia en un máximo de 10 días, y será decidido por auto en los próximos 5 días.
+4)Por el Letrado de la Administración de Justicia en un máximo de 5 días, y será decidido por auto en los próximos 10 días.
+Respuesta: 3
+Correcta: ¡Exacto! El Letrado de la Administración de Justicia es quien organiza y se decide por auto en los siguientes 5 días.
+Errada: La correcta es "c". Según el artículo 131 de la LJCA, es el Letrado de la Administración de Justicia quien organiza el incidente cautelar. (Respuesta Correcta 3)
+###
+Pregunta: En relación a la jurisdicción contencioso-administrativa, identifique la opción incorrecta sobre la imposición de costas:
+1)Puede ser impuesta a una porción.
+2)Puede ser hasta el monto máximo.
+3)Puede ser impuesta en su totalidad.
+4)Puede ser hasta un monto mínimo.
+Respuesta: 4
+Correcta: ¡Correcto! Las costas no se imponen hasta un monto mínimo, según el art. 139.4 LJCA.
+Errada: La respuesta correcta es la "4". El art. 139.4 LJCA establece que la imposición de costas puede ser a la totalidad, a una parte o hasta una cifra máxima, pero no contempla un "monto mínimo". (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley reguladora de la Jurisdicción Contencioso-administrativa, cuando se detecte un defecto subsanable de oficio:
+1)El Letrado de la Administración de Justicia emitirá un decreto de ordenación especificando el defecto y dando un plazo para su subsanación, con posible suspensión del tiempo para sentencia.
+2)El Letrado de la Administración de Justicia emitirá un decreto de ordenación especificando el defecto y dando un plazo para su subsanación, sin suspensión del tiempo para sentencia.
+3)El Letrado de la Administración de Justicia emitirá una diligencia de ordenación especificando el defecto y dando un plazo para su subsanación, con posible suspensión del tiempo para sentencia.
+4)El Letrado de la Administración de Justicia emitirá una diligencia de ordenación especificando el defecto y dando un plazo para su subsanación, sin suspensión del tiempo para sentencia.
+Respuesta: 3
+Correcta: ¡Bien hecho! La diligencia de ordenación es el medio correcto y puede implicar la suspensión del tiempo para sentencia.
+Errada: La opción correcta es "c". El Letrado utiliza una diligencia de ordenación para estas circunstancias. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 104 de la LJCA, ¿en qué circunstancias la sentencia podría establecer un plazo más breve para su cumplimiento?
+1)En base a la prueba practicada.
+2)Basándose en la naturaleza del reclamo.
+3)En base a una posible vulneración de derechos.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Exacto! La naturaleza de lo reclamado puede influir en la determinación del plazo.
+Errada: La respuesta correcta es "b". El plazo puede adaptarse dependiendo de la naturaleza de lo que se reclama. (Respuesta Correcta 2)
+###
+Pregunta: Según la LJCA, en agosto no se cuenta el tiempo para presentar el recurso contencioso-administrativo ni otros plazos, salvo en ciertas situaciones. ¿Cuál es una de esas excepciones?
+1)Al proponer medidas cautelares.
+2)En el proceso de protección de derechos fundamentales de las personas.
+3)En el proceso sancionador en materia de dopaje.
+4)En el proceso sancionador militar.
+Respuesta: 2
+Correcta: ¡Bien hecho! En el proceso de protección de derechos fundamentales, el mes de agosto no detiene los plazos.
+Errada: La correcta es "b". En el proceso de protección de derechos fundamentales, el plazo sigue corriendo incluso en agosto. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo al artículo 112 de la LJCA, ¿qué medidas puede tomar el Juez o la Sala para asegurar el cumplimiento completo del fallo?
+1)Imponer multas coercitivas de 2000 a 2000 euros a las autoridades, funcionarios o agentes que acaten las órdenes del Juzgado o de la Sala, pudiendo reiterar estas multas hasta lograr la ejecución total del fallo judicial.
+2)Imponer multas coercitivas de 150 a 2000 euros a las autoridades, funcionarios o agentes que no acaten las órdenes del Juzgado o de la Sala, pudiendo reiterar estas multas hasta lograr la ejecución total del fallo judicial.
+3)Imponer multas coercitivas de 200 a 1500 euros a las autoridades, funcionarios o agentes que acaten las órdenes del Juzgado o de la Sala, pudiendo reiterar estas multas hasta lograr la ejecución total del fallo judicial.
+4)Imponer multas coercitivas de 150 a 1500 euros a las autoridades, funcionarios o agentes que no acaten las órdenes del Juzgado o de la Sala, pudiendo reiterar estas multas hasta lograr la ejecución total del fallo judicial.
+Respuesta: 4
+Correcta: ¡Perfecto! Las multas coercitivas se establecen desde 150 a 1500 euros y pueden ser repetidas hasta lograr la ejecución completa del fallo.
+Errada: La respuesta correcta es la "d". La multa puede variar desde 150 a 1500 euros y puede ser impuesta repetidamente hasta lograr el cumplimiento del fallo. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 132 de la LJCA, si no se interpone el recurso, ¿se revocan las medidas cautelares establecidas?
+1)Sí, automáticamente, pero el solicitante no debe indemnizar por los daños y perjuicios causados por la medida cautelar.
+2)A instancia de parte, y además el solicitante debe indemnizar por los daños y perjuicios causados por la medida cautelar.
+3)Sí, automáticamente, y además el solicitante debe indemnizar por los daños y perjuicios causados por la medida cautelar.
+4)A instancia de parte, pero el solicitante no debe indemnizar por los daños y perjuicios causados por la medida cautelar.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las medidas cautelares se revocan automáticamente y el solicitante debe indemnizar por cualquier daño o perjuicio resultante.
+Errada: La opción correcta es la "c". Las medidas se revocan automáticamente y hay una obligación de indemnizar. (Respuesta Correcta 3)
+###
+Pregunta: Cuando la Administración es condenada al pago de una suma fija, y para efectuar dicho pago es necesario hacer una modificación presupuestaria, ¿cuál es el plazo para completar dicho procedimiento después de notificar la decisión judicial?
+1)Dentro de los dos meses siguientes a la notificación
+2)Dentro de los cuatro meses siguientes a la notificación
+3)Dentro de los tres meses siguientes a la notificación
+4)Dentro de los seis meses siguientes a la notificación
+Respuesta: 3
+Correcta: ¡Correcto! El procedimiento debe completarse en tres meses después de la notificación de la resolución judicial.
+Errada: La respuesta correcta es la "c". El plazo es de tres meses después de notificar la resolución judicial. (Respuesta Correcta 3)
+###
+Pregunta: Cuando es necesario declarar la existencia de un motivo de interés público o social para expropiar los derechos respaldados por un fallo firme, esta declaración es hecha por:
+1)El Gobierno Central.
+2)El Presidente del Tribunal Supremo.
+3)El Consejo Nacional de la Abogacía.
+4)El Parlamento.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es el Gobierno Central quien tiene la facultad de realizar esta declaración.
+Errada: La respuesta correcta es "a". Es función del Gobierno Central hacer esta declaración. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el art. 128 de la LJCA, si las condiciones lo ameritan, las partes pueden pedir que se consideren días no laborables para el proceso. Una vez escuchadas las partes, el Tribunal decidirá en:
+1)Tres días.
+2)Cuatro días.
+3)Cinco días.
+4)Siete días.
+Respuesta: 1
+Correcta: ¡Acertaste! El Tribunal tiene un plazo de tres días para tomar una decisión.
+Errada: La opción correcta es "a". El Tribunal decide en tres días. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley 29/1998 sobre Jurisdicción Contencioso-administrativa, si se presentan motivos que imposibiliten la aplicación de un fallo, la entidad encargada de cumplirlo debe informar a la entidad judicial a través del:
+1)Agente legal representativo de la Administración.
+2)Procurador.
+3)Letrado de la Administración de Justicia.
+4)El Juez.
+Respuesta: 1
+Correcta: ¡Correcto! El agente legal representativo de la Administración es quien debe informar de cualquier impedimento.
+Errada: La respuesta adecuada es "a". Es el agente legal representativo de la Administración quien informa a la entidad judicial. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 112 de la LJCA, cuando las autoridades o funcionarios no atienden las instrucciones del Juez o Sala, éste puede imponer:
+1)Sanciones monetarias de 140 a 1000 euros.
+2)Sanciones monetarias de 160 a 3000 euros.
+3)Sanciones monetarias de 250 a 2000 euros.
+4)Sanciones monetarias de 150 a 1500 euros.
+Respuesta: 4
+Correcta: ¡Muy bien! Las sanciones monetarias pueden oscilar entre 150 y 1500 euros.
+Errada: La opción correcta es "d". Las multas van de 150 a 1500 euros. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley de la Jurisdicción Contencioso-administrativa (LJCA), cuando una sentencia anula, ya sea en su totalidad o parcialmente, una normativa o acción administrativa que tiene repercusión en un grupo no específico de individuos, ¿desde qué momento el Letrado de la Administración de Justicia debe ordenar su publicación oficial?
+1)Desde que la sentencia es firme.
+2)Desde que se transmite electrónicamente la sentencia.
+3)Desde que la sentencia es definitiva.
+4)Desde su publicación en el BOE.
+Respuesta: 1
+Correcta: ¡Exacto! La publicación se ordena desde que la sentencia es firme.
+Errada: El momento correcto es desde que la sentencia es "firme". (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LJCA, una vez que una sentencia es considerada firme, el Letrado de la Administración de Justicia (LAJ) tiene diez días para informar a la entidad que llevó a cabo la actividad cuestionada en el recurso. Una vez que la entidad recibe la notificación, debe:
+1)Cumplir cabalmente con la sentencia o llevar a cabo las acciones necesarias, identificando dentro del mismo periodo el organismo encargado de la implementación.
+2)Cumplir cabalmente con la sentencia y no llevar a cabo las acciones, identificando dentro del mismo periodo el organismo encargado de la implementación.
+3)Cumplir cabalmente con la sentencia y llevar a cabo las acciones necesarias, identificando dentro del mismo periodo el organismo encargado de la implementación.
+4)Cumplir cabalmente con la sentencia y llevar a cabo las acciones necesarias, sin identificar dentro del mismo periodo el organismo encargado de la implementación.
+Respuesta: 3
+Correcta: ¡Bien hecho! La entidad debe cumplir con la sentencia y señalar quién la ejecutará en el mismo plazo.
+Errada: La respuesta correcta es "c". La entidad tiene que cumplir con la sentencia y designar el organismo responsable en el mismo periodo. (Respuesta Correcta 3)
+###
+Pregunta: Según el art. 106 de la LJCA, si la Administración es condenada a pagar una cantidad fija y no realiza el pago en el plazo estipulado, ¿qué acción puede tomar el tribunal en relación con los intereses legales si percibe falta de diligencia en el cumplimiento?
+1)Puede añadir tres puntos al interés legal si detecta falta de diligencia.
+2)Puede añadir cuatro puntos al interés legal si detecta falta de diligencia.
+3)Puede añadir dos puntos al interés legal si no detecta falta de diligencia.
+4)Puede añadir dos puntos al interés legal si detecta falta de diligencia.
+Respuesta: 4
+Correcta: ¡Correcto! En casos de falta de diligencia, el tribunal puede incrementar el interés legal en dos puntos.
+Errada: La respuesta adecuada es "d". En caso de falta de diligencia, el interés legal se puede aumentar en dos puntos. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento de urgencia del artículo 135 de la LJCA, ¿en qué circunstancias el tribunal debe consultar al Ministerio Fiscal antes de implementar medidas cautelares?
+1)Cuando involucre acciones administrativas en áreas de inmigración, asilo y estatus de refugiado que resulten en retorno y el afectado sea un niño o adolescente.
+2)Cuando involucre acciones administrativas en áreas de inmigración, asilo o estatus de refugiado que resulten en retorno y el afectado sea un niño o adolescente.
+3)Cuando involucre acciones administrativas en áreas de inmigración, asilo y estatus de refugiado que resulten en retorno o el afectado sea un niño o adolescente.
+4)Cuando involucre acciones administrativas en áreas de inmigración, asilo y estatus de refugiado que resulten en retorno y el afectado sea un adulto.
+Respuesta: 1
+Correcta: ¡Exactamente! El Ministerio Fiscal debe ser consultado especialmente cuando involucra a menores en contextos de inmigración, asilo y estatus de refugiado.
+Errada: La respuesta correcta es la opción "a", centrada en los menores afectados en temas de inmigración y asilo. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito contencioso-administrativo, ¿cómo puede establecerse la asignación de costas?
+1)En su totalidad.
+2)Solo una fracción de los mismos.
+3)Hasta un límite máximo establecido.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El art. 139.4 LJCA permite que las costas se impongan en su totalidad, en parte o hasta una cifra máxima.
+Errada: La respuesta adecuada es "d". Todas las opciones son correctas según el art. 139.4 LJCA. (Respuesta Correcta 4)
+###
+Pregunta: Con base en la LJCA, si la Administración es condenada a un pago fijo, ¿puede solicitarse una compensación con créditos que la Administración tenga contra el demandante?
+1)Sí, cualquier parte puede hacer esta solicitud.
+2)Sí, solo la Administración puede hacer la solicitud.
+3)Ninguna parte puede.
+4)Sí, solo el demandante puede hacer la solicitud en cualquier etapa del proceso.
+Respuesta: 1
+Correcta: ¡Correcto! Aunque la ley atribuye la acción a la Administración, la interpretación generalizada permite que cualquiera de las partes pueda instarlo.
+Errada: La respuesta correcta es "a", ya que aunque el art. 106.4 LJCA menciona a la Administración, se admite que cualquiera de las partes pueda solicitar la compensación. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la LJCA, las personas afectadas por una sentencia, mientras no se confirme su completa ejecución, pueden plantear ciertos temas durante la implementación. ¿Cuál de estos es uno de esos temas?
+1)El periodo mínimo requerido para cumplir con la sentencia basado en las circunstancias presentes.
+2)El periodo mínimo requerido para ejecutar.
+3)Los recursos necesarios para implementar la sentencia y el procedimiento a seguir.
+4)Todas son correctas.
+Respuesta: 3
+Correcta: ¡Correcto! Pueden surgir cuestiones relacionadas con los recursos y el procedimiento durante la implementación de una sentencia.
+Errada: La respuesta adecuada es "c". Se pueden plantear cuestiones relacionadas con los recursos y el procedimiento durante la ejecución. (Respuesta Correcta 3)
+###
+Pregunta: En el contexto contencioso-administrativo, si no se establece un período para el cumplimiento de las obligaciones derivadas del acuerdo entre las partes que termina el proceso, ¿qué acción puede tomar la parte afectada?
+1)Puede demandar a la otra parte su cumplimiento y, si en dos meses no se cumple, puede solicitar su ejecución forzosa.
+2)Puede demandar a la otra parte su cumplimiento y, si en tres meses no se cumple, puede solicitar su ejecución forzosa.
+3)Puede demandar a la otra parte su cumplimiento y, si en cuatro meses no se cumple, puede solicitar su ejecución forzosa.
+4)Puede demandar a la otra parte su cumplimiento y, si en un mes no se cumple, puede solicitar su ejecución forzosa.
+Respuesta: 1
+Correcta: ¡Correcto! Si no se especifica un período, la parte afectada puede requerir su cumplimiento y después de dos meses buscar su ejecución forzosa.
+Errada: La respuesta adecuada es "a". En ausencia de un plazo determinado, la parte afectada puede demandar su cumplimiento y, si no se cumple, buscar su ejecución forzosa. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley de la Jurisdicción Contencioso Administrativa, ¿cuál es el plazo máximo para solicitar la extensión de los efectos de una sentencia en asuntos fiscales o de personal?
+1)Nueve meses desde la última notificación a las partes de la sentencia.
+2)Dos años desde la última notificación a las partes de la sentencia.
+3)Seis meses desde la última notificación a las partes de la sentencia.
+4)Un año desde la última notificación a las partes de la sentencia.
+Respuesta: 4
+Correcta: ¡Correcto! Se dispone de un año desde la última notificación a las partes para solicitar la extensión de efectos.
+Errada: La respuesta adecuada es "d". El plazo máximo es de un año desde la última notificación a las partes. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley 29/1998, que regula la Jurisdicción Contencioso-Administrativa, ¿quién tiene la responsabilidad de ejecutar la sentencia que resuelve el recurso contencioso-administrativo?
+1)El tribunal que emitió la sentencia.
+2)El órgano jurisdiccional que trató el caso en segunda instancia.
+3)El órgano jurisdiccional que trató el caso en primera o única instancia.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Exacto! El órgano jurisdiccional que trató el caso en primera o única instancia es el responsable de la ejecución.
+Errada: La respuesta correcta es "c". La ejecución de la sentencia recae en el órgano jurisdiccional que trató el caso en primera o única instancia. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué mes no se cuenta el plazo para presentar el recurso contencioso-administrativo?
+1)Julio.
+2)Junio.
+3)Noviembre.
+4)Agosto.
+Respuesta: 4
+Correcta: ¡Correcto! Agosto es el mes durante el cual no corre el plazo para presentar el recurso.
+Errada: El mes correcto es agosto, como se indica en la opción "d". Es el mes en el que no se cuenta el plazo para interponer el recurso contencioso-administrativo. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 139 de la LJCA, ¿en qué situación no se impondrán las costas?
+1)A las personas físicas.
+2)Al Ministerio Fiscal.
+3)A las personas jurídicas.
+4)A la Administración.
+Respuesta: 2
+Correcta: ¡Exacto! El Ministerio Fiscal está exento de la imposición de costas según la LJCA.
+Errada: La respuesta adecuada es "b". Según la LJCA, no se impondrán las costas al Ministerio Fiscal. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 104 de la LJCA, ¿cuánto tiempo debe pasar para que cualquiera de las partes o personas afectadas pueda solicitar la ejecución forzosa de una sentencia?
+1)Tres meses desde la comunicación de la sentencia.
+2)Dos meses desde la comunicación de la sentencia.
+3)Un mes desde la comunicación de la sentencia.
+4)Seis meses desde la comunicación de la sentencia.
+Respuesta: 2
+Correcta: ¡Correcto! El plazo es de dos meses desde la comunicación de la sentencia.
+Errada: La respuesta adecuada es "b". Se debe esperar dos meses desde la comunicación de la sentencia para solicitar su ejecución forzosa. (Respuesta Correcta 2)
+###
+Pregunta: Respecto a la ejecución de sentencias establecida en la Ley 29/1998 de la Jurisdicción Contencioso-administrativa, indique la opción correcta:
+1)No se puede suspender el cumplimiento de la sentencia.
+2)No se puede declarar la inejecución total de la sentencia.
+3)No se puede declarar la inejecución parcial de la sentencia.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Todas las afirmaciones son correctas según el art. 105.3 LJCA en cuanto a la ejecución de sentencias.
+Errada: La respuesta correcta es "d". Todas las opciones mencionadas son limitaciones establecidas por la LJCA en relación con la ejecución de sentencias. (Respuesta Correcta 4)
+###
+Pregunta: Según la LJCA, cuando se presenta un escrito planteando una cuestión incidental, ¿cuánto tiempo da el Letrado de la Administración de Justicia a las partes para que presenten sus alegaciones?
+1)Un plazo común que no superará los diez días.
+2)Un plazo común que no superará los treinta días.
+3)Un plazo común que no superará los veinte días.
+4)Un plazo común que no superará los doce días.
+Respuesta: 1
+Correcta: ¡Correcto! Se otorga un plazo común que no superará los diez días para presentar alegaciones, conforme al art. 138.2 LJCA.
+Errada: La respuesta adecuada es "a". Se proporciona un plazo común de no más de diez días para alegaciones según el art. 138.2 LJCA. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 134 de la LJCA, una vez acordada la medida cautelar, ¿cuándo debe cumplirla el órgano administrativo correspondiente al recibir la comunicación?
+1)Inmediato.
+2)En un plazo no superior a tres días.
+3)En un plazo no superior a dos días.
+4)En un plazo no superior a siete días.
+Respuesta: 1
+Correcta: ¡Correcto! El órgano administrativo debe llevar a cabo el cumplimiento de manera inmediata.
+Errada: La respuesta adecuada es "a". Según la LJCA, el órgano administrativo debe cumplir inmediatamente. (Respuesta Correcta 1)
+###
+Pregunta: Identifica la afirmación incorrecta sobre las medidas cautelares según la Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa:
+1)Estarán en vigor hasta que el procedimiento finalice por cualquiera de las causas previstas en esta Ley.
+2)Estarán en vigor hasta que recaiga sentencia firme que ponga fin al procedimiento en el que se hayan acordado.
+3)Podrán modificarse o revocarse las medidas cautelares conforme al progreso del proceso y al análisis de cuestiones formales o de fondo.
+4)Podrán ser modificadas o revocadas si cambian las circunstancias que motivaron su adopción.
+Respuesta: 3
+Correcta: ¡Correcto! La opción "3" es la afirmación incorrecta.
+Errada: La afirmación incorrecta es "3". Las medidas cautelares no se modifican simplemente basándose en el progreso del análisis de cuestiones. (Respuesta Correcta 3)
+###
+Pregunta: Señale la respuesta incorrecta respecto a la ejecución de sentencias según la Jurisdicción Contencioso-administrativa:
+1)Los actos y disposiciones contrarios a las sentencias, que buscan eludir su cumplimiento, son nulos de pleno derecho.
+2)Todos, tanto públicos como privados, están obligados a colaborar con Jueces y Tribunales de lo Contencioso-administrativo para ejecutar lo resuelto.
+3)Las partes deben cumplir las sentencias según lo indicado en ellas.
+4)El Letrado de la Administración de Justicia declarará, de oficio, la nulidad de actos y disposiciones contrarias a las sentencias.
+Respuesta: 4
+Correcta: ¡Correcto! La opción "4" es incorrecta.
+Errada: La respuesta incorrecta es "4". La declaración de nulidad de actos contrarios a la sentencia corresponde al órgano jurisdiccional (Juez o Tribunal) y se realiza a instancia de parte, no de oficio por el Letrado de la Administración de Justicia, según el art. 103.4 LJCA. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 128 de la LJCA, ¿en qué situaciones las partes pueden pedir la habilitación de días inhábiles?
+1)Incidente de adopción de otras medidas cautelares.
+2)Incidente de suspensión de medidas cautelares.
+3)Procedimiento para la protección de los derechos fundamentales.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! En todas las situaciones mencionadas, las partes pueden solicitar la habilitación de días inhábiles por razones de urgencia.
+Errada: La respuesta correcta es "d". En todas las situaciones listadas, se puede solicitar la habilitación de días inhábiles si se justifica la urgencia. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el art. 110 de la LJCA, ¿en qué circunstancia se desestimará el incidente de extensión de efectos de una sentencia?
+1)Si para el interesado se hubiera emitido una resolución que, habiendo causado estado en la vía judicial, fue aceptada y firme al haberse presentado recurso contencioso-administrativo.
+2)Si para el interesado se hubiera emitido una resolución que, habiendo causado estado en la vía administrativa, fue aceptada y firme al haberse presentado recurso contencioso-administrativo.
+3)Si para el interesado se hubiera emitido una resolución que, habiendo causado estado en la vía administrativa, fue aceptada y firme al no haberse presentado recurso contencioso-administrativo.
+4)Si para el interesado se hubiera emitido una resolución que, habiendo causado estado en la vía judicial, fue rechazada y firme al no haberse presentado recurso contencioso-administrativo.
+Respuesta: 3
+Correcta: ¡Exacto! La Ley establece que se desestimará el incidente cuando el interesado no haya presentado un recurso contencioso-administrativo contra una resolución firme.
+Errada: La respuesta correcta es "c". La LJCA señala que se desestimará el incidente en caso de que el interesado no haya recurrido una resolución ya firme. (Respuesta Correcta 3)
+###
+Pregunta: Según la LJCA, ¿cómo se tratan las cuestiones incidentales en el proceso?
+1)Se tramitarán en un expediente separado y sin detener el proceso principal.
+2)Se tramitarán en un expediente separado.
+3)Se tramitarán juntas y suspendiendo el proceso principal.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! Las cuestiones incidentales se tramitan por separado, sin detener el proceso principal.
+Errada: La respuesta correcta es "a". La LJCA estipula que las cuestiones incidentales se deben tratar en un expediente separado, sin pausar el proceso principal. (Respuesta Correcta 1)
+###
+Pregunta: En la Jurisdicción contencioso-administrativa, cuando se solicita la adopción de medidas cautelares debido a circunstancias urgentes, y el Tribunal decide sin oír a la parte contraria, ¿qué recurso está disponible contra dicha decisión?
+1)Recurso de apelación.
+2)Recurso de infracción procesal.
+3)No es susceptible de recurso.
+4)Recurso directo de revisión.
+Respuesta: 3
+Correcta: ¡Exacto! No hay un recurso disponible contra esta decisión del Tribunal.
+Errada: La respuesta correcta es "c". Según el art. 135.2 LJCA, no existe recurso contra la decisión del Tribunal en este caso. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cómo se tramita el incidente cautelar en la jurisdicción contencioso-administrativa?
+1)Conjuntamente, sin escuchar a la parte contraria.
+2)En un expediente separado, escuchando a la parte contraria.
+3)En un expediente separado, escuchando a la parte solicitante.
+4)Conjuntamente, sin escuchar a la parte solicitante.
+Respuesta: 2
+Correcta: ¡Correcto! El incidente cautelar se tramita en un expediente separado, y se da audiencia a la parte contraria.
+Errada: La respuesta correcta es "b". La LJCA establece que el incidente cautelar se tramite de forma separada y se debe escuchar a la parte contraria. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley de Jurisdicción Contencioso-administrativa, ¿a quién se impondrán las costas en caso de desestimación total del recurso?
+1)A la Administración.
+2)Al recurrente.
+3)Al recurrido.
+4)Al Estado.
+Respuesta: 2
+Correcta: ¡Correcto! Si el recurso se desestima totalmente, las costas suelen recaer sobre el recurrente.
+Errada: La respuesta correcta es "b". Cuando un recurso se desestima en su totalidad, las costas generalmente se imponen al recurrente. (Respuesta Correcta 2)
+###
+Pregunta: Si hay causas que impiden materialmente ejecutar una sentencia, ¿cuál es el plazo para informar a la autoridad judicial sobre ello?
+1)Tres meses.
+2)Quince días.
+3)Treinta días.
+4)Dos meses.
+Respuesta: 4
+Correcta: ¡Exacto! El plazo es de dos meses para informar a la autoridad judicial.
+Errada: La respuesta correcta es "d". Según la LJCA, el plazo para informar de la imposibilidad material de ejecutar una sentencia es de dos meses. (Respuesta Correcta 4)

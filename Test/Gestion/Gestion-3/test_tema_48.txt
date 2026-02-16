@@ -1,0 +1,908 @@
+Pregunta: ¿Qué enunciado es incorrecto en relación con la realización de pruebas durante el juicio oral en el proceso por delitos ordinarios?
+1)El tribunal puede admitir pruebas no propuestas anteriormente si estas son presentadas durante el juicio y pueden afectar la credibilidad de un testimonio.
+2)Es posible leer durante el juicio las diligencias sumariales que no puedan ser replicadas por motivos ajenos a las partes.
+3)El Presidente del tribunal no tiene facultad para ordenar careos entre testigos o acusados sin previa petición.
+4)El tribunal puede disponer la realización de pruebas no sugeridas por las partes si estas son necesarias para verificar los hechos que se discuten.
+Respuesta: 3
+Correcta: Has elegido la opción correcta, la c. Efectivamente, el Presidente del tribunal no puede ordenar careos de oficio; estos deben ser solicitados por alguna de las partes involucradas. (Art. 744 LECrim, por remisión del 701).
+Errada: La respuesta correcta es la c. El Presidente del tribunal no tiene la autoridad para ordenar careos de oficio entre los testigos o con los procesados; se requiere una petición formal de alguna de las partes para proceder a un careo. (Art. 744 LECrim, por remisión del 701). (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién intervendrá primero al exponer su informe durante el juicio oral cuando participe el Ministerio Fiscal?
+1)La acusación particular.
+2)El Ministerio Fiscal.
+3)El abogado de la defensa.
+4)El acusado.
+Respuesta: 2
+Correcta: Correcto, la opción b es la respuesta adecuada. El Fiscal siempre tiene la prioridad para presentar su informe primero durante el juicio oral. (Art. 701 LECrim).
+Errada: No es correcto, la respuesta adecuada es la b. El Fiscal tiene el privilegio de informar primero durante el juicio oral, seguido por los otros representantes legales en el orden pertinente. (Art. 701 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: ¿Bajo qué circunstancias procederá la suspensión del juicio oral por solicitud de una de las partes y cuando sea admisible?
+1)Si no se presentan peritos cuya declaración sea fundamental y las partes los hayan convocado debidamente.
+2)Si no se presentan testigos cuya declaración sea fundamental y las partes los hayan convocado debidamente.
+3)Si se presentan peritos cuya declaración sea fundamental y las partes los hayan convocado debidamente.
+4)Si se presentan testigos cuya declaración sea fundamental y las partes los hayan convocado debidamente.
+Respuesta: 2
+Correcta: Excelente, has seleccionado la opción b, que es correcta. La suspensión del juicio oral puede ser adecuada si los testigos esenciales, previamente citados, no comparecen y el tribunal juzga necesaria su declaración. (Art. 746, 1.ª, 3.º, de la LECrim).
+Errada: La opción correcta es la b. El juicio oral puede suspenderse si no comparecen testigos clave citados por las partes, siempre que el tribunal considere imprescindible su testimonio. (Art. 746, 1.ª, 3.º, de la LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En el juicio oral de un procedimiento ordinario, ¿qué acción tomará el tribunal si el acusado reconoce su responsabilidad penal pero no la civil, o no está de acuerdo con la cuantía de la indemnización?
+1)Se optará por un archivo definitivo.
+2)Se dictará sentencia de conformidad.
+3)El juicio se suspenderá.
+4)El juicio proseguirá.
+Respuesta: 4
+Correcta: Correctamente has elegido la opción d. Si un acusado admite su responsabilidad penal pero no la civil, o discrepa sobre la cuantía de esta, el proceso continuará para abordar estos puntos en detalle. (Art. 655 y 787 ter LECrim).
+Errada: La opción correcta es la d. Si el acusado reconoce su culpabilidad penal pero no la responsabilidad civil, o si no acepta la cuantía económica fijada, el juicio debe seguir su curso normal. (Art. 655 y 787 ter LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuánto tiempo se prolongará el juicio oral una vez que este haya sido iniciado?
+1)El juicio oral se extenderá por las sesiones consecutivas que el juez establezca.
+2)El juicio oral se extenderá por las sesiones consecutivas que la Ley de Enjuiciamiento Civil establece.
+3)El juicio oral se extenderá por las sesiones consecutivas que la Ley de Enjuiciamiento Criminal establece.
+4)El juicio oral se llevará a cabo durante todas las sesiones consecutivas necesarias hasta llegar a su finalización.
+Respuesta: 4
+Correcta: Has seleccionado la opción d, y es acertado. El juicio oral se mantendrá por todas las sesiones consecutivas requeridas hasta su conclusión, conforme a la necesidad del proceso. (Art. 743 LECrim).
+Errada: La respuesta correcta es la opción d. La duración del juicio oral se determina por la cantidad de sesiones consecutivas que sean precisas hasta que se concluya el caso, no existe un número máximo preestablecido de sesiones. (Art. 743 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 153 de la Ley de Enjuiciamiento Criminal, ¿cómo se dictarán generalmente las sentencias en los órganos colegiados?
+1)Por consenso.
+2)Por mayoría reforzada.
+3)Por mayoría absoluta.
+4)Por mayoría simple.
+Respuesta: 3
+Correcta: Correctamente has escogido la opción c. Las sentencias en órganos colegiados se dictan por mayoría absoluta, de acuerdo con el artículo mencionado. (Art. 153 LECrim).
+Errada: La respuesta precisa es la opción c. Las sentencias en los órganos colegiados se resuelven por mayoría absoluta, tal como lo establece el artículo 153 de la Ley de Enjuiciamiento Criminal. (Art. 153 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué momento deben indicar el Ministerio Fiscal y las partes las pruebas que pretenden utilizar en el procedimiento ordinario?
+1)En sus escritos de calificación provisional, donde deben incluir las listas de peritos y testigos que declararán a su solicitud.
+2)En sus escritos de calificación definitivos, donde deben incluir las listas de peritos y testigos que declararán a su solicitud.
+3)En sus escritos de calificación provisional, donde pueden incluir las listas de peritos y testigos que declararán a su solicitud.
+4)En sus escritos de calificación definitivos, donde pueden incluir las listas de peritos y testigos que declararán a su solicitud.
+Respuesta: 1
+Correcta: Elegiste la opción a, y es la correcta. El Ministerio Fiscal y las partes deben manifestar las pruebas, incluyendo peritos y testigos, en sus escritos de calificación provisional. (Art. 650 LECrim).
+Errada: La respuesta acertada es la opción a. Tanto el Ministerio Fiscal como las partes deben presentar las pruebas en las que se basarán, incluyendo la lista de peritos y testigos, en el momento de sus escritos de calificación provisional. (Art. 650 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 154 LECRIM, si un Magistrado se imposibilita después de la vista y antes de la votación, ¿qué sucede?
+1)Podrá votar, sin conservar su voto por el que presida en el libro de sentencia
+2)Podrá votar, conservándose su voto por el que presida en el libro de sentencia
+3)Debe votar, conservándose su voto por el que presida en el libro de sentencia
+4)Debe votar, sin conservar su voto por el que presida en el libro de sentencia
+Respuesta: 2
+Correcta: Correcto, si la imposibilidad sobreviene después de la vista pero antes de la votación, el magistrado puede votar si conserva su voto por el que presida en el libro de sentencia. (Art. 154 LECrim).
+Errada: La respuesta correcta es la b. Si un Magistrado se imposibilita después de la vista y antes de la votación, podrá votar, conservándose su voto por el que presida en el libro de sentencia. (Art. 154 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Sobre el desarrollo del juicio oral en el procedimiento ordinario, señala la respuesta incorrecta:
+1)Las pruebas de cada parte se practicarán según el orden con que hayan sido propuestas en el escrito correspondiente.
+2)Los testigos serán examinados por el orden con que figuren sus nombres en las listas.
+3)El Presidente podrá alterar el orden de las pruebas, a instancia de parte o de oficio, cuando así lo considere conveniente para el mayor esclarecimiento de los hechos o para el más seguro descubrimiento de la verdad.
+4)Para las pruebas, se empezará por la que hubiere ofrecido el procesado, continuando con la propuesta por el Ministerio Fiscal, y por último con la de los demás actores.
+Respuesta: 4
+Correcta: La afirmación "Para las pruebas, se empezará por la que hubiere ofrecido el procesado, continuando con la propuesta por el Ministerio Fiscal, y por último con la de los demás actores." es incorrecta. El orden es: 1.º Ministerio Fiscal, 2.º Demás acusaciones, 3.º Procesados. (Art. 701 LECrim).
+Errada: La afirmación "Para las pruebas, se empezará por la que hubiere ofrecido el procesado, continuando con la propuesta por el Ministerio Fiscal, y por último con la de los demás actores." es incorrecta. El orden es: 1.º Ministerio Fiscal, 2.º Demás acusaciones, 3.º Procesados. (Art. 701 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento penal ordinario, ¿cómo se verificará en todos los Tribunales la discusión y votación de las sentencias?
+1)Siempre antes de las horas señaladas para el despacho ordinario.
+2)Siempre después de las horas señaladas para el despacho abreviado.
+3)Siempre después de las horas señaladas para el despacho ordinario.
+4)A puerta cerrada.
+Respuesta: 4
+Correcta: La discusión y votación de las sentencias se verificará a puerta cerrada, conforme a lo establecido en la ley. (Art. 151 LECrim).
+Errada: La discusión y votación de las sentencias se verificará a puerta cerrada, conforme a lo establecido en la ley. (Art. 151 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Según la LECrim, durante la celebración del juicio oral, para la práctica de las diligencias de prueba y examen de los testigos, se empezará por:
+1)La que hubiere ofrecido el Ministerio Fiscal, continuando por la propuesta por las demás acusaciones y por último con la de los procesados.
+2)La que hubiere ofrecido la acusación particular, continuando por la propuesta por los demás actores y por último con la de los procesados.
+3)La que hubiere ofrecido el Ministerio Fiscal, continuando por la propuesta por los demás actores y por último con la de los procesados.
+4)La que hubiere ofrecido el Ministerio Fiscal, continuando por la propuesta por los demás actores y por último con la del juez.
+Respuesta: 3
+Correcta: Efectivamente, de acuerdo con el artículo 701 de la LECrim, se comenzará por las pruebas ofrecidas por el Ministerio Fiscal, seguido por las de los demás actores y, por último, las de los procesados. (Art. 701 LECrim).
+Errada: Efectivamente, de acuerdo con el artículo 701 de la LECrim, se comenzará por las pruebas ofrecidas por el Ministerio Fiscal, seguido por las de los demás actores y, por último, las de los procesados. (Art. 701 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué circunstancias establece la Ley de Enjuiciamiento Criminal la prohibición absoluta de revelar o hacer pública la identidad de las víctimas?
+1)En el caso de víctimas menores de edad.
+2)En el caso de víctimas con discapacidad que requieran protección adicional.
+3)En el caso de víctimas de delitos de violencia sexual según lo descrito en el artículo 3 de la Ley Orgánica 10/2022, de 6 de septiembre, que busca la protección integral de la libertad sexual.
+4)Todas las opciones anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! La Ley de Enjuiciamiento Criminal establece claramente la prohibición de divulgar información que pueda revelar la identidad de víctimas menores de edad, víctimas con discapacidad que necesiten protección especial, y víctimas de delitos de violencia sexual según la Ley Orgánica 10/2022. La privacidad y protección de estas víctimas es una prioridad en todos estos casos. (Art. 746 LECrim).
+Errada: La respuesta proporcionada no es correcta. Según la Ley de Enjuiciamiento Criminal, se prohíbe la divulgación de la identidad en tres supuestos específicos: víctimas menores de edad, víctimas con discapacidad necesitadas de especial protección y víctimas de delitos de violencia sexual según lo estipulado por la Ley Orgánica 10/2022. Por lo tanto, la respuesta correcta es que todas las opciones anteriores son correctas. (Art. 746 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 152 de la Ley de Enjuiciamiento Criminal, ¿qué se requiere cuando la relevancia del debate así lo amerite?
+1)El Presidente debe ofrecer un resumen conciso del debate previo a la votación.
+2)El Presidente debe ofrecer un resumen conciso del debate posterior a la votación.
+3)El Presidente puede ofrecer un resumen conciso del debate previo a la votación.
+4)El Presidente puede ofrecer un resumen conciso del debate posterior a la votación.
+Respuesta: 1
+Correcta: ¡Bien hecho! Según el artículo 152 de la Ley de Enjuiciamiento Criminal, es responsabilidad del Presidente realizar un resumen conciso del debate antes de que se lleve a cabo la votación. Este paso es crucial para asegurar que todos los aspectos de la discusión sean considerados adecuadamente. (Art. 152 LECrim).
+Errada: La respuesta seleccionada no es acertada. El artículo 152 de la Ley de Enjuiciamiento Criminal especifica que, cuando la importancia del debate lo requiere, es el Presidente quien debe realizar un breve resumen del mismo antes de la votación, no el Magistrado Ponente ni en otro momento. Por tanto, la respuesta correcta es que el Presidente debe hacer un breve resumen antes de la votación. (Art. 152 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Según lo establecido en el artículo 748 de la Ley de Enjuiciamiento Criminal, ¿qué recurso cabe contra la decisión de suspender el Juicio Oral?
+1)Recurso de queja.
+2)Recurso de reposición.
+3)Recurso de Apelación.
+4)No se admite ningún tipo de recurso.
+Respuesta: 4
+Correcta: Perfecto, has elegido la opción correcta. De acuerdo con el artículo 748 de la Ley de Enjuiciamiento Criminal, no cabe recurso alguno contra el auto que ordena la suspensión del Juicio Oral, lo que significa que la decisión es definitiva y no puede ser objeto de impugnación a través de recursos ordinarios. (Art. 748 LECrim).
+Errada: La respuesta no es la adecuada. El artículo 748 de la Ley de Enjuiciamiento Criminal es claro en establecer que no se permite recurso alguno contra el auto que decreta la suspensión del Juicio Oral. Es importante recordar que algunas decisiones son definitivas y no están sujetas a recurso. (Art. 748 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo al artículo 731 bis de la Ley de Enjuiciamiento Criminal, ¿en qué circunstancias se puede acordar que una comparecencia se efectúe por videoconferencia en cualquier procedimiento penal?
+1)Para cualquier persona que deba comparecer, excepto para el acusado.
+2)Exclusivamente para el acusado.
+3)Para todas las personas que tengan que intervenir en el procedimiento.
+4)Exclusivamente para los testigos y peritos.
+Respuesta: 3
+Correcta: Correcto, has seleccionado la respuesta precisa. El artículo 731 bis de la Ley de Enjuiciamiento Criminal establece que el tribunal puede disponer que cualquier persona involucrada en el procedimiento penal comparezca a través de videoconferencia, sin restricciones particulares para el acusado o cualquier otra persona. (Art. 731 bis LECrim).
+Errada: Esa no es la respuesta correcta. Según el artículo 731 bis de la Ley de Enjuiciamiento Criminal, el tribunal puede ordenar la comparecencia por videoconferencia para cualquier persona que tenga que intervenir en el procedimiento penal, incluyendo al acusado. Por lo tanto, la opción correcta es que es aplicable a todos los que deban intervenir en el procedimiento. (Art. 731 bis LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es el procedimiento correcto para la emisión de resoluciones judiciales en el proceso penal ordinario?
+1)Un Magistrado que haya sido transferido tendrá derecho a votar en los casos que haya presenciado pero que ya se han resuelto.
+2)Un Magistrado que haya sido transferido tendrá derecho a votar en los casos que haya presenciado pero que aún no se han resuelto.
+3)Un Magistrado que haya sido transferido tendrá derecho a votar en los casos que no haya presenciado y que aún no se han resuelto.
+4)Un Magistrado que haya sido transferido no tendrá derecho a votar en los casos que no haya presenciado y que aún no se han resuelto.
+Respuesta: 2
+Correcta: Excelente, has seleccionado la opción adecuada. Conforme a la ley, un Magistrado trasladado seguirá teniendo la facultad de votar en los asuntos en los cuales haya participado en la vista y que aún no hayan sido fallados, asegurando así la continuidad y la consistencia en la toma de decisiones judiciales. (Art. 154 LECrim).
+Errada: Esta opción no es la correcta. La normativa establece que un Magistrado trasladado mantiene el derecho a votar en casos en los que estuvo presente durante la vista y que no se hayan decidido aún, lo que garantiza la consistencia en la adjudicación. Por lo tanto, la respuesta correcta es que un Magistrado trasladado podrá votar en dichas circunstancias. (Art. 154 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En el contexto del proceso penal ordinario, respecto a la limitación del acceso a los medios audiovisuales durante las sesiones del juicio, ¿qué se requiere para imponer dicha restricción?
+1)Que exista una petición por parte del Ministerio Fiscal.
+2)Que se lleve a cabo una consulta previa con todas las partes involucradas.
+3)Que se lleve a cabo una consulta previa con todas las acusaciones.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: Has acertado. La ley requiere que se escuche a todas las partes antes de tomar la decisión de restringir la presencia de medios audiovisuales en el juicio, lo que asegura un proceso equitativo y transparente. (Art. 747 LECrim).
+Errada: No es correcto. La normativa exige una audiencia previa con todas las partes para poder limitar el acceso de los medios audiovisuales en el juicio, lo cual fomenta la equidad y la transparencia en el proceso. Así que la respuesta adecuada es la necesidad de una consulta previa con las partes. (Art. 747 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Si uno de los acusados cae enfermo de forma repentina y no puede asistir al juicio oral, ¿qué es necesario para poder suspender el juicio?
+1)Es necesario escuchar a los médicos asignados oficialmente para examinar al enfermo.
+2)La presencia de dos testigos que certifiquen la condición del enfermo.
+3)La presencia de un périto médico.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: Correcto, para suspender un juicio oral debido a la enfermedad repentina de un acusado, es imprescindible la audiencia de los médicos oficiales que hayan examinado a la persona enferma. Esto garantiza que la decisión de suspender el juicio se base en una evaluación objetiva y profesional. (Art. 746, 1.ª, 1.º, de la LECrim).
+Errada: Esa no es la respuesta acertada. Para poder decretar la suspensión del juicio oral por enfermedad repentina de un procesado, la ley estipula la necesidad de la opinión de los médicos oficiales que han realizado el reconocimiento. Así se asegura la objetividad en la evaluación de la capacidad del acusado para asistir al juicio. (Art. 746, 1.ª, 1.º, de la LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 739 de la Ley de Enjuiciamiento Criminal, ¿en qué momento y bajo qué condiciones pueden los procesados dirigirse al Tribunal con sus manifestaciones?
+1)Tras concluir las alegaciones de las partes o, si es pertinente, después de corregir datos o conceptos, limitándose a lo relevante.
+2)Tras concluir las alegaciones de las partes o, si es pertinente, después de corregir datos y conceptos, limitándose a lo relevante.
+3)Tras concluir las alegaciones de las partes o, si no es pertinente, después de corregir datos y conceptos, limitándose a lo relevante.
+4)Tras concluir las alegaciones de las partes o, si es pertinente, después de corregir datos y conceptos, limitándose a lo irrelevante.
+Respuesta: 2
+Correcta: Excelente, has seleccionado la respuesta precisa. El momento adecuado para que los procesados hagan sus manifestaciones es después de que las partes hayan finalizado sus informes o después de cualquier corrección necesaria, asegurándose de que lo expresado sea pertinente al caso. (Art. 739 LECrim).
+Errada: No es correcto. Los procesados tienen derecho a realizar manifestaciones al Tribunal después de que las partes hayan presentado sus alegaciones o, de ser necesario, tras corregir hechos y conceptos, siempre manteniéndose dentro de lo pertinente al caso. Por tanto, la respuesta correcta implica la relevancia y el momento oportuno para tales manifestaciones. (Art. 739 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué derechos tienen los testigos que se presentan a declarar en un Tribunal en lo que respecta a la indemnización?
+1)Solo serán indemnizados si el Tribunal considera que es apropiado.
+2)Tienen derecho a una indemnización siempre.
+3)Tienen derecho a una indemnización si la solicitan.
+4)No tienen derecho a una indemnización
+Respuesta: 3
+Correcta: Has elegido correctamente. Los testigos tienen derecho a solicitar una indemnización por comparecer ante el Tribunal, lo que reconoce el potencial inconveniente y gasto asociado con su participación en el proceso judicial. (Art. 740 LECrim).
+Errada: Esa opción no es correcta. Según la ley, los testigos pueden reclamar una indemnización por el acto de comparecer a declarar en el tribunal, reconociendo así los posibles inconvenientes o costes en los que puedan incurrir. Por lo tanto, tienen derecho a indemnización si la piden. (Art. 740 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: En el marco de un procedimiento judicial, si una parte o las partes solicitan que las preguntas o contrapreguntas a realizar mediante exhorto o mandamiento sean plasmadas por escrito, ¿bajo qué condiciones concederá el Presidente tal solicitud?
+1)Siempre que las preguntas no se formulen con intención dolosa.
+2)Si las interrogaciones no resultan ser engañosas, manipuladoras o irrelevantes.
+3)Si las interrogaciones no resultan ser engañosas, veraces o irrelevantes.
+4)Si las interrogaciones no resultan ser engañosas, manipuladoras o relevantes.
+Respuesta: 2
+Correcta: Correcto, tu elección coincide con la práctica judicial adecuada. El Presidente del Tribunal permitirá que las preguntas o contrapreguntas se incluyan por escrito siempre y cuando no sean engañosas, manipuladoras o irrelevantes, evitando así cualquier posible sesgo o influencia indebida en las respuestas. (Art. 729 LECrim).
+Errada: La respuesta seleccionada no es acertada. Debes tener en cuenta que el Presidente solo aceptará por escrito aquellas preguntas o contrapreguntas que no sean engañosas, manipuladoras o irrelevantes. Así se evita cualquier posible sesgo o influencia indebida en las respuestas. Esta es la condición correcta para que se acceda a la petición de las partes. (Art. 729 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Según lo estipulado en el artículo 743 de la Ley de Enjuiciamiento Criminal, ¿quién es el responsable de la custodia del soporte electrónico que contiene la grabación de las sesiones del juicio oral?
+1)El Letrado de la Administración de Justicia.
+2)El Gestor Procesal.
+3)El Tramitador Procesal.
+4)El Auxilio Judicial.
+Respuesta: 1
+Correcta: Excelente, has escogido correctamente. El Letrado de la Administración de Justicia (anteriormente Secretario Judicial) es el encargado de custodiar el soporte electrónico de las grabaciones de las sesiones del juicio oral, asegurando la integridad y conservación del registro oficial del proceso. (Art. 743 LECrim).
+Errada: Esa opción no es correcta. La responsabilidad de custodiar el soporte electrónico de la grabación de las sesiones del juicio oral recae en el Letrado de la Administración de Justicia (anteriormente Secretario Judicial). Es fundamental para mantener la integridad y conservación del registro oficial del proceso. (Art. 743 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En el contexto de un procedimiento penal, si resulta imposible utilizar los medios técnicos de grabación, ¿quién debe firmar el acta que el Letrado de la Administración de Justicia lee al final de cada sesión, tras hacer las correcciones oportunas solicitadas por las partes?
+1)El Juez o Magistrado presidente del juicio y los miembros del Ministerio Fiscal, y los abogados de las defensas.
+2)El Juez o Magistrado presidente del juicio y los miembros del Ministerio Fiscal, y los abogados de las acusaciones.
+3)El Juez o Magistrado presidente del juicio y los miembros del Ministerio Fiscal, y los abogados de las partes.
+4)El Juez o Magistrado presidente del juicio y los miembros del Tribunal, junto con el Ministerio Público y los abogados de las partes.
+Respuesta: 4
+Correcta: Acertaste. Cuando los medios técnicos no están disponibles y se redacta el acta manualmente, deben firmarla el Juez o Magistrado presidente del juicio y los miembros del Tribunal, el Ministerio Público y los abogados de las partes, garantizando así la veracidad y la conformidad con lo ocurrido en la sesión. (Art. 743 LECrim).
+Errada: No es así. Recuerda que cuando no se puede emplear la tecnología de grabación y se procede a la redacción manual del acta, deben firmarla el Juez o Magistrado presidente del juicio y los miembros del Tribunal, el Ministerio Público y los abogados de las partes. Estas firmas confirman la autenticidad del acta y su conformidad con los sucesos de la sesión. (Art. 743 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento penal ordinario, ¿cuál es el plazo para la redacción y firma de la sentencia una vez concluida la vista del incidente o finalizado el juicio?
+1)Dentro de los dos días subsiguientes al cierre de la vista del incidente o la finalización del juicio.
+2)Dentro de los cuatro días subsiguientes al cierre de la vista del incidente o la finalización del juicio.
+3)Dentro de los tres días subsiguientes al cierre de la vista del incidente o la finalización del juicio.
+4)Dentro de los cinco días subsiguientes al cierre de la vista del incidente o la finalización del juicio.
+Respuesta: 3
+Correcta: Correcto, has seleccionado la opción precisa. La sentencia en un procedimiento penal ordinario debe redactarse y firmarse en el periodo de tres días tras concluir la vista del incidente o el juicio, garantizando la celeridad y eficiencia del proceso judicial. (Art. 742 LECrim).
+Errada: La respuesta no es acertada. Según el procedimiento penal ordinario, la sentencia debe estar redactada y firmada dentro de los tres días posteriores al cierre de la vista del incidente o la finalización del juicio. Este plazo asegura la celeridad y eficiencia del proceso judicial. (Art. 742 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Identifique cuál de las siguientes circunstancias no es motivo para la suspensión del juicio oral.
+1)La suspensión es aplicable cuando un procesado citado personalmente sufre una enfermedad o incomparecencia, pero existen suficientes elementos para juzgarle de manera independiente.
+2)Se procede a la suspensión si los testigos relevantes para la acusación y la defensa no se presentan y el Tribunal considera imprescindible su testimonio.
+3)Se puede suspender si surgen cuestiones incidentales durante los debates que no puedan resolverse de inmediato por causas justificadas.
+4)Es motivo de suspensión cuando revelaciones o retractaciones imprevistas cambian significativamente la dirección del juicio, requiriendo nuevas pruebas o instrucciones suplementarias breves.
+Respuesta: 1
+Correcta: La opción seleccionada es correcta. En la situación descrita en la primera opción, no procederá la suspensión del juicio oral si ya existen suficientes elementos para juzgar al procesado de manera independiente, a pesar de su enfermedad o incomparecencia. Las demás opciones listadas son causas legítimas para la suspensión. (Art. 746.1.ª, 4.º, LECrim).
+Errada: La opción seleccionada es incorrecta. En la situación descrita en la primera opción, no procederá la suspensión del juicio oral si ya existen suficientes elementos para juzgar al procesado de manera independiente, a pesar de su enfermedad o incomparecencia. Las demás opciones listadas son causas legítimas para la suspensión. (Art. 746.1.ª, 4.º, LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 746 de la Ley de Enjuiciamiento Criminal, ¿bajo qué circunstancia puede el Tribunal decidir continuar con el juicio y llevar a cabo las pruebas restantes y, tras ello, optar por la suspensión?
+1)Si los testigos esenciales para la acusación y la defensa se presentan y el Tribunal requiere su declaración para la resolución del caso.
+2)Si los testigos esenciales para la acusación y la defensa no se presentan y el Tribunal no requiere su declaración para la resolución del caso.
+3)Si los testigos esenciales para la acusación y la defensa no se presentan y el Tribunal requiere su declaración para la resolución del caso.
+4)Si los testigos esenciales para la acusación y la defensa no se presentan y el Fiscal requiere su declaración para la resolución del caso.
+Respuesta: 3
+Correcta: Has identificado correctamente la circunstancia que permite al Tribunal proceder con la continuación del juicio oral y la realización de las pruebas pendientes, seguido de una posible suspensión. Esto se aplica cuando no se presentan testigos esenciales y el Tribunal los considera necesarios para el proceso. (Art. 746, 1.ª, 3.º, de la LECrim).
+Errada: La respuesta proporcionada no es correcta. El Tribunal está facultado para continuar el juicio y realizar las pruebas pendientes, seguido de una posible suspensión, particularmente cuando los testigos cruciales para las partes no se presentan y se requiere su testimonio para la justa resolución del caso. (Art. 746, 1.ª, 3.º, de la LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Es posible la suspensión de la apertura del juicio oral?
+1)Sí, cuando las partes no puedan presentar las pruebas propuestas en sus escritos debido a circunstancias fuera de su control.
+2)No, excepto cuando las partes no puedan presentar las pruebas propuestas en sus escritos debido a circunstancias dentro de su control.
+3)Nunca cuando las partes no puedan presentar las pruebas propuestas en sus escritos debido a circunstancias fuera de su control.
+4)Sí, cuando las partes puedan presentar las pruebas propuestas en sus escritos debido a circunstancias fuera de su control.
+Respuesta: 1
+Correcta: Correcto, la suspensión de la apertura del juicio oral es posible cuando las partes no pueden preparar las pruebas ofrecidas en sus escritos por razones ajenas a su voluntad, lo que impide el normal desarrollo del juicio. (Art. 746.1.ª, 2.º, de la LECrim).
+Errada: Esta no es la opción adecuada. El juicio oral se puede suspender si las partes, debido a circunstancias fuera de su control, no han podido preparar las pruebas ofrecidas. No es suficiente que las pruebas no estén listas; debe haber una razón involuntaria que impida su preparación. (Art. 746.1.ª, 2.º, de la LECrim). (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué aspectos considerará el Tribunal, según el artículo 741 de la Ley de Enjuiciamiento Criminal, para emitir una sentencia?
+1)Las pruebas que se hayan llevado a cabo durante el juicio.
+2)Las argumentaciones presentadas tanto por la acusación como por la defensa.
+3)Las declaraciones hechas por los propios acusados.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: Excelente, has elegido la respuesta completa. El Tribunal tendrá en cuenta todas las pruebas practicadas, los argumentos de acusación y defensa, y lo manifestado por los acusados para dictar su sentencia, conforme a lo estipulado por el artículo 741 de la LECRIM. (Art. 741 LECrim).
+Errada: No es correcto. El artículo 741 de la LECRIM establece que el Tribunal deberá tener en cuenta todas las pruebas practicadas en el juicio, las razones expuestas por ambas partes y lo manifestado por los acusados para formular su veredicto. (Art. 741 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 746 de la Ley de Enjuiciamiento Criminal, si un acusado citado personalmente no se presenta al juicio oral debido a enfermedad o incomparecencia, ¿esto conlleva la suspensión del juicio?
+1)El juicio no se suspenderá si el Tribunal, tras consultar a las partes y argumentando su decisión en el acta, considera que hay suficientes elementos para juzgar al ausente de manera independiente.
+2)El juicio se suspenderá si el Tribunal, tras consultar a las partes y argumentando su decisión en el acta, considera que hay suficientes elementos para juzgar al ausente de manera independiente.
+3)El juicio no se suspenderá si el Tribunal, tras consultar a las partes y argumentando su decisión en el acta, considera que hay suficientes elementos para juzgar al ausente de manera dependiente.
+4)El juicio no se suspenderá si el Tribunal, tras consultar a las partes y argumentando su decisión en el acta, considera que no hay suficientes elementos para juzgar al ausente de manera independiente.
+Respuesta: 1
+Correcta: Correcto, has seleccionado la opción que refleja la disposición del artículo 746 de la LECrim. El Tribunal puede decidir no suspender el juicio si, después de escuchar a las partes y registrando los motivos en el acta, determina que existen suficientes pruebas para juzgar al acusado en su ausencia. (Art. 746, 1.ª, 4.º, LECrim, que se mantiene en el procedimiento ordinario).
+Errada: La respuesta no es correcta. Según el artículo 746 de la LECrim, la enfermedad o incomparecencia de un procesado no obliga a suspender el juicio si el Tribunal, después de escuchar a las partes y reflejando sus motivos en el acta, estima que hay elementos suficientes para continuar con el juicio en ausencia del acusado. (Art. 746, 1.ª, 4.º, LECrim, que se mantiene en el procedimiento ordinario). (Respuesta Correcta 1)
+###
+Pregunta: Con base en el artículo 732 de la Ley de Enjuiciamiento Criminal, ¿pueden las partes alterar las conclusiones presentadas en sus escritos de calificación durante el juicio oral?
+1)Sí, está permitido antes de realizar las diligencias de prueba y mediante un escrito.
+2)Sí, pueden modificarlas únicamente de manera oral tras la práctica de las pruebas.
+3)Sí, está permitido después de realizar las diligencias de prueba y mediante un escrito.
+4)Sí, pueden modificarlas únicamente de manera oral antes de la práctica de las pruebas.
+Respuesta: 3
+Correcta: Correcto, de acuerdo con el artículo 732 de la LECrim, las partes tienen la posibilidad de modificar sus conclusiones después de que se hayan practicado las diligencias de prueba y deben hacerlo por escrito. (Art. 732 LECrim).
+Errada: Esta no es la opción correcta. Según el artículo 732 de la LECrim, las partes pueden modificar las conclusiones de los escritos de calificación solo después de la práctica de las diligencias de prueba y por escrito. (Art. 732 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué se registra en el libro de sentencias según el artículo 159 de la Ley de Enjuiciamiento Criminal?
+1)Todas los decretos firmados.
+2)Todas las sentencias firmadas.
+3)Todos los votos particulares emitidos.
+4)Todas los autos firmados.
+Respuesta: 3
+Correcta: Exacto, conforme al artículo 159 de la LECrim, se registra cada voto particular que haya sido formulado, junto con las sentencias firmadas en el libro de sentencias de cada juzgado o tribunal. (Art. 159 LECrim).
+Errada: La selección es incorrecta. Según el artículo 159 de la LECrim, se incluyen en el libro de sentencias todos los votos particulares emitidos, lo cual es un aspecto esencial del registro formal de las decisiones judiciales. (Art. 159 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento penal ordinario, respecto a la inspección ocular que no se haya realizado antes del juicio oral, ¿qué establece la Ley de Enjuiciamiento Criminal?
+1)El Gestor Procesal redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido.
+2)El Fiscal redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido.
+3)El Letrado de la Administración de Justicia redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido.
+4)El Juez redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido.
+Respuesta: 3
+Correcta: Correcto. El Letrado de la Administración de Justicia redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido, cuando este se realice fuera de la vista en la sede del Tribunal. (Art. 745 en relación con el 743 LECrim).
+Errada: Incorrecto. El Letrado de la Administración de Justicia redactará una diligencia detallando el objeto o lugar inspeccionado, incluyendo las observaciones de las partes y cualquier incidente ocurrido. (Art. 745 en relación con el 743 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué ocurre si en la votación de una sentencia definitiva no hay mayoría de votos respecto a ciertos aspectos en el procedimiento penal ordinario?
+1)Ninguna es correcta.
+2)Se volverá a discutir y votar sobre todos los puntos en los que haya acuerdo entre los votantes.
+3)No se volverá a discutir y votar sobre todos los puntos en los que haya disentimiento entre los votantes.
+4)Se volverá a discutir y votar sobre todos los puntos en los que haya disentimiento entre los votantes.
+Respuesta: 4
+Correcta: Exactamente, si en la votación de una sentencia definitiva no resulta una mayoría clara sobre algún punto esencial, se volverá a discutir y votar sobre todos aquellos aspectos —de hecho, de derecho, y sobre la decisión en sí— hasta que se alcance una mayoría. (Art. 155 LECrim).
+Errada: Esta respuesta no es completa. En una situación donde no se consiga mayoría en la votación de una sentencia definitiva, se deben volver a discutir y votar todos los puntos esenciales, incluyendo los pronunciamientos de hecho, los de derecho y la decisión que se debe tomar, no solamente uno de estos aspectos. (Art. 155 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué valor tienen las declaraciones de autoridades y funcionarios de la policía judicial en el proceso penal?
+1)Tienen el valor de prueba testifical.
+2)Tienen el valor de prueba pericial.
+3)Tienen el valor de atestado.
+4)Tienen el valor de prueba primaria.
+Respuesta: 1
+Correcta: Correcto, las declaraciones realizadas por autoridades y funcionarios de la policía judicial en un juicio oral se consideran como prueba testifical. (Art. 744 LECrim).
+Errada: Esa respuesta no es exacta. Las declaraciones de las autoridades y funcionarios de la policía judicial tienen el valor de prueba testifical en el procedimiento penal, ya que provienen de individuos que están dando testimonio en base a su investigación y las diligencias practicadas. (Art. 744 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En el juicio oral, ¿qué diligencias practicadas durante el sumario pueden leerse o reproducirse?
+1)Las diligencias que no puedan ser reproducidas en el juicio oral por causas ajenas a la voluntad de las partes, pueden leerse o reproducirse a instancia de cualquiera de las partes.
+2)Las diligencias que no puedan ser reproducidas en el juicio oral por causas dependientes de la voluntad de las partes, pueden leerse o reproducirse a instancia de cualquiera de las partes.
+3)Las diligencias que no deban ser reproducidas en el juicio oral por causas ajenas a la voluntad de las partes, pueden leerse o reproducirse a instancia de cualquiera de las partes.
+4)Las diligencias que deban ser reproducidas en el juicio oral por causas ajenas a la voluntad de las partes, pueden leerse o reproducirse a instancia de cualquiera de las partes.
+Respuesta: 1
+Correcta: Correcto, si hay diligencias practicadas en el sumario que no pueden ser reproducidas en el juicio oral debido a circunstancias fuera del control de las partes, estas pueden ser leídas o reproducidas a petición de cualquiera de las partes involucradas. (Art. 730 LECrim).
+Errada: Esta respuesta es incorrecta. La ley permite que ciertas diligencias practicadas durante el sumario sean leídas o reproducidas durante el juicio oral si no pueden ser realizadas nuevamente, siempre que la imposibilidad de su reproducción no se deba a la voluntad de las partes que solicitan su lectura o reproducción. (Art. 730 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién tiene la responsabilidad de leer la sentencia en audiencia pública según el artículo 147 de la Ley de Enjuiciamiento Criminal (LECrim)?
+1)El Letrado de la Administración de Justicia.
+2)El Magistrado Ponente.
+3)El Magistrado Presidente.
+4)El Secretario de Sala.
+Respuesta: 2
+Correcta: Correcto, el artículo 147 de la LECrim establece que es responsabilidad del Magistrado Ponente la lectura de la sentencia en audiencia pública. (Art. 147 LECrim).
+Errada: Esta respuesta no es correcta según el artículo 147 de la LECrim, que asigna la tarea de leer la sentencia en audiencia pública al Magistrado Ponente, no al Presidente del Tribunal ni a ninguna otra autoridad o funcionario. (Art. 147 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué excepciones se contemplan para la práctica de pruebas no propuestas por las partes en un procedimiento penal ordinario?
+1)Documentos no propuestos por ninguna de las partes pero considerados necesarios por el Tribunal.
+2)Grabaciones de imágenes ofrecidas en el acto por las partes si el Tribunal las admite.
+3)Careos entre testigos y procesados acordados por el Presidente de oficio o a petición de parte.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: Exacto, en un procedimiento penal ordinario, la ley establece estas excepciones que permiten la práctica de pruebas no propuestas inicialmente por las partes. (Art. 728 y 729 LECrim).
+Errada: La respuesta proporcionada no es la más adecuada. Según el procedimiento penal, hay ciertas excepciones que permiten la incorporación de pruebas no propuestas por las partes, incluyendo documentos esenciales no previstos inicialmente, imágenes relevantes ofrecidas durante el juicio, y careos decididos por el presidente del tribunal, lo que significa que todas las respuestas mencionadas son correctas. (Art. 728 y 729 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿A partir de qué edad se puede recibir juramento a un testigo durante un juicio oral, según el artículo 706 de la LECrim?
+1)A un testigo mayor de dieciseis años.
+2)A un testigo mayor de quince años.
+3)A un testigo mayor de trece años.
+4)A un testigo mayor de catorce años.
+Respuesta: 4
+Correcta: Correcto, de acuerdo con el artículo 706 de la LECrim, se puede recibir juramento de un testigo que sea mayor de catorce años. (Art. 706 LECrim).
+Errada: La respuesta seleccionada no es la correcta conforme al artículo 706 de la LECrim, que estipula que se puede tomar juramento a testigos mayores de catorce años en un juicio oral. (Art. 706 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué tipo de sentencias se descarta la posibilidad de discordia, de acuerdo con el artículo 165 de la LECrim?
+1)En las sentencias que dicte la Audiencia Nacional en los recursos de revisión.
+2)En las sentencias que dicte el Tribunal Superior de Justicia en los recursos de revisión.
+3)En las sentencias que dicte el Tribunal Supremo en los recursos de revisión.
+4)En las sentencias que dicte el Tribunal Constitucional.
+Respuesta: 3
+Correcta: Efectivamente, el artículo 165 de la LECrim señala que no habrá posibilidad de discordia en las sentencias dictadas por el Tribunal Supremo en los recursos de revisión. (Art. 165 LECrim).
+Errada: Esta respuesta no es congruente con el artículo 165 de la LECrim, que especifica que no puede haber discordia en las sentencias emitidas por el Tribunal Supremo cuando se trate de recursos de revisión. (Art. 165 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Bajo qué condiciones se pueden realizar careos con testigos menores de edad según el artículo 713 de la LECrim?
+1)Si el Juez o Tribunal lo considera esencial y no perjudicial para el menor, con un informe pericial previo.
+2)Si el Juez o Tribunal lo considera esencial y perjudicial para el menor, con un informe pericial previo.
+3)Si el Juez o Tribunal lo considera esencial y no perjudicial para el menor, sin un informe pericial previo.
+4)Si el Fiscal lo considera esencial y no perjudicial para el menor, con un informe pericial previo.
+Respuesta: 1
+Correcta: Correcto, el artículo 713 de la LECrim indica que los careos con testigos menores de edad solo pueden realizarse si el Juez o Tribunal lo estima imprescindible y tras evaluar que no resultará perjudicial para el testigo, siempre basándose en un informe pericial. (Art. 713 LECrim).
+Errada: La respuesta no es acertada de acuerdo con el artículo 713 de la LECrim. La ley estipula que los careos con menores solo pueden llevarse a cabo si el Juez o Tribunal los considera absolutamente necesarios y no dañinos para el menor, y siempre después de contar con un informe pericial que así lo aconseje. (Art. 713 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: ¿Es posible la reproducción de la grabación de la declaración de la víctima o del testigo realizada en la etapa de instrucción durante el juicio oral, como lo establece el artículo 449 bis de la Ley de Enjuiciamiento Criminal?
+1)Sí, si alguna de las partes así lo solicita.
+2)Sí, si el Juez así lo solicita.
+3)Sí, si el Fiscal así lo solicita.
+4)Sí, si el LAJ así lo solicita.
+Respuesta: 1
+Correcta: Bien hecho, has seleccionado la respuesta correcta. El artículo 449 bis de la LECrim permite la reproducción de la declaración preconstituida durante el juicio oral si alguna de las partes así lo solicita. (Art. 449 bis LECrim).
+Errada: La opción elegida no es correcta. Según el artículo 449 bis de la LECrim, sí es factible reproducir las grabaciones audiovisuales de las declaraciones preconstituidas si alguna de las partes lo pide, lo cual es la respuesta correcta. (Art. 449 bis LECrim). (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con los artículos 746 y 747 de la Ley de Enjuiciamiento Criminal, ¿qué situación no justifica que la autoridad judicial suspenda de oficio el juicio oral?
+1)Cuando se presenten revelaciones o retractaciones sorpresivas que demanden nuevas pruebas e investigaciones suplementarias.
+2)Cuando se presenten revelaciones o retractaciones sorpresivas que demanden nuevas pruebas o investigaciones suplementarias.
+3)Si el Tribunal tiene que realizar diligencias fuera del lugar habitual y estas no pueden llevarse a cabo entre sesiones.
+4)Si el Fiscal tiene que realizar diligencias fuera del lugar habitual o estas no pueden llevarse a cabo entre sesiones.
+Respuesta: 2
+Correcta: Correcto, has identificado que no se puede decidir de oficio la suspensión del juicio oral debido a revelaciones o retractaciones que exijan nuevas pruebas o investigaciones adicionales, según los artículos mencionados. (Art. 746.1.ª, 4.º, LECrim).
+Errada: La opción seleccionada no es la adecuada. Según los artículos 746 y 747 de la LECrim, el motivo que no permite la suspensión del juicio oral de oficio es la aparición de revelaciones o retractaciones que hagan necesarias nuevas pruebas, lo cual es la respuesta correcta. (Art. 746.1.ª, 4.º, LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Conforme a lo indicado en los artículos 728 y 729 de la Ley de Enjuiciamiento Criminal, ¿qué excepciones se contemplan para la realización de pruebas no propuestas previamente o el examen de testigos no listados?
+1)Ambas son correctas.
+2)Los careos ordenados de oficio por el Presidente del Tribunal o a solicitud de las partes.
+3)Las tachas ordenadas de oficio por el Presidente del Tribunal o a solicitud de las partes.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: Excelente, has elegido la respuesta correcta. Los artículos 728 y 729 permiten la realización de careos decididos por el Presidente del Tribunal, ya sea por iniciativa propia o por petición de las partes. (Art. 728 y 729 LECrim).
+Errada: Esta no es la respuesta correcta. Según los artículos 728 y 729 de la LECrim, la excepción a la regla general es la realización de careos, ya sea por decisión del Presidente del Tribunal o si las partes lo proponen, lo cual es la respuesta acertada. (Art. 728 y 729 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 740 de la Ley de Enjuiciamiento Criminal, ¿en qué momento el Presidente del Tribunal declara el juicio listo para sentencia?
+1)Justo después de la realización de la prueba pericial.
+2)Una vez que los abogados acusadores y, en su caso, los ofendidos hayan finalizado sus alegatos.
+3)Una vez que los abogados defensores y, en su caso, los acusados hayan finalizado sus alegatos.
+4)Una vez que los abogados defensores y, en su caso, el Fiscal hayan finalizado sus alegatos.
+Respuesta: 3
+Correcta: ¡Perfecto! Has seleccionado la respuesta adecuada. El Presidente del Tribunal declarará concluso el juicio para sentencia una vez que los defensores de las partes y los procesados, si es el caso, hayan finalizado sus intervenciones, tal como lo establece el artículo 740 de la LECRIM.
+Errada: La respuesta elegida no es la correcta. Según el artículo 740 de la LECRIM, el juicio se declara listo para sentencia después de que los defensores y, si corresponde, los procesados hayan intervenido, no en los momentos previamente mencionados. (Art. 740 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué acción debe realizar el Tribunal una vez que la acusación y la defensa hayan concluido sus alegatos, según el artículo 739 de la LECRIM?
+1)Interrogar a los acusados si tienen algo que añadir si el delito conlleva una pena de prisión superior a seis años.
+2)Interrogar a los peritos si tienen algo que añadir si el delito conlleva una pena de prisión superior a quince años.
+3)Interrogar a los acusados si tienen algo que añadir si el delito conlleva una pena de prisión superior a doce años.
+4)Preguntar a los acusados si desean expresar algo más ante el Tribunal.
+Respuesta: 4
+Correcta: Exactamente, has seleccionado la respuesta correcta. Conforme al artículo 739 de la LECRIM, el Tribunal debe preguntar a los acusados si tienen algo más que manifestar después de que la acusación y la defensa hayan finalizado sus informes.
+Errada: La respuesta no es la acertada. Según el artículo 739 de la LECRIM, el Tribunal tiene la obligación de preguntar a los acusados si desean hacer alguna manifestación adicional, independientemente de la pena que el delito conlleve. (Art. 739 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En conformidad con la Ley de Enjuiciamiento Criminal, ¿se pueden realizar pruebas no propuestas por las partes durante el juicio?
+1)Solo aquellas pruebas que las partes consideren necesarias para verificar hechos discutidos en los escritos de calificación.
+2)Solo aquellas pruebas que el Fiscal considere necesarias para verificar hechos discutidos en los escritos de calificación.
+3)Solo aquellas pruebas que el Tribunal considere necesarias para verificar hechos discutidos en los escritos de calificación.
+4)Solo aquellas pruebas que la acusación particular considere necesarias para verificar hechos discutidos en el escrito de calificación.
+Respuesta: 3
+Correcta: Correcto, la respuesta seleccionada es la acertada. La Ley de Enjuiciamiento Criminal permite que el Tribunal pueda decidir la realización de pruebas adicionales que considere necesarias para la comprobación de hechos que sean objeto de los escritos de calificación, aun cuando no hayan sido propuestas por las partes. (Art. 728 LECrim).
+Errada: La opción escogida no es correcta. Según la normativa procesal, el Tribunal puede llevar a cabo pruebas adicionales que considere pertinentes para los hechos que han sido objeto de los escritos de calificación, aunque no hayan sido sugeridas inicialmente por las partes. (Art. 728 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Indique cuál de las siguientes circunstancias no resulta en la anulación de la parte ya celebradaReintentarCContinuartext de un juicio, según lo establecido por el artículo 749 de la Ley de Enjuiciamiento Criminal (LECRIM), en caso de que el juicio deba suspenderse de manera prolongada o por un periodo extenso:
+1)Si un miembro del Tribunal cae enfermo repentinamente y no puede seguir participando en el juicio.
+2)Si el abogado defensor de alguna de las partes cae enfermo de manera súbita y su sustitución inmediata supone un perjuicio serio para la defensa.
+3)Si alguno de los acusados enferma de forma repentina impidiendo su asistencia al juicio.
+4)Si el Tribunal o alguno de sus miembros debe realizar una diligencia fuera del recinto de las sesiones y esta no puede llevarse a cabo en el intervalo entre sesiones.
+Respuesta: 4
+Correcta: Has identificado correctamente la opción que no procede a la anulación de una parte del juicio ya celebrada. La necesidad de que el Tribunal o alguno de sus miembros realice diligencias fuera del lugar de las sesiones no invalida automáticamente lo actuado, a menos que la suspensión se prolongue indefinida o excesivamente por esta causa. (Art. 749, 1.ª, 3.º, LECrim; esta causa es un motivo de suspensión, pero no necesariamente de anulación de la parte ya celebrada).
+Errada: La opción seleccionada no es la incorrecta; de hecho, estas circunstancias sí pueden llevar a la declaración de nulidad de la parte ya celebrada del juicio, conforme a lo establecido en el artículo 749 LECRIM, en caso de una suspensión prolongada o indefinida. (Art. 749, 1.ª, 3.º, LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Con base en las disposiciones de la Ley de Enjuiciamiento Criminal sobre la publicidad de los debates en un juicio oral, ¿cuál de las siguientes acciones está terminantemente prohibida?
+1)Ninguna está prohibida.
+2)La difusión o publicación de cualquier información que revele la identidad de las víctimas.
+3)La captura, difusión o publicación de imágenes de víctimas menores de edad o de sus parientes cercanos.
+4)La divulgación o publicación de cualquier detalle que indirecta o directamente permita identificar a las víctimas.
+Respuesta: 3
+Correcta: Correcto, has escogido la opción que refleja una prohibición explícita. La ley prohíbe estrictamente la obtención y divulgación de imágenes de menores víctimas o de sus familiares en el contexto del juicio oral. (Art. 747 LECrim).
+Errada: La respuesta no es la correcta. Mientras que la protección de la identidad de las víctimas es un principio general, la opción correcta hace referencia a una prohibición específica relacionada con las imágenes de menores y sus familiares, la cual está expresamente contemplada en la ley. (Art. 747 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 749 LECRIM, ¿en qué situaciones se anulará lo actuado en un juicio si la suspensión debe extenderse indefinida o excesivamente?
+1)Si un miembro del Tribunal o el abogado defensor de una de las partes cae enfermo repentinamente impidiendo la continuación del juicio sin ocasionar un inconveniente significativo para la defensa.
+2)Si los testigos de cargo y descargo no se presentan y el Tribunal considera esencial su testimonio.
+3)Si el Tribunal necesita tiempo para deliberar sobre una cuestión incidental que no se puede resolver de inmediato.
+4)Si el Tribunal o alguno de sus integrantes debe llevar a cabo diligencias fuera del lugar donde se celebran las sesiones y estas no pueden realizarse entre sesiones.
+Respuesta: 1
+Correcta: Exactamente, esta es la situación prevista en el artículo 749 de la LECRIM que justifica la anulación de lo actuado en el juicio, en el contexto de una suspensión prolongada o indefinida por enfermedad repentina de un miembro del Tribunal o el defensor. (Art. 749, 1.ª, 1.º y 2.º, LECrim).
+Errada: La opción seleccionada no es correcta. La respuesta adecuada se centra en la enfermedad repentina de ciertos individuos clave en el juicio, lo cual puede justificar la anulación de la parte del juicio ya celebrada si la suspensión es demasiado prolongada. (Art. 749, 1.ª, 1.º y 2.º, LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Indique qué afirmación no corresponde a las competencias del Presidente del Tribunal según lo estipulado en la Ley de Enjuiciamiento Criminal.
+1)El Presidente dispone de todas las facultades requeridas para mantener o reestablecer el orden durante las sesiones, así como para asegurar el respeto hacia el Tribunal y otras entidades gubernamentales, pudiendo aplicar in situ la sanción de multa adecuada ante delitos contra el orden público que se cometan.
+2)El Presidente es responsable de la conducción de los debates, asegurándose de evitar discusiones irrelevantes o que no contribuyan a la búsqueda de la verdad.
+3)El Presidente está facultado para ordenar la detención inmediata de cualquier persona que cometa un delito en el transcurso de la sesión y entregarla al Juzgado correspondiente.
+4)El Presidente posee todas las facultades necesarias para mantener o restituir el orden en las sesiones, garantizando el respeto hacia el Tribunal y otras autoridades, teniendo la capacidad de imponer multas por infracciones que no constituyan un delito o que no tengan una penalización específica en la Ley.
+Respuesta: 4
+Correcta: Usted ha elegido la opción que no es correcta, y efectivamente, esa afirmación no representa una facultad del Presidente según la Ley de Enjuiciamiento Criminal. El Presidente no tiene la autoridad para imponer multas por infracciones que no sean delitos o que carezcan de penalización específica en la Ley, solo puede hacerlo por las infracciones disciplinarias del Art. 747. (Art. 747 y 749 LECrim).
+Errada: La respuesta proporcionada no es la que buscábamos. Según la legislación pertinente, estas opciones sí corresponden a las competencias del Presidente del Tribunal. (Art. 747 y 749 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién es el responsable de determinar el importe de la compensación económica para los testigos que asisten a un juicio en la jurisdicción penal, en caso de que tengan derecho a ella?
+1)En caso de ser solicitado, será el Fiscal quien establezca la cuantía
+2)En caso de ser solicitado, será el Letrado de la Administración de Justicia quien establezca la cuantía
+3)En caso de ser solicitado, será el Juez quien establezca la cuantía
+4)En caso de ser solicitado, será el LAJ quien establezca la cuantía
+Respuesta: 2
+Correcta: Correcto, ha identificado que el Letrado de la Administración de Justicia (LAJ) es quien fija la cantidad de la compensación para los testigos, pero sólo cuando ésta es solicitada. (Art. 740 LECrim).
+Errada: La opción seleccionada no es la correcta. La ley especifica que el Letrado de la Administración de Justicia (LAJ) es el encargado de determinar esta compensación, pero únicamente cuando es requerida por los interesados. (Art. 740 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En el caso de que un testigo no pueda asistir al juicio y no resida en la localidad donde se lleva a cabo, ¿quién tiene la responsabilidad de emitir el exhorto o mandamiento para que el testigo sea interrogado ante el juez competente?
+1)El abogado que propuso su declaración.
+2)El Letrado de la Administración de Justicia.
+3)El Juez de oficio.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: Has acertado; el Letrado de la Administración de Justicia (LAJ) es el facultado para expedir el exhorto o mandamiento necesario para que el testigo pueda ser examinado ante el juez que corresponda en su localidad. (Art. 729 LECrim).
+Errada: La opción escogida no es la correcta. De acuerdo con la normativa vigente, es el Letrado de la Administración de Justicia (LAJ) quien tiene la obligación de expedir el documento legal para que se realice el interrogatorio del testigo en otra jurisdicción. (Art. 729 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Ante la decisión del Presidente del Tribunal en un juicio penal ordinario de no permitir que un testigo responda a una pregunta por considerarla engañosa o capciosa, ¿está disponible algún recurso contra dicha resolución?
+1)Sí, es posible presentar un recurso de apelación si se protesta adecuadamente en el momento de la incidencia.
+2)Sí, es posible presentar un recurso de casación si se protesta adecuadamente en el momento de la incidencia.
+3)Sí, es posible presentar un recurso de queja si se protesta adecuadamente en el momento de la incidencia.
+4)Sí, es posible presentar un recurso de violación de ley si se protesta adecuadamente en el momento de la incidencia.
+Respuesta: 2
+Correcta: Has seleccionado la opción correcta. De acuerdo con el procedimiento penal, es viable un recurso de casación contra la resolución del Presidente que impide responder a una pregunta, siempre y cuando se realice una protesta formal en el momento en que ocurre la incidencia. (Art. 721 LECrim).
+Errada: La opción elegida no es acertada. La ley prevé específicamente la posibilidad de interponer un recurso de casación si se protesta inmediatamente, y no contempla los otros recursos mencionados en las situaciones dadas. (Art. 721 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 160 de la Ley de Enjuiciamiento Criminal, identifique la afirmación incorrecta en relación con la notificación de las sentencias:
+1)Cuando un Juzgado de Violencia sobre la Mujer haya dirigido la instrucción, la sentencia se enviará a este sin ninguna indicación.
+2)Si las partes no se encuentran disponibles al intentar notificarles, la notificación realizada a sus Procuradores será suficiente.
+3)Cuando un Juzgado de Violencia sobre la Mujer haya llevado la instrucción, la sentencia se remitirá de inmediato por testimonio.
+4)En caso de que las partes no estén presentes debido a algún imprevisto al momento de la notificación, se dejará constancia mediante diligencia.
+Respuesta: 1
+Correcta: La elección es precisa. La afirmación incorrecta es la A, ya que la sentencia sí se remite, e inmediatamente por testimonio, al Juzgado de Violencia sobre la Mujer que haya instruido la causa, pero no "sin ninguna indicación". (Art. 160 LECrim).
+Errada: La respuesta escogida no es la incorrecta. Según el artículo mencionado, las sentencias se notifican a los Procuradores en ausencia de las partes, se remiten inmediatamente por testimonio al Juzgado de Violencia sobre la Mujer cuando este ha llevado la instrucción, y se documenta mediante diligencia cuando no se puede notificar directamente a las partes. (Art. 160 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 702 de la Ley de Enjuiciamiento Criminal, ¿cuál es el procedimiento correcto para el testimonio de los obligados a declarar en el juicio oral?
+1)Los obligados a declarar según los artículos 409 a 412 deben comparecer personalmente, excepto los miembros de la Familia Real que no sean el Rey, la Reina, sus consortes, el Príncipe heredero o los Regentes del Reino.
+2)Los obligados a declarar según los artículos 412 a 415 deben comparecer personalmente, excepto los miembros de la Familia Real que no sean el Rey, la Reina, sus consortes, el Príncipe heredero o los Regentes del Reino.
+3)Los obligados a declarar según los artículos 410 a 412 deben comparecer personalmente, inclusp los miembros de la Familia Real.
+4)Los obligados a declarar según los artículos 410 a 412 deben comparecer personalmente, excepto los miembros de la Familia Real que no sean el Rey, la Reina, sus consortes, el Príncipe heredero o los Regentes del Reino.
+Respuesta: 4
+Correcta: Correcto, has señalado la opción adecuada. De acuerdo con la normativa (Art. 702 en relación con el 410 y 412 LECrim), los obligados a declarar por escrito y con excepción de la obligación de comparecer personalmente son las personas indicadas en la opción D.
+Errada: La opción indicada no es correcta. La ley especifica ciertas excepciones para miembros de la Familia Real y, en algunos casos, para el Presidente del Gobierno, contradiciendo la afirmación de que no hay excepciones o incluyendo modalidades no previstas como las declaraciones por escrito para los obligados a testificar. (Art. 702 en relación con el 410 y 412 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En qué circunstancia no está facultado el Tribunal para suspender el juicio oral de oficio?
+1)Cuando el Tribunal necesite resolver cuestiones incidentales complejas que no se puedan decidir de inmediato.
+2)Si algún miembro del Tribunal debe realizar diligencias fuera del recinto y estas no pueden efectuarse entre sesiones.
+3)En caso de enfermedad repentina de algún miembro del Tribunal o del defensor que impida su participación y su reemplazo inmediato resulte complicado para la defensa del acusado.
+4)Ninguna es correcta.
+Respuesta: 4
+Correcta: La elección es correcta. La ley otorga al Tribunal la capacidad de suspender el juicio oral de oficio en todas las circunstancias descritas, asegurando la adecuada administración de justicia y la integridad del proceso. (Art. 746, 1.ª, 3.º, 4.º y 5.º, LECrim).
+Errada: La opción seleccionada no es acertada. La ley permite al Tribunal la suspensión del juicio oral de oficio en una variedad de circunstancias para salvaguardar el correcto desarrollo del proceso. (Art. 746, 1.ª, 3.º, 4.º y 5.º, LECrim). (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 749 de la Ley de Enjuiciamiento Criminal, ¿en qué situación el Letrado de la Administración de Justicia señalará un nuevo día para la continuación del juicio oral una vez que se haya superado la causa de suspensión o se puedan reemplazar a las personas que sean sustituibles?
+1)Cuando no asistan los testigos propuestos por las partes y el Tribunal considere esencial su testimonio.
+2)En el caso de revelaciones o retractaciones sorpresivas que alteren significativamente el juicio, requiriendo pruebas adicionales o instrucción sumaria suplementaria.
+3)En el caso de revelaciones o retractaciones sorpresivas que no alteren significativamente el juicio, requiriendo pruebas adicionales o instrucción sumaria suplementaria.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: Correcto, la respuesta elegida es acertada. Si se presentan revelaciones o retractaciones imprevistas que modifican el curso del juicio de manera sustancial, y se requiere de pruebas nuevas o una instrucción suplementaria, el Letrado de la Administración de Justicia (LAJ) marcará una nueva fecha para continuar el juicio. (Art. 749 LECrim).
+Errada: La opción escogida no es la correcta. Aunque esas situaciones pueden requerir la suspensión del juicio, el artículo 749 se refiere específicamente al escenario de revelaciones o retractaciones inesperadas que demanden nuevas pruebas o una instrucción adicional. (Art. 749 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En un juicio penal ordinario, ¿existe algún recurso contra la decisión del Presidente del Tribunal que impide a un testigo responder a una pregunta por considerarla inducente al error o maliciosa?
+1)Sí, se puede presentar un recurso de queja en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+2)Sí, se puede presentar un recurso de casación en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+3)Sí, se puede presentar un recurso de reforma en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+4)Sí, se puede presentar un recurso de apelación en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+Respuesta: 2
+Correcta: Has escogido la opción correcta. En efecto, es viable presentar un recurso de casación respecto a la decisión del Presidente del Tribunal de restringir la respuesta de un testigo, siempre que se haya protestado de manera oportuna y adecuada en ese momento. (Art. 721 LECrim).
+Errada: La opción seleccionada no es la adecuada. El único recurso que procede en este contexto es el de casación, y solo si se ha protestado formalmente en el acto de la negativa del Presidente del Tribunal. (Art. 721 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 164 de la Ley de Enjuiciamiento Criminal, en el supuesto de desacuerdo, si tras una segunda votación persisten las discrepancias entre los magistrados, ¿qué votaciones serán objeto de una nueva deliberación?
+1)Las dos votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+2)Las tres votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+3)Las cuatro votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+4)Las cinco votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+Respuesta: 1
+Correcta: Tu elección es correcta. Cuando existe una discordia y esta persiste tras una segunda votación, los dos votos que más favorezcan al acusado y que hayan obtenido la pluralidad de votos se someterán a una nueva deliberación, según lo estipulado por la ley. (Art. 164 LECrim).
+Errada: La respuesta escogida no es la correcta. El procedimiento legal estipula que, en caso de persistir la discordia, son los dos votos que más favorezcan al procesado y que cuenten con pluralidad de votos los que deben reconsiderarse. (Art. 164 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: ¿Bajo qué circunstancias está permitido postergar el comienzo de las sesiones del juicio oral?
+1)Cuando las partes no puedan presentar las pruebas que ofrecieron en sus escritos por razones ajenas a su voluntad.
+2)No está permitido aplazar el inicio de las sesiones del juicio oral.
+3)Cuando las partes puedan presentar las pruebas que ofrecieron en sus escritos por razones ajenas a su voluntad.
+4)Cuando las partes no deban presentar las pruebas que ofrecieron en sus escritos.
+Respuesta: 1
+Correcta: Correcto, has seleccionado la opción precisa. La ley permite la suspensión de la apertura de las sesiones del juicio oral cuando las partes se ven imposibilitadas de presentar las pruebas ofrecidas en sus escritos por circunstancias fuera de su control. (Art. 746.1.ª, 2.º, LECrim).
+Errada: Tu opción no es la adecuada. La normativa específica que la suspensión de la apertura de las sesiones del juicio oral es procedente solo cuando las partes no pueden presentar sus pruebas por causas que no dependen de su voluntad. (Art. 746.1.ª, 2.º, LECrim). (Respuesta Correcta 1)
+###
+Pregunta: ¿Está obligado el Letrado de la Administración de Justicia a notificar por escrito la sentencia a los afectados y perjudicados por el delito, incluso si no se han personado como parte en la causa?
+1)Sí, debe hacerlo conforme a la obligación legal establecida.
+2)Sí, debe hacerlo conforme a lo que disponga el Juez.
+3)Sí, debe hacerlo conforme a lo que disponga el Magistrado Presidente.
+4)Sí, debe hacerlo conforme a lo que disponga el Juzgado Decano.
+Respuesta: 1
+Correcta: Has seleccionado correctamente. El Letrado de la Administración de Justicia tiene el deber legal de notificar la sentencia a los ofendidos y perjudicados por el delito, independientemente de su participación en la causa. (Art. 789.4 LECrim, no obstante, la redacción actual habla de la notificación por escrito a los ofendidos y perjudicados aunque no se hayan personado en la causa).
+Errada: La opción elegida no corresponde con la práctica legal. Es un mandato legal que el Letrado de la Administración de Justicia notifique la sentencia a los afectados y perjudicados por el delito, sin importar si se han constituido o no como parte en el proceso. (Art. 789.4 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En el contexto del derecho penal ordinario, ¿cómo se procede con respecto a los votos disidentes de un magistrado después de emitir un fallo?
+1)El magistrado, aunque no esté de acuerdo con la decisión de la mayoría deberá firmar el veredicto.
+2)El magistrado que no esté de acuerdo con la decisión de la mayoría evitará firmar el veredicto.
+3)No se excluirán los votos disidentes en las certificaciones o copias de las sentencias emitidas por los tribunales.
+4)No se incluirán los votos disidentes en las certificaciones o copias de las sentencias emitidas por los tribunales.
+Respuesta: 3
+Correcta: ¡Correcto! En efecto, los votos disidentes no se incluyen en las certificaciones o testimonios de las sentencias que expiden los tribunales, asegurando la uniformidad de la decisión presentada. (Art. 159 LECrim, que en realidad establece que los votos disidentes se registrarán con las sentencias en el libro, pero no se excluirán de las certificaciones o copias expedidas, lo que implica que sí se incluyen en la copia íntegra, por lo que la opción C es la correcta).
+Errada: La respuesta correcta es C. Los votos disidentes se documentan junto a las sentencias en el libro correspondiente y, según el art. 159 LECrim, no se excluirán de las certificaciones o copias que se expidan. (Respuesta Correcta 3)
+###
+Pregunta: Según lo establecido por el artículo 748 de la Ley de Enjuiciamiento Criminal, ¿qué medida se toma en los autos que disponen la suspensión de un juicio oral?
+1)Se dictará la adecuación necesaria para la prosecución del juicio.
+2)Se especificará el límite de tiempo permitido para la suspensión.
+3)Ambas son correctas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! Al decidir la suspensión de un juicio oral, se debe especificar en el auto (no decreto, el auto es la forma correcta para el Tribunal) los pasos siguientes para la continuación del proceso. (Art. 748 LECrim).
+Errada: La respuesta correcta es A. Al decidir la suspensión, el auto debe determinar lo procedente para la continuación del juicio. (Art. 748 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En relación con el testimonio de los testigos en un juicio oral y sus declaraciones previas durante la fase de instrucción, ¿qué estipula la Ley de Enjuiciamiento Criminal?
+1)Si hay discrepancias sustanciales entre el testimonio de un testigo en el juicio oral y su declaración previa, cualquier parte debe solicitar la lectura de la declaración inicial.
+2)Si hay discrepancias sustanciales entre el testimonio de un testigo en el juicio oral y su declaración previa, solo la acusación puede solicitar la lectura de la declaración inicial.
+3)Si hay discrepancias sustanciales entre el testimonio de un testigo en el juicio oral y su declaración previa, cualquier parte puede solicitar la lectura de la declaración inicial.
+4)Si no hay discrepancias sustanciales entre el testimonio de un testigo en el juicio oral y su declaración previa, cualquier parte puede solicitar la lectura de la declaración inicial.
+Respuesta: 3
+Correcta: ¡Correcto! La ley permite que cualquier parte solicite la lectura de la declaración previa si el testimonio del testigo en el juicio oral no concuerda en lo sustancial con lo declarado durante la instrucción. (Art. 714 LECrim).
+Errada: La respuesta correcta es C. La normativa procesal permite que cualquier parte pida que se lea la declaración previa si hay desacuerdos importantes con lo dicho en el juicio oral, facilitando así la confrontación de evidencia. (Art. 714 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 722 de la Ley de Enjuiciamiento Criminal, ¿cómo se compensa a los testigos que asisten a declarar en juicio y solicitan indemnización?
+1)El Letrado de la Administración de Justicia establecerá la compensación por diligencia, basándose exclusivamente en los costos de desplazamiento y en la pérdida de ingresos del testigo por comparecer a declarar.
+2)El Juez establecerá la compensación por providencia, basándose exclusivamente en los costos de desplazamiento y en la pérdida de ingresos del testigo por comparecer a declarar.
+3)El Letrado de la Administración de Justicia establecerá la compensación por decreto, basándose exclusivamente en los costos de desplazamiento y en la pérdida de ingresos del testigo por comparecer a declarar.
+4)El Juez establecerá la compensación por auto, basándose exclusivamente en los costos de desplazamiento y en la pérdida de ingresos del testigo por comparecer a declarar.
+Respuesta: 3
+Correcta: ¡Exacto! El Letrado de la Administración de Justicia (LAJ) es quien fija la indemnización para los testigos que lo soliciten, mediante decreto, atendiendo a los gastos de viaje y la compensación por los ingresos no percibidos debido a su comparecencia. (Art. 722 LECrim y Art. 245.3 LEC).
+Errada: La respuesta correcta es C. Es el Letrado de la Administración de Justicia (LAJ) quien, mediante un decreto, fija la indemnización para los testigos basándose en los gastos de viaje y la pérdida de ingresos por la asistencia al juicio. (Art. 722 LECrim y Art. 245.3 LEC). (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué medida recursiva está disponible contra un auto que dispone la suspensión de un juicio oral según la legislación procesal penal?
+1)Recurso de reposición.
+2)Ningún recurso es admisible.
+3)Recurso de revisión.
+4)Recurso de queja.
+Respuesta: 2
+Correcta: ¡Correcto! Según la normativa procesal, no cabe recurso alguno contra un auto que ordena la suspensión del juicio oral, estableciendo así la firmeza de dichas decisiones. (Art. 748 LECrim).
+Errada: La respuesta correcta es B. No se puede interponer recurso contra el auto que acuerda la suspensión del juicio oral, confirmando la naturaleza definitiva de esta resolución. (Art. 748 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 160 de la Ley de Enjuiciamiento Criminal, ¿en qué momento se procederá a la lectura y notificación de las sentencias definitivas a las partes?
+1)En un plazo máximo de 5 días a partir de la fecha de la firma de la sentencia.
+2)En un plazo máximo de 10 horas a partir de la fecha de la firma de la sentencia.
+3)El día en que se firme la sentencia o al día siguiente.
+4)En un plazo máximo de 12 horas a partir de la fecha de la firma de la sentencia.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las sentencias definitivas deben ser leídas y notificadas a las partes involucradas el día de su firma o al día siguiente, como establece el artículo 160 de la LECRIM. (Art. 160 LECrim).
+Errada: La respuesta correcta es C. La ley especifica que las sentencias definitivas deben ser leídas y notificadas a las partes el mismo día de su firma o en el día siguiente, garantizando la prontitud en la comunicación del fallo. (Art. 160 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: En caso de que se suspenda un juicio oral debido a la ausencia de un testigo crucial propuesto por la defensa, y la acusación particular desee impugnar dicho auto de suspensión, ¿qué recurso podría interponer?
+1)Recurso de reforma.
+2)Recurso de apelación.
+3)Ningún recurso, puesto que contra los autos que acuerdan la suspensión del juicio oral no cabe recurso alguno.
+4)Recurso de revisión.
+Respuesta: 3
+Correcta: Correcto. La acusación particular no puede interponer recurso alguno contra el auto que suspende el juicio oral, siguiendo la normativa procesal penal vigente. (Art. 748 LECrim).
+Errada: La respuesta acertada es C. En el escenario descrito, la acusación particular no tiene la posibilidad de recurrir el auto de suspensión del juicio oral, conforme a las disposiciones procesales. (Art. 748 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: En un procedimiento penal ordinario, durante el desarrollo del juicio oral, si el acusado incurre en comportamiento que perturba el orden:
+1)El Letrado de la Administración de Justicia tiene la autoridad de expulsar al acusado.
+2)Si el acusado no rectifica su actitud tras las advertencias del Presidente y el aviso de ser expulsado del recinto, el Tribunal puede decidir expulsarlo temporalmente o durante toda la sesión.
+3)Si el acusado no rectifica su actitud tras las advertencias del Presidente y el aviso de ser expulsado del recinto, el Tribunal puede decidir durante toda la sesión.
+4)Si el acusado no rectifica su actitud tras las advertencias del Presidente y el aviso de ser expulsado del recinto, el Tribunal puede decidir expulsarlo temporalmente.
+Respuesta: 2
+Correcta: Excelente, has seleccionado la respuesta correcta. En caso de que el acusado altere el orden y no atienda a las advertencias, el Tribunal tiene la facultad de expulsarlo por el tiempo que considere necesario. (Art. 747 LECrim).
+Errada: La respuesta correcta es B. Si el acusado interrumpe el orden del juicio y no se somete a las advertencias, el Tribunal puede decidir su expulsión por un tiempo específico o por la duración completa de la sesión. (Art. 747 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: La excepción prevista en el artículo 733 de la Ley de Enjuiciamiento Criminal no se aplica a:
+1)La contribución de cada uno de los acusados en la comisión del delito público que es objeto del juicio.
+2)Los casos de delitos cometidos por autoridades o funcionarios públicos.
+3)La valoración de las causas de justificación.
+4)Los posibles errores cometidos durante la práctica de la prueba.
+Respuesta: 1
+Correcta: Muy bien, has acertado. El artículo 733 LECrim no incluye la participación individual de los procesados en la ejecución del delito que se juzga. (Art. 733 LECrim).
+Errada: No es correcto, la opción adecuada es A. El artículo 733 de la LECrim no se extiende a lo concerniente a la participación individual de los procesados en la perpetración del delito sujeto al juicio. (Art. 733 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: El artículo 681 de la Ley de Enjuiciamiento Criminal detalla las circunstancias bajo las cuales un juez o tribunal puede decidir que un juicio o acto procesal específico se celebre a puerta cerrada. ¿Qué situación no está contemplada en dicho artículo para llevar a cabo un juicio a puerta cerrada?
+1)Para prevenir daños significativos a las víctimas que podrían surgir del desarrollo normal del proceso.
+2)Para la protección adecuada de los derechos fundamentales de los participantes, en particular, el derecho a la privacidad de la víctima.
+3)Para la protección adecuada de los derechos de los participantes, específicamente el derecho a la integridad física de la víctima.
+4)Por razones de seguridad pública u orden público.
+Respuesta: 3
+Correcta: Correcto. La opción C no está contemplada específicamente en el artículo 681 de la Ley de Enjuiciamiento Criminal como motivo para celebrar un juicio a puerta cerrada. (Art. 681 LECrim).
+Errada: La respuesta correcta es la opción C. El artículo 681 de la Ley de Enjuiciamiento Criminal no menciona la protección de la integridad física de la víctima como una razón para celebrar juicios a puerta cerrada. (Art. 681 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Identifique la afirmación incorrecta en relación con las circunstancias en que procederá la suspensión de un juicio oral:
+1)Si un miembro del Tribunal o el defensor de una de las partes cae enfermo repentinamente y esto afecta el juicio o la defensa.
+2)Si el Tribunal o uno de sus miembros debe realizar alguna diligencia fuera del lugar de las sesiones y no puede hacerse entre sesiones.
+3)Si los testigos propuestos por las partes no comparecen y el Tribunal estima indispensable su testimonio.
+4)Si surgen revelaciones o retractaciones sorpresivas que cambian sustancialmente el juicio, requiriendo nuevos elementos de prueba o una investigación sumaria adicional.
+Respuesta: 1
+Correcta: Correcto. La afirmación incorrecta es la A. La enfermedad repentina de un miembro del Tribunal o defensor solo será motivo de suspensión si impide la continuación del juicio o la defensa no puede ser sustituida sin grave perjuicio. (Art. 746.1.ª, 1.º y 2.º, LECrim).
+Errada: La respuesta incorrecta es la A. El hecho de que un miembro del Tribunal o un defensor caiga enfermo no implica automáticamente la suspensión del juicio oral si no impide la continuación del mismo o si el defensor puede ser reemplazado sin inconveniente grave. (Art. 746.1.ª, 1.º y 2.º, LECrim). (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 749 de la Ley de Enjuiciamiento Criminal, ¿en qué situación el Letrado de la Administración de Justicia señalará un nuevo día para la continuación del juicio oral una vez que se haya superado la causa de suspensión o se puedan reemplazar a las personas que sean sustituibles?
+1)Cuando no asistan los testigos propuestos por las partes y el Tribunal considere esencial su testimonio.
+2)En el caso de revelaciones o retractaciones sorpresivas que alteren significativamente el juicio, requiriendo pruebas adicionales o instrucción sumaria suplementaria.
+3)En el caso de revelaciones o retractaciones sorpresivas que no alteren significativamente el juicio, requiriendo pruebas adicionales o instrucción sumaria suplementaria.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: Correcto, la respuesta elegida es acertada. Si se presentan revelaciones o retractaciones imprevistas que modifican el curso del juicio de manera sustancial, y se requiere de pruebas nuevas o una instrucción suplementaria, el Letrado de la Administración de Justicia (LAJ) marcará una nueva fecha para continuar el juicio. (Art. 749 LECrim).
+Errada: La opción escogida no es la correcta. Aunque esas situaciones pueden requerir la suspensión del juicio, el artículo 749 se refiere específicamente al escenario de revelaciones o retractaciones inesperadas que demanden nuevas pruebas o una instrucción adicional. (Art. 749 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En un juicio penal ordinario, ¿existe algún recurso contra la decisión del Presidente del Tribunal que impide a un testigo responder a una pregunta por considerarla inducente al error o maliciosa?
+1)Sí, se puede presentar un recurso de queja en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+2)Sí, se puede presentar un recurso de casación en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+3)Sí, se puede presentar un recurso de reforma en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+4)Sí, se puede presentar un recurso de apelación en el momento oportuno, siempre y cuando se realice una protesta formal en el momento de la decisión.
+Respuesta: 2
+Correcta: Has escogido la opción correcta. En efecto, es viable presentar un recurso de casación respecto a la decisión del Presidente del Tribunal de restringir la respuesta de un testigo, siempre que se haya protestado de manera oportuna y adecuada en ese momento. (Art. 721 LECrim).
+Errada: La opción seleccionada no es la adecuada. El único recurso que procede en este contexto es el de casación, y solo si se ha protestado formalmente en el acto de la negativa del Presidente del Tribunal. (Art. 721 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 164 de la Ley de Enjuiciamiento Criminal, en el supuesto de desacuerdo, si tras una segunda votación persisten las discrepancias entre los magistrados, ¿qué votaciones serán objeto de una nueva deliberación?
+1)Las dos votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+2)Las tres votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+3)Las cuatro votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+4)Las cinco votaciones que más beneficien al acusado, elegidas por la mayor cantidad de votos.
+Respuesta: 1
+Correcta: Tu elección es correcta. Cuando existe una discordia y esta persiste tras una segunda votación, los dos votos que más favorezcan al acusado y que hayan obtenido la pluralidad de votos se someterán a una nueva deliberación, según lo estipulado por la ley. (Art. 164 LECrim).
+Errada: La respuesta escogida no es la correcta. El procedimiento legal estipula que, en caso de persistir la discordia, son los dos votos que más favorezcan al procesado y que cuenten con pluralidad de votos los que deben reconsiderarse. (Art. 164 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Juan, un menor de 13 años, ha sido testigo de un delito. El juez optó por preconstituir su testimonio para evitar que compareciera en juicio y prevenir la victimización secundaria. ¿Estaba obligado el juez a preconstituir la declaración del menor?
+1)Es obligatorio.
+2)No, ya que la obligación de preconstituir la declaración de menores de 14 años se aplica solo si son víctimas de un delito.
+3)Siempre que no haya oposición.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: Correcto. No es obligatorio preconstituir la declaración de un menor solo por ser testigo y tener menos de 14 años. La preconstitución es un recurso que se utiliza principalmente cuando el menor es víctima del delito para protegerlo de la victimización secundaria. (El Art. 449.1 LECrim establece la posibilidad, no la obligatoriedad, salvo en casos especiales como víctimas de delitos graves, donde se refuerza la protección).
+Errada: La respuesta correcta es B. No es obligatorio preconstituir la declaración de un menor de 14 años a menos que sea víctima del delito. El objetivo es proteger al menor víctima de la posible victimización secundaria que puede ocurrir durante el proceso judicial. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, durante la realización del juicio oral en el procedimiento ordinario, ¿cómo se establece el orden de práctica de las pruebas presentadas por las partes?
+1)Solo por acuerdo de las partes con el Ministerio Fiscal.
+2)El Presidente tiene la facultad de cambiar el orden, tanto por petición de una parte como por iniciativa propia, si lo considera beneficioso para aclarar los hechos o hallar la verdad.
+3)Las partes deben de ponerse de acuerdo, o si no, será el Juez de oficio.
+4)El Presidente no tiene la facultad de cambiar el orden por petición de una parte, solo por iniciativa propia, si lo considera beneficioso para aclarar los hechos o hallar la verdad.
+Respuesta: 2
+Correcta: Correcto. El Presidente puede modificar el orden de las pruebas para contribuir al esclarecimiento de los hechos o descubrimiento de la verdad, como indica la opción B. (Art. 701 LECrim).
+Errada: La respuesta correcta es B. Según la LECrim, el Presidente puede alterar el orden de las pruebas para facilitar la comprensión de los hechos o encontrar la verdad, incluso sin solicitud de las partes. (Art. 701 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Respecto al principio de publicidad en el juicio oral del proceso penal según la LECrim, elija la afirmación correcta:
+1)Aunque los debates del juicio oral deben ser públicos, esto puede exceptuarse según el artículo 680 de la LECrim, sin que ello implique nulidad.
+2)Aunque los debates del juicio oral deben ser públicos, esto puede exceptuarse según el artículo 682 de la LECrim, sin que ello implique nulidad.
+3)Aunque los debates del juicio oral deben ser públicos, esto puede exceptuarse según el artículo 681 de la LECrim, sin que ello implique nulidad.
+4)Aunque los debates del juicio oral deben ser públicos, esto puede exceptuarse según el artículo 631 de la LECrim, sin que ello implique nulidad.
+Respuesta: 3
+Correcta: Correcto. La afirmación que se ajusta a la LECrim es la C, donde se reconoce el principio de publicidad pero se permite su excepción en casos previstos por la ley sin que esto conlleve la nulidad del proceso. (Art. 680 y 681 LECrim).
+Errada: La opción correcta es la C. Los juicios deben ser públicos a menos que se apliquen las excepciones del artículo 681 de la LECrim, y la publicidad no es absoluta. (Art. 680 y 681 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién tiene la autoridad para suspender el inicio de las sesiones del juicio oral?
+1)El Ministerio Fiscal tiene la potestad de suspender las sesiones.
+2)El Presidente del Tribunal tiene la potestad de suspender las sesiones.
+3)El Pleno del Tribunal tiene la potestad de suspender las sesiones.
+4)Todas son correctas alternativamente.
+Respuesta: 2
+Correcta: Correcto. La persona que tiene la autoridad para suspender las sesiones del juicio oral es el Presidente del Tribunal, como se señala en la opción B. (Art. 746 LECrim).
+Errada: La respuesta correcta es la B. El Presidente del Tribunal es quien tiene la facultad de suspender la apertura de las sesiones del juicio oral. (Art. 746 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la LECrim, ¿se pueden realizar diligencias de prueba distintas a las propuestas por las partes en el momento del juicio?
+1)Sí, se pueden admitir diligencias de prueba adicionales propuestas en el acto si estas tienen el potencial de afectar el valor probatorio de la declaración de un testigo y el Tribunal las considera impertinentes.
+2)Sí, se pueden admitir diligencias de prueba adicionales propuestas en el acto si estas tienen el potencial de afectar el valor probatorio de la declaración de un testigo y el Tribunal las considera pertinentes.
+3)No se pueden admitir diligencias de prueba adicionales propuestas en el acto.
+4)Sí, se pueden admitir diligencias de prueba adicionales propuestas en el acto si estas no tienen el potencial de afectar el valor probatorio de la declaración de un testigo y el Tribunal las considera pertinentes.
+Respuesta: 2
+Correcta: Correcto. Durante el juicio, se pueden admitir diligencias de prueba adicionales si estas tienen la capacidad de influir en el valor probatorio de una declaración y el Tribunal las acepta, tal como se indica en la opción B. (Art. 728 LECrim).
+Errada: La opción correcta es la B. La LECrim permite la realización de diligencias de prueba adicionales durante el juicio si estas son ofrecidas en el acto y el Tribunal las considera relevantes para el caso. (Art. 728 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 741 de la LECrim, ¿cuándo debe el Tribunal señalar si ha considerado los elementos de juicio que la normativa penal exige para la calificación del delito o para la imposición de la pena?
+1)El Tribunal debe indicarlo cuando ejerce su discreción judicial.
+2)Debe hacerlo siempre que lo solicite el Ministerio Fiscal.
+3)Debe hacerlo siempre que lo solicite alguna de las partes.
+4)Nunca debe hacerlo.
+Respuesta: 1
+Correcta: Excelente, la respuesta correcta es la A. El Tribunal está obligado a manifestar si ha considerado los elementos de juicio pertinentes cuando hace uso de su discreción al calificar el delito o imponer la pena. (Art. 741 LECrim).
+Errada: La respuesta correcta es la A. El Tribunal debe señalar que ha tenido en cuenta los elementos de juicio necesarios según el Código Penal al ejercer su libre arbitrio en la calificación del delito o la imposición de una pena. (Art. 741 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En el marco del procedimiento penal ordinario, la Ley de Enjuiciamiento Criminal estipula ciertos aspectos sobre la grabación de las sesiones del juicio oral. Indique cuál de las siguientes afirmaciones es correcta:
+1)Las partes no tienen derecho a solicitar copias de las grabaciones originales del juicio oral.
+2)Las partes tienen derecho a solicitar copias de las grabaciones originales del juicio oral, sin asumir los costos correspondientes.
+3)Las partes tienen derecho a solicitar copias de las grabaciones originales del juicio oral, asumiendo los costos correspondientes.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! Las partes pueden solicitar copias de las grabaciones del juicio oral, sufragando los gastos que ello implique, como lo especifica la opción C. (Art. 743 LECrim).
+Errada: La respuesta correcta es C. Según la LECRIM, las partes pueden pedir copias de las grabaciones de las sesiones del juicio oral, cubriendo los costes que esto conlleve. (Art. 743 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Con relación al orden de votación después de debatir la sentencia propuesta por el Ponente en el procedimiento penal ordinario, señale la secuencia correcta:
+1)El Ponente es quien vota último, seguido de los Magistrados en orden correlativo a su antigüedad.
+2)El Ponente es quien vota último, seguido de los Magistrados en orden inverso a su antigüedad.
+3)El Ponente es quien vota primero, seguido de los Magistrados en orden inverso a su antigüedad.
+4)El Ponente es quien vota primero, seguido de los Magistrados en orden correlativo a su antigüedad.
+Respuesta: 3
+Correcta: Excelente, la secuencia correcta es que primero vota el Ponente y luego los demás Magistrados por orden inverso de antigüedad, como indica la opción C. (Art. 151 LECrim).
+Errada: La opción correcta es C. En el orden de votación, el Ponente vota primero, seguido por los demás Magistrados en orden inverso a su antigüedad, conforme al procedimiento penal ordinario. (Art. 151 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Dentro del procedimiento penal ordinario, una vez que ha comenzado la votación de la sentencia, ¿está permitido interrumpirla?
+1)Ninguna es correcta.
+2)No está permitido interrumpir, incluso si surje un contratiempo insuperable.
+3)Está permitido interrumpir, salvo que surja un contratiempo insuperable.
+4)No está permitido interrumpir, salvo que surja un contratiempo insuperable.
+Respuesta: 4
+Correcta: Correcto. La votación de una sentencia no puede interrumpirse una vez que ha iniciado, a menos que surja un obstáculo insuperable, tal como lo menciona la opción D. (Art. 151 LECrim).
+Errada: La respuesta acertada es D. La interrupción de la votación de una sentencia ya iniciada solo es posible si se presenta un impedimento insuperable que lo justifique. (Art. 151 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En el contexto de un juicio oral dentro del procedimiento penal ordinario, el artículo 709 de la Ley de Enjuiciamiento Criminal regula el tipo de preguntas que el Presidente del Tribunal permitirá a los testigos responder. De acuerdo con este artículo, el Presidente evitará que los testigos respondan a preguntas que sean:
+1)Astutas, insinuantes o dolosas.
+2)Astutas, insinuantes o relevantes.
+3)Astutas, capciosas o irrelevantes.
+4)Astutas, insinuantes o irrelevantes.
+Respuesta: 4
+Correcta: ¡Bien hecho! Has seleccionado correctamente la opción D (capciosas, sugestivas o impertinentes). El Presidente del Tribunal deberá evitar que los testigos respondan a preguntas que sean capciosas, sugestivas o impertinentes, tal y como lo establece el artículo 709 de la LECRIM. (Art. 709 LECrim: "capciosas, sugestivas o impertinentes", siendo la opción D la más cercana).
+Errada: La respuesta correcta es la opción D. Según el art. 709 de la LECRIM, el Presidente del Tribunal no permitirá a los testigos responder a preguntas capciosas, sugestivas o impertinentes para asegurar la adecuada recogida de testimonios. (Art. 709 LECrim: "capciosas, sugestivas o impertinentes", siendo la opción D la más cercana). (Respuesta Correcta 4)
+###
+Pregunta: Dentro del procedimiento penal ordinario, y en relación con la preparación de las pruebas durante el juicio oral, el artículo 688 de la LECRIM especifica que:
+1)El Tramitador Procesal asegurará que las pruebas físicas estén en la sala del Tribunal, y el Presidente declarará iniciada la sesión en el momento adecuado.
+2)El Letrado de la Administración de Justicia asegurará que las pruebas físicas estén en la sala del Tribunal, y el Presidente declarará iniciada la sesión en el momento adecuado.
+3)El Gestor Procesal asegurará que las pruebas físicas estén en la sala del Tribunal, y el Presidente declarará iniciada la sesión en el momento adecuado.
+4)El Auxiliar Judicial asegurará que las pruebas físicas estén en la sala del Tribunal, y el Presidente declarará iniciada la sesión en el momento adecuado.
+Respuesta: 2
+Correcta: Correcto, la opción B es la acertada. El Letrado de la Administración de Justicia (LAJ) se asegura de que las piezas de convicción estén presentes y el Presidente es quien declara abierta la sesión, según lo establecido en el artículo 688 de la LECRIM. (Art. 688 LECrim).
+Errada: La opción correcta es B. De acuerdo con el artículo 688 de la LECRIM, corresponde al Letrado de la Administración de Justicia (LAJ) verificar que las piezas de convicción estén en el local del Tribunal y el Presidente declarará abierta la sesión en el momento apropiado. (Art. 688 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a la práctica de la prueba testifical, el artículo 708 de la Ley de Enjuiciamiento Criminal establece que:
+1)El Presidente, ya sea de manera autónoma o a petición de un miembro del Tribunal, puede realizar preguntas pertinentes a los testigos para esclarecer los hechos testimoniados.
+2)El Presidente de oficio puede realizar preguntas pertinentes a los testigos para esclarecer los hechos testimoniados.
+3)El Presidente, a instancia de parte, puede realizar preguntas pertinentes a los testigos para esclarecer los hechos testimoniados.
+4)El Presidente, a instancia de algun miembro del Tribunal, puede realizar preguntas pertinentes a los testigos para esclarecer los hechos testimoniados.
+Respuesta: 1
+Correcta: Excelente, has elegido la opción A correctamente. El Presidente puede hacer preguntas a los testigos por iniciativa propia o si algún miembro del Tribunal lo solicita, con el fin de aclarar los hechos que están siendo testificados, como se indica en el artículo 708 de la LECRIM. (Art. 708 LECrim).
+Errada: La respuesta adecuada es la opción A. El art. 708 de la LECRIM autoriza al Presidente del Tribunal a formular preguntas directamente a los testigos, ya sea por iniciativa propia o a solicitud de algún miembro del Tribunal, con el objetivo de precisar los hechos que se declaran. (Art. 708 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: En relación con la continuación del juicio oral una vez abierto, según la legislación procesal penal:
+1)La programación de las sesiones recaerá en el Juez Decano y se podrán realizar en días sucesivos o alternos hasta concluir el proceso.
+2)La programación de las sesiones recaerá en el Letrado de la Administración de Justicia y se podrán realizar en días sucesivos o alternos hasta concluir el proceso.
+3)El juicio proseguirá a través de las sesiones consecutivas necesarias hasta su terminación.
+4)La programación de las sesiones recaerá en el Gestor Procesal y se podrán realizar en días sucesivos o alternos hasta concluir el proceso.
+Respuesta: 3
+Correcta: Correcto, has seleccionado la opción C. Efectivamente, una vez que se ha abierto el juicio oral, este debe continuar en tantas sesiones consecutivas como sean necesarias hasta su conclusión, tal como lo estipula la legislación pertinente. (Art. 743 LECrim).
+Errada: La opción correcta es C. La ley prevé que el juicio oral debe seguir su curso mediante sesiones continuadas hasta su conclusión, como se establece en el procedimiento legal correspondiente. (Art. 743 LECrim). (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 680 de la Ley de Enjuiciamiento Criminal respecto a los debates en el juicio oral:
+1)Serán públicos bajo cualquier circunstancia, salvo que incurran en nulidad, salvo por las excepciones del artículo 681 LECRIM.
+2)Serán públicos bajo cualquier circunstancia, salvo que incurran en nulidad, salvo por las excepciones del artículo 682 LECRIM.
+3)Serán públicos bajo cualquier circunstancia, salvo que incurran en anulabilidad, salvo por las excepciones del artículo 683 LECRIM.
+4)Serán públicos bajo cualquier circunstancia, salvo que incurran en rescisión, salvo por las excepciones del artículo 684 LECRIM.
+Respuesta: 1
+Correcta: ¡Bien hecho! La opción A es la correcta. Los debates del juicio oral son públicos, bajo pena de nulidad si no se respetase esta condición, salvo en los casos previstos en el artículo 681 de la LECRIM. (Art. 680 y 681 LECrim).
+Errada: La respuesta correcta es la opción A. Los debates durante el juicio oral deben ser públicos, excepto en las situaciones que contempla el artículo 681 LECRIM, y la falta de publicidad puede acarrear la nulidad del juicio. (Art. 680 y 681 LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Según la normativa procesal penal, si un testigo se niega a testificar en el juicio oral:
+1)En caso de que el testigo continúe en su negativa después de la multa, se le procesará por el delito de desacato a la Autoridad.
+2)En caso de que el testigo continúe en su negativa después de la multa, se le procesará por el delito de desobediencia grave a la Autoridad.
+3)En caso de que el testigo continúe en su negativa después de la multa, se le procesará por el delito de rebeldía.
+4)En caso de que el testigo continúe en su negativa después de la multa, se le procesará por el delito de obstrucción.
+Respuesta: 2
+Correcta: Exacto, la elección B es la acertada. Un testigo que se niegue a declarar puede ser multado en el acto, y si sigue rehusándose, se le puede acusar de un delito de desobediencia grave a la Autoridad, conforme a lo establecido en el art. 716 LECrim.
+Errada: La respuesta acertada es la B. La LECRIM prevé una multa para el testigo que rehúse declarar, y si insiste en su negativa, se le puede imputar un delito de desobediencia grave a la Autoridad. (Art. 716 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: Identifique el enunciado incorrecto. Según el artículo 708 de la Ley de Enjuiciamiento Criminal, respecto a la interrogación de los testigos en el juicio oral, el Presidente del Tribunal deberá indagar al testigo sobre:
+1)Si ha sido condenado en un proceso y la sanción que se le asignó.
+2)Su identidad, apellidos y el código de su documento de identificación personal.
+3)Su edad, situación civil y ocupación.
+4)Su conocimiento del acusado y de las demás partes implicadas.
+Respuesta: 2
+Correcta: Excelente, la elección correcta es la segunda opción. El artículo 708 de la Ley de Enjuiciamiento Criminal no establece que el Presidente del Tribunal deba preguntar al testigo por su número de identificación durante el juicio oral (sino su nombre, apellidos, edad, estado, profesión, domicilio, si conoce al acusado o demás partes). (Art. 708 LECrim).
+Errada: La respuesta adecuada es la segunda. De acuerdo con el artículo 708 de la Ley de Enjuiciamiento Criminal, el Presidente del Tribunal no interroga al testigo sobre el número de su documento de identidad durante el juicio oral. (Art. 708 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: En el marco del procedimiento penal ordinario, los testigos que deban declarar en el juicio oral:
+1)Estarán en un espacio designado hasta que se les llame a declarar, sin hablar con otras personas a excepción de los que ya hayan testificado.
+2)Estarán en un espacio designado hasta que se les llame a declarar, pudiendo hablar con otras personas a excepción de los que ya hayan testificado.
+3)Deberán esperar en un espacio reservado hasta ser llamados a declarar, pudiendo comunicarse con testigos que ya hayan testificado ni con otros individuos.
+4)Deberán esperar en un espacio reservado hasta ser llamados a declarar, sin comunicarse con testigos que ya hayan testificado ni con otros individuos.
+Respuesta: 4
+Correcta: Perfecto, la opción correcta es la cuarta. Los testigos deben esperar en un lugar aparte y no pueden comunicarse con nadie más, especialmente con aquellos que ya hayan dado su testimonio, hasta que sean llamados para declarar. (Art. 704 LECrim).
+Errada: La respuesta precisa es la cuarta. La Ley indica que los testigos deben permanecer en un área separada sin comunicarse con otros testigos o personas hasta que se les llame para testificar. (Art. 704 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Una vez presentados los escritos de calificación en el procedimiento penal ordinario:
+1)El Secretario Judicial redactará una diligencia confirmando la calificación y trasladará el asunto al juez ponente, con un término de dos días, para la inspección de las pruebas presentadas.
+2)El Secretario Judicial redactará una diligencia confirmando la calificación y trasladará el asunto al juez ponente, con un término de cinco días, para la inspección de las pruebas presentadas.
+3)El Secretario Judicial redactará una diligencia confirmando la calificación y trasladará el asunto al juez ponente, con un término de cuatro días, para la inspección de las pruebas presentadas.
+4)El Secretario Judicial redactará una diligencia confirmando la calificación y trasladará el asunto al juez ponente, con un término de tres días, para la inspección de las pruebas presentadas.
+Respuesta: 4
+Correcta: Correctamente seleccionado, la cuarta afirmación es la adecuada. Una vez entregados los escritos de calificación, el Letrado de la Administración de Justicia (LAJ) procederá a reconocer la calificación y pasará el asunto al magistrado ponente, dentro de un término de tres días, para que este examine las pruebas. (Art. 653 LECrim).
+Errada: La respuesta correcta es la cuarta. Conforme al proceso, tras los escritos de calificación, el Letrado de la Administración de Justicia (LAJ) confirma la calificación y remite el caso al ponente en un plazo de tres días para evaluar las pruebas propuestas. (Art. 653 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: ¿En cuál de las siguientes situaciones no es apropiado suspender un juicio oral?
+1)Si un miembro del Tribunal o el defensor de alguna de las partes cae enfermo de forma inesperada y no puede ser sustituido sin afectar negativamente la defensa del interesado.
+2)Si los testigos presentados por las partes no asisten y el Tribunal considera imprescindible su testimonio.
+3)Si el Tribunal debe decidir sobre una cuestión incidental que no puede resolverse de inmediato.
+4)Si las revelaciones o retractaciones súbitas cambian los fundamentos del caso, aunque no requieran nueva prueba o instrucción adicional.
+Respuesta: 4
+Correcta: Correcto, la opción correcta es la cuarta. No es procedente suspender el juicio oral si las revelaciones o retractaciones inesperadas cambian los fundamentos del caso, pero no requieren de nuevos elementos de prueba o instrucción suplementaria. (Art. 746.1.ª, 4.º, LECrim).
+Errada: La respuesta correcta es la cuarta opción. La suspensión del juicio oral no procederá en el caso de cambios fundamentales en el juicio por revelaciones o retractaciones inesperadas si estos no implican la necesidad de nuevas pruebas o instrucción suplementaria. (Art. 746.1.ª, 4.º, LECrim). (Respuesta Correcta 4)
+###
+Pregunta: De las siguientes circunstancias, ¿cuál no justifica que un tribunal ordene la suspensión de un juicio oral de oficio?
+1)Cuando declaraciones o rectificaciones inesperadas requieran nuevos elementos de prueba o alguna instrucción preliminar adicional, alterando significativamente los fundamentos del juicio.
+2)Cuando el tribunal necesite deliberar sobre un asunto incidental que no pueda resolverse en el acto.
+3)Cuando miembros del tribunal necesiten realizar diligencias fuera del recinto y no puedan hacerlo entre sesiones.
+4)Cuando un acusado enferme de manera repentina impidiendo su presencia en el juicio.
+Respuesta: 1
+Correcta: Bien hecho, la opción correcta es la primera. Un tribunal no puede suspender de oficio un juicio oral simplemente porque haya declaraciones o rectificaciones inesperadas, a menos que estas requieran evidencia nueva o instrucción suplementaria. (Art. 746.1.ª, 4.º, LECrim).
+Errada: La respuesta correcta es que cuando hay declaraciones o rectificaciones inesperadas que alteran de manera significativa el juicio, el tribunal no puede suspender el juicio de oficio si no se requieren nuevos elementos de prueba o alguna instrucción preliminar adicional. (Art. 746.1.ª, 4.º, LECrim). (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones es incorrecta en relación con la continuación del artículo 733 de la Ley de Enjuiciamiento Criminal:
+1)Si el Fiscal o los defensores de las partes no se sienten suficientemente preparados para discutir la cuestión planteada por el Presidente, se pospondrá la sesión hasta el día siguiente.
+2)Es una potestad excepcional que el Tribunal debe ejercer con prudencia.
+3)No se aplica a delitos que requieren una acusación particular para su persecución.
+4)Es aplicable a los errores de calificación que puedan haberse cometido en los escritos de acusación.
+Respuesta: 4
+Correcta: Correcto, la afirmación incorrecta es que esta disposición es aplicable a los errores de calificación en los escritos de acusación, lo que no se menciona en el artículo 733 de la Ley de Enjuiciamiento Criminal. (Art. 733 LECrim).
+Errada: La respuesta correcta es que es aplicable a los errores que puedan haberse cometido en los escritos de calificación. El artículo 733 de la Ley de Enjuiciamiento Criminal no incluye esta aplicación específica. (Art. 733 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 724 de la Ley de Enjuiciamiento Criminal, durante la fase de juicio oral, ¿cómo se procede con el testimonio de los peritos?
+1)Los peritos que han sido recusados testificarán individualmente sobre los mismos hechos y responderán a las preguntas y repreguntas de las partes
+2)Los peritos que no han sido recusados declararán conjuntamente sobre los mismos hechos y solo responderán a las preguntas del Ministerio Fiscal.
+3)Los peritos que no han sido recusados testificarán sucesivamente sobre los mismos hechos y responderán a las preguntas y repreguntas de las partes
+4)Los peritos que no han sido recusados testificarán conjuntamente sobre los mismos hechos y responderán a las preguntas y repreguntas de las partes.
+Respuesta: 4
+Correcta: Excelente, has seleccionado la opción correcta. Los peritos que no han sido recusados presentarán sus testimonios juntos sobre los mismos hechos y estarán sujetos a las preguntas y repreguntas de las partes, tal como lo estipula el artículo 724 de la Ley de Enjuiciamiento Criminal. (Art. 724 LECrim).
+Errada: La respuesta correcta es que los peritos que no han sido recusados serán examinados juntos y responderán tanto a las preguntas como a las repreguntas de las partes, de acuerdo con el artículo 724 de la Ley de Enjuiciamiento Criminal. (Art. 724 LECrim). (Respuesta Correcta 4)
+###
+Pregunta: En caso de que el defensor designado para alguna de las partes sufra un problema de salud repentino que le impida continuar y su reemplazo resulte en un perjuicio serio para la defensa de su cliente, ¿en qué situaciones se justificará la suspensión del juicio oral?
+1)En el caso del testigo.
+2)En el caso del perito.
+3)En el caso del Fiscal.
+4)En el caso del Juez.
+Respuesta: 3
+Correcta: Bien hecho, has elegido la respuesta correcta. Si el Fiscal cae enfermo repentinamente y su situación impide que el juicio continúe sin perjudicar seriamente la defensa, entonces procederá la suspensión del juicio oral (el Fiscal actúa como parte acusadora y su defensoría es el Ministerio Fiscal). (Art. 746.1.ª, 2.º, LECrim).
+Errada: La respuesta correcta es el Fiscal. La suspensión del juicio oral es aplicable si el defensor de cualquiera de las partes, incluido el Fiscal, enferma de forma repentina y su reemplazo causaría un grave inconveniente para la defensa. (Art. 746.1.ª, 2.º, LECrim). (Respuesta Correcta 3)
+###
+Pregunta: Indique la situación en la que el Tribunal no está facultado para suspender de oficio el juicio oral:
+1)Cuando el Tribunal necesite resolver sobre una cuestión incidental que no pueda ser determinada de inmediato por motivos fundados.
+2)Si el Tribunal o cualquier miembro necesita realizar una diligencia fuera del recinto de las sesiones que no se pueda llevar a cabo en el intervalo entre sesiones.
+3)En caso de que un miembro del Tribunal o el defensor de una de las partes sufra una enfermedad repentina que le impida seguir participando en el juicio y su reemplazo resulte en un perjuicio significativo para la defensa.
+4)El Tribunal está habilitado para suspender el juicio oral de oficio en todas las situaciones previamente mencionadas.
+Respuesta: 4
+Correcta: Excelente elección, la opción 4 es correcta. El Tribunal tiene la facultad de declarar la suspensión del juicio oral de oficio en todas las circunstancias mencionadas anteriormente. (Art. 746.1.ª, 3.º, 4.º, 5.º, LECrim).
+Errada: La respuesta adecuada es la última opción. De acuerdo con las normativas, el Tribunal puede declarar de oficio la suspensión del juicio oral en todas las situaciones expuestas, no existiendo un escenario entre los listados donde no pueda hacerlo. (Art. 746.1.ª, 3.º, 4.º, 5.º, LECrim). (Respuesta Correcta 4)
+###
+Pregunta: Dentro del proceso penal y en el contexto de la declaración de testigos durante un juicio oral, ¿existe posibilidad de recurso ante la decisión del Presidente del Tribunal de no permitir que un testigo responda a una pregunta por considerarla insidiosa?
+1)No es posible presentar un recurso cuando se haya protestado debidamente en el momento oportuno.
+2)Sí, es posible presentar un recurso de casación cuando se haya protestado debidamente en el momento oportuno.
+3)No es posible presentar un recurso de casación cuando se haya protestado debidamente en el momento oportuno.
+4)Sí, es posible presentar un recurso de queja cuando se haya protestado debidamente en el momento oportuno.
+Respuesta: 2
+Correcta: Muy bien, has seleccionado la opción correcta. La decisión del Presidente del Tribunal de no permitir a un testigo responder a una pregunta calificada como insidiosa es recurrible mediante un recurso de casación, siempre que se haya realizado la protesta en el acto. (Art. 721 LECrim).
+Errada: La respuesta correcta es la segunda opción. Si el Presidente del Tribunal decide que un testigo no debe responder a una pregunta por considerarla capciosa, esta resolución se puede recurrir a través del recurso de casación, con la condición de que se haya protestado en el momento de la incidencia. (Art. 721 LECrim). (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 154 de la Ley de Enjuiciamiento Criminal, ¿qué procedimiento se sigue si un Magistrado se ve impedido de asistir a la votación después de realizada la vista?
+1)Podrá emitir su voto, el cual será conservado por el juez decano en el libro de sentencias.
+2)Podrá emitir su voto, el cual será conservado por el presidente en el libro de sentencias.
+3)Podrá emitir su voto, el cual no será conservado por el presidente en el libro de sentencias.
+4)Podrá emitir su voto, el cual será conservado por el LAJ en el libro de sentencias.
+Respuesta: 2
+Correcta: Has escogido la opción B, que es correcta. Si un magistrado no puede asistir a la votación después de la vista, su voto se mantendrá por quien presida en el libro de sentencias, como se recoge en el artículo 154 de la LECRIM. (Art. 154 LECrim).
+Errada: La respuesta correcta es la opción B. El procedimiento establecido en el artículo 154 de la LECRIM permite que, si un magistrado se imposibilita después de la vista, su voto sea conservado por el presidente en el libro de sentencias. (Art. 154 LECrim). (Respuesta Correcta 2)

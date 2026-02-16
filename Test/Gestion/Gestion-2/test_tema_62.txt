@@ -1,0 +1,1236 @@
+De acuerdo, he recibido y analizado el archivo `testtema62.txt`. Como asistente experto en oposiciones de Justicia y seguimiento legislativo, procederé a actualizar el test conforme a la normativa vigente a fecha de hoy, 3 de octubre de 2025, teniendo en cuenta principalmente la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia.
+
+A continuación, presento el informe de cambios y, posteriormente, el test completo actualizado.
+
+-----
+
+### Informe de Cambios
+
+| \# | Motivo | Pregunta original (resumen) | Pregunta nueva | Opción correcta |
+| :--- | :--- | :--- | :--- | :--- |
+| 2 | Art. 90.4 LJCA | «¿Con qué frecuencia se renueva la composición de la Sección de...» | Según el artículo 90.4 de la LJCA, la composición de la Sección de admisión del recurso de casación de la Sala de lo Contencioso-administrativo del Tribunal Supremo se renovará: | B✔ |
+| 4 | Art. 89.4 LJCA | «Si no se presenta a tiempo el escrito preparatorio del recurso de casación..., ¿qué recurso procede?» | Si no se presenta en plazo el escrito de preparación del recurso de casación y el Letrado de la Administración de Justicia declara firme la sentencia o auto mediante decreto, ¿qué recurso cabe contra dicho decreto? | D✔ |
+| 8 | Pregunta ambigua | «...recursos contra autos que no son susceptibles de casación..., ¿cuál de las afirmaciones siguientes es incorrecta?» | Interpuesto recurso de reposición contra una providencia, el Letrado de la Administración de Justicia dará traslado a las demás partes para que lo impugnen en un plazo común de: | A✔ |
+| 20 | LO 1/2025 | «¿Cuándo son apelables en un solo efecto los autos emitidos por los Juzgados de lo Contencioso-administrativo...» | Los autos emitidos por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia que conocen en primera instancia son apelables en un solo efecto: | D✔ |
+| 21 | LO 1/2025 | «Frente a los autos de los Juzgados de lo Contencioso-Administrativo que determinan la ampliación de los efectos de una sentencia...» | Contra los autos de las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia que resuelvan sobre la extensión de efectos de una sentencia, ¿qué recurso procede? | A✔ |
+| 25 | Art. 90.2 LJCA | «¿quién decide sobre la admisión a trámite del recurso de casación?» | De acuerdo con el artículo 90.2 de la LJCA, la Sección de admisión del recurso de casación de la Sala de lo Contencioso-administrativo del Tribunal Supremo estará formada, entre otros, por: | C✔ |
+| 34 | LO 1/2025 | «...autos dictados por los Juzgados Centrales de lo Contencioso-Administrativo que resuelvan sobre la extensión de efectos de la sentencia...» | Frente a los autos dictados por la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia que resuelvan sobre la extensión de efectos de la sentencia, ¿qué recurso es procedente? | B✔ |
+| 36 | LO 1/2025 | «¿cómo resolverá el Juzgado o Tribunal el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento?» | ¿Mediante qué tipo de resolución resolverá el Tribunal de Instancia el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento o impidan su continuación? | C✔ |
+| 43 | Corrección de error | «se asume la existencia de interés casacional objetivo...» | Se presume que existe interés casacional objetivo para la admisión del recurso de casación cuando la sentencia o auto impugnado: | C✔ |
+| 44 | LO 1/2025 | «Los autos emitidos por los Juzgados de lo Contencioso-administrativo... que declaren la inadmisión del recurso...» | Los autos dictados por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia que declaren la inadmisión del recurso en primera instancia o que hagan imposible su continuación, son recurribles mediante: | B✔ |
+| 47 | Art. 102.2 LJCA | «...revisión de sentencias firmes... ¿en qué momento se llevará a cabo la vista?» | En el recurso de revisión de sentencias firmes en el orden contencioso-administrativo, ¿en qué supuesto se celebrará vista? | C✔ |
+| 54 | Actualización a la normativa vigente sobre casación | «...resoluciones finales emitidas en única instancia... Solo pueden ser objeto de recurso de casación si...» | Conforme al artículo 88.1 de la LJCA, el recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo será admitido a trámite cuando la Sala de admisión aprecie que el recurso presenta: | D✔ |
+| 58 | LO 1/2025 | «Las sentencias de los Juzgados de lo Contencioso-administrativo... están siempre abiertas a recurso de apelación...» | Señale la afirmación incorrecta. Las sentencias de las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia son siempre apelables: | A✔ |
+| 59 | LO 1/2025 | «¿Con arreglo a qué normativa se rige la apelación de los autos dictados por los Juzgados de lo Contencioso-Administrativo... en los casos de extensión de sentencia...?» | La apelación de los autos dictados por las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia en los supuestos de extensión de efectos de una sentencia se rige por: | D✔ |
+| 62 | Art. 84.1 LJCA | «...cuando se solicita la ejecución provisional de la sentencia apelada, ¿de acuerdo con qué normativa se establecerá la fianza?» | En el recurso de apelación, si para la ejecución provisional de la sentencia se exige la prestación de caución o garantía, la constitución de la misma se ajustará a lo establecido en: | A✔ |
+| 63 | Art. 90.7 LJCA | «¿cómo se gestionan los autos de admisión para el recurso de casación?» | Según el artículo 90.7 de la LJCA, la Sala de lo Contencioso-administrativo del Tribunal Supremo hará pública la lista de los recursos de casación admitidos a trámite: | B✔ |
+| 67 | LO 1/2025 | «¿Qué normativa... se aplica al procesamiento de los recursos de apelación que se presentan contra las decisiones de los Juzgados Centrales de lo Contencioso-administrativo?» | La tramitación de los recursos de apelación contra los autos de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia se regirá por: | A✔ |
+| 70 | LO 1/2025 | «...frente al auto de un Juez que declara la inadmisión de un recurso de apelación...» | Frente al auto de un Tribunal de Instancia que declara la inadmisión de un recurso de apelación: | A✔ |
+| 74 | Art. 89.4 LJCA | «...si no se presenta el escrito de preparación del recurso de casación dentro de los treinta días establecidos, ¿qué ocurre?» | Si no se presenta el escrito de preparación del recurso de casación en el plazo de treinta días, el Letrado de la Administración de Justicia declarará firme la sentencia o auto mediante: | D✔ |
+| 78 | Pregunta errónea | «Elija la afirmación errónea. En la jurisdicción contencioso-administrativa, se admite la revisión de una sentencia firme cuando...» | ¿En cuál de los siguientes supuestos NO se admite la revisión de una sentencia firme en el orden contencioso-administrativo? | D✔ |
+| 87 | LO 1/2025 | «...apelación de los autos emitidos por los Juzgados de lo Contencioso-Administrativo en los casos de extensión de los efectos de una sentencia se rige por el mismo procedimiento de admisión...» | La apelación de los autos dictados por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia en los casos de extensión de efectos de una sentencia: | B✔ |
+| 91 | LO 1/2025 | «...plazo... para que el Juzgado o Tribunal decida el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento...» | ¿En qué plazo debe el Tribunal competente dictar la resolución que decida el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento? | B✔ |
+| 95 | LO 1/2025 | «el recurso de apelación se interpondrá ante el Juzgado que hubiese dictado la sentencia dentro de...» | El recurso de apelación se interpondrá ante el Tribunal de Instancia que hubiese dictado la sentencia dentro de: | D✔ |
+| 99 | LO 1/2025 | «El Juez resolverá sobre la ejecución provisional en el término de los cinco días siguientes a la audiencia de las partes.» | De acuerdo con la LJCA, en relación con la ejecución provisional de la sentencia apelada, ¿cuál es la afirmación correcta? | C✔ |
+
+-----
+
+### Test Actualizado
+
+**Pregunta 1**
+¿Bajo qué circunstancia se permite la revisión de un fallo inalterable en el ámbito contencioso-administrativo?
+A) Cuando se establezca que el veredicto se fundamentó en una trama de engaño.
+B) Si se descubren documentos esenciales que no se presentaron previamente por cualquier motivo.
+C) Si se descubren documentos esenciales que no se presentaron previamente por falsedad documental.
+D) Todas son correctas.
+<br>
+Correcta: ¡Excelente\! Efectivamente, la revisión de una sentencia firme procede en caso de haberse dictado mediante engaños o manipulación.
+Errada: La respuesta correcta es la A, la revisión de una sentencia firme es aplicable cuando se ha dictado a través de engaños o manipulación fraudulenta.
+
+-----
+
+**Pregunta 2**
+Según el artículo 90.4 de la LJCA, la composición de la Sección de admisión del recurso de casación de la Sala de lo Contencioso-administrativo del Tribunal Supremo se renovará:
+A) Anualmente por sustitución de su Presidente y de la mitad de sus restantes miembros.
+B) Anualmente por sustitución de su Presidente y de dos de sus restantes miembros. ✔
+C) Semestralmente por sustitución de dos de sus miembros.
+D) Anualmente por sustitución de un tercio de sus miembros.
+<br>
+Correcta: ¡Perfecto\! La renovación de la Sección de admisión es anual y afecta a su Presidente y a dos de sus miembros, conforme a la normativa vigente.
+Errada: La respuesta correcta es la B. El artículo 90.4 de la LJCA establece que la renovación será anual, sustituyendo al Presidente y a dos de los demás magistrados que la componen.
+
+-----
+
+**Pregunta 3**
+En lo que respecta al recurso de casación contencioso-administrativo, ¿qué puede establecer la Sala de Gobierno del Tribunal Supremo y publicar en el BOE?
+A) Longitud máxima y otros requisitos externos, incluido el modo de presentación electrónica, de los escritos de recurso y respuesta.
+B) Longitud mínima y otros requisitos externos, incluido el modo de presentación electrónica, de los escritos de recurso y respuesta.
+C) Longitud máxima y otros requisitos externos, excepto el modo de presentación electrónica, de los escritos de recurso y respuesta.
+D) Longitud mínima y otros requisitos externos, excepto el modo de presentación electrónica, de los escritos de recurso y respuesta.
+<br>
+Correcta: ¡Correcto\! La Sala de Gobierno tiene la facultad de determinar la extensión y las condiciones, incluyendo la presentación telemática, de los escritos de interposición y oposición al recurso de casación.
+Errada: La opción correcta es la A, ya que se refiere a la autoridad de la Sala de Gobierno para definir la extensión y las condiciones externas, como la presentación electrónica, para los escritos relacionados con el recurso de casación.
+
+-----
+
+**Pregunta 4**
+Si no se presenta en plazo el escrito de preparación del recurso de casación y el Letrado de la Administración de Justicia declara firme la sentencia o auto mediante decreto, ¿qué recurso cabe contra dicho decreto?
+A) Recurso de reforma exclusivamente.
+B) Recurso de alzada exclusivamente.
+C) Recurso directo de revisión exclusivamente.
+D) No se dará recurso alguno. ✔
+<br>
+Correcta: ¡Acertaste\! Conforme al artículo 89.4 de la LJCA, contra el decreto que declara la firmeza de la resolución por no haberse preparado el recurso de casación en plazo, no cabe recurso alguno.
+Errada: La respuesta acertada es la D. El artículo 89.4 de la LJCA establece expresamente que contra el decreto del LAJ que declara la firmeza en estos casos no se dará recurso alguno.
+
+-----
+
+**Pregunta 5**
+Conforme al artículo 102 bis de la Ley de Jurisdicción Contencioso-administrativa (LJCA), ¿qué tipo de recurso se puede presentar frente a las diligencias de ordenación realizadas por el Letrado de la Administración de Justicia (LAJ)?
+A) Recurso de reposición.
+B) Recurso de alzada.
+C) Recurso de revisión.
+D) Recurso de súplica.
+<br>
+Correcta: Correcto, el recurso de reposición es el mecanismo legal previsto para impugnar las diligencias de ordenación del LAJ según el artículo 102 bis de la LJCA.
+Errada: La respuesta correcta es A, el recurso de reposición. Las diligencias de ordenación del LAJ son recurribles mediante este tipo de recurso según lo establecido en el artículo 102 bis de la LJCA.
+
+-----
+
+**Pregunta 6**
+¿Con qué frecuencia se publicará la lista de recursos de casación que han sido admitidos para su trámite según lo dicta el artículo 90 de la LJCA?
+A) Cada 5 meses.
+B) Cada 12 meses.
+C) Cada 6 meses.
+D) Cada 4 meses.
+<br>
+Correcta: Bien hecho, la periodicidad con la que la Sala de lo Contencioso-administrativo debe hacer pública la lista de recursos de casación admitidos es semestral, tal y como estipula el artículo 90 de la LJCA.
+Errada: La respuesta correcta es C, semestralmente. El artículo 90 de la LJCA determina que el listado de recursos de casación admitidos a trámite debe publicarse con una periodicidad semestral.
+
+-----
+
+**Pregunta 7**
+Según la normativa de la LJCA en relación con el recurso de apelación, ¿qué se establece acerca de la solicitud de vista?
+A) El Letrado de la Administración de Justicia decidirá sobre su conveniencia.
+B) Las partes pueden pedir la celebración de vista en sus escritos.
+C) El Ministerio Fiscal decidirá sobre su conveniencia.
+D) El Juez decidirá sobre su conveniencia.
+<br>
+Correcta: Excelente, la LJCA prevé que las partes pueden solicitar la celebración de vista en sus escritos de apelación.
+Errada: La opción correcta es la B. Según la LJCA, son las partes las que tienen la posibilidad de solicitar que se celebre vista durante el proceso de apelación.
+
+-----
+
+**Pregunta 8**
+Interpuesto recurso de reposición contra una providencia, el Letrado de la Administración de Justicia dará traslado a las demás partes para que lo impugnen en un plazo común de:
+A) Cinco días. ✔
+B) Tres días.
+C) Diez días.
+D) No se da traslado, el órgano jurisdiccional resuelve directamente.
+<br>
+Correcta: ¡Correcto\! El artículo 79.2 de la LJCA establece un plazo común de cinco días para que las demás partes puedan impugnar el recurso de reposición.
+Errada: La respuesta correcta es la A. Conforme al artículo 79.2 de la LJCA, el plazo para impugnar el recurso de reposición es de cinco días.
+
+-----
+
+**Pregunta 9**
+De acuerdo con el artículo 90 de la LJCA, ¿qué debe especificar la resolución que declara la inadmisión de un recurso de casación?
+A) Que no hay infracción relevante y determinante del fallo denunciado.
+B) Falta de interés casacional objetivo para la creación de jurisprudencia en el recurso.
+C) No cumplimiento de los plazos, falta de legitimación o no recurribilidad del fallo.
+D) Todas son correctas.
+<br>
+Correcta: Perfecto, la resolución de inadmisión de un recurso de casación debe indicar si se da alguna de las situaciones descritas, es decir, todas las opciones mencionadas son correctas según el artículo 90 de la LJCA.
+Errada: La opción correcta es D. El artículo 90 de la LJCA establece que la resolución que inadmite un recurso de casación debe especificar si se presenta alguna de las circunstancias mencionadas, por lo que todas las respuestas anteriores son correctas.
+
+-----
+
+**Pregunta 10**
+Si el documento que formaliza la apelación satisface todas las exigencias estipuladas en la Ley de la Jurisdicción Contencioso-administrativa y se dirige contra una sentencia apelable, el Letrado de la Administración de Justicia emitirá un decreto admitiendo dicho recurso. ¿Qué recurso procede contra esta admisión?
+A) Recurso de reposición.
+B) No procede ningún recurso.
+C) Recurso de apelación.
+D) Recurso de casación.
+<br>
+Correcta: Correctamente identificado, no procede recurso alguno contra la resolución que admite el recurso de apelación cuando este cumple con los requisitos y se dirige contra una sentencia apelable, en línea con lo previsto en la Ley.
+Errada: La respuesta adecuada es B, no procede recurso alguno. Conforme a la ley, contra el decreto del Letrado de la Administración de Justicia que admite el recurso de apelación, no cabe presentar ningún recurso si este cumple con los requisitos legales.
+
+-----
+
+**Pregunta 11**
+En el ámbito de la jurisdicción contencioso-administrativa, la presentación de un recurso de apelación:
+A) Ninguna es la correcta.
+B) Archivará la ejecución provisional de la sentencia apelada.
+C) Suspenderá la ejecución provisional de la sentencia apelada.
+D) No obstaculizará la ejecución provisional de la sentencia apelada.
+<br>
+Correcta: Acertado, el acto de interponer un recurso de apelación no impide la ejecución provisional de la sentencia que se recurre, conforme lo establece la normativa de la jurisdicción contencioso-administrativa.
+Errada: La respuesta correcta es D, no se impedirá la ejecución provisional de la sentencia apelada. La interposición de un recurso de apelación no constituye por sí misma un obstáculo para la ejecución provisional de la sentencia que se impugna.
+
+-----
+
+**Pregunta 12**
+¿Qué tipo de resolución judicial determina la admisión del recurso de revisión interpuesto contra decretos definitivos del Letrado de la Administración de Justicia en el ámbito contencioso-administrativo?
+A) Mediante decreto.
+B) Mediante diligencia de ordenación.
+C) Mediante diligencia.
+D) Mediante auto.
+<br>
+Correcta: Has elegido correctamente, es la diligencia de ordenación la que procede para admitir el recurso de revisión contra decretos definitivos del Letrado de la Administración de Justicia en la jurisdicción contencioso-administrativa.
+Errada: La opción acertada es B, mediante diligencia de ordenación. Es este tipo de resolución la que se utiliza para admitir un recurso de revisión contra decretos definitivos del Letrado de la Administración de Justicia.
+
+-----
+
+**Pregunta 13**
+Habitualmente, ¿sobre qué aspectos se centrará el recurso de casación presentado ante la Sala de lo Contencioso-administrativo del Tribunal Supremo?
+A) Se circunscribirá únicamente a cuestiones de derecho, excluyendo las cuestiones de hecho.
+B) Se circunscribirá únicamente a cuestiones de derecho, incluyendo las cuestiones de hecho.
+C) Se enfocará en cuestiones de derecho, pero excepcionalmente puede abordar cuestiones de hecho.
+D) Se enfocará en cuestiones de hecho, pero excepcionalmente puede abordar cuestiones constitucionales.
+<br>
+Correcta: Correcto, el recurso de casación se limita primordialmente a cuestiones de derecho y no se adentra en el examen de cuestiones de hecho, siguiendo lo dispuesto para este tipo de recursos.
+Errada: La respuesta adecuada es A, ya que el recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo se restringe a cuestiones de derecho y normalmente no abarca las cuestiones de hecho.
+
+-----
+
+**Pregunta 14**
+En el orden jurisdiccional contencioso-administrativo, la revisión de una sentencia firme es procedente:
+A) Todas son correctas
+B) Si el Tribunal de Justicia de la Unión Europea dictamina que la sentencia se ha expedido violando derechos reconocidos en el Tratado de la Unión Europea, según lo estipulado en la LJCA.
+C) Cuando el Tribunal Europeo de Derechos Humanos determine que la sentencia se ha emitido violando alguno de los derechos en el Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales, siguiendo lo previsto en la LJCA.
+D) Cuando el Tribunal Europeo de Derechos Humanos determine que la sentencia se ha emitido violando alguno de los derechos en la Constitución, siguiendo lo previsto en la LJCA.
+<br>
+Correcta: Efectivamente, la revisión de una sentencia firme en la jurisdicción contencioso-administrativa es viable cuando el Tribunal Europeo de Derechos Humanos ha dictado una violación conforme al Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales, tal como lo establece la LJCA.
+Errada: La respuesta adecuada es C. El recurso de revisión está expresamente contemplado en la LJCA y puede ser solicitado bajo las circunstancias descritas en esta opción.
+
+-----
+
+**Pregunta 15**
+Según el artículo 81.2 de la LJCA, son siempre apelables las siguientes sentencias:
+A) Las que deciden sobre la impugnación directa de disposiciones generales
+B) Aquellas que resuelven casos relacionados con asuntos electorales según el artículo 8.4 LJCA.
+C) Las que admiten el recurso en asuntos cuya cuantía no supera los 30.000 euros.
+D) Ninguna es correcta.
+<br>
+Correcta: Correcto, ninguna de las opciones enumeradas es correcta en cuanto a las sentencias siempre susceptibles de apelación según lo dispuesto en el artículo 81.2 de la LJCA.
+Errada: La respuesta correcta es D. Las sentencias mencionadas en las opciones A, B, y C no son siempre apelables de acuerdo con el artículo 81.2 de la LJCA
+
+-----
+
+**Pregunta 16**
+La revisión de sentencias firmes conforme a la LJCA es admisible si después de dictada la sentencia se recobran:
+A) Documentos decisivos que no fueron aportados por obra de la parte a cuyo favor se dictó la sentencia.
+B) Cualquier documento que no fue aportado por causa de fuerza mayor.
+C) Documentos decisivos que fueron aportados por obra de la parte a cuyo favor se dictó la sentencia.
+D) En ningún caso.
+<br>
+Correcta: Efectivamente, la revisión puede solicitarse si después de emitida la sentencia se recobran documentos decisivos que no pudieron ser aportados por causa imputable a la parte a quien beneficia la sentencia.
+Errada: La respuesta correcta es A. La opción contempla la posibilidad de revisar una sentencia firme si aparecen documentos decisivos que no se aportaron por responsabilidad de la parte beneficiada por la sentencia.
+
+-----
+
+**Pregunta 17**
+En la jurisdicción contencioso-administrativa son apelables en un solo efecto los autos dictados por los Juzgados de lo contencioso y los Juzgados centrales de lo contencioso, en procesos de los que conozcan en primera instancia, en los siguientes casos:
+A) Los recaídos en aplicación de los artículos 82 y 83 de la LJCA.
+B) Los recaídos en aplicación de los artículos 84 y 85 de la LJCA.
+C) Los recaídos en aplicación de los artículos 83 y 84 de la LJCA.
+D) Los recaídos en aplicación de los artículos 81 y 86 de la LJCA.
+<br>
+Correcta: Correcto, los autos que se dicten en aplicación de los artículos 83 y 84 de la LJCA son apelables en un solo efecto.
+Errada: La respuesta correcta es C, siendo los autos apelables en un solo efecto aquellos que se dictan conforme a los artículos 83 y 84 de la LJCA.
+
+-----
+
+**Pregunta 18**
+En cuanto a la revisión de sentencias en el ámbito contencioso-administrativo:
+A) La revisión en materia de responsabilidad civil procederá en los casos previstos por el Código Civil.
+B) La revisión en materia de responsabilidad contable se ajustará a lo establecido en la Ley de la Jurisdicción Contencioso Administrativo.
+C) La revisión en materia de responsabilidad contable se ajustará a lo establecido en la Ley de Funcionamiento del Tribunal de Cuentas.
+D) Ninguna es correcta.
+<br>
+Correcta: Correctamente seleccionado, la revisión de sentencias en materia de responsabilidad contable sigue los parámetros de la Ley de Funcionamiento del Tribunal de Cuentas.
+Errada: La opción acertada es C, que especifica que la revisión en materia de responsabilidad contable se acomoda a lo que establece la Ley de Funcionamiento del Tribunal de Cuentas.
+
+-----
+
+**Pregunta 19**
+Después de presentar un recurso de revisión frente al decreto del Letrado de la Administración de Justicia (LAJ) que termina el proceso, ¿en cuánto tiempo deben las otras partes contestar si desean oponerse?
+A) Siete días.
+B) Cinco días.
+C) Tres días.
+D) Dos días.
+<br>
+Correcta: Has seleccionado correctamente. Las otras partes tienen un plazo de cinco días para impugnar el recurso de revisión interpuesto contra el decreto del LAJ.
+Errada: La respuesta correcta es B, cinco días. Es el plazo que la ley otorga a las demás partes para impugnar el recurso de revisión en contra de la decisión del LAJ que pone fin al procedimiento.
+
+-----
+
+**Pregunta 20**
+Los autos emitidos por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia que conocen en primera instancia son apelables en un solo efecto:
+A) Al finalizar la pieza separada de medidas cautelares.
+B) Al no finalizar la pieza separada de medidas cautelares.
+C) En el momento de dictar sobre las medidas cautelares.
+D) En el momento de dictar sobre la ejecución de sentencia. ✔
+<br>
+Correcta: ¡Excelente\! Conforme al art. 80.1.d) de la LJCA, los autos recaídos sobre la ejecución de sentencia son apelables en un solo efecto.
+Errada: La respuesta acertada es la D. Los autos que dictan sobre la ejecución de sentencia, en el marco de los procesos que las Secciones de lo Contencioso-administrativo conocen en primera instancia, son apelables en un solo efecto.
+
+-----
+
+**Pregunta 21**
+Contra los autos de las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia que resuelvan sobre la extensión de efectos de una sentencia, ¿qué recurso procede?
+A) Recurso de apelación. ✔
+B) Recurso de casación.
+C) Recurso de reposición.
+D) Recurso de revisión.
+<br>
+Correcta: ¡Correcto\! El artículo 110.5 de la LJCA establece que el recurso de apelación es el adecuado contra los autos que resuelven sobre la extensión de efectos de una sentencia.
+Errada: La respuesta precisa es A, recurso de apelación. Este es el recurso que cabe contra los autos de las Secciones de lo Contencioso-Administrativo que resuelvan sobre la extensión de efectos de una sentencia.
+
+-----
+
+**Pregunta 22**
+De acuerdo con el artículo 91 de la Ley de la Jurisdicción Contencioso-administrativa, ¿qué efecto produce la preparación del recurso de casación sobre la ejecución de la sentencia impugnada?
+A) La ejecución de la sentencia se suspenderá si el juez así lo decide.
+B) La ejecución de la sentencia se suspenderá en todos los casos.
+C) No se paralizará la ejecución provisional de la sentencia.
+D) Sí se paralizará la ejecución provisional de la sentencia.
+<br>
+Correcta: Has elegido la opción correcta. La preparación del recurso de casación no detiene la ejecución provisional de la sentencia recurrida.
+Errada: La respuesta correcta es C. La ley establece que la preparación del recurso de casación no interrumpe la ejecución provisional de la sentencia recurrida.
+
+-----
+
+**Pregunta 23**
+Según lo establecido en el artículo 83 de la Ley Reguladora de la Jurisdicción Contencioso-administrativa, ¿cómo se regula la admisibilidad del recurso de apelación contra las sentencias?
+A) No es admisible si conlleva la suspensión del procedimiento en curso.
+B) Es admisible en ambos efectos.
+C) Es admisible en un efecto.
+D) Ninguna es correcta.
+<br>
+Correcta: Perfecto, has acertado. El recurso de apelación contra las sentencias es admisible en ambos efectos, según lo dispuesto en la legislación.
+Errada: La respuesta correcta es B, "Es admisible en ambos efectos". La ley establece que el recurso de apelación se puede admitir y puede tener tanto el efecto suspensivo como el devolutivo.
+
+-----
+
+**Pregunta 24**
+En el ámbito contencioso-administrativo, ¿en qué situación no es posible interponer un recurso directo de revisión contra los decretos emitidos por el Letrado de la Administración de Justicia (LAJ)?
+A) Cuando se trata de autos que no son definitivos.
+B) Cuando la ley lo establece expresamente.
+C) Cuando se trata de decretos que no son definitivos.
+D) Cuando se trata de decretos que son definitivos.
+<br>
+Correcta: Correcto, no se puede interponer recurso directo de revisión contra decretos del LAJ que no sean definitivos.
+Errada: La respuesta adecuada es C, "Cuando se trata de decretos que no son definitivos". El recurso directo de revisión no es aplicable a decretos que no ponen fin al procedimiento.
+
+-----
+
+**Pregunta 25**
+De acuerdo con el artículo 90.2 de la LJCA, la Sección de admisión del recurso de casación de la Sala de lo Contencioso-administrativo del Tribunal Supremo estará formada, entre otros, por:
+A) El Presidente de la Sala y los Presidentes de todas las Secciones de la Sala.
+B) El Presidente de la Sección Segunda y un Magistrado de cada una de las Secciones restantes.
+C) El Presidente de la Sala de lo Contencioso-administrativo y el Presidente de la Sección Primera. ✔
+D) El Presidente de la Sala y los Magistrados más antiguos de cada Sección.
+<br>
+Correcta: ¡Has seleccionado la opción correcta\! El artículo 90.2 de la LJCA establece que la Sección de admisión está formada por el Presidente de la Sala, el Presidente de la Sección Primera y otros tres Magistrados de las restantes Secciones.
+Errada: La respuesta correcta es la C. La composición de la Sección de admisión está tasada en el artículo 90.2 de la LJCA, e incluye al Presidente de la Sala y al Presidente de la Sección Primera.
+
+-----
+
+**Pregunta 26**
+¿Bajo qué condición puede ser admitido a trámite el recurso de casación según la Sala de lo Contencioso-Administrativo del Tribunal Supremo?
+A) En todas las condiciones.
+B) Cuando se aprecie interés casacional objetivo para la unificación de doctrina.
+C) Cuando se aprecie interés casacional objetivo para la creación de doctrina.
+D) Cuando se demuestre interés casacional objetivo para la formación de jurisprudencia.
+<br>
+Correcta: Excelente, es correcto. El recurso de casación será admitido cuando se considere que existe interés casacional objetivo para la formación de jurisprudencia.
+Errada: La opción correcta es D, "Que el recurso presenta interés casacional objetivo para la formación de jurisprudencia". El Tribunal Supremo admite el recurso de casación cuando determina que este presenta un interés casacional objetivo que contribuirá a la formación de jurisprudencia.
+
+-----
+
+**Pregunta 27**
+De acuerdo con las normativas de la Ley Reguladora de la Jurisdicción Contencioso-administrativa (LJCA), identifique la afirmación incorrecta sobre el recurso de revisión:
+A) La Sala puede disponer la celebración de una vista si lo considera necesario.
+B) El recurso de revisión se rige por lo estipulado en la Ley de Enjuiciamiento Civil (LEC).
+C) Los efectos de la sentencia en un recurso de revisión están sujetos a lo establecido en la LEC.
+D) Se celebrará vista en el recurso de revisión si alguna de las partes lo solicita.
+<br>
+Correcta: Has identificado correctamente la afirmación errónea. La LJCA no establece que se deba celebrar una vista en el recurso de revisión simplemente a petición de una de las partes; es discrecional de la Sala.
+Errada: La afirmación incorrecta es la D, "Se celebrará vista en el recurso de revisión si alguna de las partes lo solicita". Según la LJCA, no es suficiente la solicitud de una parte para que se celebre vista; corresponde a la Sala determinar su necesidad.
+
+-----
+
+**Pregunta 28**
+En la jurisdicción contencioso-administrativa, ¿qué recurso es procedente contra las diligencias de ordenación y los decretos no definitivos dictados por el Letrado de la Administración de Justicia (LAJ)?
+A) Recurso de suplicación ante el LAJ, salvo cuando se establezca recurso directo de revisión.
+B) Recurso de reposición ante el LAJ, salvo cuando se establezca recurso directo de revisión.
+C) Recurso de revisión ante el LAJ, salvo cuando se establezca recurso directo de revisión.
+D) Recurso de reposición ante el Juez o Tribunal.
+<br>
+Correcta: Muy bien, has elegido la opción correcta. Contra las diligencias de ordenación y los decretos no definitivos del LAJ, cabe interponer recurso de reposición ante el propio LAJ, a menos que la ley establezca un recurso directo de revisión.
+Errada: La respuesta adecuada es B, "Recurso de reposición ante el LAJ, salvo cuando se establezca recurso directo de revisión". Esto permite impugnar dichos actos procesales directamente ante quien los ha dictado, con excepciones específicas.
+
+-----
+
+**Pregunta 29**
+Según el artículo 83 de la Ley Reguladora de la Jurisdicción Contencioso-administrativa, ¿quién es responsable de implementar las medidas cautelares necesarias para garantizar la ejecución de la sentencia?
+A) El Letrado de la Administración de Justicia.
+B) El Juez, de forma posterior a la celebración de la vista, de oficio o a solicitud de una parte.
+C) El Juez, de forma previa a la celebración de la vista, de oficio o a solicitud de una parte.
+D) El Juez, únicamente cuando una parte interesada lo solicite en cualquier momento.
+<br>
+Correcta: Correcto, la responsabilidad de adoptar medidas cautelares recae sobre el juez cuando una parte interesada lo solicita en cualquier momento del proceso.
+Errada: La opción correcta es D, "El Juez, únicamente cuando una parte interesada lo solicite en cualquier momento". Es el juez quien tiene la autoridad para establecer medidas cautelares a solicitud de una parte para asegurar la ejecución de la sentencia.
+
+-----
+
+**Pregunta 30**
+Conforme al artículo 102 bis de la Ley Reguladora de la Jurisdicción Contencioso-administrativa (LJCA), ¿qué tipo de recurso se admite contra los decretos no definitivos emitidos por el Letrado de la Administración de Justicia (LAJ)?
+A) Recurso de queja.
+B) Recurso de reposición.
+C) Recurso de revisión.
+D) Recurso de alzada.
+<br>
+Correcta: Exactamente, el recurso apropiado contra los decretos no definitivos del LAJ es el recurso de reposición, según lo estipulado en el artículo 102 bis de la LJCA.
+Errada: La respuesta correcta es B, Recurso de reposición. Esta es la vía establecida por la LJCA para impugnar los decretos no definitivos del LAJ.
+
+-----
+
+**Pregunta 31**
+Según la Ley Reguladora de la Jurisdicción Contencioso-administrativa, ¿se permite la ejecución provisional de una sentencia que ha sido apelada?
+A) Sí, pero no se permitirá si esta ejecución provisional pudiese causar perjuicios de imposible reparación.
+B) Sí, tras un período de audiencia común de dos días a la parte perjudicada por la sentencia apelada.
+C) Sí, tras un período de audiencia común de tres días a la parte perjudicada por la sentencia apelada.
+D) Sí, tras un período de audiencia común de cinco días a la parte perjudicada por la sentencia apelada.
+<br>
+Correcta: Acertado, la ejecución provisional de una sentencia apelada es viable siempre que no se generen perjuicios de imposible o difícil reparación, como establece la LJCA.
+Errada: La opción correcta es la A, ya que la LJCA permite la ejecución provisional de una sentencia apelada a menos que de ella se puedan derivar perjuicios de imposible o difícil reparación.
+
+-----
+
+**Pregunta 32**
+En la jurisdicción contencioso-administrativa, ¿cuál de las siguientes aseveraciones sobre el recurso de revisión es verdadera?
+A) La revisión de asuntos de responsabilidad contable es aplicable según lo establecido en la LEC.
+B) Es procedente interponer recurso de revisión si la sentencia se dictó en base a pruebas de cohecho.
+C) Es improcedente interponer recurso de revisión si la sentencia se dictó en base a pruebas de cohecho.
+D) La revisión de asuntos de responsabilidad contable es aplicable según lo establecido en la LJCA.
+<br>
+Correcta: Correcto, uno de los motivos por los cuales se puede solicitar un recurso de revisión es si la sentencia fue influenciada por pruebas de cohecho, de acuerdo con la legislación vigente.
+Errada: La afirmación acertada es la B, que señala la procedencia del recurso de revisión si la sentencia se emitió basándose en pruebas de cohecho.
+
+-----
+
+**Pregunta 33**
+En la jurisdicción contencioso-administrativa, ¿en qué circunstancia el Tribunal de instancia negará la ejecución provisional de la sentencia que ha sido recurrida por casación?
+A) Cuando esta ejecución pueda dar lugar a situaciones que no puedan revertirse o cause perjuicios de ardua reparación.
+B) Cuando cualquiera de las partes del proceso lo solicite.
+C) Cuando esta ejecución pueda dar lugar a situaciones que puedan revertirse y cause perjuicios de ardua reparación.
+D) Cuando el Letrado de la Administración de Justicia lo solicite.
+<br>
+Correcta: Correcto, el tribunal denegará la ejecución provisional de la sentencia recurrida si esta pudiera crear situaciones irreversibles o causar perjuicios de difícil reparación.
+Errada: La respuesta adecuada es la A. La LJCA establece que la ejecución provisional puede ser negada si es susceptible de causar perjuicios de difícil o imposible reparación o crear situaciones irreversibles.
+
+-----
+
+**Pregunta 34**
+Conforme a la Ley Reguladora de la Jurisdicción Contencioso-administrativa (LJCA), contra los autos dictados por la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia que resuelvan sobre la extensión de efectos de la sentencia, ¿qué recurso es procedente?
+A) Cabe interponer recurso de revisión.
+B) Cabe interponer recurso de apelación. ✔
+C) Cabe interponer recurso de reposición.
+D) Cabe interponer recurso de casación.
+<br>
+Correcta: Correcto, el recurso que cabe interponer contra los autos que resuelvan sobre la extensión de efectos de la sentencia dictados por la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia es el recurso de apelación.
+Errada: Incorrecto, el recurso que cabe interponer contra los autos que resuelvan sobre la extensión de efectos de la sentencia dictados por la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia es el recurso de apelación.
+
+-----
+
+**Pregunta 35**
+En el orden contencioso-administrativo, en el recurso de apelación, ¿en qué plazo debe dictarse la sentencia?
+A) En el plazo de cinco días desde la declaración de que el pleito está concluso para sentencia
+B) En el plazo de diez días desde la declaración de que el pleito está concluso para sentencia
+C) En el plazo de quince días desde la declaración de que el pleito está concluso para sentencia
+D) En el plazo de siete días desde la declaración de que el pleito está concluso para sentencia
+<br>
+Correcta: Exactamente, la Sala deberá dictar sentencia en el plazo de diez días desde que declare que el pleito está concluso para sentencia en el recurso de apelación.
+Errada: Incorrecto, la Sala deberá dictar sentencia en el plazo de diez días desde que declare que el pleito está concluso para sentencia en el recurso de apelación. (Opción B)
+
+-----
+
+**Pregunta 36**
+¿Mediante qué tipo de resolución resolverá el Tribunal de Instancia el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento o impidan su continuación?
+A) Decreto.
+B) Providencia.
+C) Auto. ✔
+D) Diligencia.
+<br>
+Correcta: Efectivamente, el Tribunal competente resolverá mediante auto el recurso de revisión interpuesto contra los decretos del Letrado de la Administración de Justicia que pongan fin al procedimiento, conforme al art. 102 bis.3 LJCA.
+Errada: Incorrecto, el Tribunal competente resolverá mediante auto el recurso de revisión interpuesto contra los decretos del Letrado de la Administración de Justicia que pongan fin al procedimiento, conforme al art. 102 bis.3 LJCA.
+
+-----
+
+**Pregunta 37**
+Según la LJCA, ¿en qué caso se podrá interponer recurso de revisión respecto a una sentencia dictada?
+A) Por pluspetición.
+B) Fuera de plazo.
+C) En virtud de prevaricación
+D) Sin motivación alguna.
+<br>
+Correcta: Correcto, uno de los supuestos en los que se admite la interposición del recurso de revisión es cuando la sentencia ha sido dictada en virtud de prevaricación.
+Errada: Incorrecto, uno de los supuestos en los que se admite la interposición del recurso de revisión es cuando la sentencia ha sido dictada en virtud de prevaricación. (Opción C)
+
+-----
+
+**Pregunta 38**
+Bajo la normativa de la LJCA, ¿mediante qué figura jurídica se dará resolución al recurso de reposición contra providencias y autos que no admitan apelación o casación?
+A) Utilizando un decreto formulado por la autoridad judicial correspondiente.
+B) Utilizando una providencia formulado por la autoridad judicial correspondiente.
+C) Utilizando un auto formulado por la autoridad judicial correspondiente.
+D) Utilizando una diligencia formulado por la autoridad judicial correspondiente.
+<br>
+Correcta: Has seleccionado correctamente. El recurso de reposición frente a providencias y autos que no son susceptibles de apelación o casación se resuelve mediante auto del órgano jurisdiccional.
+Errada: La respuesta seleccionada es incorrecta. Según la LJCA, el recurso de reposición contra providencias y autos que no son susceptibles de apelación o casación se resuelve mediante auto del órgano jurisdiccional. (Opción C)
+
+-----
+
+**Pregunta 39**
+En el ámbito contencioso-administrativo, ¿cuál de las opciones listadas a continuación no admite un recurso de casación ante la Sala Tercera del Tribunal Supremo?
+A) Sentencias pronunciadas en única instancia por la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+B) Resoluciones sentenciales emitidas por la Sala de lo Contencioso-Administrativo de la Audiencia Nacional al resolver un recurso de apelación.
+C) Sentencias emanadas de la Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia cuando el recurso se fundamenta en la infracción de normativa estatal o comunitaria europea con influencia directa en la decisión.
+D) Sentencias dictadas en procedimientos para la salvaguarda del derecho fundamental de reunión y en asuntos electorales
+<br>
+Correcta: Correcto, no es posible interponer recurso de casación contra sentencias dictadas en el procedimiento para la protección del derecho fundamental de reunión y en materia electoral.
+Errada: La opción elegida no es la correcta. Las sentencias que no son susceptibles de recurso de casación incluyen aquellas dictadas en procedimientos para la protección del derecho de reunión y en materia electoral. (Opción D)
+
+-----
+
+**Pregunta 40**
+De acuerdo con el artículo 81.2 de la LJCA, ¿cuál de las siguientes sentencias no es apelable siempre?
+A) Aquellas que diriman conflictos entre distintas Administraciones Públicas.
+B) Las pronunciadas dentro de la jurisdicción contencioso-disciplinaria militar.
+C) Sentencias que deciden sobre la impugnación indirecta de normativas de carácter general.
+D) Las resueltas en procedimientos destinados a la protección de los derechos fundamentales de las personas.
+<br>
+Correcta: Exactamente, las sentencias dictadas en materia propia del recurso contencioso-disciplinario militar no son siempre susceptibles de apelación.
+Errada: La respuesta proporcionada es incorrecta. Según el artículo 81.2 de la LJCA, las sentencias que no son siempre apelables incluyen las dictadas en materia del recurso contencioso-disciplinario militar. (Opción B)
+
+-----
+
+**Pregunta 41**
+Frente a providencias y autos que no son objeto de apelación o casación en la jurisdicción contencioso-administrativa, ¿qué tipo de recurso se puede presentar?
+A) Recurso de suplicación.
+B) Recurso de reposición.
+C) Recurso de revisión.
+D) Recurso de infracción procesal.
+<br>
+Correcta: Correcto, el recurso de reposición es el procedimiento adecuado para impugnar providencias y autos en la jurisdicción contencioso-administrativa cuando no cabe apelación o casación.
+Errada: La opción elegida no es correcta. El recurso apropiado para impugnar providencias y autos que no son susceptibles de apelación o casación en la jurisdicción contencioso-administrativa es el recurso de reposición. (Opción B)
+
+-----
+
+**Pregunta 42**
+En el marco de la jurisdicción contencioso-administrativa, los autos que decidan sobre los recursos de aclaración de sentencias:
+A) No admiten recurso de reposición.
+B) Admiten recurso de reposición.
+C) Admiten recurso de revisión.
+D) Admiten recurso de queja.
+<br>
+Correcta: Has seleccionado la opción correcta. Los autos que resuelven los recursos de aclaración de sentencia no son susceptibles de recurso de reposición.
+Errada: La opción que has escogido no es la adecuada. De acuerdo con la normativa vigente, los autos que resuelven los recursos de aclaración de sentencia no admiten recurso de reposición. (Opción A)
+
+-----
+
+**Pregunta 43**
+Se presume que existe interés casacional objetivo para la admisión del recurso de casación cuando la sentencia o auto impugnado:
+A) Se aparte deliberadamente de la jurisprudencia existente al considerarla errónea.
+B) Se refiera a un acto o disposición de un órgano regulador o de supervisión o una agencia estatal cuya competencia corresponda a la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+C) Ambas son correctas. ✔
+D) Ninguna es correcta.
+<br>
+Correcta: ¡Correcto\! Ambas circunstancias, previstas en el artículo 88.3 de la LJCA, son supuestos en los que se presume la existencia de interés casacional objetivo.
+Errada: La respuesta correcta es la C. Tanto la opción A como la B describen supuestos en los que el artículo 88.3 de la LJCA presume la existencia de interés casacional objetivo.
+
+-----
+
+**Pregunta 44**
+Los autos dictados por las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia que declaren la inadmisión del recurso en primera instancia o que hagan imposible su continuación, son recurribles mediante:
+A) Recurso de queja.
+B) Recurso de apelación. ✔
+C) Recurso de súplica.
+D) No hay recurso disponible.
+<br>
+Correcta: ¡Acertaste\! Conforme al art. 80.1.c) de la LJCA, los autos que declaran la inadmisión del recurso contencioso-administrativo o impiden su continuación son susceptibles de recurso de apelación.
+Errada: La respuesta elegida no es la correcta. En estos casos, la legislación permite interponer un recurso de apelación contra los autos que declaren la inadmisión del recurso contencioso-administrativo o que imposibiliten su seguimiento. (Opción B)
+
+-----
+
+**Pregunta 45**
+¿Cuál es el plazo establecido para la interposición del recurso de revisión contra decretos que obstruyan la continuación del proceso contencioso-administrativo?
+A) En el término de 3 días.
+B) En el término de 2 días.
+C) En el término de 5 días.
+D) En el término de 7 días.
+<br>
+Correcta: Correcto, el recurso de revisión contra decretos que bloqueen la prosecución del procedimiento debe interponerse en el plazo de 5 días.
+Errada: La selección es incorrecta. El recurso de revisión contra los decretos que impiden la continuidad del procedimiento debe presentarse en un plazo de 5 días. (Opción C)
+
+-----
+
+**Pregunta 46**
+Una vez que se haya formalizado la oposición por parte del apelado en el recurso de apelación, según lo estipulado en la Ley de la Jurisdicción Contencioso-administrativa (LJCA), ¿qué paso sigue?
+A) Se procederá a ordenar el emplazamiento de las partes para que comparezcan en un plazo de diez días ante la Sala de lo Contencioso-administrativo correspondiente.
+B) Se procederá a ordenar el emplazamiento de las partes para que comparezcan en un plazo de veinte días ante la Sala de lo Contencioso-administrativo correspondiente.
+C) Se procederá a ordenar el emplazamiento de las partes para que comparezcan en un plazo de treinta días ante la Sala de lo Contencioso-administrativo correspondiente.
+D) Se procederá a ordenar el emplazamiento de las partes para que comparezcan en un plazo de quince días ante la Sala de lo Contencioso-administrativo correspondiente.
+<br>
+Correcta: Exactamente, tras la formalización de la oposición de la parte apelada, se ordenará la remisión de los autos y el emplazamiento de las partes para su comparecencia ante la Sala de lo Contencioso-administrativo competente en el plazo de treinta días.
+Errada: La respuesta seleccionada no es correcta. Una vez que la parte apelada ha formalizado su oposición, se ordena el emplazamiento de las partes para que comparezcan en un plazo de treinta días ante la Sala de lo Contencioso-administrativo competente. (Opción C)
+
+-----
+
+**Pregunta 47**
+En el recurso de revisión de sentencias firmes en el orden contencioso-administrativo, ¿en qué supuesto se celebrará vista?
+A) Siempre que lo solicite cualquiera de las partes.
+B) Únicamente cuando lo solicite el Ministerio Fiscal.
+C) Cuando el Tribunal lo estime necesario, de oficio o a instancia de parte. ✔
+D) La vista se celebra en todos los casos, sin excepción.
+<br>
+Correcta: ¡Has acertado\! El artículo 102.2 de la LJCA establece que no habrá vista, salvo que el Tribunal, de oficio o a instancia de parte, lo considere necesario.
+Errada: La opción correcta es la C. Conforme al artículo 102.2 de la LJCA, la celebración de vista en el recurso de revisión es una facultad discrecional del Tribunal, que puede acordarla de oficio o a petición de una parte si lo ve necesario.
+
+-----
+
+**Pregunta 48**
+Con base en el artículo 90 de la LJCA, en lo que atañe a las resoluciones que admiten o inadmiten el recurso de casación, ¿qué recurso procede?
+A) Se puede presentar recurso de queja.
+B) Se puede presentar recurso de reposición.
+C) No se admite recurso alguno contra dichas resoluciones.
+D) Se puede presentar recurso de apelación.
+<br>
+Correcta: Correcto, el artículo 90 de la LJCA estipula que no cabe recurso alguno contra las resoluciones de admisión o inadmisión del recurso de casación.
+Errada: La respuesta no es adecuada. Según el artículo 90 de la LJCA, no se permite la interposición de ningún recurso contra las decisiones de admisión o inadmisión del recurso de casación. (Opción C)
+
+-----
+
+**Pregunta 49**
+De acuerdo con la LJCA, y referente al procedimiento del recurso de casación, identifique la afirmación incorrecta:
+A) Tras el escrito de interposición, se debe dar traslado al resto de las partes recurridas y personadas para que en un plazo de treinta días puedan oponerse al recurso y a su admisión.
+B) Contra el decreto del letrado de la Administración de Justicia que declara desierto el recurso se puede interponer un recurso directo de revisión.
+C) La Sección competente para resolver el recurso podrá, de oficio o a instancia de parte, acordar la realización de una vista pública a menos que considere que no es necesaria por la naturaleza del asunto.
+D) La Sección competente debe dictar sentencia dentro de los diez días siguientes a la finalización del debate y votación para el fallo.
+<br>
+Correcta: ¡Bien\! La incorrecta es la opción A.
+Errada: La respuesta incorrecta es la opción A: Tras el escrito de interposición, se debe dar traslado al resto de las partes recurridas y personadas para que en un plazo de treinta días puedan oponerse al recurso y a su admisión.
+
+-----
+
+**Pregunta 50**
+Según la Ley de la Jurisdicción Contencioso-administrativa (LJCA), la inadmisión del recurso de reposición interpuesto contra las diligencias de ordenación del Letrado de la Administración de Justicia (LAJ) se hará mediante:
+A) Decreto directamente recurrible en reposición.
+B) Decreto directamente recurrible en apelación.
+C) Decreto directamente irrecurrible.
+D) Decreto directamente recurrible en revisión.
+<br>
+Correcta: Efectivamente, conforme a la LJCA, cuando se inadmite el recurso de reposición interpuesto contra las diligencias de ordenación del LAJ, esto se realiza mediante un decreto que es directamente recurrible en revisión.
+Errada: Incorrecto, conforme a la LJCA, cuando se inadmite el recurso de reposición interpuesto contra las diligencias de ordenación del LAJ, esto se realiza mediante un decreto que es directamente recurrible en revisión.
+
+-----
+
+**Pregunta 51**
+En la jurisdicción contencioso-administrativa, específicamente en el recurso de casación, ¿cuál es el plazo para que la Sección o Sala dicte sentencia?
+A) En el plazo de cinco días desde que termine la deliberación para votación y fallo.
+B) En el plazo de siete días desde que termine la deliberación para votación y fallo.
+C) En el plazo de diez días desde que termine la deliberación para votación y fallo.
+D) En el plazo de nueve días desde que termine la deliberación para votación y fallo.
+<br>
+Correcta: Correcto, la sentencia en el recurso de casación debe dictarse en el plazo de diez días después de que finalice la deliberación para la votación y fallo.
+Errada: Incorrecto, la sentencia en el recurso de casación debe dictarse en el plazo de diez días después de que finalice la deliberación para la votación y fallo. (Opción C)
+
+-----
+
+**Pregunta 52**
+Respecto al recurso de reposición según la LJCA, identifique la afirmación incorrecta:
+A) Se admitirá contra los autos que resuelvan los recursos de aclaración, cuando no sean susceptibles de apelación.
+B) Se interpondrá en el plazo de cinco días a contar desde el día siguiente al de la notificación de la resolución impugnada.
+C) No se admitirá contra las resoluciones que la LJCA expresamente exceptúe.
+D) Podrá interponerse contra autos que no son susceptibles de apelación.
+<br>
+Correcta: Esta respuesta es incorrecta ya que la LJCA no prevé el recurso de reposición contra los autos que resuelvan recursos de aclaración. Estos, cuando no son susceptibles de apelación, no se pueden impugnar mediante recurso de reposición.
+Errada: La primera opción es incorrecta ya que la LJCA no prevé el recurso de reposición contra los autos que resuelvan recursos de aclaración. Estos, cuando no son susceptibles de apelación, no se pueden impugnar mediante recurso de reposición.
+
+-----
+
+**Pregunta 53**
+Según el artículo 88 de la LJCA, ¿en qué situaciones podrá el Tribunal de casación apreciar que existe interés casacional objetivo, expresamente motivándolo en el auto de admisión?
+A) Resuelva un proceso en que lo impugnado sea un convenio entre Administraciones públicas.
+B) Haya sido dictada en un procedimiento especial de protección de derechos fundamentales.
+C) Interprete y aplique el Derecho de la Unión Europea en contradicción con la jurisprudencia del Tribunal de Justicia de la Unión Europea o en casos que aún requieran la intervención de este último a título prejudicial.
+D) Todas son correctas.
+<br>
+Correcta: Así es, todas las circunstancias mencionadas pueden fundamentar la existencia de interés casacional objetivo según el artículo 88 de la LJCA, y deben ser expresamente motivadas en el auto de admisión del recurso de casación.
+Errada: Así es, todas las circunstancias mencionadas pueden fundamentar la existencia de interés casacional objetivo según el artículo 88 de la LJCA, y deben ser expresamente motivadas en el auto de admisión del recurso de casación. (Opción D)
+
+-----
+
+**Pregunta 54**
+Conforme al artículo 88.1 de la LJCA, el recurso de casación ante la Sala de lo Contencioso-administrativo del Tribunal Supremo será admitido a trámite cuando la Sala de admisión aprecie que el recurso presenta:
+A) Una vulneración de derechos fundamentales.
+B) Una infracción procesal grave.
+C) Una cuantía superior a 600.000 euros.
+D) Interés casacional objetivo para la formación de jurisprudencia. ✔
+<br>
+Correcta: ¡Correcto\! La admisión del recurso de casación se basa en la apreciación de interés casacional objetivo para la formación de jurisprudencia, siendo este el criterio central del modelo actual.
+Errada: La respuesta correcta es la D. Desde la reforma de la Ley Orgánica 7/2015, el criterio fundamental para la admisión del recurso de casación es la existencia de interés casacional objetivo para formar jurisprudencia.
+
+-----
+
+**Pregunta 55**
+Conforme a lo establecido en la LJCA, una vez presentado un recurso de apelación, ¿en qué caso no se procederá a la ejecución provisional de la sentencia impugnada?
+A) Cuando ejecutar la sentencia pueda dar lugar a situaciones que no se puedan revertir.
+B) Si la ejecución provisional es solicitada por una entidad gubernamental
+C) Si ejecutar la sentencia puede acarrear daños que sean complicados de subsanar.
+D) Si la ejecución de la sentencia pudiera ocasionar perjuicios de cualquier tipo.
+<br>
+Correcta: La opción correcta es la A, pues la ejecución provisional de la sentencia no se acordará cuando pueda generar situaciones irreversibles.
+Errada: Has elegido una opción incorrecta. Es importante notar que la ejecución provisional se evita, según la LJCA, en situaciones en las que pueda haber consecuencias permanentes e irreversibles, tal y como indica la opción A.
+
+-----
+
+**Pregunta 56**
+¿Qué resoluciones de la Sala de lo Contencioso-administrativo de la Audiencia Nacional son recurribles en casación?
+A) Ninguna es correcta.
+B) Las que concluyen la sección separada para la suspensión o de otras medidas cautelares.
+C) Las dictadas en la ejecución de sentencia, siempre que resuelvan temas no decididos previamente o que sean contrarias a lo resuelto en el fallo.
+D) Ambas son correctas.
+<br>
+Correcta: Correcto, las opciones B y C son las correctas. Los autos de la Sala de lo Contencioso-administrativo que pueden ser recurridos en casación son aquellos que finalizan una pieza de suspensión o medidas cautelares, así como los que se dictan en la ejecución de sentencia y que resuelven aspectos no contemplados previamente o que contradicen el fallo.
+Errada: La respuesta seleccionada no es la correcta. Debes tener en cuenta que las resoluciones susceptibles de recurso de casación son las que ponen fin a la pieza separada de suspensión o medidas cautelares y aquellas que, durante la ejecución de sentencia, resuelven cuestiones nuevas o contrarias al fallo, como se especifica en las opciones B y C.
+
+-----
+
+**Pregunta 57**
+En lo que respecta al recurso de apelación dentro de la jurisdicción contencioso-administrativa, ¿cuál es el plazo para interponer dicho recurso tras la notificación de la sentencia?
+A) El recurso debe interponerse en los 5 días siguientes a la notificación de la sentencia.
+B) El recurso debe interponerse en los 10 días siguientes a la notificación de la sentencia.
+C) El recurso debe interponerse en los 15 días siguientes a la notificación de la sentencia.
+D) El recurso debe interponerse en los 20 días siguientes a la notificación de la sentencia.
+<br>
+Correcta: Has elegido correctamente. La opción C es la correcta, y el recurso de apelación debe presentarse dentro de los 15 días posteriores a la notificación de la sentencia.
+Errada: La respuesta no es correcta. Según la normativa, el recurso de apelación debe ser interpuesto en un plazo de 15 días a partir de la notificación de la sentencia, como indica la opción C.
+
+-----
+
+**Pregunta 58**
+Señale la afirmación incorrecta. Las sentencias de las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia son siempre apelables:
+A) Cuando se han pronunciado en asuntos de una cuantía no superior a 30.000 euros. ✔
+B) Cuando resuelven impugnaciones indirectas de disposiciones generales.
+C) Cuando han sido dictadas en procedimientos para la protección de los derechos fundamentales de la persona.
+D) Cuando dirimen controversias entre Administraciones públicas.
+<br>
+Correcta: La afirmación A es incorrecta. Las sentencias dictadas en asuntos cuya cuantía no exceda de 30.000 euros, como regla general, no son apelables, salvo en los casos previstos expresamente.
+Errada: La afirmación A es incorrecta. En la jurisdicción contencioso-administrativa, no todas las sentencias de las Secciones de lo Contencioso-administrativo son recurribles en apelación, especialmente aquellas que se dictan en asuntos cuya cuantía no exceda de 30.000 euros.
+
+-----
+
+**Pregunta 59**
+La apelación de los autos dictados por las Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia en los supuestos de extensión de efectos de una sentencia:
+A) Ninguna es correcta.
+B) Se rige por el régimen especial de admisión.
+C) Se rige por el régimen general de admisión.
+D) Se rige por el mismo régimen de admisión que correspondería a la sentencia a la que se busca extender los efectos. ✔
+<br>
+Correcta: La respuesta D es correcta. Los autos dictados por las Secciones de lo Contencioso-administrativo en los casos de extensión de sentencia se rigen por el mismo régimen de admisión que la sentencia original a la que se intenta aplicar dicha extensión.
+Errada: La respuesta D es correcta. Los autos dictados por las Secciones de lo Contencioso-administrativo en los casos de extensión de sentencia se rigen por el mismo régimen de admisión que la sentencia original a la que se intenta aplicar dicha extensión.
+
+-----
+
+**Pregunta 60**
+En el proceso contencioso-administrativo, el Tribunal de casación podrá declarar la existencia de interés casacional objetivo, justificándolo expresamente en el auto de admisión cuando, entre otros supuestos, la decisión impugnada:
+A) Incida en un número significativo de situaciones, por sí misma.
+B) Incida en un número significativo de situaciones, debido a su relevancia más allá del caso concreto.
+C) Incida en un número significativo de situaciones, por sí misma o debido a su relevancia más allá del caso concreto.
+D) Todas son correctas.
+<br>
+Correcta: La afirmación C es correcta. El interés casacional objetivo puede ser apreciado cuando la resolución tiene un impacto en un gran número de situaciones o su importancia trasciende el caso específico.
+Errada: La afirmación C es correcta. El interés casacional objetivo puede ser apreciado cuando la resolución tiene un impacto en un gran número de situaciones o su importancia trasciende el caso específico.
+
+-----
+
+**Pregunta 61**
+En el proceso contencioso-administrativo, en el recurso de apelación, ¿qué no pueden solicitar las partes en sus escritos de formulación y contestación al recurso?
+A) Que se dicte auto de terminación del litigio, en virtud de acuerdo entre las partes.
+B) Que se presenten alegatos conclusivos.
+C) Que se lleve a cabo una audiencia.
+D) Que el caso sea considerado concluido y listo para sentencia sin más procedimientos.
+<br>
+Correcta: La opción A es correcta. En el recurso de apelación, las partes no pueden solicitar que se resuelva el pleito mediante auto debido a la conformidad entre ellas; la decisión debe ser emitida por sentencia.
+Errada: La opción A es correcta. En el recurso de apelación, las partes no pueden solicitar que se resuelva el pleito mediante auto debido a la conformidad entre ellas; la decisión debe ser emitida por sentencia.
+
+-----
+
+**Pregunta 62**
+En el recurso de apelación, si para la ejecución provisional de la sentencia se exige la prestación de caución o garantía, la constitución de la misma se ajustará a lo establecido en:
+A) La Ley de Enjuiciamiento Civil. ✔
+B) La Ley reguladora de la Jurisdicción Contencioso-administrativa.
+C) La Ley Orgánica del Poder Judicial.
+D) Ninguna ley rituaria.
+<br>
+Correcta: ¡Correcto\! El artículo 84.1 de la LJCA remite expresamente a la Ley de Enjuiciamiento Civil para la regulación de la caución en la ejecución provisional.
+Errada: La respuesta correcta es la A. El artículo 84.1 de la LJCA establece que la constitución de la caución para la ejecución provisional se ajustará a lo dispuesto en la Ley de Enjuiciamiento Civil.
+
+-----
+
+**Pregunta 63**
+Según el artículo 90.7 de la LJCA, la Sala de lo Contencioso-administrativo del Tribunal Supremo hará pública la lista de los recursos de casación admitidos a trámite:
+A) Anualmente en el Boletín Oficial del Estado.
+B) Semestralmente en la página web del Poder Judicial. ✔
+C) Trimestralmente en la página web del Tribunal Supremo.
+D) Mensualmente en el Boletín Oficial del Estado.
+<br>
+Correcta: ¡Has acertado\! La normativa especifica que la lista de recursos de casación admitidos se publicará semestralmente en la página web del Poder Judicial.
+Errada: La respuesta correcta es la B. El artículo 90.7 de la LJCA indica que la publicación de la lista de recursos admitidos es semestral y se realiza en la web del Poder Judicial.
+
+-----
+
+**Pregunta 64**
+De acuerdo con la LJCA, ¿qué forma jurídica tomará la resolución acerca de la admisión o no de un recurso de casación que impugne un convenio entre Administraciones públicas?
+A) Se usará la diligencia para la inadmisión y el auto en caso de admisión.
+B) Se usará el decreto para la inadmisión y el auto en caso de admisión.
+C) Se usará la providencia para la admisión y el auto en caso de inadmisión.
+D) Se usará la providencia para la inadmisión y el auto en caso de admisión.
+<br>
+Correcta: Elegir la opción D es acertar, puesto que la ley dicta que cuando se decide no admitir un recurso se emite una providencia, mientras que la admisión se formaliza a través de un auto.
+Errada: No elegir la opción D es errar, porque de acuerdo con la ley, la inadmisión de un recurso de casación se formaliza mediante providencia, y la admisión a través de un auto.
+
+-----
+
+**Pregunta 65**
+De acuerdo con la LJCA, ¿qué condición no es imprescindible para que sea viable un recurso de revisión contra un fallo judicial definitivo si este se dictó vulnerando derechos del Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales y sus Protocolos?
+A) Que los efectos del fallo debido a la violación sean persistentes.
+B) Que el Tribunal Europeo de Derechos Humanos haya reconocido la existencia de dicha violación.
+C) Que sea indispensable revisar el fallo por la seriedad de la violación, incluso si esto perjudica los derechos de terceros adquiridos de buena fe.
+D) Que los efectos de la violación sean imposibles de eliminar sin una revisión del fallo.
+<br>
+Correcta: La opción C es la correcta, ya que no se requiere que la revisión se considere necesaria a pesar de los perjuicios a los derechos de terceros para proceder con un recurso de revisión.
+Errada: Si no seleccionas la opción C, has elegido incorrectamente. La legislación no estipula que la revisión deba efectuarse pese al daño a los derechos de terceros para que se admita un recurso de revisión.
+
+-----
+
+**Pregunta 66**
+En el proceso contencioso-administrativo, durante el recurso de apelación, ¿qué procedimiento se sigue si la parte apelada manifiesta en su escrito de oposición que la apelación se ha admitido de forma indebida?
+A) El Letrado de la Administración de Justicia concede un plazo de cinco días a la parte apelante para que se pronuncie sobre esta alegación.
+B) El Letrado de la Administración de Justicia concede un plazo de tres días a la parte apelante para que se pronuncie sobre esta alegación.
+C) El Letrado de la Administración de Justicia concede un plazo de siete días a la parte apelante para que se pronuncie sobre esta alegación.
+D) El Letrado de la Administración de Justicia concede un plazo de nueve días a la parte apelante para que se pronuncie sobre esta alegación.
+<br>
+Correcta: Si escoges la opción A, tu respuesta es correcta. La ley establece que se da un término de cinco días a la parte apelante para contestar a la alegación de admisión indebida.
+Errada: Si no escoges la opción A, te has equivocado. De acuerdo con el procedimiento legal, se proporciona un período de cinco días para que la parte apelante responda ante una alegación de admisión indebida del recurso.
+
+-----
+
+**Pregunta 67**
+La tramitación de los recursos de apelación contra los autos de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia se regirá por:
+A) La regulación establecida para el recurso de apelación. ✔
+B) La regulación establecida para el recurso de revisión.
+C) La regulación establecida para el recurso de queja.
+D) La regulación establecida para el recurso de suplicación.
+<br>
+Correcta: Al seleccionar la opción A, has acertado. La tramitación de los recursos de apelación contra los autos de la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia se rige por la regulación general del recurso de apelación en la LJCA.
+Errada: Al no seleccionar la opción A, has errado. La regulación aplicable para estos recursos de apelación es la que se establece específicamente para ellos en la LJCA, conforme al artículo 80.3.
+
+-----
+
+**Pregunta 68**
+Según el artículo 89.1 de la LJCA, ¿quiénes están facultados para preparar el recurso de casación?
+A) Las personas que hayan sido parte en el proceso o que no deberían haberlo sido.
+B) Las personas que no hayan sido parte en el proceso o que deberían haberlo sido.
+C) Las personas que hayan sido parte en el proceso o que deberían haberlo sido.
+D) Sólo los que hayan sido parte en el proceso.
+<br>
+Correcta: Elegir la opción C es correcto. El artículo 89.1 de la LJCA estipula que están legitimados para la preparación del recurso de casación tanto quienes hayan sido parte en el proceso como aquellos que debieron serlo.
+Errada: No elegir la opción C significa que la respuesta es incorrecta. De acuerdo con la LJCA, la legitimación para preparar el recurso de casación no se limita exclusivamente a quienes fueron parte en el proceso, sino que también incluye a quienes debieron ser parte del mismo.
+
+-----
+
+**Pregunta 69**
+De acuerdo con el artículo 89 de la LJCA, el escrito de preparación del recurso de casación deberá:
+A) Señalar con exactitud las normas jurídicas que se estiman violadas.
+B) Demostrar que, en caso de alegarse infracciones de normas o jurisprudencia, se solicitó en la instancia la corrección de esa falta o transgresión en el momento procesal adecuado.
+C) Demostrar que, en caso de alegarse infracciones de normas que ocasionaron indefensión, se solicitó en la instancia la corrección de esa falta.
+D) Demostrar que, en caso de alegarse infracciones de normas o jurisprudencia sobre actos o garantías procesales que ocasionaron indefensión, se solicitó en la instancia la corrección de esa falta o transgresión en el momento procesal adecuado.
+<br>
+Correcta: La respuesta D es la correcta, ya que el artículo 89 de la LJCA exige que se pruebe que se intentó remediar la situación de indefensión en la instancia correspondiente, siempre que hubiese oportunidad procesal para ello.
+Errada: Si no seleccionaste la opción D, tu respuesta es incorrecta. El artículo 89 de la LJCA establece la necesidad de acreditar que se pidió la subsanación de cualquier acto o garantía procesal que haya causado indefensión, siempre que hubiera habido un momento procesal adecuado para hacerlo.
+
+-----
+
+**Pregunta 70**
+Frente al auto de un Tribunal de Instancia que declara la inadmisión de un recurso de apelación:
+A) Se puede interponer un recurso de queja. ✔
+B) Se puede interponer un recurso de reposición.
+C) Se puede interponer un recurso de revisión.
+D) Se puede interponer un recurso de súplica.
+<br>
+Correcta: Al elegir la opción A, aciertas, dado que el artículo 85.7 de la LJCA prevé la posibilidad de interponer un recurso de queja contra la decisión de un órgano de instancia que declara la inadmisión de un recurso de apelación.
+Errada: Si no escogiste la opción A, tu elección es incorrecta. La ley establece que contra el auto que inadmite un recurso de apelación cabe la interposición de un recurso de queja.
+
+-----
+
+**Pregunta 71**
+En el ámbito de lo contencioso-administrativo, al presentar un recurso de reposición en contra de providencias y autos que no procedan a apelación ni a casación, ¿cuál es el plazo que tiene el Letrado de la Administración de Justicia para permitir a las demás partes impugnar dicho recurso?
+A) El plazo otorgado es de tres días para que las partes puedan impugnar el recurso, si así lo consideran necesario.
+B) El plazo otorgado es de dos días para que las partes puedan impugnar el recurso, si así lo consideran necesario.
+C) El plazo otorgado es de cuatro días para que las partes puedan impugnar el recurso, si así lo consideran necesario.
+D) El plazo otorgado es de cinco días para que las partes puedan impugnar el recurso, si así lo consideran necesario.
+<br>
+Correcta: Seleccionar la opción D es acertado. En la jurisdicción contencioso-administrativa, cuando se interpone un recurso de reposición contra providencias y autos que no sean apelables o susceptibles de casación, el plazo para impugnar es de cinco días.
+Errada: Si no has escogido la opción D, tu respuesta no es la correcta. De acuerdo con el procedimiento contencioso-administrativo, es un término de cinco días el que se dispone para que las otras partes puedan impugnar un recurso de reposición.
+
+-----
+
+**Pregunta 72**
+Respecto al recurso de reposición frente a las decisiones del Letrado de la Administración de Justicia en la jurisdicción contencioso-administrativa, indique la afirmación correcta:
+A) Finalizado el plazo para impugnar, el Letrado de la Administración de Justicia dictará un decreto resolviendo el recurso en el plazo de dos días.
+B) Finalizado el plazo para impugnar, el Letrado de la Administración de Justicia dictará un decreto resolviendo el recurso en el plazo de tres días.
+C) Finalizado el plazo para impugnar, el Letrado de la Administración de Justicia dictará un decreto resolviendo el recurso en el plazo de cuatro días.
+D) Finalizado el plazo para impugnar, el Letrado de la Administración de Justicia dictará un decreto resolviendo el recurso en el plazo de cinco días.
+<br>
+Correcta: Optar por la opción B es correcto. Después del tiempo concedido para impugnar, el Letrado de la Administración de Justicia tiene tres días para resolver el recurso de reposición por medio de un decreto.
+Errada: Si no has elegido la opción B, has fallado en tu respuesta. La ley establece que el Letrado de la Administración de Justicia debe emitir una resolución en forma de decreto dentro de los tres días siguientes al vencimiento del plazo de impugnación del recurso de reposición.
+
+-----
+
+**Pregunta 73**
+¿Cuál es el plazo para interponer un recurso de reposición contra las diligencias de ordenación dictadas por el Letrado de la Administración de Justicia en lo contencioso-administrativo?
+A) El recurso se interpondrá en el plazo de 2 días, contados a partir del día siguiente al de la notificación de la diligencia.
+B) El recurso se interpondrá en el plazo de 3 días, contados a partir del día siguiente al de la notificación de la diligencia.
+C) El recurso se interpondrá en el plazo de 5 días, contados a partir del día siguiente al de la notificación de la diligencia.
+D) El recurso se interpondrá en el plazo de 7 días, contados a partir del día siguiente al de la notificación de la diligencia.
+<br>
+Correcta: La opción C es la adecuada. En lo contencioso-administrativo, el recurso de reposición contra las diligencias de ordenación debe interponerse en el plazo de 5 días contados desde el día siguiente al de la notificación.
+Errada: Si tu elección no fue la opción C, tu respuesta no es correcta. Para los recursos de reposición contra diligencias de ordenación en lo contencioso-administrativo, el marco temporal establecido es de 5 días a partir del día siguiente a la notificación.
+
+-----
+
+**Pregunta 74**
+Si no se presenta el escrito de preparación del recurso de casación en el plazo de treinta días, el Letrado de la Administración de Justicia declarará firme la sentencia o auto mediante:
+A) Providencia.
+B) Auto.
+C) Diligencia de ordenación.
+D) Decreto. ✔
+<br>
+Correcta: ¡Correcto\! El artículo 89.4 de la LJCA establece que, si no se presenta el escrito de preparación en plazo, el LAJ declarará firme la resolución mediante un decreto.
+Errada: La respuesta correcta es la D. La legislación vigente señala que es el Letrado de la Administración de Justicia quien declara la firmeza del auto o sentencia mediante decreto si no se presenta el escrito de preparación del recurso de casación en el plazo indicado.
+
+-----
+
+**Pregunta 75**
+De acuerdo con el artículo 85 de la Ley Jurisdiccional Contencioso-Administrativa (LJCA), ¿cuál es el plazo que tienen las partes para presentar su oposición tras la interposición de un recurso de apelación?
+A) Las partes cuentan con un plazo de quince días para formalizar su oposición.
+B) Las partes cuentan con un plazo de diez días para formalizar su oposición.
+C) Las partes cuentan con un plazo de cinco días para formalizar su oposición.
+D) Las partes cuentan con un plazo de siete días para formalizar su oposición.
+<br>
+Correcta: Excelente, la opción A es correcta. El artículo 85 de la LJCA establece que las partes disponen de un plazo de quince días para formalizar su oposición en el caso de un recurso de apelación.
+Errada: La respuesta correcta es la opción A. De acuerdo con el artículo 85 de la LJCA, el plazo que se otorga a las partes para formalizar su oposición ante un recurso de apelación es de quince días.
+
+-----
+
+**Pregunta 76**
+Conforme a la LJCA, ¿cuál es el recurso que procede contra el auto que resuelve el recurso de revisión interpuesto contra decretos del Letrado de la Administración de Justicia (LAJ) que impiden la continuación del procedimiento?
+A) Se admite un recurso de apelación en los casos previstos en el artículo 79 de la LJCA.
+B) Se admite un recurso de apelación en los casos previstos en el artículo 81 de la LJCA.
+C) Se admite un recurso de apelación en los casos previstos en el artículo 80 de la LJCA.
+D) Se admite un recurso de apelación en los casos previstos en el artículo 82 de la LJCA.
+<br>
+Correcta: Has escogido correctamente con la opción C. La LJCA prevé que cabe recurso de apelación contra la resolución que decide el recurso de revisión interpuesto contra decretos del LAJ, conforme a lo estipulado en el artículo 80.
+Errada: La opción correcta es la C. Según el artículo 80 de la LJCA, el recurso que cabe contra la resolución que decide sobre el recurso de revisión contra decretos del LAJ que impiden la continuación del procedimiento es el recurso de apelación.
+
+-----
+
+**Pregunta 77**
+De acuerdo con la LJCA, frente a providencias y autos que no son susceptibles de apelación ni de casación, ¿qué recurso puede interponerse?
+A) Es posible interponer un recurso de revisión.
+B) Es posible interponer un recurso de reposición.
+C) Es posible interponer un recurso de súplica.
+D) Es posible interponer un recurso de reforma.
+<br>
+Correcta: La selección de la opción B es acertada. Según la LJCA, cuando se trata de providencias y autos no susceptibles de apelación o casación, es viable interponer un recurso de reposición.
+Errada: La respuesta adecuada es la B. La LJCA establece que se puede interponer un recurso de reposición contra las providencias y autos que no son susceptibles de apelación o casación.
+
+-----
+
+**Pregunta 78**
+¿En cuál de los siguientes supuestos NO se admite la revisión de una sentencia firme en el orden contencioso-administrativo?
+A) Si hubiere recaído en virtud de documentos que al tiempo de dictarse ignoraba una de las partes haber sido declarados falsos.
+B) Si se hubiere ganado injustamente en virtud de maquinación fraudulenta.
+C) Si hubiere recaído en virtud de prueba testifical, y los testigos hubieren sido condenados por falso testimonio.
+D) Si después de pronunciada, se obtienen documentos decisivos de los que no se pudo disponer por negligencia de la parte que solicita la revisión. ✔
+<br>
+Correcta: ¡Correcto\! La negligencia de la propia parte en la aportación de documentos no es una causa de revisión. La ley exige que no se pudiera disponer de ellos por fuerza mayor o por obra de la parte contraria.
+Errada: La respuesta correcta es la D. La obtención de documentos decisivos solo es causa de revisión si no se pudo disponer de ellos por fuerza mayor o por actuación de la parte contraria, no por la propia negligencia.
+
+-----
+
+**Pregunta 79**
+Respecto a los recursos de apelación y reposición en la Ley de Jurisdicción Contencioso-Administrativa (LJCA), ¿qué característica comparten ambos recursos?
+A) Ambos recursos pueden dirigirse contra providencias, autos y sentencias.
+B) Solo pueden interponerse contra sentencias.
+C) Pueden interponerse contra autos.
+D) Se pueden interponer exclusivamente contra providencias.
+<br>
+Correcta: Correcto, tanto el recurso de apelación como el de reposición pueden interponerse contra autos según la LJCA. Es un aspecto común entre ambos recursos.
+Errada: La respuesta adecuada es la opción C. Tanto el recurso de apelación como el de reposición comparten la posibilidad de ser interpuestos contra autos de acuerdo con lo establecido en la LJCA.
+
+-----
+
+**Pregunta 80**
+De conformidad con el artículo 102 de la LJCA, ¿cuándo se permite interponer recurso de revisión contra una resolución judicial firme?
+A) Cuando se haya dictado la resolución en base a cohecho, prevaricación, violencia u otra maquinación fraudulenta
+B) Si el Tribunal Europeo de Derechos Humanos determina que la resolución judicial se emitió violando derechos contenidos en el Convenio Europeo para la Protección de los Derechos Humanos y sus Protocolos.
+C) Si el Tribunal Europeo de Derechos Humanos determina que la resolución judicial se emitió en maquinación fraudulenta contra derechos contenidos en el Convenio Europeo para la Protección de los Derechos Humanos y sus Protocolos.
+D) Todas son correctas.
+<br>
+Correcta: Excelente, has seleccionado la opción B, que es correcta. El recurso de revisión se admite cuando el Tribunal Europeo de Derechos Humanos ha encontrado que la resolución judicial firme ha infringido los derechos reconocidos en el Convenio Europeo de Derechos Humanos y sus Protocolos.
+Errada: La opción correcta es la B. Según el artículo 102 de la LJCA, el recurso de revisión es procedente cuando el Tribunal Europeo de Derechos Humanos ha declarado que la resolución judicial firme ha violado los derechos estipulados en el Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales.
+
+-----
+
+**Pregunta 81**
+En el ámbito del procedimiento contencioso-administrativo, ¿qué recurso se puede interponer contra los decretos que terminan el procedimiento?
+A) Recurso de queja.
+B) Recurso de reposición.
+C) Recurso directo de revisión
+D) Recurso de reforma.
+<br>
+Correcta: Correcto, la opción C es la adecuada. Según la LJCA, contra los decretos que finalizan el procedimiento es posible interponer un recurso directo de revisión.
+Errada: La respuesta correcta es la C. En el procedimiento contencioso-administrativo, el recurso que cabe contra los decretos que concluyen el procedimiento es el recurso directo de revisión, conforme lo dispuesto en la LJCA.
+
+-----
+
+**Pregunta 82**
+En la jurisdicción contencioso-administrativa, ¿quién está facultado para interponer un recurso de apelación conforme a la Ley reguladora de la Jurisdicción Contencioso-administrativa?
+A) Las personas legitimadas como parte demandante o demandada según la ley mencionada.
+B) Quien tenga interés legítimo en el asunto.
+C) Los terceros afectados por la resolución.
+D) Ninguna es correcta.
+<br>
+Correcta: Exacto, has elegido correctamente. Según la Ley de la Jurisdicción Contencioso-administrativa, pueden interponer recurso de apelación aquellos que estén legitimados tanto como parte demandante como demandada.
+Errada: La respuesta precisa es la A. De acuerdo con la Ley de la Jurisdicción Contencioso-administrativa, el recurso de apelación puede ser interpuesto por las partes que se hallen legitimadas como demandantes o demandadas.
+
+-----
+
+**Pregunta 83**
+Según el artículo 87 de la Ley de la Jurisdicción Contencioso-administrativa, ¿qué recurso se debe interponer previamente para poder preparar el recurso de casación contra el auto que finalice la pieza separada de medidas cautelares?
+A) El recurso de apelación.
+B) El recurso de revisión.
+C) El recurso de reposición.
+D) El recurso de súplica.
+<br>
+Correcta: Correcto, la opción C es la acertada. El artículo 87 de la LJCA establece que se debe interponer primero un recurso de reposición para poder preparar el recurso de casación contra un auto que concluye la pieza de medidas cautelares.
+Errada: La respuesta acertada es la C. El artículo 87 de la Ley de la Jurisdicción Contencioso-administrativa requiere que se presente un recurso de reposición antes de preparar el recurso de casación contra el auto que termine la pieza separada de medidas cautelares.
+
+-----
+
+**Pregunta 84**
+En la jurisdicción Contencioso-Administrativa, frente a la resolución que tiene por preparado el recurso de casación:
+A) No es admisible ningún recurso.
+B) Es admisible el recurso de queja.
+C) Es admisible el recurso de reposición.
+D) Es admisible el recurso de revisión.
+<br>
+Correcta: Perfecto, has seleccionado la opción correcta. Contra la resolución que tiene por preparado un recurso de casación no cabe interponer recurso alguno, conforme establece la legislación vigente.
+Errada: La opción correcta es la A. Según la normativa aplicable, una vez que se tiene por preparado un recurso de casación, no se permite la interposición de ningún otro recurso contra esta resolución.
+
+-----
+
+**Pregunta 85**
+En la jurisdicción contencioso-administrativa, el escrito de preparación del recurso de casación debe contener:
+A) Pruebas del cumplimiento de requisitos como el plazo, la legitimación y la recurribilidad de la resolución impugnada.
+B) Pruebas de que, en su caso, se solicitó la subsanación de los actos o garantías procesales que causaron indefensión, siempre que hubiera un momento procesal adecuado para ello.
+C) Justificación de que las infracciones señaladas fueron relevantes y decisivas en la resolución impugnada.
+D) Todas son correctas.
+<br>
+Correcta: Excelente elección. La respuesta D es la correcta. El escrito de preparación del recurso de casación debe incluir los apartados mencionados, encabezados con epígrafes claros que reflejen su contenido, tal y como se estipula en la ley.
+Errada: La respuesta completa es la D. Para preparar adecuadamente un recurso de casación, es necesario incluir todos los elementos enumerados en la pregunta, tal como lo exige la ley.
+
+-----
+
+**Pregunta 86**
+Respecto a los autos que se dictan en los procedimientos del artículo 122 bis de la Ley de la Jurisdicción Contencioso-administrativa:
+A) Se permite el recurso de apelación a un solo efecto.
+B) Se permite el recurso de apelación a doble efecto.
+C) Se permite el recurso de reposición a un solo efecto.
+D) Se permite el recurso de queja a un solo efecto.
+<br>
+Correcta: Correcto, la respuesta A es la adecuada. Los autos dictados en los procedimientos del artículo 122 bis de la LJCA son susceptibles de recurso de apelación a un solo efecto.
+Errada: La respuesta precisa es la A. Según la LJCA, específicamente en los procedimientos del artículo 122 bis, los autos dictados son recurribles a través de un recurso de apelación a un solo efecto.
+
+-----
+
+**Pregunta 87**
+Según la Ley de la Jurisdicción Contencioso-administrativa, en relación al recurso de apelación:
+A) Los autos emitidos por las Secciones de lo Contencioso-administrativo durante la ejecución de sentencia son apelables en un solo efecto.
+B) La apelación de los autos emitidos por las Secciones de lo Contencioso-Administrativo en los casos de extensión de los efectos de una sentencia se rige por el mismo procedimiento de admisión que corresponde a la sentencia cuya extensión se busca. ✔
+C) Los autos emitidos por las Secciones de lo Contencioso-administrativo durante la ejecución de sentencia son apelables en ambos efectos.
+D) Ninguna es correcta.
+<br>
+Correcta: Has acertado, la respuesta B es la correcta. La apelación de los autos que se dicten en extensión de efectos de una sentencia se sujeta al mismo régimen de admisión aplicable a la sentencia principal, de acuerdo con la LJCA.
+Errada: La elección correcta es la B. Según la Ley de la Jurisdicción Contencioso-administrativa, la apelación de los autos en relación con la extensión de efectos de una sentencia sigue el mismo régimen de admisión que la sentencia a la cual se busca extender esos efectos.
+
+-----
+
+**Pregunta 88**
+Señale la respuesta Incorrecta en relación con lo dispuesto en la Ley de la Jurisdicción Contencioso-administrativa sobre los recursos contra las resoluciones del Letrado de la Administración de Justicia:
+A) Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación.
+B) El recurso directo de revisión carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
+C) El recurso de revisión deberá interponerse en el plazo de tres días mediante escrito en el que deberá citarse la infracción en que la resolución hubiera incurrido.
+D) El recurso de reposición se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.
+<br>
+Correcta: La respuesta correcta es la opción C. Has seleccionado adecuadamente la afirmación errónea, ya que el plazo para el recurso de revisión es de cinco días, no de tres.
+Errada: La afirmación errónea es la opción C. El plazo para interponer el recurso de revisión es de cinco días, según el artículo 102 bis.2 de la LJCA.
+
+-----
+
+**Pregunta 89**
+En el procedimiento contencioso-administrativo, en el recurso de apelación, ¿cómo se procederá cuando la Sala estime procedente la prueba solicitada por las partes?
+A) La práctica de la prueba tendrá lugar con citación de la parte a la que pueda perjudicar.
+B) La práctica de la prueba tendrá lugar con citación de ambas partes, si solicitan estar presentes en el acto.
+C) La práctica de la prueba se realizará a puerta cerrada.
+D) La práctica de la prueba tendrá lugar con citación de ambas partes.
+<br>
+Correcta: Perfecto, la opción correcta es la D. Cuando la Sala considera pertinente la realización de la prueba solicitada, se notifica a todas las partes para su práctica.
+Errada: La respuesta adecuada es la D. La ley establece que si la Sala aprueba la realización de la prueba en el marco de un recurso de apelación, ambas partes deben ser citadas.
+
+-----
+
+**Pregunta 90**
+De conformidad con lo dispuesto en el art. 92 LJCA, ¿de qué plazo dispondrá la parte o partes recurridas y personadas para formalizar su oposición ante la interposición de un recurso de casación?
+A) De un plazo de 10 días.
+B) De un plazo de 20 días.
+C) De un plazo de 15 días.
+D) De un plazo de 30 días.
+<br>
+Correcta: Correcto, has elegido la opción D. Las partes recurridas tienen un plazo de 30 días para formalizar su oposición a un recurso de casación, tal como lo dicta la normativa.
+Errada: La información correcta es la contenida en la opción D. El artículo 92 concede un plazo de 30 días para que las partes personadas se opongan al recurso de casación.
+
+-----
+
+**Pregunta 91**
+¿En qué plazo debe el Tribunal competente dictar la resolución que decida el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento?
+A) En el plazo de diez días.
+B) En el plazo de cinco días. ✔
+C) En el plazo de siete días.
+D) En el plazo de quince días.
+<br>
+Correcta: La selección de la opción B es acertada. La resolución del recurso de revisión contra los decretos del Letrado de la Administración de Justicia que finalizan el procedimiento debe dictarse en un plazo de cinco días.
+Errada: La respuesta precisa es la opción B. La ley estipula que el Tribunal competente debe resolver sobre el recurso de revisión en un periodo de cinco días tras su presentación.
+
+-----
+
+**Pregunta 92**
+Señale la respuesta Incorrecta en relación con lo dispuesto en el art. 84 LJCA sobre la ejecución provisional de una sentencia recurrida:
+A) Las partes favorecidas por la sentencia o el Letrado de la Administración de Justicia, si lo estima conveniente, podrán instar la ejecución provisional de dicha sentencia.
+B) Cuando de la ejecución provisional pudieran derivarse perjuicios de cualquier naturaleza, podrán acordarse las medidas que sean adecuadas para evitar o paliar dichos perjuicios, y podrá exigirse la prestación de caución o garantía para responder de aquéllos.
+C) No se acordará la ejecución provisional cuando la misma sea susceptible de producir situaciones irreversibles o perjuicios de imposible reparación.
+D) Cuando quien inste la ejecución provisional sea una Administración pública, quedará exenta de la prestación de caución.
+<br>
+Correcta: La afirmación incorrecta es la opción A, ya que el artículo 84 de la LJCA no dispone expresamente que el Letrado de la Administración de Justicia pueda instar la ejecución provisional.
+Errada: La respuesta correcta es la opción A, el artículo 84 de la LJCA no contempla que el Letrado de la Administración de Justicia tenga la facultad de instar por sí mismo la ejecución provisional de una sentencia.
+
+-----
+
+**Pregunta 93**
+Según la LJCA, en lo referente a legitimación, plazos, procedimiento y efectos de las sentencias dictadas en el procedimiento de revisión de sentencias, regirán las disposiciones de:
+A) La Ley de Enjuiciamiento Criminal
+B) La Ley reguladora de la Jurisdicción Contencioso-administrativa
+C) La Ley Orgánica del Poder Judicial
+D) La Ley de Enjuiciamiento Civil
+<br>
+Correcta: Excelente, la opción correcta es la D. La LJCA establece que, en el procedimiento de revisión de sentencias, se aplicarán las disposiciones contenidas en la Ley de Enjuiciamiento Civil en cuanto a legitimación, plazos, procedimiento y efectos de las sentencias.
+Errada: La respuesta precisa es la opción D. La LJCA señala que las reglas aplicables al procedimiento de revisión de sentencias son las dispuestas en la Ley de Enjuiciamiento Civil en relación a legitimación, plazos, procedimiento y efectos de las sentencias.
+
+-----
+
+**Pregunta 94**
+Según la LJCA, ¿cabe recurso contra las resoluciones sobre admisión o inadmisión de los recursos de revisión interpuestos contra los decretos del LAJ que impidan la continuación del procedimiento?
+A) Sí, cabe recurso de apelación.
+B) Sí, cabe recurso de reposición.
+C) Sí, cabe recurso de casación.
+D) No.
+<br>
+Correcta: Correctamente has elegido la opción D. La LJCA especifica que no cabe recurso alguno contra las resoluciones que decidan sobre la admisión o inadmisión de los recursos de revisión.
+Errada: La opción correcta es la D. Contra las resoluciones que resuelvan la admisión o no de los recursos de revisión interpuestos contra decretos del LAJ no se admite recurso, conforme a la LJCA.
+
+-----
+
+**Pregunta 95**
+El recurso de apelación se interpondrá ante el Tribunal de Instancia que hubiese dictado la sentencia dentro de:
+A) Los cinco días siguientes al de su notificación
+B) Los veinte días siguientes al de su notificación
+C) Los diez días siguientes al de su notificación
+D) Los quince días siguientes al de su notificación ✔
+<br>
+Correcta: ¡Perfecto\! Has escogido la opción D. En el ámbito contencioso-administrativo, el recurso de apelación debe interponerse en el plazo de quince días tras la notificación de la sentencia.
+Errada: La respuesta acertada es la opción D. Según la LJCA, el plazo para interponer el recurso de apelación es de quince días desde la notificación de la sentencia.
+
+-----
+
+**Pregunta 96**
+En el orden contencioso-administrativo, interpuesto el recurso en tiempo y forma contra un decreto no definitivo del Letrado de la Administración de Justicia:
+A) El Letrado de la Administración de Justicia dará traslado de las copias del escrito a las demás partes, por término común de cinco días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Letrado de la Administración de Justicia resolverá mediante decreto dentro del tercer día.
+B) El Letrado de la Administración de Justicia dará traslado de las copias del escrito a las demás partes, por término común de cinco días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Letrado de la Administración de Justicia resolverá mediante diligencia de ordenación dentro del tercer día.
+C) El Letrado de la Administración de Justicia dará traslado de las copias del escrito a las demás partes, por término común de tres días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Letrado de la Administración de Justicia resolverá mediante decreto dentro del tercer día.
+D) El Letrado de la Administración de Justicia dará traslado de las copias del escrito a las demás partes, por término común de tres días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Letrado de la Administración de Justicia resolverá mediante diligencia de ordenación dentro del tercer día.
+<br>
+Correcta: Has seleccionado correctamente la opción C. Este procedimiento refleja el proceso establecido en la LJCA para el recurso contra decretos no definitivos del Letrado de la Administración de Justicia, resolviendo mediante decreto en el tercer día tras el plazo de traslado.
+Errada: La respuesta adecuada es la opción C, donde se detalla el proceso seguido por el Letrado de la Administración de Justicia al resolver mediante decreto en el tercer día después del plazo para la impugnación por las demás partes.
+
+-----
+
+**Pregunta 97**
+En la jurisdicción contencioso-administrativa, es admisible recurso de reposición:
+A) Contra las providencias y los autos no susceptibles de apelación o casación
+B) Contra todo tipo de autos.
+C) Contra los autos que resuelvan los recursos de aclaración.
+D) Las respuestas a y b son correctas.
+<br>
+Correcta: Perfecto, has identificado correctamente la opción A como la situación en la que es admisible el recurso de reposición en la jurisdicción contencioso-administrativa, específicamente contra las providencias y los autos que no son susceptibles de apelación o casación.
+Errada: La opción correcta es la A, ya que el recurso de reposición es procedente contra providencias y autos que no son susceptibles de apelación o casación, según lo dispuesto en la jurisdicción contencioso-administrativa.
+
+-----
+
+**Pregunta 98**
+En la jurisdicción contencioso-administrativa, el recurso de casación se preparará ante la Sala de instancia en el plazo de:
+A) Veinte días, contados desde el siguiente a la notificación de la resolución que se recurre.
+B) Treinta días, contados desde el siguiente a la notificación de la resolución que se recurre.
+C) Diez días, contados desde el siguiente a la notificación de la resolución que se recurre.
+D) Quince días, contados desde el siguiente a la notificación de la resolución que se recurre.
+<br>
+Correcta: Correcto, la respuesta es la opción B. En la jurisdicción contencioso-administrativa, el plazo para preparar el recurso de casación es de treinta días a partir del día siguiente a la notificación de la resolución que se impugna.
+Errada: La respuesta adecuada es la opción B. Según la normativa vigente, el plazo para preparar el recurso de casación es de treinta días contados a partir del día siguiente al de la notificación de la resolución que se recurre.
+
+-----
+
+**Pregunta 99**
+De acuerdo con la LJCA, en relación con la ejecución provisional de la sentencia apelada, ¿cuál es la afirmación correcta?
+A) El Tribunal resolverá sobre la ejecución provisional en el término de los diez días siguientes a la audiencia de las partes.
+B) El Letrado de la Administración de Justicia resolverá sobre la ejecución provisional en el término de los diez días siguientes a la audiencia de las partes.
+C) El Tribunal resolverá sobre la ejecución provisional en el término de los cinco días siguientes a la audiencia de las partes. ✔
+D) El Letrado de la Administración de Justicia resolverá sobre la ejecución provisional en el término de los cinco días siguientes a la audiencia de las partes.
+<br>
+Correcta: ¡Excelente elección con la opción C\! La LJCA establece que el Tribunal resolverá sobre la ejecución provisional de la sentencia apelada en el término de cinco días tras la audiencia de las partes.
+Errada: La opción correcta es la C, donde se especifica que el Tribunal es quien resuelve sobre la ejecución provisional en un plazo de cinco días después de la audiencia de las partes, conforme lo establecido en la LJCA.
+
+-----
+
+**Pregunta 100**
+A tenor de la LJCA, ¿mediante qué resolución se inadmitirá el recurso de revisión interpuesto contra los decretos del LAJ que pongan fin al procedimiento?
+A) Mediante diligencia de ordenación.
+B) Mediante auto.
+C) Mediante providencia.
+D) Mediante decreto.
+<br>
+Correcta: Has seleccionado con acierto la opción C. Según la LJCA, la inadmisión de este tipo de recursos se efectuará mediante providencia.
+Errada: La selección correcta es la opción C. La LJCA dictamina que la inadmisión del recurso de revisión contra decretos del Letrado de la Administración de Justicia que ponen fin al procedimiento se realiza a través de una providencia.

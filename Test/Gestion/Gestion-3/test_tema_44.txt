@@ -1,0 +1,737 @@
+Pregunta: De acuerdo con el Artículo 275 de la Ley de Enjuiciamiento Criminal, si el delito por el cual se presenta la querella requiere la iniciativa de una parte, se considerará que ha sido abandonada por quien la presentó si la persona interesada omite impulsar el procedimiento durante:
+1)Si se omite seguir con el caso durante los cinco días después de la notificación del decreto que admite la querella.
+2)Si se omite seguir con el caso durante los diez días después de la notificación del decreto que admite la querella.
+3)Si se omite seguir con el caso durante los siete días después de la notificación del decreto que admite la querella.
+4)Si se omite seguir con el caso durante los veinte días después de la notificación de la providencia que lo ordene o desde la última notificación al interesado si el proceso estuviera paralizado por un mes.
+Respuesta: 4
+Correcta: ¡Exacto! Según el artículo 275, la opción 4) es la correcta.
+Errada: ¡Ups! La respuesta correcta es la opción 4), según lo especificado en el artículo 275 de la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del artículo 5 del Estatuto de la Víctima del Delito, el derecho a la información comprende todos los siguientes aspectos, excepto:
+1)La información sobre los servicios auxiliares de asesoramiento jurídico disponibles.
+2)La información sobre los servicios auxiliares de mediación disponibles.
+3)La información sobre los servicios auxiliares de comunicación disponibles.
+4)La información sobre el proceso mediante el cual una víctima puede ejercer sus derechos si vive en España.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Estatuto de la Víctima del Delito no contempla esa restricción.
+Errada: ¡Inténtalo de nuevo! La respuesta correcta es la opción 4). (Respuesta Correcta 4)
+###
+Pregunta: Si en un proceso penal común se interceptan comunicaciones entre un investigado y su abogado, ¿qué ocurre con esas comunicaciones?
+1)El juez no puede pausar el proceso hasta que dichas comunicaciones sean revisadas.
+2)El juez puede renunciar al proceso hasta que dichas comunicaciones sean revisadas.
+3)El juez puede desistir el proceso hasta que dichas comunicaciones sean revisadas.
+4)El juez puede pausar el proceso hasta que dichas comunicaciones sean revisadas.
+Respuesta: 4
+Correcta: ¡Correcto! El juez puede pausar el proceso hasta que dichas comunicaciones sean revisadas.
+Errada: ¡No es esa! La respuesta correcta es la opción 4). (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 118 de la Ley de Enjuiciamiento Criminal, se informa a cada individuo a quien se impute un delito sobre ciertos derechos. ¿Cuál de los siguientes derechos no está contemplado?
+1)El derecho a designar un experto que asista junto con aquellos nombrados por el magistrado.
+2)El derecho a estar al tanto de cualquier modificación esencial en la investigación o en los cargos imputados.
+3)El derecho a optar por no responder alguna o todas las cuestiones planteadas.
+4)El derecho a revisar las diligencias con suficiente tiempo antes de ser interrogado, para asegurar el derecho a la defensa.
+Respuesta: 1
+Correcta: ¡Bien! El derecho mencionado en la opción 1) no está especificado en el artículo 118 de la Ley de Enjuiciamiento Criminal.
+Errada: Lo siento, la respuesta correcta es la opción 1). Ese derecho no está especificado en el artículo 118 de la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, se dará prioridad a las necesidades de protección de las víctimas en:
+1)Delitos de lesiones.
+2)Delitos relacionados con la trata de personas.
+3)Delitos de amenazas.
+4)Delitos contra la salud pública.
+Respuesta: 2
+Correcta: ¡Exacto! Los delitos de trata de personas son especialmente considerados en el Estatuto de la Víctima del Delito.
+Errada: La respuesta correcta es la opción 2), ya que el Estatuto de la Víctima del Delito prioriza la protección en delitos de trata de personas. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso penal, ¿qué relación existe entre la acción civil y la acción penal derivada del mismo delito?
+1)La extinción de la acción civil siempre implica la de la acción penal.
+2)La extinción de la acción civil implica la de la acción penal solo cuando el magistrado lo vea necesario.
+3)La extinción de la acción civil implica la de la acción penal, dependiendo de las condiciones del caso.
+4)La extinción de la acción civil no implica la de la acción penal.
+Respuesta: 4
+Correcta: ¡Correcto! La acción civil y la acción penal son independientes en este contexto.
+Errada: No es correcto. Las acciones civiles y penales son independientes en este contexto. La respuesta correcta es la opción 4). (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito y el artículo 636 de la Ley de Enjuiciamiento Criminal, ¿quién tiene derecho a apelar el auto de sobreseimiento y en qué plazo?
+1)La víctima, en el plazo de diez días, aunque no se hubiera mostrado como parte en la causa.
+2)La víctima indirecta, en el plazo de diez días, aunque no se hubiera mostrado como parte en la causa.
+3)La víctima, en el plazo de quince días, con necesidad previa de haber participado en el proceso.
+4)La víctima directa, en el plazo de quince días, con necesidad previa de haber participado en el proceso.
+Respuesta: 1
+Correcta: ¡Muy bien! El Estatuto otorga a la víctima el derecho a apelar sin requerir su participación previa en el proceso, en el plazo de diez días.
+Errada: La opción correcta es la 1). La víctima puede apelar en el plazo de diez días sin la necesidad de haber intervenido previamente en el proceso. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, las autoridades judiciales y otras partes involucradas en la investigación adoptarán medidas para proteger la privacidad de las víctimas. Entre estas medidas se incluye:
+1)No impedir la divulgación de información que permita reconocer a víctimas menores o con discapacidad que necesiten protección adicional.
+2)Impedir la divulgación de información que no permita reconocer a víctimas menores o con discapacidad que necesiten protección adicional.
+3)Impedir la divulgación de información que permita reconocer a víctimas menores o con discapacidad que no necesiten protección adicional.
+4)Impedir la divulgación de información que permita reconocer a víctimas menores o con discapacidad que necesiten protección adicional.
+Respuesta: 4
+Correcta: ¡Perfecto! Es crucial proteger la identidad de las víctimas menores o con discapacidad que necesitan protección especial.
+Errada: ¡Inténtalo nuevamente! La respuesta correcta es la 4), pues se refiere a la protección de datos de víctimas menores o con discapacidad. (Respuesta Correcta 4)
+###
+Pregunta: Según el Estatuto de la Víctima del Delito, para determinar las medidas de protección para la víctima que podrían surgir del proceso, se considerarán:
+1)Las condiciones en las que ocurrió el delito, especialmente si fue violento.
+2)Las condiciones en las que ocurrió el delito, especialmente si no fue violento.
+3)Las características del supuesto perpetrador, en particular, si hay una relación de dependencia entre él y la víctima.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! Se toman en cuenta diversas circunstancias para determinar las medidas de protección adecuadas para la víctima.
+Errada: La respuesta correcta es la opción 1). Las circunstancias en las que ocurrió el delito son especialmente consideradas en la determinación de medidas de protección. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, ¿cuál es el plazo para que la víctima pueda interponer un recurso de apelación contra el auto de sobreseimiento libre o provisional?
+1)Diez días a contar desde su notificación.
+2)Quince días a contar desde su notificación.
+3)Siete días a contar desde su notificación.
+4)Doce días a contar desde su notificación.
+Respuesta: 1
+Correcta: ¡Correcto! La víctima tiene diez días desde la notificación para interponer un recurso de apelación.
+Errada: La respuesta correcta es la opción 1). La víctima tiene diez días desde la notificación para interponer un recurso. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley 4/2015, del Estatuto de la víctima del delito, ¿a quién se considera víctima directa?
+1)A cualquier persona física que haya sufrido un daño o perjuicio, ya sea físico, psíquico o económico, directamente causado por la comisión de un delito.
+2)A cualquier persona física que haya sufrido daño o perjuicio físico a causa de un delito.
+3)A cualquier persona física que haya sufrido daño o perjuicio psíquico a causa de un delito.
+4)A cualquier persona física que haya sufrido daño o perjuicio económico a causa de un delito.
+Respuesta: 1
+Correcta: ¡Excelente! Una víctima directa se refiere a aquel individuo que ha sufrido directamente debido a un delito.
+Errada: La respuesta correcta es la opción 1). Una víctima directa implica a aquel individuo que ha sufrido daño o perjuicio directamente a causa de un delito. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 3 de la Ley 4/2015, del Estatuto de la víctima del delito, las víctimas tienen derecho a un trato digno y respetuoso:
+1)Desde su primer contacto con las autoridades hasta el final del proceso penal.
+2)Desde su primer contacto con las autoridades, sin importar si se conoce al delincuente o el resultado del proceso.
+3)Desde su segundo contacto con las autoridades hasta un período adecuado después de la conclusión del proceso penal.
+4)Desde su primer contacto con las autoridades hasta un período adecuado después de la conclusión del proceso penal.
+Respuesta: 4
+Correcta: ¡Perfecto! Las víctimas tienen derechos garantizados desde el inicio hasta mucho después de la conclusión del proceso penal.
+Errada: La respuesta correcta es la opción 4). Las víctimas tienen derechos garantizados desde su primer contacto con las autoridades hasta un período adecuado después de la finalización del proceso penal. (Respuesta Correcta 4)
+###
+Pregunta: En un juicio por delito leve, si la entidad mercantil perjudicada no comparece a la vista oral, ¿qué ocurre con la acción civil?
+1)Se considerará que ha renunciado a la acción penal.
+2)Se considerará que ha renunciado a la acción civil.
+3)La renuncia del ofendido a la acción civil debe ser expresa y no se presume.
+4)La renuncia de la acción civil se presumirá tácitamente si la parte no comparece.
+Respuesta: 3
+Correcta: ¡Correcto! La renuncia a la acción civil debe ser explícita y no se infiere simplemente por la ausencia en el juicio.
+Errada: La respuesta correcta es la opción 3). La ausencia en un juicio no equivale automáticamente a una renuncia tácita de la acción civil. (Respuesta Correcta 3)
+###
+Pregunta: Los perjudicados por un delito que no se hubieren personado como parte en la causa y no hayan renunciado a su derecho, podrán ejercitar la acción penal:
+1)Hasta el inicio del juicio oral, adhiriéndose al escrito de acusación formulado por el Ministerio Fiscal o por las demás acusaciones personadas.
+2)Hasta el inicio del juicio oral, sin deber adherirse al escrito de acusación formulado por el Ministerio Fiscal o por las demás acusaciones personadas.
+3)Hasta el final del juicio oral, adhiriéndose al escrito de acusación formulado por el Ministerio Fiscal o por las demás acusaciones personadas.
+4)Hasta el inicio del juicio oral, adhiriéndose al escrito de acusación de la acusación particular.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los perjudicados pueden intervenir hasta el inicio del juicio oral y deben adherirse al escrito de acusación.
+Errada: La respuesta correcta es la opción 1). La intervención de los perjudicados es posible hasta el inicio del juicio oral. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 271 de la Ley de Enjuiciamiento Criminal, ¿qué funcionarios tienen el deber de ejercer la acción penal?
+1)Los funcionarios del Ministerio Fiscal, los Jueces de Instrucción, los Jueces de lo Penal y los Jueces de Paz.
+2)Los funcionarios del Ministerio Fiscal, sin excepciones.
+3)Los funcionarios del Ministerio Fiscal, salvo los que tengan la condición de aforados.
+4)Los funcionarios del Ministerio Fiscal, excepto los Jueces de Instrucción.
+Respuesta: 2
+Correcta: ¡Correcto! Los funcionarios del Ministerio Fiscal tienen el deber de ejercer la acción penal en forma de querella, en los delitos que requieren la iniciativa de la persona perjudicada.
+Errada: La respuesta correcta es la opción 2). Los funcionarios del Ministerio Fiscal ejercerán las acciones penales en forma de querella. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 13 de la Ley 4/2015, del Estatuto de la víctima del delito, ¿cuál es el plazo que se da a la víctima para formular alegaciones una vez que se le ha informado de una resolución sobre la situación personal del delincuente?
+1)Dos días.
+2)Cinco días.
+3)Tres días.
+4)Siete días.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 13 de la Ley 4/2015, la víctima tiene un plazo de 5 días para formular alegaciones.
+Errada: La respuesta correcta es la opción 2). La víctima tiene un plazo de 5 días para formular alegaciones según el artículo 13 de la Ley 4/2015. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento penal, ¿desde qué momento es obligatoria la asistencia letrada a la persona a la que se le atribuye un hecho delictivo?
+1)Desde que se dicte auto de apertura del juicio oral.
+2)Desde que se le informa de la imputación de un delito.
+3)Desde que se realice cualquier acto de investigación.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Exacto! La asistencia letrada es necesaria desde que a la persona se le atribuye un hecho delictivo.
+Errada: La respuesta correcta es la opción 2). La asistencia letrada es esencial desde que de las actuaciones resulte la imputación de un delito. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 512 de la Ley de Enjuiciamiento Criminal, si el presunto reo no es hallado en su domicilio y se ignora su paradero:
+1)El juez acordará que sea buscado por requisitorias que se enviarán al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia (SIRAJ) y se publicarán en el Tablón Edictal Judicial Único.
+2)Se le declarará en fuga.
+3)Se le declarará que ha renunciado.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! La nueva normativa establece el uso del SIRAJ y del Tablón Edictal Judicial Único para la búsqueda de los presuntos reos ausentes.
+Errada: La respuesta correcta es la opción 1). El juez ordenará la búsqueda a través de estos medios. (Respuesta Correcta 1)
+###
+Pregunta: De conformidad con el Estatuto de la Víctima del Delito, ¿en qué momento pueden las víctimas manifestar su deseo de no ser informadas sobre las actuaciones o resoluciones relativas al procedimiento penal?
+1)Hasta 5 días después del inicio del procedimiento.
+2)En cualquier momento del proceso, y la manifestación de este deseo será vinculante para el Ministerio Fiscal y el tribunal.
+3)Hasta 7 días después del inicio del procedimiento.
+4)Hasta 15 días después del inicio del procedimiento.
+Respuesta: 2
+Correcta: ¡Bien hecho! Las víctimas pueden manifestar su deseo de no ser informadas sobre la sentencia en cualquier momento.
+Errada: La respuesta correcta es la opción 2). Las víctimas pueden expresar su deseo de no ser informadas en cualquier momento del procedimiento. (Respuesta Correcta 2)
+###
+Pregunta: Según el Estatuto de la Víctima del Delito, el derecho a acceder de forma gratuita y confidencial a los servicios de asistencia y apoyo de las Administraciones públicas corresponde a:
+1)Ninguna es correcta.
+2)Las víctimas discapacitadas.
+3)Las víctimas menores de edad.
+4)A toda víctima, desde el primer contacto con las autoridades.
+Respuesta: 4
+Correcta: ¡Correcto! Según el Estatuto de la Víctima del Delito, todas las víctimas tienen derecho a acceder a los servicios de asistencia y apoyo de forma gratuita y confidencial.
+Errada: La respuesta correcta es la opción 4). Todas las víctimas, independientemente de su situación, tienen derecho a estos servicios. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 5 del Estatuto de la víctima del delito, desde el primer contacto con las autoridades, la víctima tiene derecho a recibir información sobre varios extremos. ¿Cuál de las siguientes opciones no es uno de esos derechos?
+1)Recibir información sobre el procedimiento por el cual la víctima puede obtener asistencia en el caso de que el delito haya sido cometido en el extranjero.
+2)Recibir información sobre los recursos que puede interponer contra las resoluciones que considere contrarias a sus derechos.
+3)Recibir información sobre las indemnizaciones a las que pueda tener derecho y, en su caso, el procedimiento para reclamarlas.
+4)Recibir información sobre la posibilidad de solicitar medidas de protección y, en su caso, el procedimiento para hacerlo.
+Respuesta: 1
+Correcta: ¡Exacto! El procedimiento para obtener asistencia en el caso de que el delito haya sido cometido en el extranjero no está contemplado en el artículo 5 del Estatuto de la víctima.
+Errada: La respuesta correcta es la opción 1). Ese procedimiento no es un extremo mencionado en el artículo 5 del Estatuto de la víctima. (Respuesta Correcta 1)
+###
+Pregunta: De conformidad con el artículo 7 del Estatuto de la víctima del delito, ¿en qué caso no se le facilitará a la víctima información relativa a la situación en la que se encuentra el procedimiento penal?
+1)Cuando lo acuerde el Juez motivadamente.
+2)Cuando el Juez o Tribunal lo acuerde por resolución motivada, a instancia del Ministerio Fiscal o de alguna de las partes, y se aprecie riesgo para el procedimiento.
+3)Cuando lo acuerde el Fiscal motivadamente.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Correcto! Se le debe proteger la integridad del proceso, evitando compartir información que pueda ser perjudicial para su desarrollo.
+Errada: La respuesta correcta es la opción 2). Se le debe proteger la integridad del proceso, evitando compartir información que pueda ser perjudicial para su desarrollo. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento penal, ¿cómo deben actuar las personas investigadas o acusadas?
+1)Representadas por procurador y defendidas por abogado desde la apertura del juicio oral, y desde el inicio del proceso por abogado, si así lo hubieran solicitado.
+2)Representadas por procurador, designándoseles de oficio cuando no tuvieran aptitud legal para hacerlo.
+3)Defendidas por abogado, designándoseles de oficio cuando no tuvieran aptitud legal para hacerlo.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Exacto! En el procedimiento penal, las personas investigadas deben actuar representadas por procurador y defendidas por abogado.
+Errada: La respuesta correcta es la opción 1). Es imperativo que las personas investigadas cuenten con representación y defensa adecuadas en el proceso penal. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 110 de la Ley de Enjuiciamiento Criminal, si los perjudicados por un delito no se personaren en la causa:
+1)Se entenderá que renuncian a la acción penal y a la civil.
+2)Se entenderá que renuncian a la acción penal, pero no a la civil.
+3)Se entenderá que no renuncian a la acción penal, pero sí a la civil.
+4)Se entenderá que no renuncian a ninguna de las acciones.
+Respuesta: 2
+Correcta: ¡Correcto! Aunque los perjudicados no se muestren como parte, no significa que renuncien a sus derechos.
+Errada: La respuesta adecuada es la opción 2). No mostrarse como parte no implica renunciar a derechos. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley de Enjuiciamiento Criminal, ¿en qué caso se extinguirá la acción civil derivada del delito?
+1)Se extinguirá si el agraviado renuncia expresamente.
+2)Se extinguirá si el agraviado renuncia tácitamente.
+3)No puede renunciarse si el Ministerio Fiscal ya la ha iniciado.
+4)Puede renunciarse si el Ministerio Fiscal ya la ha iniciado.
+Respuesta: 1
+Correcta: ¡Correcto! La renuncia expresa del agraviado puede extinguir la acción civil.
+Errada: La opción 1) es la correcta. La acción civil puede extinguirse con una renuncia expresa. (Respuesta Correcta 1)
+###
+Pregunta: Según el Estatuto de la Víctima del Delito, las víctimas que no hablen o comprendan el español o la lengua oficial tienen derecho a traducciones gratuitas de ciertos documentos. ¿Qué deben hacer para obtener estas traducciones?
+1)Ambas son correctas.
+2)Ninguna es correcta.
+3)Deben demostrar por qué un documento es esencial para acceder a la traducción gratuita.
+4)Pueden enviar una solicitud razonada para que se considere esencial un documento.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las víctimas tienen el derecho de solicitar traducciones, justificando la importancia del documento.
+Errada: La respuesta correcta es la opción 4). Las víctimas pueden presentar una solicitud justificada para obtener traducciones. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, en la etapa de enjuiciamiento, ¿cuál de las siguientes medidas no puede ser adoptada para proteger a las víctimas?
+1)Implementar medidas para evitar preguntas sobre la vida privada de la víctima no relacionadas con el delito en cuestión.
+2)Establecer medidas para prevenir el contacto visual entre la víctima y el presunto delincuente, incluso durante la presentación de pruebas.
+3)Llevar a cabo el juicio sin público.
+4)Asegurarse de que los profesionales que toman declaraciones a las víctimas hayan recibido capacitación especial para minimizar daños y en perspectiva de género, o con su asistencia.
+Respuesta: 4
+Correcta: ¡Correcto! El Estatuto no menciona específicamente la capacitación de los profesionales para tomar declaraciones.
+Errada: La respuesta correcta es la 4). El Estatuto no se refiere a la formación especial de los profesionales que toman las declaraciones. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal, ¿cómo deben presentarse las denuncias?
+1)Siempre de forma personal.
+2)Pueden presentarse por escrito, verbalmente o por vía telemática, en los casos y con los requisitos legalmente establecidos.
+3)Siempre de forma verbal.
+4)Siempre de forma electrónica.
+Respuesta: 2
+Correcta: ¡Exacto! Las denuncias pueden ser verbales o escritas según la LECrim, y también telemáticas bajo las condiciones de la nueva ley.
+Errada: La opción correcta es 2). Las denuncias en el proceso penal pueden ser verbales, escritas o telemáticas. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 266 de la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes afirmaciones sobre la denuncia es incorrecta?
+1)Si la denuncia es verbal, se redactará un acta por la autoridad o funcionario que la reciba.
+2)La autoridad o funcionario que reciba una denuncia escrita sellará y rubricará todas las páginas en presencia del denunciante.
+3)Si el denunciante no puede firmar una denuncia escrita, otra persona puede firmar en su lugar.
+4)No se podrán denunciar por vía telemática aquellos hechos de naturaleza violenta, pero sí aquellos que se hayan producido con violencia o intimidación.
+Respuesta: 4
+Correcta: ¡Bien hecho! La opción 4) es incorrecta porque la denuncia telemática no se puede presentar en casos de violencia o intimidación.
+Errada: La opción correcta es 4). Según la LECrim, no se pueden presentar denuncias telemáticas por hechos de naturaleza violenta o con intimidación. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal, si el culpable muere:
+1)Ninguna es correcta.
+2)La acción penal no se extingue y debe dirigirse exclusivamente contra sus herederos o sucesores.
+3)La acción civil se extingue, pero la acción penal persiste contra sus herederos y sucesores, y solo puede ejercerse en el ámbito civil.
+4)La acción penal se extingue, pero la acción civil persiste contra sus herederos y sucesores, y solo puede ejercerse en el ámbito civil.
+Respuesta: 4
+Correcta: ¡Correcto! Con la muerte del culpable, la acción penal se extingue, pero la acción civil sigue vigente.
+Errada: La respuesta correcta es la opción 4). La acción penal se extingue con la muerte del culpable, pero la acción civil puede continuar contra sus herederos en el ámbito civil. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, en caso de incertidumbre sobre la edad de la víctima y si no se puede determinar con seguridad, ¿qué se presume?
+1)Se considerará que es menor, según la Ley de Protección Jurídica del Menor.
+2)Se considerará que es menor de edad, a los efectos de la aplicación de las medidas de protección y asistencia previstas en el Estatuto de la Víctima del Delito.
+3)Se considerará que es adulto, según la Ley de Protección Jurídica del Menor.
+4)Se considerará que es mayor de edad según lo establecido en el Estatuto de la Víctima del Delito.
+Respuesta: 2
+Correcta: ¡Correcto! En caso de duda, se presume que la víctima es menor de edad según el Estatuto de la Víctima del Delito.
+Errada: La respuesta adecuada es la opción 2). Se presume la minoría de edad según el Estatuto mencionado. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley 4/2015, en casos de muerte o desaparición de una persona directamente causada por un delito, ¿a quién se aplica el Estatuto de la Víctima del Delito como víctimas indirectas?
+1)A los hijos de una persona con una relación similar a la del matrimonio con la víctima directa o que vivieran con ella en el momento de la muerte o desaparición.
+2)A los hijos de una persona con una relación similar a la del matrimonio con la víctima indirecta y que vivieran con ella en el momento de la muerte o desaparición.
+3)A los hijos de una persona con una relación similar a la del matrimonio con la víctima directa y que vivieran con ella en el momento de la muerte o desaparición.
+4)A los hijos de una persona con una relación similar a la del matrimonio con la víctima indirecta o que vivieran con ella en el momento de la muerte o desaparición.
+Respuesta: 3
+Correcta: ¡Bien hecho! Se consideran víctimas indirectas a los hijos de una persona con una relación similar a la del matrimonio con la víctima directa que convivían con ella.
+Errada: La respuesta adecuada es la opción 3). Los hijos de alguien con una relación similar al matrimonio con la víctima directa son considerados víctimas indirectas. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué circunstancias la extinción de la acción penal implica también la extinción de la acción civil?
+1)Siempre, incluso cuando la extinción se derive de una sentencia firme que establezca que no ocurrió el hecho que habría dado origen a la acción civil.
+2)Nunca, incluso cuando la extinción se derive de una sentencia firme que establezca que no ocurrió el hecho que habría dado origen a la acción civil.
+3)Nunca, excepto cuando la extinción se derive de una sentencia firme que establezca que no ocurrió el hecho que habría dado origen a la acción civil.
+4)Siempre, excepto cuando la extinción se derive de una sentencia firme que establezca que no ocurrió el hecho que habría dado origen a la acción civil.
+Respuesta: 3
+Correcta: ¡Correcto! La extinción de la acción penal no implica automáticamente la extinción de la acción civil, excepto en el caso mencionado.
+Errada: La respuesta correcta es la opción 3). Solo en ciertas circunstancias, como cuando se determina que no ocurrió el hecho, se extingue la acción civil con la penal. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo al artículo 841 de la LECrim, si se declara en rebeldía al procesado y está pendiente el juicio oral, ¿qué ocurre?
+1)Ninguna es correcta.
+2)No se suspenderá el juicio y se archivarán los autos.
+3)Se suspenderá el juicio y se archivarán los autos.
+4)Se suspenderá el juicio y no se archivarán los autos.
+Respuesta: 3
+Correcta: ¡Bien hecho! Si está pendiente el juicio oral y se declara en rebeldía al procesado, se suspende el juicio y se archivan los autos.
+Errada: La respuesta adecuada es la opción 3). En caso de declararse en rebeldía al procesado con juicio oral pendiente, se suspende el juicio. (Respuesta Correcta 3)
+###
+Pregunta: ¿Dónde se menciona la obligatoriedad de la intervención del procurador, la acreditación de su representación y sus relaciones con el poderdante?
+1)Real Decreto 1282/2002, Estatuto General de los Procuradores de los Tribunales de España.
+2)Real Decreto 1280/2002, Estatuto General de los Procuradores de los Tribunales de España.
+3)Real Decreto 1281/2002, Estatuto General de los Procuradores de los Tribunales de España.
+4)Real Decreto 1284/2002, Estatuto General de los Procuradores de los Tribunales de España.
+Respuesta: 3
+Correcta: ¡Exacto! Es en el Estatuto General de los Procuradores de los Tribunales donde se mencionan estas cuestiones.
+Errada: La respuesta adecuada es la opción 3). El Estatuto General de los Procuradores aborda estas materias. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuáles son las consecuencias derivadas de la declaración de rebeldía?
+1)Si no está pendiente el juicio oral al momento de la declaración, se suspende y se archivan los autos.
+2)Si está pendiente el juicio oral al momento de la declaración, se suspende y se archivan los autos.
+3)Si está pendiente el juicio oral al momento de la declaración, se suspende y no se archivan los autos.
+4)Si está pendiente el juicio oral al momento de la declaración, no se suspende y se archivan los autos.
+Respuesta: 2
+Correcta: ¡Correcto! La declaración de rebeldía tiene consecuencias específicas en la fase del juicio oral.
+Errada: La respuesta correcta es la opción 2). La declaración de rebeldía tiene un impacto directo si el juicio oral está pendiente. (Respuesta Correcta 2)
+###
+Pregunta: Según el art. 13 de la Ley del Estatuto de la víctima del delito, ¿cuánto tiempo tiene la víctima para informar al LAJ sobre su deseo de apelar la concesión de libertad condicional al convicto?
+1)5 días tras la notificación, con necesidad de asistencia de abogado.
+2)3 días tras la notificación, sin necesidad de asistencia de abogado.
+3)5 días tras la notificación, sin necesidad de asistencia de abogado.
+4)7 días tras la notificación, sin necesidad de asistencia de abogado.
+Respuesta: 3
+Correcta: ¡Bien hecho! La víctima tiene 5 días desde la notificación y no necesita la asistencia de un abogado para comunicar su deseo de apelar.
+Errada: La respuesta correcta es la opción 3). La víctima tiene un plazo corto y no necesita un abogado para este trámite específico. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 112 de la LeCrim, cuando solo se ejerce la acción penal por el ofendido, ¿qué ocurre?
+1)Ninguna es correcta.
+2)Se entiende que también se ha ejercitado la acción civil.
+3)La acción civil queda extinta.
+4)No se entiende que también se ha ejercitado la acción civil.
+Respuesta: 2
+Correcta: ¡Exacto! Al ejercer únicamente la acción penal, se presume que también se ha ejercido la acción civil.
+Errada: La respuesta correcta es la opción 2). Si el ofendido ejerce la acción penal, se entiende que también ha ejercitado la civil. (Respuesta Correcta 2)
+###
+Pregunta: Según el Estatuto de la Víctima del Delito, ¿cuál de las siguientes afirmaciones sobre la comunicación con las víctimas es incorrecta?
+1)Se considerarán sus características personales.
+2)Se considerarán sus circunstancias sociales.
+3)Se utilizará un lenguaje claro, sencillo y accesible.
+4)Se comunicará al representante o asistente en caso de menores o personas con capacidad modificada judicialmente.
+Respuesta: 2
+Correcta: ¡Correcto! La comunicación con las víctimas no se basa únicamente en sus circunstancias sociales.
+Errada: La respuesta correcta es la opción 2). Las comunicaciones deben tener en cuenta diversas características, no solo las circunstancias sociales. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a las personas presentes, peritos y testigos en diligencias del atestado, ¿cuál es la correcta?
+1)No serán invitados a firmarlo en la parte relevante y, si lo hicieran, se indicará el motivo.
+2)No serán invitados a firmarlo en la parte relevante y, si no lo hicieran, se indicará el motivo.
+3)Serán invitados a firmarlo en la parte relevante y, si no lo hicieran, se indicará el motivo.
+4)Serán invitados a firmarlo en la parte relevante y, si lo hicieran, se indicará el motivo.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las personas son invitadas a firmar y, si no lo hacen, debe indicarse el motivo.
+Errada: La respuesta adecuada es la opción 3). Las personas son invitadas a firmar y se debe documentar cualquier falta de firma. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuándo se extinguen las acciones penal y civil?
+1)Ambas acciones se extinguen por la muerte del culpable.
+2)La penal se extingue por la muerte del culpable, pero la civil subsiste contra sus herederos.
+3)Ninguna es correcta.
+4)La civil se extingue por la muerte del culpable, pero la penal subsiste contra sus herederos.
+Respuesta: 2
+Correcta: ¡Correcto! La muerte del culpable extingue la acción penal, pero la acción civil puede seguir contra sus herederos.
+Errada: La respuesta correcta es la opción 2). La muerte del culpable afecta solo a la acción penal, mientras que la civil puede continuar. (Respuesta Correcta 2)
+###
+Pregunta: Todos los ciudadanos españoles pueden querellarse:
+1)Hayan sido o no ofendidos por el delito, ejercitando la acción popular establecida en el artículo 101 de la Ley de Enjuiciamiento Criminal.
+2)Hayan sido o no ofendidos por el delito, ejercitando la acción popular establecida en el artículo 102 de la Ley de Enjuiciamiento Criminal.
+3)Hayan sido o no ofendidos por el delito, ejercitando la acción popular establecida en el artículo 103 de la Ley de Enjuiciamiento Criminal.
+4)Hayan sido o no ofendidos por el delito, ejercitando la acción popular establecida en el artículo 101 de la Ley de Enjuiciamiento Criminal.
+Respuesta: 4
+Correcta: ¡Correcto! De acuerdo con la LECrim, todos los ciudadanos españoles tienen la posibilidad de ejercitar la acción popular, independientemente de haber sido ofendidos o no por el delito.
+Errada: La respuesta correcta es la opción 4). Todos los ciudadanos españoles, hayan sido ofendidos o no por el delito, pueden ejercitar la acción popular. (Respuesta Correcta 4)
+###
+Pregunta: En relación con la regulación que de la querella hace la LECRIM, los extranjeros:
+1)Deben prestar fianza salvo que les corresponda en virtud de tratados internacionales o por el principio de reciprocidad.
+2)Pueden prestar fianza salvo que no les corresponda en virtud de tratados internacionales o por el principio de reciprocidad.
+3)Deben prestar fianza salvo que no les corresponda en virtud de tratados internacionales o por el principio de reciprocidad.
+4)No deben prestar fianza salvo que no les corresponda en virtud de tratados internacionales o por el principio de reciprocidad.
+Respuesta: 3
+Correcta: ¡Correcto! Los extranjeros deben prestar fianza, a menos que estén exentos debido a tratados internacionales o por reciprocidad.
+Errada: La respuesta correcta es la opción 3). Según la LECrim, los extranjeros deben prestar fianza, salvo excepciones. (Respuesta Correcta 3)
+###
+Pregunta: En relación con la participación de la víctima en el proceso penal, el artículo 11 de la Ley 4/2015, del Estatuto de la víctima del delito, no establece que:
+1)Toda víctima tiene derecho a ejercer la acción civil conforme a lo dispuesto en la Ley de Enjuiciamiento Criminal, con perjuicio de las excepciones que puedan existir.
+2)Toda víctima tiene derecho a ejercer la acción civil conforme a lo dispuesto en la Ley de Enjuiciamiento Civil, sin perjuicio de las excepciones que puedan existir.
+3)Toda víctima tiene derecho a ejercer la acción civil conforme a lo dispuesto en la Ley de Enjuiciamiento Criminal, sin perjuicio de las excepciones que puedan existir.
+4)Toda víctima tiene derecho a ejercer la acción civil conforme a lo dispuesto en la Ley de Enjuiciamiento Civil, con perjuicio de las excepciones que puedan existir.
+Respuesta: 2
+Correcta: ¡Bien hecho! La Ley del Estatuto de la víctima del delito no menciona el derecho a ejercer la acción civil según la Ley de Enjuiciamiento Civil.
+Errada: La respuesta correcta es la opción 2). La víctima tiene derechos según lo establecido en la Ley de Enjuiciamiento Criminal y no en la Ley de Enjuiciamiento Civil. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, cuando un delito ha sido cometido dentro de un grupo u organización criminal, la víctima podrá recurrir el auto que decida:
+1)La extinción de la pena, o la sustitución de la pena de prisión.
+2)La libertad provisional, la suspensión de la pena, o la clasificación del penado en tercer grado antes de que se extinga la mitad de la condena.
+3)La prisión provisional, la suspensión de la pena, o la clasificación del penado en tercer grado antes de que se extinga la mitad de la condena.
+4)La prisión provisional, la libertad condicional, o la clasificación del penado en tercer grado antes de que se extinga la mitad de la condena.
+Respuesta: 2
+Correcta: ¡Exacto! La víctima puede recurrir el auto cuando el delito ha sido cometido dentro de un grupo u organización criminal.
+Errada: La respuesta correcta es la opción 2). El artículo se refiere específicamente a delitos cometidos en el seno de un grupo u organización criminal. (Respuesta Correcta 2)
+###
+Pregunta: Si alguien es consciente de la comisión de un delito que debe ser perseguido de oficio, no está obligado a informar a:
+1)El Ministerio Fiscal.
+2)El representante de la Administración de Justicia.
+3)El representante del Juez.
+4)El Juez.
+Respuesta: 2
+Correcta: ¡Correcto! No existe la obligación de informar de un delito a un representante de la Administración de Justicia de forma directa.
+Errada: Lo siento, te has equivocado. Deberías haber elegido la opción 2). La obligación no se refiere a informar directamente a un representante de la Administración de Justicia. (Respuesta Correcta 2)
+###
+Pregunta: Si el afectado por un delito renuncia a su derecho de restitución, reparación o indemnización, ¿qué hará el Ministerio Fiscal?
+1)Se concentrará en solicitar la penalización de los responsables.
+2)Solicitará al LAJ el ofrecimiento de acciones al afectado.
+3)Solicitará al Fiscal el ofrecimiento de acciones al afectado.
+4)Solicitará al Juez el ofrecimiento de acciones al afectado.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Ministerio Fiscal se enfocará en buscar la penalización de los infractores si el afectado renuncia a su derecho.
+Errada: La respuesta correcta es la opción 1). El Ministerio Fiscal se centrará en la penalización de los responsables si hay una renuncia expresa. (Respuesta Correcta 1)
+###
+Pregunta: Con base en la Ley de Enjuiciamiento Criminal, ¿cuál de las siguientes declaraciones es verdadera?
+1)La acción civil es de carácter privado.
+2)El Juez o Magistrado puede iniciar la acción penal en todos los delitos.
+3)La acción penal es de carácter público.
+4)El Fiscal puede iniciar la acción penal en todos los delitos.
+Respuesta: 3
+Correcta: ¡Exacto! La acción penal es de naturaleza pública y está al alcance de todos.
+Errada: La respuesta correcta es la opción 3). La acción penal es pública y puede ser ejercida por cualquier ciudadano. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a los derechos de la víctima en el proceso penal, ¿cuál es la afirmación correcta?
+1)Cada víctima tiene el derecho de ejercer la acción penal de acuerdo a la Ley de Enjuiciamiento Criminal, considerando algunas excepciones.
+2)Cada víctima tiene el derecho de ejercer la acción civil de acuerdo a la Ley de Enjuiciamiento Criminal, considerando algunas excepciones.
+3)Cada víctima tiene el derecho de ejercer las acciones penal y civil de acuerdo a la Ley de Enjuiciamiento Criminal, considerando algunas excepciones.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las víctimas tienen el derecho de ejercer acciones tanto penales como civiles según la Ley de Enjuiciamiento Criminal, pero hay excepciones.
+Errada: Te has equivocado. La respuesta correcta es la opción 3). Las víctimas pueden ejercer tanto la acción penal como la civil según la Ley de Enjuiciamiento Criminal, pero existen excepciones. (Respuesta Correcta 3)
+###
+Pregunta: En un procedimiento penal abreviado, ¿en qué momento es obligatoria la presencia de un procurador?
+1)Cuando se imputa un delito a una persona específica.
+2)Desde el final formal del juicio oral.
+3)Desde el inicio formal del juicio oral.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! El procurador es necesario desde el inicio formal del juicio oral en un procedimiento penal abreviado.
+Errada: Te has equivocado. La intervención del procurador es obligatoria desde el inicio formal del juicio oral. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué disposición legal se encuentra el derecho de ejercer la acción popular?
+1)Artículo 101 de la Ley de Enjuiciamiento Criminal.
+2)Artículo 111 de la Ley de Enjuiciamiento Criminal.
+3)Artículo 115 de la Ley de Enjuiciamiento Criminal.
+4)Artículo 110 de la Ley de Enjuiciamiento Criminal.
+Respuesta: 1
+Correcta: ¡Bien hecho! La acción popular se establece en el artículo 101 de la Ley de Enjuiciamiento Criminal.
+Errada: La respuesta correcta es la opción 1). La acción popular se encuentra en el artículo 101 de la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 1)
+###
+Pregunta: Según el Estatuto de la Víctima del Delito, en la fase de juicio se pueden tomar medidas para evitar cuestionamientos sobre la vida privada de la víctima que no estén relacionados con el delito en cuestión. ¿Cuándo se permitirán tales preguntas?
+1)Cuando el Fiscal, de forma excepcional, considere que deben ser respondidas para evaluar con precisión la veracidad de la declaración de la víctima.
+2)Cuando el LAJ, de forma excepcional, considere que deben ser respondidas para evaluar con precisión la veracidad de la declaración de la víctima.
+3)Cuando el Juez o Tribunal, de forma excepcional, considere que deben ser respondidas para evaluar con precisión la veracidad de la declaración de la víctima.
+4)Cuando el Juez o Tribunal, de forma excepcional, considere que no deben ser respondidas para evaluar con precisión la veracidad de la declaración de la víctima.
+Respuesta: 3
+Correcta: ¡Correcto! Esas preguntas solo se permitirán cuando el Juez o Tribunal, de forma excepcional, considere necesario para evaluar adecuadamente la credibilidad de la víctima.
+Errada: La respuesta adecuada es la opción 3). Las preguntas sobre la vida privada de la víctima solo se permitirán de forma excepcional para evaluar su credibilidad. (Respuesta Correcta 3)
+###
+Pregunta: En relación con la acción penal que inicia un procedimiento de oficio debido a un delito o falta:
+1)Se extingue si la víctima renuncia a la acción civil.
+2)No se extingue con la renuncia del agraviado.
+3)Sí se extingue con la renuncia del agraviado.
+4)No se extingue si la víctima renuncia a la acción civil.
+Respuesta: 2
+Correcta: ¡Exacto! La acción penal que da inicio a un procedimiento de oficio no se extingue por la renuncia de la persona afectada.
+Errada: Te has equivocado. La respuesta correcta es la opción 2). La acción penal que inicia un procedimiento de oficio no se extingue por la renuncia del agraviado. (Respuesta Correcta 2)
+###
+Pregunta: Según el Estatuto de la víctima del delito, ¿quién no se categoriza como víctima indirecta del delito?
+1)Hijos de la víctima que vivieran con ella al momento de su muerte o desaparición.
+2)Terceras personas que hayan tenido pérdidas a causa del delito.
+3)Individuos con una relación afectiva similar a la de la víctima hasta su muerte o desaparición debido a un delito.
+4)Individuos bajo la tutela o cuidado de la víctima.
+Respuesta: 2
+Correcta: ¡Exacto! Terceras personas que hayan sufrido perjuicios a causa del delito no son consideradas víctimas indirectas.
+Errada: Te has equivocado. Las terceras personas que hayan sufrido perjuicios debido al delito no son consideradas como víctimas indirectas. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito, señale cuál no es un derecho básico de la víctima:
+1)Derecho a la compensación por costos del proceso.
+2)Derecho a servicios de traducción e interpretación.
+3)Tiempo de reflexión para garantizar los derechos de la víctima.
+4)Derecho a ser entendida y comprender.
+Respuesta: 1
+Correcta: ¡Correcto! El reembolso de los gastos del proceso no está enumerado como un derecho básico de la víctima en el Estatuto de la víctima del delito.
+Errada: La respuesta adecuada es la opción 1). El Estatuto de la víctima del delito no incluye el reembolso de los gastos del proceso como un derecho básico de la víctima. (Respuesta Correcta 1)
+###
+Pregunta: Señala la opción incorrecta. Según el artículo 118 de la Ley de Enjuiciamiento Criminal, cualquier persona a la que se le atribuya un delito tiene derecho a defenderse y, por lo tanto, será informada de los siguientes derechos:
+1)Derecho a revisar el expediente sin suficiente antelación para proteger su derecho de defensa y, en cualquier caso, antes del juicio.
+2)Derecho a revisar el expediente con suficiente antelación para proteger su derecho de defensa y, en cualquier caso, después del juicio.
+3)Derecho a revisar el expediente con suficiente antelación para proteger su derecho de defensa y, en cualquier caso, antes del juicio.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Bien hecho! La opción 3) es incorrecta, ya que el artículo 118 de la Ley de Enjuiciamiento Criminal no establece el derecho a revisar el expediente con suficiente antelación.
+Errada: La respuesta correcta es la opción 3). El artículo 118 de la Ley de Enjuiciamiento Criminal no establece específicamente el derecho a revisar el expediente con suficiente antelación antes del juicio. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 118 de la Ley de Enjuiciamiento Criminal, cuando se acuse a una persona de un acto delictivo, se le informará de sus derechos. Identifica cuál de estos no es uno de ellos:
+1)Derecho a abstenerse de declarar y no admitir su culpabilidad.
+2)Derecho a participar activamente en el proceso penal para defenderse conforme a lo estipulado en la ley.
+3)Derecho a revisar toda la documentación con tiempo suficiente para proteger su derecho de defensa y siempre antes del inicio del juicio.
+4)Derecho a pedir asistencia legal gratuita y conocer cómo solicitarla y los requisitos para obtenerla.
+Respuesta: 3
+Correcta: ¡Bien hecho! El artículo 118 de la Ley de Enjuiciamiento Criminal no establece el derecho a revisar toda la documentación con tiempo suficiente antes del inicio del juicio.
+Errada: La respuesta correcta es la opción 3). El artículo 118 de la Ley de Enjuiciamiento Criminal no especifica que el acusado tenga el derecho a revisar toda la documentación con antelación al inicio del juicio. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 105 de la Ley de Enjuiciamiento Criminal, ¿cuándo puede el Ministerio Fiscal presentar una denuncia en delitos que requieren que la persona perjudicada los persiga?
+1)Cuando la víctima es menor de edad, persona con discapacidad que necesita protección especial o está indefensa.
+2)Cuando la víctima es mayor de edad, persona con discapacidad que necesita protección especial o está indefensa.
+3)Cuando la víctima es menor de edad, persona sin discapacidad que necesita protección especial o está indefensa.
+4)Cuando la víctima es menor de edad, persona con discapacidad que necesita protección especial o no está indefensa.
+Respuesta: 1
+Correcta: ¡Correcto! De acuerdo con el artículo 105 de la Ley de Enjuiciamiento Criminal, el Ministerio Fiscal puede denunciar en delitos perseguibles a instancia de la persona agraviada si la víctima es menor de edad, una persona con discapacidad que requiere protección especial o está indefensa.
+Errada: La respuesta correcta es la opción 1). El artículo 105 de la Ley de Enjuiciamiento Criminal permite al Ministerio Fiscal presentar una denuncia en delitos perseguibles a instancia de la persona agraviada si la víctima es menor de edad, tiene alguna discapacidad que requiere protección especial o está indefensa. (Respuesta Correcta 1)
+###
+Pregunta: En relación con el acusador particular, identifica la opción errónea:
+1)La ley facilita su intervención a través del ofrecimiento de acciones que se describe en el artículo 109 de la Ley de Enjuiciamiento Criminal.
+2)Si no tiene plenos derechos civiles, aún puede ejercer la acción penal si el delito fue cometido contra él o sus propiedades.
+3)El acusador particular no necesita establecer una fianza para responder al resultado del juicio.
+4)Una persona condenada dos veces por sentencias firmes por denuncia o querella calumniosas no puede ser acusador particular.
+Respuesta: 4
+Correcta: ¡Correcto! Una persona condenada dos veces por denuncia o querella calumniosas puede ser acusador particular.
+Errada: La respuesta correcta es la opción 4). De hecho, una persona condenada dos veces por denuncia o querella calumniosas puede ser acusador particular. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal abreviado, si el interesado no ha designado un abogado de oficio, ¿quién solicitará su asignación al Colegio de Abogados?
+1)El Ministerio Fiscal.
+2)El Juez.
+3)La Policía Judicial.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Cualquiera de las entidades mencionadas puede solicitar la asignación de un abogado de oficio.
+Errada: La respuesta correcta es la opción 4). Cualquiera de las entidades mencionadas puede solicitar la designación de un abogado de oficio en el proceso penal abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 5 del Estatuto de la Víctima del Delito, ¿cuándo se actualiza la información proporcionada a las víctimas de delitos?
+1)Ninguna es correcta.
+2)Solo al final del procedimiento.
+3)Solo al inicio del procedimiento.
+4)Se actualiza en cada etapa del proceso para garantizar los derechos de la víctima.
+Respuesta: 4
+Correcta: ¡Correcto! La información se actualiza en cada etapa del proceso para garantizar que la víctima pueda ejercer sus derechos.
+Errada: La respuesta correcta es la opción 4). Es esencial que la información se actualice en cada fase para garantizar que la víctima pueda ejercer sus derechos. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 107 de la Ley de Enjuiciamiento Criminal, la renuncia a la acción civil o penal solo afecta a:
+1)El procurador del denunciante.
+2)El abogado del denunciante.
+3)La persona que renuncia.
+4)Todas son correctas.
+Respuesta: 3
+Correcta: ¡Correcto! La renuncia solo afecta a la persona que renuncia, no a terceros ni a la parte contraria.
+Errada: La respuesta correcta es la opción 3). La renuncia solo tiene efecto sobre quien renuncia y no afecta a otros involucrados en el proceso. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, al presentar una denuncia, ¿qué derecho tiene una víctima?
+1)Derecho a saber quién es el denunciante.
+2)Derecho a recibir una copia certificada de la denuncia.
+3)Derecho a la asistencia jurídica gratuita.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Correcto! La víctima tiene derecho a obtener una copia certificada de la denuncia.
+Errada: La respuesta correcta es la opción 2). Cuando se presenta una denuncia, la víctima tiene derecho a una copia certificada de la misma. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 115 de la Ley de Enjuiciamiento Criminal, cuando la acción penal se extingue por la muerte del culpable, ¿qué sucede con la acción civil?
+1)Subsiste contra los herederos y sucesores del culpable o solo puede ejercerse en la jurisdicción civil.
+2)Subsiste contra los herederos o sucesores del culpable y solo puede ejercerse en la jurisdicción civil.
+3)No subsiste contra los herederos y sucesores del culpable y solo puede ejercerse en la jurisdicción civil.
+4)Subsiste contra los herederos y sucesores del culpable y solo puede ejercerse en la jurisdicción civil.
+Respuesta: 4
+Correcta: ¡Correcto! La acción civil subsiste y puede ser ejercida contra los herederos y sucesores del fallecido en la jurisdicción civil.
+Errada: La respuesta correcta es la opción 4). A pesar de la extinción de la acción penal, la acción civil puede continuar contra los herederos y sucesores del culpable. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué norma se regula el Estatuto de la víctima del delito?
+1)La Ley 5/2015, de 27 de abril, del Estatuto de la víctima del delito.
+2)La Ley 4/2015, de 24 de abril, del Estatuto de la víctima del delito.
+3)La Ley 4/2016, de 27 de abril, del Estatuto de la víctima del delito.
+4)La Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito.
+Respuesta: 4
+Correcta: ¡Correcto! El Estatuto de la víctima del delito está regulado en la Ley 4/2015, de 27 de abril.
+Errada: La respuesta correcta es la opción 4). La regulación del Estatuto de la víctima del delito se encuentra en la Ley 4/2015, de 27 de abril. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 845 de la Ley de Enjuiciamiento Criminal, si el reo huye o se oculta después de notificada la sentencia con un recurso de casación pendiente, ¿qué ocurre?
+1)El recurso continúa y se solicita un Abogado y Procurador de oficio para el rebelde; la sentencia resultante será firme.
+2)El recurso sigue hasta que solo quede pendiente la deliberación.
+3)Ambas son correctas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! El recurso continúa y se designa Abogado y Procurador de oficio para el rebelde, y la sentencia que se dicta es firme.
+Errada: La respuesta correcta es la opción 1). El proceso sigue adelante, se nombra un Abogado y Procurador de oficio para el rebelde, y cualquier sentencia resultante es firme. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué valor procesal tienen los atestados policiales?
+1)Diligencia.
+2)Querella.
+3)Denuncia.
+4)Citación.
+Respuesta: 3
+Correcta: ¡Correcto! Los atestados policiales tienen el valor procesal de una denuncia.
+Errada: La respuesta correcta es la opción 3). Los atestados policiales son considerados denuncias a efectos procesales. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué situación se llamará mediante requisitoria a la persona jurídica imputada?
+1)Cuando no haya sido posible citarla para la segunda comparecencia debido a la falta de conocimiento de un domicilio social.
+2)Cuando haya sido posible citarla para la primera comparecencia debido a la falta de conocimiento de un domicilio social.
+3)Cuando no haya sido posible citarla para la primera comparecencia debido a la falta de conocimiento de un domicilio social.
+4)Cuando el LAJ lo considere necesario.
+Respuesta: 3
+Correcta: ¡Correcto! Se empleará la requisitoria cuando no se pueda citar a la persona jurídica para la primera comparecencia por desconocer su domicilio social.
+Errada: La respuesta correcta es la opción 3). La requisitoria se emplea cuando no es posible citar a la persona jurídica para la primera comparecencia debido a la falta de un domicilio social conocido. (Respuesta Correcta 3)
+###
+Pregunta: Respecto al artículo 102 de la Ley de Enjuiciamiento Criminal, señala quién no puede ejercitar la acción penal:
+1)El que goce de la plenitud de los derechos civiles.
+2)El que hubiera sido condenado al menos en una ocasión, por sentencia firme como reo del delito de denuncia o querella calumniosas.
+3)El Juez o Magistrado.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Exacto! El artículo 102 de la Ley de Enjuiciamiento Criminal establece que los Jueces o Magistrados no pueden ejercitar la acción penal.
+Errada: La respuesta correcta es la opción 3). Los Jueces o Magistrados, de acuerdo con el artículo 102 de la Ley de Enjuiciamiento Criminal, no pueden ejercer la acción penal. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, la renuncia a la acción penal por parte de la persona ofendida:
+1)Extingue por esta causa las acciones que nacen del delito o falta que puedan ser perseguidos sino a instancia de parte.
+2)Extingue por esta causa las acciones que no nacen del delito o falta que no puedan ser perseguidos sino a instancia de parte.
+3)Extingue por esta causa las acciones que nacen del delito o falta que no puedan ser perseguidos sino a instancia de parte.
+4)Extingue por esta causa las acciones que nacen del delito o falta que no puedan ser perseguidos sino de oficio.
+Respuesta: 3
+Correcta: ¡Correcto! La renuncia a la acción penal por parte de la persona ofendida extingue las acciones que surgen del delito o falta que solo pueden ser perseguidas a instancia de parte.
+Errada: La respuesta correcta es la opción 3). Cuando la persona ofendida renuncia a la acción penal, se extinguen las acciones que derivan de delitos o faltas que solo pueden ser perseguidos a instancia de parte. (Respuesta Correcta 3)
+###
+Pregunta: Respecto al acusador popular, señala la respuesta incorrecta:
+1)La ley procura su intervención mediante el llamado ofrecimiento de acciones regulado en el artículo 109 de la Ley de Enjuiciamiento Criminal.
+2)El acusador popular debe constituir fianza de la clase y cuantía que el Juez determine para responder de las resultas del juicio.
+3)El acusador popular debe comparecer en la causa por medio de procurador con poder especial y letrado, sin que pueda serle nombrado de oficio.
+4)No podrá ser acusador popular el que hubiere sido condenado dos veces por sentencia firme como reo del delito de denuncia o querella calumniosas.
+Respuesta: 1
+Correcta: ¡Correcto! El ofrecimiento de acciones regulado en el artículo 109 de la Ley de Enjuiciamiento Criminal no se refiere a la intervención del acusador popular.
+Errada: La respuesta correcta es la opción 1). El artículo 109 de la Ley de Enjuiciamiento Criminal sobre el ofrecimiento de acciones no está diseñado específicamente para el acusador popular. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, cuando se involucran operaciones policiales, ¿ante quién puede apelarse la decisión de no proporcionar interpretación o traducción a la víctima?
+1)Ante el Juez de lo Penal.
+2)Ante el Juez de instrucción.
+3)Ante el Juez de Primera Instancia.
+4)Ante el LAJ.
+Respuesta: 2
+Correcta: ¡Exacto! La decisión de no proporcionar interpretación o traducción a la víctima puede ser apelada ante el Juez de instrucción.
+Errada: La respuesta correcta es la opción 2). La apelación debe ser presentada ante el Juez de instrucción. (Respuesta Correcta 2)
+###
+Pregunta: Cuando a una persona se le imputa un delito, esta persona:
+1)Puede ejercer su derecho de defensa o participar en el procedimiento desde que se le informa de su existencia.
+2)No puede ejercer su derecho de defensa y participar en el procedimiento desde que se le informa de su existencia.
+3)Debe ejercer su derecho de defensa y participar en el procedimiento desde que se le informa de su existencia.
+4)Puede ejercer su derecho de defensa y participar en el procedimiento desde que se le informa de su existencia.
+Respuesta: 4
+Correcta: ¡Bien hecho! Una persona a la que se le imputa un delito puede ejercer su derecho de defensa y participar en el proceso desde el momento en que se le informa.
+Errada: La respuesta correcta es la 4). El individuo tiene derecho a ejercer su defensa y participar desde que se le informa del proceso. (Respuesta Correcta 4)
+###
+Pregunta: Con base en el Estatuto de la Víctima del Delito, ¿a quién se notificarán las decisiones que impongan o modifiquen medidas cautelares diseñadas para proteger a la víctima?
+1)A cualquier Fiscal cuando dichas medidas tengan como objetivo su seguridad.
+2)A cualquier víctima cuando dichas medidas tengan como objetivo su seguridad.
+3)A cualquier procurador cuando dichas medidas tengan como objetivo su seguridad.
+4)A cualquier Juez cuando dichas medidas tengan como objetivo su seguridad.
+Respuesta: 2
+Correcta: ¡Correcto! Se informará a cualquier víctima cuando las medidas cautelares se tomen específicamente para garantizar su seguridad.
+Errada: No es del todo preciso. La respuesta correcta es la 2), ya que se informará a la víctima cuando las medidas estén orientadas a protegerla. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la obligación de reportar un delito público observado, ¿quién no tiene este deber?
+1)Ninguna es correcta.
+2)Ambas son correctas.
+3)Niños que no han llegado a la pubertad y aquellos sin plena capacidad mental.
+4)Individuos que no tienen una posición de autoridad.
+Respuesta: 3
+Correcta: ¡Bien hecho! Los niños que no han alcanzado la pubertad y aquellos que no tienen plena capacidad mental están exentos de esta responsabilidad.
+Errada: Lo siento, esa no es la respuesta correcta. La opción 3) es la correcta, ya que excluye a niños que no han llegado a la pubertad y a aquellos sin plena capacidad mental de este deber. (Respuesta Correcta 3)
+###
+Pregunta: Con respecto al derecho de protección de las víctimas menores de edad, según la Ley 4/2015, ¿quién asegura el cumplimiento de este derecho?
+1)El LAJ.
+2)Los Jueces.
+3)La Fiscalía.
+4)La Policia Judicial.
+Respuesta: 3
+Correcta: ¡Acertaste! Es responsabilidad de la Fiscalía garantizar el derecho de protección de las víctimas menores de edad.
+Errada: La respuesta correcta es 3). La Fiscalía es la encargada de velar por la protección de las víctimas menores de edad. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el Estatuto de la Víctima del Delito, ¿cuál medida se implementará cuando se trate de una víctima de un delito contra la libertad sexual?
+1)Asegurarse de que la víctima pueda testificar sin estar físicamente en el tribunal.
+2)Tomar su declaración en espacios especialmente diseñados o adaptados para ello.
+3)Realizar el juicio sin la presencia del público.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! Se adoptarán medidas para que las víctimas de estos delitos declaren en espacios especialmente adaptados para su protección.
+Errada: La opción correcta es la 2). La declaración de la víctima debe tomarse en un espacio especialmente diseñado o adaptado para su protección. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto al Estatuto de la Víctima del Delito y las medidas de protección para las víctimas menores, indique la opción incorrecta:
+1)Durante la investigación, las declaraciones pueden ser grabadas por medios audiovisuales y posteriormente usadas en juicio según lo estipulado en la Ley de Enjuiciamiento Criminal.
+2)Es posible recibir la declaración a través de expertos.
+3)El Fiscal solicitará un defensor judicial para la víctima menor si identifica un conflicto de intereses entre la víctima y sus representantes legales.
+4)Si hay incertidumbre sobre la edad de la víctima, se asumirá que es menor de edad según lo establecido en el estatuto de las víctimas del delito.
+Respuesta: 1
+Correcta: ¡Correcto! Las declaraciones de víctimas menores pueden ser grabadas durante la investigación y luego utilizadas en el juicio según la Ley de Enjuiciamiento Criminal.
+Errada: La opción correcta es la 1). La Ley de Enjuiciamiento Criminal permite grabar las declaraciones de las víctimas menores durante la investigación. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 118 de la Ley de Enjuiciamiento Criminal, en el proceso penal regular, el ejercicio del derecho a la defensa:
+1)Incluye la asistencia de un procurador durante todas sus declaraciones y en diligencias como el reconocimiento, confrontaciones y recreación de los hechos.
+2)Incluye la asistencia de un abogado durante todas sus declaraciones y en diligencias como el reconocimiento, confrontaciones y recreación de los hechos.
+3)Incluye la asistencia de un abogado durante todas sus declaraciones o en diligencias como el reconocimiento, confrontaciones y recreación de los hechos.
+4)Incluye la asistencia de un abogado durante algunas de sus declaraciones y en diligencias como el reconocimiento, confrontaciones y recreación de los hechos.
+Respuesta: 2
+Correcta: ¡Bien hecho! El derecho de defensa incluye la presencia de un abogado en todas las declaraciones y ciertas diligencias.
+Errada: La respuesta adecuada es la 2). El derecho de defensa garantiza la asistencia de un abogado en todas las declaraciones y ciertas diligencias. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la acción civil, el Ministerio Fiscal debe presentarla:
+1)Ninguna es correcta.
+2)Junto con la penal, independientemente de si hay o no acusador particular.
+3)Junto con la penal, si hay acusador particular.
+4)Junto con la penal, si no hay acusador particular.
+Respuesta: 2
+Correcta: ¡Exacto! El Ministerio Fiscal debe presentar la acción civil junto con la penal, independientemente de si hay o no acusador particular.
+Errada: La opción correcta es la 2). El Ministerio Fiscal debe presentar la acción civil junto con la penal, sin importar la presencia o ausencia de un acusador particular. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el Estatuto de la Víctima del Delito y en relación con el derecho a obtener información sobre el proceso penal, ¿cuál de las siguientes afirmaciones es correcta?
+1)Cualquier abogado será notificada de decisiones que establezcan o modifiquen medidas cautelares personales, especialmente cuando estas medidas estén destinadas a asegurar su protección.
+2)Cualquier víctima será notificada de decisiones que establezcan o modifiquen medidas cautelares personales, especialmente cuando estas medidas estén destinadas a asegurar su protección.
+3)Cualquier víctima será notificada de decisiones que establezcan o modifiquen medidas cautelares personales, especialmente cuando estas medidas no estén destinadas a asegurar su protección.
+4)Cualquier víctima será notificada de decisiones que anulen o modifiquen medidas cautelares personales, especialmente cuando estas medidas estén destinadas a asegurar su protección.
+Respuesta: 2
+Correcta: ¡Exactamente! Se notificará a las víctimas sobre decisiones relacionadas con medidas cautelares personales que busquen garantizar su seguridad.
+Errada: La afirmación correcta es la 2). Las víctimas serán informadas sobre decisiones que involucren medidas cautelares personales destinadas a su protección. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la obligación de reportar un delito público observado, ¿quién no tiene este deber?
+1)Aquellos menores de 18 años.
+2)Personas que no estén en plena facultad de sus capacidades mentales.
+3)Los preadolescentes y aquellos que no estén en plena facultad de sus capacidades mentales.
+4)Personas que no tienen estatus de autoridad.
+Respuesta: 3
+Correcta: ¡Correcto! Los preadolescentes y quienes no estén en plena capacidad mental están excluidos del deber de denunciar un delito público.
+Errada: La respuesta adecuada es la 3). Los preadolescentes y aquellos que no tienen plenas capacidades mentales están exentos de este deber. (Respuesta Correcta 3)

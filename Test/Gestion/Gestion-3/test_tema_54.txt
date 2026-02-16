@@ -1,0 +1,449 @@
+Pregunta: De acuerdo al artículo 962 de la LECrim, ¿cuál de los siguientes delitos leves no está contemplado para el procedimiento de juicio de delitos leves?
+1)Delito leve de uso indebido de vehículos motorizados.
+2)Delito leve de imposiciones forzadas.
+3)Delito leve de homicidio.
+4)Delito leve de hurto.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 962 de la LECrim no contempla el delito leve de uso indebido de vehículos motorizados para el procedimiento de juicio de delitos leves.
+Errada: Lo siento, la respuesta correcta es la opción A: Delito leve de uso indebido de vehículos motorizados. El artículo 962 de la LECrim no menciona este delito en el procedimiento de juicio para delitos leves. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 973 de la LECrim, en relación con las personas ofendidas y perjudicadas por el delito leve, ¿cuándo se les notificará la sentencia?
+1)Sí recibirán notificación a menos que lo pidan explícitamente.
+2)No recibirán notificación a menos que lo pidan explícitamente.
+3)Serán informados aunque ya hayan intervenido o comparecido en el juicio.
+4)Serán informados aunque no hayan intervenido o comparecido en el juicio.
+Respuesta: 4
+Correcta: ¡Bien hecho! De acuerdo al artículo 973 de la LECrim, las personas ofendidas y perjudicadas serán informadas de la sentencia incluso si no han intervenido o comparecido en el juicio.
+Errada: La respuesta correcta es la opción 4. Según el artículo 973 de la LECrim, las personas ofendidas y perjudicadas serán informadas de la sentencia aunque no hayan intervenido o comparecido en el proceso. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso de delitos leves, si el juicio oral no puede llevarse a cabo o concluirse en el día designado por un motivo justificado, ¿cuándo señalará el Letrado de la Administración de Justicia la fecha para su realización o continuación?
+1)Lo más pronto posible, y en cualquier caso, dentro de los cinco días siguientes.
+2)Lo más pronto posible, y en cualquier caso, dentro de los tres días siguientes.
+3)Lo más pronto posible, y en cualquier caso, dentro de los siete días siguientes.
+4)Lo más pronto posible, y en cualquier caso, dentro de los diez días siguientes.
+Respuesta: 3
+Correcta: ¡Exacto! Si por un motivo justificado el juicio oral no puede celebrarse o concluir en el día señalado, el Letrado de la Administración de Justicia lo programará lo más pronto posible, pero siempre dentro de los siete días siguientes.
+Errada: Incorrecto. La respuesta adecuada es la opción 3. El Letrado de la Administración de Justicia señalará el juicio lo más pronto posible, pero siempre dentro de los siete días siguientes. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 965 y subsiguientes de la LeCrim, si el acusado, habiendo sido citado correctamente, falta sin justificación al juicio de delito leve, ¿qué ocurre?
+1)El juicio no se suspende, a menos que el Fiscal, por iniciativa propia o a petición de una parte, considere esencial su declaración.
+2)El juicio no se suspende, a menos que el Juez, por iniciativa propia o a petición de una parte, considere esencial su declaración.
+3)El juicio se suspende, a menos que el Juez, por iniciativa propia o a petición de una parte, considere esencial su declaración.
+4)El juicio no se suspende, a menos que el Juez, por iniciativa propia considere superflua su declaración.
+Respuesta: 2
+Correcta: ¡Muy bien! Si el acusado falta sin justificación, el juicio no se suspende a menos que el Juez lo vea necesario.
+Errada: La opción correcta es la 2. El juicio no se suspende a menos que el Juez, ya sea de oficio o a petición de una parte, considere esencial la declaración del acusado. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 976 LECrim, la sentencia pronunciada en el juicio sobre delitos leves puede apelarse en:
+1)En un período de dos días tras su notificación.
+2)En un período de siete días tras su notificación.
+3)En un período de diez días tras su notificación.
+4)En un período de cinco días tras su notificación.
+Respuesta: 4
+Correcta: ¡Correcto! De acuerdo al artículo 976 LECrim, la sentencia en el juicio sobre delitos leves puede ser apelada dentro de los cinco días siguientes a su notificación.
+Errada: La respuesta correcta es la opción 4. Según el artículo 976 LECrim, la sentencia en el juicio sobre delitos leves puede ser apelada dentro de los cinco días siguientes a su notificación. (Respuesta Correcta 4)
+###
+Pregunta: En relación con las personas afectadas por el delito, la sentencia pronunciada en el procedimiento para el juicio de delitos leves:
+1)Se les informará, incluso si no se han presentado o comparecido en el juicio.
+2)Se les informará, solo si se han presentado o comparecido en el juicio.
+3)No se les informará, incluso si se han presentado o comparecido en el juicio.
+4)No se les informará si no se han presentado o comparecido en el juicio.
+Respuesta: 1
+Correcta: ¡Correcto! Las personas afectadas por el delito recibirán notificación de la sentencia, incluso si no se han presentado o comparecido en el juicio.
+Errada: La respuesta correcta es la opción 1. Las personas afectadas serán notificadas de la sentencia, independientemente de si se han presentado o asistido al juicio. (Respuesta Correcta 1)
+###
+Pregunta: Para el juicio sobre delitos leves, ¿a quiénes se citará?
+1)Al Ministerio Fiscal, al demandante o denunciante si lo hubiere, al acusado y a testigos y peritos que puedan informar sobre los hechos.
+2)Al Ministerio Fiscal y al demandante.
+3)Al Ministerio Fiscal y al demandante o denunciante si lo hubiere.
+4)Al Ministerio Fiscal, al demandante o denunciante si lo hubiere, y al acusado.
+Respuesta: 1
+Correcta: ¡Exacto! Para el juicio sobre delitos leves se citará al Ministerio Fiscal, demandante o denunciante, acusado, testigos y peritos relevantes.
+Errada: La respuesta adecuada es la opción 1. Se citará a todas las partes pertinentes, incluido el Ministerio Fiscal, el demandante o denunciante, el acusado, y a los testigos y peritos relevantes. (Respuesta Correcta 1)
+###
+Pregunta: Identifique la declaración correcta en relación con el procedimiento para el juicio de delitos leves:
+1)Ninguna es correcta.
+2)Si las partes citadas no comparecen y justifican su ausencia, podrán ser multadas con cantidades que oscilen entre 200 y 2.000 euros.
+3)Si las partes citadas comparecen y no justifican su retraso, podrán ser multadas con cantidades que oscilen entre 200 y 2.000 euros.
+4)Si las partes citadas no comparecen y no justifican su ausencia, podrán ser multadas con cantidades que oscilen entre 200 y 2.000 euros.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las partes que no comparezcan al juicio de delitos leves sin justificar su ausencia pueden enfrentar multas entre 200 y 2.000 euros.
+Errada: La opción correcta es la 4. Las partes citadas que no asistan y no presenten una razón válida pueden ser sancionadas con multas de 200 a 2.000 euros. (Respuesta Correcta 4)
+###
+Pregunta: Si en el proceso por delitos leves no se puede dictar sentencia al concluir el juicio, ¿cuánto tiempo tiene el Juez para hacerlo?
+1)Tres días.
+2)Cuatro días.
+3)Cinco días.
+4)Seis días.
+Respuesta: 1
+Correcta: ¡Exacto! El juez tiene un plazo de tres días para dictar sentencia si no puede hacerlo al concluir el juicio de delitos leves.
+Errada: La respuesta adecuada es la opción 1. El juez dispone de tres días para dictar la sentencia si no ha sido posible hacerlo al finalizar el juicio sobre delitos leves. (Respuesta Correcta 1)
+###
+Pregunta: En base al art. 969 LECRIM, ¿está obligado el Fiscal a asistir a los juicios por delito leve?
+1)Depende de la gravedad del delito.
+2)Sí, el Fiscal asistirá a juicios por delito leve siempre que haya sido citado.
+3)Nunca.
+4)Sí, el Fiscal asistirá a juicios por delito leve siempre.
+Respuesta: 2
+Correcta: ¡Bien hecho! Según el art. 969 LECRIM, el Fiscal asistirá a los juicios por delito leve siempre que sea citado.
+Errada: La respuesta correcta es la opción 2. Según el artículo 969 LECRIM, el Fiscal deberá asistir a los juicios por delito leve siempre que haya sido citado. (Respuesta Correcta 2)
+###
+Pregunta: En relación con el procedimiento de delitos leves, ¿a quién se notifica la sentencia de apelación?
+1)Solo a las partes del proceso.
+2)A los afectados por el delito leve, independientemente de su participación en el proceso.
+3)Tanto a los afectados por el delito leve como a terceros con interés en el proceso.
+4)A todos los mencionados.
+Respuesta: 2
+Correcta: ¡Exacto! La sentencia de apelación se notificará a los afectados por el delito leve, independientemente de si participaron en el proceso.
+Errada: La opción correcta es la 2. Según el procedimiento de delitos leves, la sentencia de apelación se notificará a todos los afectados por el delito, independientemente de su participación en el procedimiento. (Respuesta Correcta 2)
+###
+Pregunta: Si el denunciado reside fuera del área jurisdiccional competente para el juicio por delito leve, según el artículo 970 LECrim:
+1)Necesita asistir y puede enviar alegaciones escritas o designar un representante legal para defenderse.
+2)Necesita asistir y debe enviar alegaciones escritas o designar un representante legal para defenderse.
+3)No necesita asistir, pero no puede enviar alegaciones escritas o designar un representante legal para defenderse.
+4)No necesita asistir y puede enviar alegaciones escritas o designar un representante legal para defenderse.
+Respuesta: 4
+Correcta: ¡Bien hecho! Si el denunciado vive fuera del área competente, tiene varias opciones, entre ellas enviar alegaciones o designar un representante legal.
+Errada: La respuesta adecuada es la opción 4. Según el artículo 970 LECrim, si el denunciado reside fuera del área competente, tiene la opción de enviar alegaciones por escrito o designar un representante legal. (Respuesta Correcta 4)
+###
+Pregunta: En el juicio por delitos leves, según el art. 970 LECRIM, ¿cuándo el denunciado no está obligado a asistir al juicio?
+1)En delitos leves por hurto.
+2)Solo cuando el Letrado de la Administración de Justicia así lo indique.
+3)Cuando el denunciante vive fuera de la jurisdicción del tribunal.
+4)Cuando el denunciado vive fuera de la jurisdicción del tribunal.
+Respuesta: 4
+Correcta: ¡Correcto! Según el art. 970 LECRIM, el denunciado no está obligado a asistir al juicio si reside fuera de la jurisdicción del tribunal.
+Errada: La respuesta adecuada es la opción 4. De acuerdo con el art. 970 LECRIM, un denunciado que resida fuera de la jurisdicción del juzgado no está obligado a asistir al juicio. (Respuesta Correcta 4)
+###
+Pregunta: En el juicio por delitos leves, si las personas citadas no comparecen sin una razón justificada:
+1)Podrán ser sancionadas con una multa de 200 a 2.000 euros.
+2)Podrán ser sancionadas con una multa de 300 a 3.000 euros.
+3)Podrán ser sancionadas con una multa de 200 a 1.000 euros.
+4)Podrán ser sancionadas con una multa de 500 a 6.000 euros.
+Respuesta: 1
+Correcta: ¡Correcto! La multa para quienes no comparezcan sin motivo justificado puede variar entre 200 y 2.000 euros.
+Errada: La respuesta correcta es la opción 1. Aquellas personas que no comparezcan al juicio por delitos leves sin una razón válida pueden ser sancionadas con una multa que oscila entre 200 y 2.000 euros. (Respuesta Correcta 1)
+###
+Pregunta: Marque la opción incorrecta respecto al procedimiento por delitos leves:
+1)El juicio comienza con la lectura de la querella o denuncia, si existen, seguido del testimonio de los testigos y otras pruebas presentadas.
+2)El juicio es público.
+3)El Fiscal siempre asistirá a los juicios por delito leve.
+4)La querella debe cumplir con los requisitos del artículo 277, excepto la firma de un abogado o procurador.
+Respuesta: 3
+Correcta: ¡Exacto! No es cierto que el Fiscal siempre asista a los juicios por delito leve.
+Errada: La opción incorrecta es la 3. No es un requisito que el Fiscal asista siempre a los juicios por delito leve. (Respuesta Correcta 3)
+###
+Pregunta: La sentencia pronunciada en un juicio por delitos leves:
+1)Se notificará a las víctimas exclusivamente, incluso si no han intervenido en el procedimiento.
+2)Se notificará a las víctimas y perjudicados, solo si han intervenido en el procedimiento.
+3)Se notificará a las víctimas y perjudicados, incluso si no han intervenido en el procedimiento.
+4)No es recurrible en segunda instancia.
+Respuesta: 3
+Correcta: ¡Correcto! La sentencia se notificará a todas las víctimas y perjudicados, independientemente de su participación en el procedimiento.
+Errada: La respuesta correcta es la 3. Las víctimas y perjudicados recibirán notificación de la sentencia, incluso si no han participado en el procedimiento. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cómo comienzan los juicios por delito leve?
+1)Con la presentación de pruebas por parte de la defensa.
+2)Con la lectura de la querella o denuncia, si las hubiera.
+3)Con la presentación de pruebas por parte de la acusación particular.
+4)Con el interrogatorio de las partes.
+Respuesta: 2
+Correcta: ¡Exacto! Los juicios por delito leve comienzan con la lectura de la querella o denuncia, si las hay.
+Errada: La opción correcta es 2. Los juicios por delito leve comienzan con la lectura de la querella o denuncia, si las hay. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la grabación de la vista en el procedimiento por delitos leves, si se cuenta con los medios necesarios, ¿es obligatoria la presencia del Letrado de la Administración de Justicia?
+1)No es necesario, a menos que la defensa lo solicite al menos tres días antes de la vista.
+2)No es necesario, a menos que la defensa lo solicite al menos cuatro días antes de la vista.
+3)No es necesario, a menos que la defensa lo solicite al menos cinco días antes de la vista.
+4)No es necesario, a menos que la defensa lo solicite al menos dos días antes de la vista.
+Respuesta: 4
+Correcta: ¡Correcto! La presencia del Letrado no es obligatoria a menos que la defensa lo solicite al menos dos días antes de la vista.
+Errada: La respuesta correcta es la 4. No es necesario que el Letrado de la Administración de Justicia esté presente, a menos que la defensa lo solicite con al menos dos días de antelación a la vista. (Respuesta Correcta 4)
+###
+Pregunta: Cuando la persecución del delito leve requiera la denuncia del perjudicado u ofendido, y el Fiscal no asista al juicio, la declaración del denunciante en el juicio:
+1)No tendrá valor de acusación.
+2)Tendrá valor de acusación, aunque no los califique ni señale pena.
+3)Tendrá valor de acusación, solo si los califica y señala pena.
+4)Solo tendrá valor de acusación si califica los hechos, pero sin indicar pena.
+Respuesta: 2
+Correcta: ¡Exacto! La declaración del denunciante tiene valor de acusación aunque no califique los hechos ni señale una pena.
+Errada: La respuesta correcta es 2. La declaración del denunciante en juicio tiene valor de acusación, independientemente de que no califique los hechos ni especifique una pena. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento sobre delitos leves, contra la sentencia que se dicte en segunda instancia:
+1)Se podrá interponer recurso de súplica.
+2)Se podrá interponer recurso de reforma.
+3)Se podrá interponer recurso de protesta.
+4)No habrá lugar a recurso alguno.
+Respuesta: 4
+Correcta: ¡Correcto! Tras una sentencia en segunda instancia por delitos leves, no se puede interponer ningún recurso adicional.
+Errada: La respuesta correcta es 4. Después de una sentencia en segunda instancia en el procedimiento por delitos leves, no hay lugar a ningún otro recurso. (Respuesta Correcta 4)
+###
+Pregunta: Pepe, condenado por la Sección de Instrucción del Tribunal de Instancia de Bilbao por un delito leve de hurto, desea apelar la sentencia. ¿Ante qué órgano se interpone el recurso?
+1)Ante la Sección de lo Penal del Tribunal de Instancia de Bilbao.
+2)Ante la misma Sección de Instrucción que dictó la sentencia.
+3)Directamente ante la Audiencia Provincial de Bizkaia.
+4)Ante la Presidencia del Tribunal de Instancia de Bilbao.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 976 de la LECrim, el recurso de apelación debe presentarse ante el mismo órgano judicial que dictó la resolución recurrida, en este caso, la Sección de Instrucción.
+Errada: Incorrecto. La respuesta correcta es la 2. El recurso de apelación se interpone ante el mismo órgano que dictó la sentencia, aunque sea resuelto por un órgano superior. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento por delitos leves, generalmente, las notificaciones que se deben hacer a las partes:
+1)Se realizarán por correo electrónico o teléfono, salvo que no cuenten con estos medios o lo pidan explícitamente, en cuyo caso se enviarán las notificaciones por correo ordinario.
+2)Se realizarán por correo electrónico o teléfono, siempre.
+3)Se realizarán por correo electrónico o teléfono, excepto que cuenten con estos medios.
+4)Se realizarán por correo ordinario siempre.
+Respuesta: 1
+Correcta: ¡Bien hecho! En general, las notificaciones en procedimientos por delitos leves se realizan por correo electrónico o teléfono, a menos que no sea posible o que la parte lo solicite de otra manera.
+Errada: La respuesta correcta es 1. Las notificaciones en procedimientos por delitos leves generalmente se realizan por correo electrónico o teléfono, a menos que no sea posible o la parte lo solicite de otra manera. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué situaciones ordenará el juez el sobreseimiento del procedimiento por delitos leves a petición del Ministerio Fiscal, según el artículo 963 LECrim?
+1)Cuando el delito leve denunciado sea de escasa gravedad y no haya un interés público insignificante en la persecución del hecho.
+2)Cuando el delito leve denunciado sea de escasa gravedad y haya un interés público relevante en la persecución del hecho.
+3)Cuando el delito leve denunciado sea de gran gravedad y no haya un interés público relevante en la persecución del hecho.
+4)Cuando el delito leve denunciado sea de escasa gravedad y no haya un interés público relevante en la persecución del hecho.
+Respuesta: 4
+Correcta: ¡Exacto! El juez ordenará el sobreseimiento del procedimiento por delitos leves cuando estos sean de escasa gravedad y no exista un interés público significativo en su persecución.
+Errada: La respuesta correcta es 4. El juez ordenará el sobreseimiento del procedimiento por delitos leves en los casos en que estos sean de escasa gravedad y no haya un interés público significativo en su persecución. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley de Enjuiciamiento Criminal, ¿a qué órgano corresponde la ejecución de las sentencias dictadas en los juicios por delitos leves?
+1)Al órgano que haya dictado la sentencia en primera instancia.
+2)A la Audiencia Provincial que resuelva la apelación, en todo caso.
+3)A un servicio común de ejecución creado específicamente para delitos leves.
+4)A la Sección de lo Penal del Tribunal de Instancia.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 975 de la LECrim establece que la ejecución corresponde al órgano que conoció del juicio en primera instancia.
+Errada: Incorrecto. La respuesta correcta es la 1. Conforme al artículo 975 de la LECrim, el órgano que dictó la sentencia es el competente para su ejecución. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento por delitos leves, ¿cómo se informa a la persona denunciada sobre los hechos y su derecho a la asistencia de abogado?
+1)Da igual el medio.
+2)Depende del criterio del fiscal.
+3)Siempre por escrito.
+4)Siempre por voz.
+Respuesta: 3
+Correcta: ¡Correcto! La citación, que incluye la información sobre los hechos denunciados y los derechos del investigado como la asistencia letrada, se entrega por escrito para garantizar la constancia y seguridad jurídica.
+Errada: La respuesta correcta es la 3. Para garantizar la debida constancia y los derechos del denunciado, la información sobre los hechos y su derecho a abogado se realiza por escrito a través de la cédula de citación. (Respuesta Correcta 3)
+###
+Pregunta: En los juicios por delito leve, si el denunciado vive fuera de la jurisdicción del tribunal:
+1)No tiene que asistir al juicio y debe enviar un escrito al juez presentando su defensa.
+2)No tiene que asistir al juicio y puede enviar un escrito al juez presentando su defensa.
+3)Tiene que asistir al juicio y puede enviar un escrito al juez presentando su defensa.
+4)Tiene que asistir al juicio y debe enviar un escrito al juez presentando su defensa.
+Respuesta: 2
+Correcta: ¡Bien Hecho! Si el denunciado vive fuera de la jurisdicción del tribunal, no tiene que asistir al juicio y puede enviar un escrito al juez presentando su defensa.
+Errada: La respuesta correcta es la 2. Si el denunciado vive fuera de la jurisdicción del tribunal, no tiene que asistir al juicio y puede enviar un escrito al juez presentando su defensa. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso por delitos leves, según el artículo 969 de la LECrim, ¿qué requisitos debe cumplir la querella?
+1)Debe cumplir con los requisitos del artículo 276, sin necesidad de firma de abogado ni procurador.
+2)Debe cumplir con los requisitos del artículo 277, sin necesidad de firma de abogado ni procurador.
+3)Debe cumplir con los requisitos del artículo 278, sin necesidad de firma de abogado ni procurador.
+4)Debe cumplir con los requisitos del artículo 279, sin necesidad de firma de abogado ni procurador.
+Respuesta: 2
+Correcta: ¡Bien hecho! Debe cumplir con los requisitos del artículo 277, sin necesidad de firma de abogado ni procurador.
+Errada: La respuesta correcta es la 2. Según el artículo 969 de la LECrim, debe cumplir con los requisitos del artículo 277, sin necesidad de firma de abogado ni procurador. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento para el juicio sobre delitos leves, ¿cuál de las siguientes afirmaciones sobre las decisiones que el juez debe tomar si considera procedente la apertura del juicio no es correcta?
+1)El juez ordenará el sobreseimiento del procedimiento y el archivo de las diligencias cuando lo solicite el Ministerio Fiscal, basándose en las circunstancias establecidas en el art. 960 LECRIM. Esta decisión sólo será notificada a las personas ofendidas por el delito si así lo han solicitado.
+2)El juez ordenará el sobreseimiento del procedimiento y el archivo de las diligencias cuando lo solicite el Ministerio Fiscal, basándose en las circunstancias establecidas en el art. 961 LECRIM. Esta decisión sólo será notificada a las personas ofendidas por el delito si así lo han solicitado.
+3)El juez ordenará el sobreseimiento del procedimiento y el archivo de las diligencias cuando lo solicite el Ministerio Fiscal, basándose en las circunstancias establecidas en el art. 963 LECRIM. Esta decisión sólo será notificada a las personas ofendidas por el delito si así lo han solicitado.
+4)El juez ordenará el sobreseimiento del procedimiento y el archivo de las diligencias cuando lo solicite el Ministerio Fiscal, basándose en las circunstancias establecidas en el art. 962 LECRIM. Esta decisión sólo será notificada a las personas ofendidas por el delito si así lo han solicitado.
+Respuesta: 3
+Correcta: ¡Correcto! La afirmación es incorrecta porque el artículo 963.2 de la LECrim establece que la resolución de sobreseimiento se notificará a los ofendidos, sin condicionarlo a que lo hayan solicitado previamente.
+Errada: La respuesta correcta es la 3. La afirmación es incorrecta, ya que el artículo 963.2 de la LECrim indica que la notificación del sobreseimiento a los ofendidos es obligatoria, no supeditada a su solicitud. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 976 LECrim, la sentencia dictada en un juicio por delitos leves:
+1)Puede ser apelada dentro de los cinco días siguientes a su notificación.
+2)Puede ser apelada dentro de los siete días siguientes a su notificación.
+3)Puede ser apelada dentro de los seis días siguientes a su notificación.
+4)Puede ser apelada dentro de los diez días siguientes a su notificación.
+Respuesta: 1
+Correcta: ¡Bien Hecho! La sentencia dictada en un juicio por delitos leves puede ser apelada dentro de los cinco días siguientes a su notificación.
+Errada: La respuesta correcta es la 1. La sentencia dictada en un juicio por delitos leves puede ser apelada dentro de los cinco días siguientes a su notificación. (Respuesta Correcta 1)
+###
+Pregunta: ¿Es posible llevar a cabo un juicio por delitos leves sin la presencia de la persona denunciada?
+1)Sí.
+2)Nunca.
+3)Si el denunciante quiere.
+4)Si el juez así lo requiere.
+Respuesta: 1
+Correcta: ¡Correcto! Sí es posible llevar a cabo un juicio por delitos leves sin la presencia de la persona denunciada, según lo regulado en los artículos 970 y 971 de la LECrim.
+Errada: La respuesta correcta es la 1. Sí es posible llevar a cabo un juicio por delitos leves sin la presencia de la persona denunciada. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 967 LECrim, ¿cuándo se seguirán las reglas generales de defensa y representación de las partes en los procedimientos por delitos leves?
+1)Cuando se trate de un delito leve con una pena de multa que tenga un límite máximo de, al menos, tres meses.
+2)Cuando se trate de un delito leve con una pena de multa que tenga un límite máximo de, al menos, cinco meses.
+3)Cuando se trate de un delito leve con una pena de multa que tenga un límite máximo de, al menos, seis meses.
+4)Cuando se trate de un delito leve con una pena de multa que tenga un límite máximo de, al menos, cuatro meses.
+Respuesta: 3
+Correcta: ¡Bien hecho! En efecto, el artículo 967 de la LECrim indica que se seguirán las reglas generales de defensa y representación en aquellos delitos leves con una pena de multa con un límite máximo de, al menos, seis meses.
+Errada: ¡Oh, no! La respuesta correcta es la opción 3. Los procedimientos por delitos leves seguirán las reglas generales de defensa y representación cuando se trate de una pena de multa con un límite máximo de, al menos, seis meses. (Respuesta Correcta 3)
+###
+Pregunta: En un juicio por delito leve, una vez dictada la sentencia oralmente, todas las partes, presentes y debidamente asistidas, manifiestan su decisión de no recurrir. ¿A quién corresponde declarar la firmeza de la sentencia en ese mismo acto?
+1)Al Letrado de la Administración de Justicia, mediante decreto oral.
+2)Al Juez, que lo declarará oralmente.
+3)Al Ministerio Fiscal, si está presente.
+4)La firmeza se declara automáticamente, sin necesidad de pronunciamiento expreso.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 973.3 de la LECrim atribuye expresamente al Juez la función de declarar oralmente la firmeza de la sentencia en ese mismo acto si las partes manifiestan su intención de no recurrir.
+Errada: La respuesta correcta es la 2. Según el artículo 973.3 de la LECrim, es el Juez quien debe declarar la firmeza de la sentencia en el mismo acto del juicio oral. (Respuesta Correcta 2)
+###
+Pregunta: Si los testigos o peritos no asisten al juicio por delitos leves y no presentan una razón válida, ¿cuál sería la sanción?
+1)Una multa que va de 200 a 2.000 euros.
+2)Trabajos comunitarios de 1 a 100 días.
+3)Una multa que va de 500 a 2.000 euros.
+4)Trabajos comunitarios de 50 días.
+Respuesta: 1
+Correcta: ¡Muy bien! La sanción adecuada sería una multa que va de 200 a 2.000 euros.
+Errada: ¡Lo siento! La respuesta acertada es la opción 1. Si los testigos o peritos no asisten y no tienen una justificación, pueden ser multados con una cantidad que va de 200 a 2.000 euros. (Respuesta Correcta 1)
+###
+Pregunta: Respecto a las citaciones para los juicios sobre delitos leves:
+1)Deben enviarse a una dirección de correo ordinario.
+2)No pueden enviarse a una dirección de correo electrónico.
+3)Deben enviarse a una dirección de correo electrónico.
+4)Pueden enviarse a una dirección de correo electrónico.
+Respuesta: 4
+Correcta: ¡Correcto! Las citaciones para juicios por delitos leves pueden remitirse a una dirección de correo electrónico.
+Errada: ¡Casi! La respuesta correcta es la opción 4. Las citaciones para los juicios sobre delitos leves pueden enviarse a una dirección de correo electrónico. (Respuesta Correcta 4)
+###
+Pregunta: Si el acusado, debidamente citado, falta injustificadamente al juicio por delito leve, ¿qué ocurre?
+1)El juicio y su resolución se suspenderán, salvo que el Fiscal lo estime necesario, ya sea de oficio o por petición.
+2)El juicio y su resolución no se suspenderán, salvo que el Juez lo estime necesario, ya sea de oficio o por petición de parte.
+3)El juicio y su resolución se suspenderán, salvo que el Juez lo estime necesario, ya sea de oficio o por petición de parte.
+4)El juicio y su resolución no se suspenderán, siempre que el Juez lo estime necesario, ya sea de oficio o por petición de parte.
+Respuesta: 2
+Correcta: ¡Exacto! Si el acusado falta sin justificación, el juicio y su resolución no se suspenderán, a menos que el Juez lo considere necesario.
+Errada: ¡Te has equivocado! La respuesta correcta es la opción 2. Aunque el acusado no asista, el juicio y su resolución no se detendrán a menos que el Juez lo estime necesario. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el plazo para apelar la sentencia del juicio por delitos leves?
+1)En los dos días posteriores a su notificación.
+2)En los cinco días posteriores a su notificación.
+3)En los tres días posteriores a su notificación.
+4)En los cuatro días posteriores a su notificación.
+Respuesta: 2
+Correcta: ¡Correcto! La apelación de la sentencia se puede hacer dentro de los cinco días siguientes a su notificación.
+Errada: ¡Vuelve a intentarlo! La respuesta correcta es la opción 2. Tienes un plazo de cinco días después de recibir la notificación para apelar. (Respuesta Correcta 2)
+###
+Pregunta: Si durante el servicio de guardia no es posible realizar el juicio por delitos leves, pero el Juez de guardia considera que la competencia corresponde a la misma Sección de Instrucción, ¿qué se hará?
+1)El Letrado de la Administración de Justicia fijará una fecha para el juicio, que deberá celebrarse en un plazo no superior a siete días.
+2)El Juez fijará una nueva fecha en el plazo de cinco días.
+3)Se archivarán las actuaciones y se iniciará un procedimiento ordinario.
+4)El Letrado de la Administración de Justicia señalará la vista para el día hábil siguiente, sin excepción.
+Respuesta: 1
+Correcta: ¡Bien hecho! Según el artículo 965 de la LECrim, el Letrado de la Administración de Justicia es quien fija la fecha para el juicio en estas circunstancias, y lo hará en un plazo no superior a siete días.
+Errada: ¡Oh! La respuesta correcta es la opción 1. Es el Letrado de la Administración de Justicia quien fija la fecha del juicio en un plazo no superior a siete días, conforme al artículo 965 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: Según el art. 963 LECRIM, ¿cuándo no hay un interés público destacado en perseguir delitos leves patrimoniales?
+1)Cuando se haya compensado el daño y no haya denuncia del afectado.
+2)Cuando se haya compensado el daño y haya denuncia del afectado.
+3)Cuando no se haya compensado el daño y no haya denuncia del afectado.
+4)Cuando no se haya compensado el daño y no haya atestado.
+Respuesta: 1
+Correcta: ¡Perfecto! No hay un interés público relevante cuando se ha reparado el daño y no hay denuncia por parte del afectado.
+Errada: ¡No es eso! La respuesta correcta es la opción 1. La persecución no es de interés público cuando el daño ha sido reparado y el perjudicado no ha presentado una denuncia. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento por delitos leves, ¿a quién no es necesario citar para la celebración del juicio?
+1)Al letrado.
+2)Al Juez.
+3)Al Fiscal.
+4)A los miembros de la Policía Judicial que hubieren participado en el atestado.
+Respuesta: 4
+Correcta: ¡Exacto! No es necesario citar a los miembros de la Policía Judicial que han participado en el atestado.
+Errada: La respuesta correcta es la opción 4. No es necesario citar a los miembros de la Policía Judicial que han intervenido en el atestado. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento para el juicio por delitos leves, ¿cuándo el Letrado de la Administración de Justicia señalará la fecha más inmediata posible, en un plazo máximo de siete días, para la celebración o continuación del juicio oral?
+1)En caso de que por una razón justificada el juicio pueda llevarse a cabo en la fecha establecida o no pueda concluirse en un solo acto.
+2)En caso de que por una razón injustificada el juicio no pueda llevarse a cabo en la fecha establecida o no pueda concluirse en un solo acto.
+3)En caso de que por una razón justificada el juicio no pueda llevarse a cabo en la fecha establecida o no pueda concluirse en un solo acto.
+4)En caso de que por una razón justificada el juicio no pueda llevarse a cabo en la fecha establecida o pueda concluirse en un solo acto.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia señalará la fecha más inmediata en las circunstancias descritas en la opción 3.
+Errada: La respuesta correcta es la opción 3. Si hay una razón justificada, el Letrado de la Administración de Justicia señalará la fecha más próxima. (Respuesta Correcta 3)
+###
+Pregunta: En la ejecución de la sentencia penal dictada en un proceso por delitos leves, en relación a la reparación del daño y la indemnización de perjuicios, ¿qué se aplicará?
+1)Las disposiciones de la Ley de Enjuiciamiento Criminal, y siempre será iniciado de oficio por el Juez que la dictó.
+2)Las disposiciones de la Ley de Enjuiciamiento Civil, y siempre será iniciado a instancia de parte por el Juez que la dictó.
+3)Las disposiciones de la Ley de Enjuiciamiento Civil, y siempre será iniciado de oficio por el Juez que la dictó.
+4)Las disposiciones de la Ley de Enjuiciamiento Civil, y nunca será iniciado de oficio por el Juez que la dictó.
+Respuesta: 3
+Correcta: ¡Correcto! Las normas de la Ley de Enjuiciamiento Civil se aplicarán, y el Juez que dictó la sentencia siempre iniciará el proceso de oficio.
+Errada: La respuesta correcta es la opción 3. El Juez que dictó la sentencia iniciará el proceso de oficio, según las disposiciones de la Ley de Enjuiciamiento Civil. (Respuesta Correcta 3)
+###
+Pregunta: En la ejecución de la sentencia en juicios sobre delitos leves, ¿a quién corresponde?
+1)Al órgano que haya llevado el juicio.
+2)Al órgano que haya llevado el recurso.
+3)Al órgano que haya llevado el atestado.
+4)Al órgano que haya llevado el juicio nunca.
+Respuesta: 1
+Correcta: ¡Así es! La ejecución de la sentencia en juicios por delitos leves recae en el órgano que conoció del juicio.
+Errada: ¡No es eso! La respuesta correcta es la opción 1. La ejecución de la sentencia en juicios por delitos leves es responsabilidad del órgano que llevó a cabo el juicio. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 14 de la LECrim, tras la reforma de la LO 1/2025, ¿a qué órgano corresponde, con carácter general, el conocimiento y fallo de los juicios por delito leve?
+1)A la Sección de lo Penal del Tribunal de Instancia.
+2)A los Jueces de Paz del lugar de comisión del delito.
+3)A la Sección de Instrucción de los Tribunales de Instancia.
+4)A la Audiencia Provincial, en única instancia.
+Respuesta: 3
+Correcta: ¡Correcto! La Ley Orgánica 1/2025 ha modificado la estructura judicial, y el nuevo artículo 14.1 de la LECrim atribuye esta competencia a las Secciones de Instrucción de los Tribunales de Instancia.
+Errada: La respuesta correcta es la 3. Con la implantación de los Tribunales de Instancia, el nuevo artículo 14.1 de la LECrim establece que el conocimiento y fallo de los juicios por delito leve corresponde a la Sección de Instrucción. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento por delitos leves, respecto a la grabación de la vista y su documentación:
+1)El juicio oral se grabará en un soporte adecuado para la grabación y reproducción de audio solo.
+2)El juicio oral se grabará en un soporte adecuado para la grabación y reproducción de audio y vídeo.
+3)El juicio oral no se grabará en un soporte adecuado para la grabación y reproducción de audio y vídeo.
+4)El juicio oral se grabará en un soporte adecuado para la grabación exclusivamente.
+Respuesta: 2
+Correcta: ¡Bien hecho! La opción correcta es que el juicio oral se grabará en un soporte adecuado para grabar y reproducir audio y vídeo.
+Errada: ¡Inténtalo de nuevo! La respuesta correcta es la opción 2. Se grabará el juicio oral en un medio adecuado para audio y vídeo. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 969 de la LECrim, cuando el Fiscal no está presente en el juicio por delitos leves, ¿qué valor tiene la declaración del denunciante en el juicio cuando afirma los hechos denunciados?
+1)El testimonio del denunciado en el juicio que confirma los hechos tendrá validez de acusación sin necesidad de describirlos o especificar la sanción.
+2)El testimonio del denunciante en el juicio que confirma los hechos denunciados tendrá validez de acusación con necesidad de describirlos y especificar la sanción.
+3)El testimonio del denunciante en el juicio que confirma los hechos denunciados tendrá validez de acusación con necesidad de describirlos o especificar la sanción.
+4)El testimonio del denunciante en el juicio que confirma los hechos denunciados tendrá validez de acusación sin necesidad de describirlos o especificar la sanción.
+Respuesta: 4
+Correcta: ¡Correcto! El testimonio del denunciante en el juicio tiene validez de acusación sin necesidad de describir los hechos ni especificar la sanción.
+Errada: Incorrecto. La correcta es que el testimonio del denunciante tiene validez de acusación sin describir los hechos ni especificar la sanción. (Respuesta Correcta 4)
+###
+Pregunta: Durante el juicio por delito leve, ¿cuál es la secuencia de eventos?
+1)El juicio se inicia con la presentación de la querella o denuncia, seguido del interrogatorio de los testigos presentados, y la realización de pruebas adicionales que el Fiscal, si está presente, propone y que el Juez encuentra pertinentes.
+2)El juicio se inicia con la presentación de la querella o denuncia, seguido del interrogatorio de los testigos presentados, y la realización de pruebas adicionales que el Fiscal, si está ausente, propone y que el Juez encuentra pertinentes.
+3)El juicio no se inicia con la presentación de la querella o denuncia, seguido del interrogatorio de los testigos presentados, y la realización de pruebas adicionales que el Fiscal, si está presente, propone y que el Juez encuentra pertinentes.
+4)El juicio se inicia con la presentación de la querella o denuncia, seguido del interrogatorio de los testigos presentados, pero no con la realización de pruebas adicionales que el Fiscal, si está presente, propone y que el Juez encuentra pertinentes.
+Respuesta: 1
+Correcta: ¡Correcto! El juicio inicia con la presentación de la querella o denuncia, sigue con el interrogatorio de testigos y las pruebas adicionales propuestas por el Fiscal.
+Errada: Incorrecto. El juicio inicia con la presentación de la querella o denuncia, seguido del interrogatorio de testigos y las pruebas que propone el Fiscal. (Respuesta Correcta 1)
+###
+Pregunta: En relación con el juicio por delitos leves, ¿cuándo la Policía Judicial no podrá realizar la citación?
+1)Al ser alertados sobre un comportamiento que no se asemeja a un delito leve de amenazas.
+2)Al ser alertados sobre un comportamiento que se asemeja a un delito leve de amenazas.
+3)Cuando se les informa de una situación que se asemeja a un delito leve de acoso.
+4)Cuando se les informa de una situación que no se asemeja a un delito leve de acoso.
+Respuesta: 3
+Correcta: ¡Correcto! La Policía Judicial no puede realizar la citación cuando se les informa de un hecho que se asemeja a un delito leve de acoso.
+Errada: Incorrecto. No pueden realizar la citación en casos que se asemejan a un delito leve de acoso. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso por delitos leves, si ambas partes, tras conocer el fallo, deciden no apelar, ¿qué acción toma el Juez?
+1)Proclamará la mutabilidad de la sentencia en los tres días subsiguientes.
+2)Proclamará la inmutabilidad de la sentencia en los tres días subsiguientes.
+3)Declarará la revocabilidad de la sentencia inmediatamente.
+4)Declarará la irrevocabilidad de la sentencia inmediatamente.
+Respuesta: 4
+Correcta: ¡Correcto! Si ambas partes deciden no apelar, el Juez declara la sentencia como definitiva inmediatamente.
+Errada: Incorrecto. La acción correcta del Juez es declarar la sentencia como definitiva inmediatamente si ambas partes optan por no apelar. (Respuesta Correcta 4)
+###
+Pregunta: En el ámbito penal, para los delitos leves, si el juicio oral no se finaliza en una sola sesión, ¿qué establece la Ley respecto a su continuación?
+1)El Letrado de la Administración de Justicia determinará la fecha más cercana posible para continuar, y esta debe ser dentro de los siguientes siete días, informando a las partes involucradas.
+2)El Tramitador Procesal determinará la fecha más cercana posible para continuar, y esta debe ser dentro de los siguientes siete días, informando a las partes involucradas.
+3)El Gestor Procesal determinará la fecha más cercana posible para continuar, y esta debe ser dentro de los siguientes siete días, informando a las partes involucradas.
+4)El Juez determinará la fecha más cercana posible para continuar, y esta debe ser dentro de los siguientes siete días, informando a las partes involucradas.
+Respuesta: 1
+Correcta: ¡Correcto! Si el juicio oral no concluye en una sola sesión, el Letrado de la Administración de Justicia señalará la fecha más cercana posible dentro de los siete días siguientes.
+Errada: Incorrecto. La Ley estipula que el Letrado de la Administración de Justicia debe determinar la fecha más cercana posible para continuar, dentro de los siete días siguientes. (Respuesta Correcta 1)
+###
+Pregunta: Si en un juicio de delitos leves las partes deciden no presentar recurso después de conocer el veredicto, ¿en qué momento el magistrado confirma que la sentencia es firme?
+1)A los tres días.
+2)Al día.
+3)A las 10 horas.
+4)Inmediatamente en ese mismo momento.
+Respuesta: 4
+Correcta: ¡Bien hecho! Has elegido correctamente, mostrando tu entendimiento sobre el proceso legal en delitos leves.
+Errada: Desafortunadamente, esa no es la respuesta correcta. Te sugiero repasar el proceso de juicios por delitos leves para tener una mejor claridad sobre este punto. (Respuesta Correcta 4)

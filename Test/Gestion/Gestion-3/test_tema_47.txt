@@ -1,0 +1,296 @@
+Pregunta: Según el artículo 627 de la Ley de Enjuiciamiento Criminal, una vez finalizado el sumario y llegados los autos y pruebas al Tribunal, y habiendo sido designado un Magistrado ponente, ¿en qué periodo se pasarán los autos para instrucción y a quiénes?
+1)Entre cinco y diez días, primero al Ministerio Fiscal, luego al Procurador del querellante (si se ha presentado), y finalmente a la defensa del o de los procesados.
+2)Entre tres y diez días, primero al Ministerio Fiscal, luego al Procurador del querellante (si se ha presentado), y finalmente a la defensa del o de los procesados.
+3)Entre tres y cinco días, primero al Ministerio Fiscal, luego al Procurador del querellante (si se ha presentado), y finalmente a la defensa del o de los procesados.
+4)Entre tres y seis días, primero al Ministerio Fiscal, luego al Procurador del querellante (si se ha presentado), y finalmente a la defensa del o de los procesados.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo mencionado, se pasan primero al Ministerio Fiscal, luego al Procurador del querellante y, por último, a la defensa del procesado.
+Errada: Incorrecto. De acuerdo con el artículo 627 de la LECRIM, los autos se pasan primero al Ministerio Fiscal, luego al Procurador del querellante y, por último, a la defensa del procesado. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 622 de la LECRIM, ¿en qué circunstancias puede el Ministerio Fiscal notificar al Juez de instrucción que en el sumario se cuenta con elementos suficientes para proceder a la calificación de hechos y avanzar al juicio oral?
+1)Si no existe acusador privado.
+2)Si existe acusador privado.
+3)Si no hay actor civil presente.
+4)Si hay actor civil presente.
+Respuesta: 1
+Correcta: ¡Correcto! El Ministerio Fiscal puede informar en ausencia de un acusador privado.
+Errada: Lo siento, eso no es correcto. El Ministerio Fiscal puede informar cuando no hay acusador privado. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de los siguientes argumentos o excepciones puede ser planteado en un artículo de previo pronunciamiento?
+1)El argumento de litisconsorcio necesario.
+2)El argumento de caducidad.
+3)El argumento de prescripción.
+4)El argumento de cosa juzgada.
+Respuesta: 4
+Correcta: ¡Bien hecho! El argumento de cosa juzgada puede ser planteado en un artículo de previo pronunciamiento.
+Errada: Incorrecto. Es el argumento de cosa juzgada el que puede ser planteado en un artículo de previo pronunciamiento. (Respuesta Correcta 4)
+###
+Pregunta: Basado en el artículo 637 de la LECRIM, si los imputados como autores, cómplices o encubridores resultan estar exentos de responsabilidad criminal, ¿qué se determinará?
+1)Se optará por un archivo con fecha de caducidad.
+2)Se optará por un archivo definitivo.
+3)Se optará por un archivo incompleto.
+4)Se optará por un sobreseimiento libre.
+Respuesta: 4
+Correcta: ¡Correcto! Según el artículo 637 de la LECRIM, en estos casos se acordará el sobreseimiento libre.
+Errada: Incorrecto. Según el artículo mencionado, se optará por un sobreseimiento libre. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso penal regular, si un querellante particular decide mantener la acción, o si el Ministerio Fiscal sugiere la apertura del juicio oral:
+1)El Tribunal sólo puede decidir el sobreseimiento si considera que el acto no es un delito.
+2)El Tribunal nunca puede decidir el sobreseimiento si considera que el acto no es un delito.
+3)El Tribunal siempre puede decidir el sobreseimiento si considera que el acto no es un delito.
+4)Ninguna de las anteriores.
+Respuesta: 1
+Correcta: ¡Exacto! El Tribunal puede decidir el sobreseimiento solo si considera que el acto no es un delito.
+Errada: Incorrecto. La correcta es que el Tribunal puede determinar el sobreseimiento si el acto no es un delito. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 624 de la LECRIM, ¿cuándo el Juez de Instrucción, antes de dictar auto de conclusión del sumario, deberá elevarlo al Tribunal superior para que resuelva?
+1)Cuando estime que el hecho que motivó el sumario es constitutivo de delito y deba ser enjuiciado por el Juzgado de lo Penal.
+2)Cuando estime que el hecho que motivó el sumario no es constitutivo de delito menos grave.
+3)Cuando estime que el hecho que motivó el sumario es un delito que debe ser enjuiciado por el Juzgado de Instrucción.
+4)Cuando estimare que el hecho que motivó el sumario no constituye delito.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Juez de Instrucción elevará la causa al Tribunal Superior cuando estime que el hecho no constituye delito, de acuerdo con el artículo 624 de la LECRIM.
+Errada: Incorrecto. De acuerdo con el artículo 624 de la LECRIM, la acción correcta se toma cuando se estima que el hecho no constituye delito. (Respuesta Correcta 4)
+###
+Pregunta: El artículo 627 de la LECRIM indica que una vez finalizado el plazo del emplazamiento, el Letrado de la Administración de Justicia enviará los autos para su revisión a:
+1)En un plazo que no será menor a tres días ni mayor a diez, dependiendo del tamaño del caso, primero al Ministerio Fiscal, si participa, luego al Procurador del querellante, si se presentó, y finalmente a las defensas.
+2)En un plazo que no será menor a tres días ni mayor a quince, dependiendo del tamaño del caso, primero al Ministerio Fiscal, si participa, luego al Procurador del querellante, si se presentó, y finalmente a las defensas.
+3)En un plazo que no será menor a tres días ni mayor a doce, dependiendo del tamaño del caso, primero al Ministerio Fiscal, si participa, luego al Procurador del querellante, si se presentó, y finalmente a las defensas.
+4)En un plazo que no será menor a tres días ni mayor a siete, dependiendo del tamaño del caso, primero al Ministerio Fiscal, si participa, luego al Procurador del querellante, si se presentó, y finalmente a las defensas.
+Respuesta: 1
+Correcta: ¡Acertado! Los autos se enviarán en un plazo que no excederá de diez días ni bajará de tres, siguiendo un orden específico (Fiscal, Querellante, Defensas) según el artículo 627 de la LECRIM.
+Errada: Incorrecto. La correcta es que los autos se pasan en un plazo que no excederá de diez días ni bajará de tres, dependiendo del tamaño del proceso, siguiendo un orden específico. (Respuesta Correcta 1)
+###
+Pregunta: Una vez que se ha finalizado el sumario, ¿qué acción sigue?
+1)Se envían los autos y las evidencias al Tribunal correspondiente para abordar el delito.
+2)Se proporciona a las acusaciones el acceso para que en cinco días describan por escrito los incidentes.
+3)Se proporciona a las acusaciones el acceso para que en tres días describan por escrito los incidentes.
+4)Se proporciona a las acusaciones el acceso para que en siete días describan por escrito los incidentes.
+Respuesta: 1
+Correcta: ¡Correcto! Una vez finalizado el sumario, se procede a enviar los autos y las evidencias al Tribunal adecuado.
+Errada: Lo siento, la respuesta correcta es que se envían los autos y las evidencias al Tribunal correspondiente para abordar el delito. (Respuesta Correcta 1)
+###
+Pregunta: En el proceso penal regular por delito, si se niegan las pruebas propuestas en las calificaciones escritas, ¿qué recurso puede interponerse?
+1)Recurso de apelación, si se realiza de forma adecuada con la protesta correspondiente.
+2)Recurso de casación, si se realiza de forma adecuada con la protesta correspondiente.
+3)Recurso de queja, si se realiza de forma adecuada con la protesta correspondiente.
+4)Recurso de reforma, si se realiza de forma adecuada con la protesta correspondiente.
+Respuesta: 2
+Correcta: ¡Correcto! Se puede interponer un recurso de casación si se realiza adecuadamente con la protesta pertinente.
+Errada: Incorrecto. El recurso correcto es el de casación, siempre que se realice de forma adecuada. (Respuesta Correcta 2)
+###
+Pregunta: Cuando se concluye el sumario, se notificará al querellante privado, si lo hay, al imputado y a cualquier otra persona contra quien exista responsabilidad civil. Se les convoca para que se presenten ante la Audiencia correspondiente en:
+1)Un plazo de siete días.
+2)Un plazo de tres días.
+3)Un plazo de doce días.
+4)Un plazo de diez días.
+Respuesta: 4
+Correcta: ¡Bien hecho! Deben presentarse en un plazo de diez días.
+Errada: Lo siento, el plazo correcto es de diez días. (Respuesta Correcta 4)
+###
+Pregunta: Según el art. 658 de la LECrim, una vez presentados los escritos de calificación o recogida la causa después del período indicado en el art. 649, el LAJ:
+1)Emitirá una providencia reconociendo la calificación y ordenará transferir el caso al magistrado ponente, en un plazo de tres días, para revisar las pruebas propuestas.
+2)Emitirá una diligencia reconociendo la calificación y ordenará transferir el caso al magistrado ponente, en un plazo de siete días, para revisar las pruebas propuestas.
+3)Emitirá un decreto reconociendo la calificación y ordenará transferir el caso al magistrado ponente, en un plazo de tres días, para revisar las pruebas propuestas.
+4)Emitirá una diligencia reconociendo la calificación y ordenará transferir el caso al magistrado ponente, en un plazo de tres días, para revisar las pruebas propuestas.
+Respuesta: 4
+Correcta: ¡Exacto! El LAJ emitirá una diligencia y transferirá el caso al magistrado ponente en un plazo de tres días.
+Errada: Incorrecto. La acción correcta es transferir el caso al magistrado ponente en un plazo de tres días. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 669 de la LECRIM, una vez entregadas las copias del escrito que plantea una cuestión como artículo de previo pronunciamiento, ¿cuándo deben responder los representantes de las partes?
+1)En un plazo de dos días.
+2)En un plazo de cinco días.
+3)En un plazo de diez días.
+4)En un plazo de tres días.
+Respuesta: 4
+Correcta: ¡Acertado! Los representantes deben responder en un plazo de tres días.
+Errada: Incorrecto. El plazo correcto es de tres días. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 659 de la Ley de Enjuiciamiento Criminal, ante la negativa o rechazo de la práctica de diligencias de prueba, ¿cuál es la acción que se puede tomar?
+1)En su momento, se podrá presentar un recurso de queja, si se prepara adecuadamente con la protesta correspondiente.
+2)En su momento, se podrá presentar un recurso de súplica, si se prepara adecuadamente con la protesta correspondiente.
+3)En su momento, se podrá presentar un recurso de reforma, si se prepara adecuadamente con la protesta correspondiente.
+4)En su momento, se podrá presentar un recurso de casación, si se prepara adecuadamente con la protesta correspondiente.
+Respuesta: 4
+Correcta: ¡Exacto! Se puede presentar un recurso de casación con la protesta apropiada.
+Errada: Lo siento, la respuesta correcta es que se puede presentar un recurso de casación si se prepara adecuadamente. (Respuesta Correcta 4)
+###
+Pregunta: Respecto a los artículos de previo pronunciamiento en la LECRIM, identifica la afirmación incorrecta:
+1)Si no se presentan los documentos solicitados o no se designa su ubicación, la excepción presentada no tendrá efectos suspensivos.
+2)El Tribunal ordenará, en el mismo auto en el que acepte la solicitud de documentos, comunicarse con los responsables de los archivos u oficinas donde se encuentren los documentos, especificando si deben enviar los originales o copias.
+3)Si el Tribunal considera procedente la cuestión de declinatoria propuesta como artículo de previo pronunciamiento, enviará los autos al Tribunal o Juez que estime competente y no tomará decisiones sobre otras cuestiones.
+4)En los artículos de previo pronunciamiento, el Juez fijará una fecha para una audiencia, durante la cual los defensores de las partes podrán informar si estas lo solicitan.
+Respuesta: 4
+Correcta: ¡Correcto! Esa es la afirmación incorrecta relacionada con los artículos de previo pronunciamiento, ya que es el Tribunal quien señalará el día de la vista.
+Errada: Lo siento, la afirmación incorrecta es que el Juez fijará una fecha para una audiencia donde los defensores de las partes puedan informar. (Respuesta Correcta 4)
+###
+Pregunta: Sobre los artículos de previo pronunciamiento, identifica la respuesta incorrecta:
+1)Los artículos de previo pronunciamiento se resuelven mediante una providencia.
+2)La declinatoria de jurisdicción se resolverá en sentencia.
+3)En los artículos de previo pronunciamiento, se permite la prueba testimonial.
+4)Los artículos de previo pronunciamiento se resuelven mediante un auto.
+Respuesta: 3
+Correcta: ¡Bien hecho! No se permite la prueba testimonial en los artículos de previo pronunciamiento.
+Errada: La respuesta correcta es que no se permite la prueba testimonial en los artículos de previo pronunciamiento. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 628 de la LECRIM, una vez que se devuelve el caso o se recoge del último receptor, el Letrado de la Administración de Justicia lo pasará inmediatamente al ponente, junto con los escritos presentados, por un período de:
+1)Dos días.
+2)Cinco días.
+3)Siete días.
+4)Tres días.
+Respuesta: 4
+Correcta: ¡Exactamente! El Letrado de la Administración de Justicia pasará el caso al ponente por un período de tres días.
+Errada: La respuesta correcta es que el Letrado de la Administración de Justicia pasará el caso al ponente por un período de tres días. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 627 de la LECRIM, ¿quién puede solicitar, en el escrito que acompaña la causa al ser devuelta, lo que considere pertinente en relación con la apertura del juicio oral o el sobreseimiento de cualquier tipo?
+1)El Juez de oficio.
+2)El Ministerio Fiscal.
+3)El abogado de la acusación.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo 627 de la LECRIM, es el Ministerio Fiscal quien puede hacer esta solicitud.
+Errada: La respuesta correcta es el Ministerio Fiscal, conforme al artículo 627 de la LECRIM. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué recurso es procedente contra la resolución que admite el artículo de previo pronunciamiento sobre la prescripción del delito?
+1)Recurso de reforma.
+2)Recurso de apelación.
+3)Recurso de casación.
+4)Recurso de queja.
+Respuesta: 2
+Correcta: ¡Exactamente! Se puede interponer un recurso de apelación contra esa resolución.
+Errada: La respuesta correcta es que se puede interponer un recurso de apelación contra esa resolución. (Respuesta Correcta 2)
+###
+Pregunta: En relación con el auto que resuelve el artículo de previo pronunciamiento por falta de autorización administrativa según la LECrim, ¿qué recurso es procedente?
+1)Cabe recurso de queja.
+2)Cabe recurso de reforma.
+3)No cabe recurso alguno.
+4)Cabe recurso de revisión.
+Respuesta: 3
+Correcta: ¡Bien hecho! No se puede interponer ningún recurso contra ese auto.
+Errada: Según la LECrim, no se puede interponer ningún recurso contra ese auto. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué circunstancias es apropiado el sobreseimiento provisional?
+1)Cuando no esté adecuadamente justificado que se ha cometido el delito que motivó la formación de la causa.
+2)Ninguna es correcta.
+3)Cuando, a partir del sumario, se haya determinado que se cometió un delito y no existan razones suficientes para acusar a ciertas personas como autores, cómplices o encubridores.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El sobreseimiento provisional es apropiado en las situaciones descritas en los dos supuestos del artículo 641 de la LECRIM.
+Errada: Las circunstancias correctas para el sobreseimiento provisional están descritas en las opciones A y C del artículo 641 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Las cuestiones previas que se hubiesen desestimado:
+1)Ninguna es correcta.
+2)Podrán ser reproducidas por las partes en el juicio oral, como medios de defensa, incluso la de declinatoria.
+3)Deben ser reproducidas por las partes en el juicio oral, como medios de defensa, excepto la de declinatoria.
+4)Podrán ser reproducidas por las partes en el juicio oral, como medios de defensa, excepto la de declinatoria.
+Respuesta: 4
+Correcta: ¡Exacto! Las cuestiones previas desestimadas podrán ser reproducidas en el juicio oral, salvo la declinatoria.
+Errada: La respuesta correcta es que las cuestiones previas desestimadas podrán ser reproducidas en el juicio oral, excepto la declinatoria. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 626 de la Ley de Enjuiciamiento Criminal, al concluir el sumario y recibir el Tribunal los autos y piezas de convicción, ¿quién realiza la apertura de los pliegos y demás objetos cerrados y sellados enviados por el Juez de Instrucción y quién extiende el acta?
+1)La apertura es responsabilidad del Magistrado-Presidente de la Sala o Sección y el Letrado de la Administración de Justicia extiende el acta registrando su estado.
+2)La apertura es responsabilidad del Letrado de la Administración de Justicia.
+3)La apertura es responsabilidad del Magistrado ponente de la causa y el Fiscal extiende el acta registrando su estado.
+4)La apertura es responsabilidad del Magistrado ponente de la causa y el Letrado de la Administración de Justicia extiende el acta registrando su estado.
+Respuesta: 4
+Correcta: ¡Bien hecho! Es el Magistrado ponente quien abre y el Letrado de la Administración de Justicia quien extiende el acta.
+Errada: La respuesta correcta es que el Magistrado ponente realiza la apertura y el Letrado de la Administración de Justicia extiende el acta. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 649 de la LECrim, cuando se ordena la apertura del juicio oral, el Letrado de la Administración de Justicia:
+1)Informa al Fiscal, o al acusador privado si el delito no puede ser perseguido de oficio, para que en cinco días califiquen por escrito los hechos.
+2)Informa al Fiscal, o al acusador privado si el delito no puede ser perseguido de oficio, para que en seis días califiquen por escrito los hechos.
+3)Informa al Fiscal, o al acusador privado si el delito no puede ser perseguido de oficio, para que en siete días califiquen por escrito los hechos.
+4)Informa al Fiscal, o al acusador privado si el delito no puede ser perseguido de oficio, para que en diez días califiquen por escrito los hechos.
+Respuesta: 1
+Correcta: ¡Exacto! El Letrado de la Administración de Justicia comunica al Fiscal, o al acusador privado en ciertos casos, para que califiquen los hechos en un plazo de cinco días.
+Errada: Según el artículo 649 de la LECrim, el Letrado de la Administración de Justicia comunica al Fiscal, o al acusador privado en ciertos casos, para que califiquen los hechos en un plazo de cinco días. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con lo estipulado en el artículo 636 de la LECRIM sobre la notificación del auto de sobreseimiento a las víctimas, ¿qué indica?
+1)Luego de diez días desde la notificación, esta se considerará realizada correctamente, comenzando el tiempo para interponer recurso, excepto si la víctima demuestra un motivo válido por no haber accedido a la notificación.
+2)Luego de quince días desde la notificación, esta se considerará realizada correctamente, comenzando el tiempo para interponer recurso, excepto si la víctima demuestra un motivo válido por no haber accedido a la notificación.
+3)Luego de cinco días desde la notificación, esta se considerará realizada correctamente, comenzando el tiempo para interponer recurso, excepto si la víctima demuestra un motivo válido por no haber accedido a la notificación.
+4)Luego de veinte días desde la notificación, esta se considerará realizada correctamente, comenzando el tiempo para interponer recurso, excepto si la víctima demuestra un motivo válido por no haber accedido a la notificación.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 636 de la LECRIM establece un periodo de cinco días desde la notificación, salvo que la víctima demuestre una justa causa.
+Errada: La respuesta adecuada es que, pasados cinco días desde la notificación, esta se considera realizada correctamente, a menos que la víctima muestre un motivo válido. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 625 de la LECRIM, ¿bajo qué circunstancia el auto de conclusión del sumario se considerará firme, aparte de haber sido ratificado por el Tribunal superior pertinente?
+1)Al haber desestimado el recurso de apelación que, en su caso, se haya interpuesto.
+2)Al haber desestimado el recurso de queja que, en su caso, se haya interpuesto.
+3)Al haber desestimado el recurso de reforma que, en su caso, se haya interpuesto.
+4)Al haber desestimado el recurso de casación que, en su caso, se haya interpuesto.
+Respuesta: 1
+Correcta: ¡Bien hecho! El auto de conclusión del sumario se considera firme si no se interpone recurso de apelación o si este es desestimado, conforme al artículo 625 de la LECRIM.
+Errada: La respuesta correcta es que el auto se considera firme una vez desestimado el recurso de apelación, según el artículo 625 de la LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 622 de la LECRIM, al finalizar las diligencias ordenadas por el Juez instructor, ¿qué medida tomará este si considera que el sumario ha concluido?
+1)Tomará la decisión para abrir o no el juicio oral.
+2)Declarará la conclusión y enviará los autos y pruebas al Tribunal adecuado para el delito.
+3)Ordenará el envío de autos y pruebas al Tribunal pertinente para que dicte el auto de cierre y prosiga con el enjuiciamiento.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Exacto! El Juez instructor enviará los autos y las pruebas al Tribunal competente una vez que considere terminado el sumario.
+Errada: La respuesta adecuada es que el Juez instructor, al considerar finalizado el sumario, enviará los autos y pruebas al Tribunal competente para el delito. (Respuesta Correcta 2)
+###
+Pregunta: Una vez transcurrido el tiempo estipulado en el artículo 628 de la LECRIM, ¿qué acción tomará el Tribunal?
+1)Emitirá un auto confirmando o revocando el auto de finalización del sumario determinado por el Juez de Primera Instancia.
+2)Emitirá un auto confirmando o revocando el auto de finalización del sumario determinado por el Juez de lo Penal.
+3)Emitirá un auto confirmando o revocando el auto de finalización del sumario determinado por el Juez de Instrucción.
+4)Emitirá un auto confirmando o revocando el auto de finalización del sumario determinado por el Juez de Guardia.
+Respuesta: 3
+Correcta: ¡Correcto! El Tribunal procederá a dictar auto confirmando o revocando el auto de conclusión del sumario del Juez de Instrucción.
+Errada: El paso correcto es que el Tribunal emitirá un auto confirmando o revocando el auto de finalización del sumario. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién debe firmar el escrito que califica el delito por parte del acusador particular?
+1)Tanto su abogado como el Juez Instructor.
+2)Tanto su abogado como su procurador.
+3)Tanto su abogado como el Fiscal.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! El escrito debe ser firmado por el abogado y el procurador del acusador particular.
+Errada: La firma correcta es tanto del abogado como del procurador del acusador particular. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 633 de la LECRIM, ¿en qué auto se hará referencia al artículo 649 de la LECRIM, que trata sobre la calificación del delito en el juicio oral?
+1)En el decreto en el que el Tribunal aprueba el inicio del juicio oral.
+2)En el requerimiento en el que el Tribunal aprueba el inicio del juicio oral.
+3)En la diligencia en el que el Tribunal aprueba el inicio del juicio oral.
+4)En el auto en el que el Tribunal aprueba el inicio del juicio oral.
+Respuesta: 4
+Correcta: ¡Exacto! La referencia se hace en el auto que aprueba el inicio del juicio oral.
+Errada: La referencia correcta es en el auto que aprueba el inicio del juicio oral. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 644 de la LECRIM, en el proceso penal ordinario, si el Tribunal considera no apropiada la solicitud del Ministerio Fiscal sobre el sobreseimiento y no hay querellante particular sosteniendo la acción, ¿qué se hará?
+1)Se podrá contactar al abogado de la acusación particular para determinar si se debe mantener la acusación antes de acceder al sobreseimiento.
+2)Se podrá contactar al Juez para determinar si se debe mantener la acusación antes de acceder al sobreseimiento.
+3)Se podrá contactar al Fiscal superior pertinente para determinar si se debe mantener la acusación antes de acceder al sobreseimiento.
+4)Se concederá temporalmente el sobreseimiento y luego se contactará al Fiscal superior para determinar la prosecución de la acusación.
+Respuesta: 3
+Correcta: ¡Correcto! El Tribunal consultará al superior jerárquico del Fiscal.
+Errada: La acción adecuada es que el Tribunal puede consultar al Fiscal superior antes de tomar una decisión sobre el sobreseimiento. (Respuesta Correcta 3)
+###
+Pregunta: En relación con los artículos de previo pronunciamiento, identifica la afirmación que es incorrecta:
+1)No se permitirá la prueba testimonial en los artículos de previo pronunciamiento.
+2)No se admite ningún recurso contra el auto que rechaza las excepciones en los puntos 2, 3 y 4 del artículo 666, excepto el recurso contra la sentencia, conforme al artículo 678.
+3)Ya sea que el auto resolutorio de la declinatoria sea favorable o desfavorable, es apelable.
+4)Los artículos de previo pronunciamiento deben presentarse por escrito, en un plazo de tres días a partir de la entrega de los escritos de calificación.
+Respuesta: 4
+Correcta: ¡Correcto! Es incorrecto. El plazo de presentación de tres días se cuenta desde la entrega de los autos (es decir, desde la notificación del auto de conclusión), no desde la entrega de los escritos de calificación.
+Errada: La afirmación incorrecta es la de presentar los artículos de previo pronunciamiento en tres días tras los escritos de calificación. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 655 de la LECRIM, ¿en qué casos el Tribunal deberá ordenar que el juicio oral continúe, a pesar de la conformidad del procesado en su escrito de calificación?
+1)Cuando la pena solicitada exceda de nueve años de privación de libertad.
+2)Cuando existan varios procesados y todos ellos se conformen con la pena solicitada por la acusación.
+3)Cuando la pena solicitada por la parte acusadora más grave excede de seis años de privación de libertad.
+4)Cuando existan varios procesados y no todos se conformen con la pena solicitada, o cuando la pena solicitada más grave exceda de seis años de privación de libertad.
+Respuesta: 4
+Correcta: ¡Correcto! El juicio continuará obligatoriamente en ambos supuestos, cuando la pena solicitada excede de 6 años de privación de libertad, o si hay varios procesados y no todos se conforman, según el artículo 655 de la LECRIM.
+Errada: Incorrecto. El juicio seguirá obligatoriamente si la pena solicitada excede de 6 años de privación de libertad o si existen varios procesados y no todos se conforman. (Respuesta Correcta 4)
+###
+Pregunta: Cuando el Juez o Tribunal declare haber lugar a un artículo de previo pronunciamiento fundamentado en la excepción de cosa juzgada:
+1)Se sobreseerá libremente el proceso, mandando que se ponga en libertad al procesado o procesados que no estén presos por otra causa.
+2)Se sobreseerá totalmente el proceso, mandando que se ponga en libertad al procesado o procesados que no estén presos por otra causa.
+3)Se sobreseerá provisionalmente el proceso, mandando que se ponga en libertad al procesado o procesados que no estén presos por otra causa.
+4)Se sobreseerá de forma absoluta el proceso, mandando que se ponga en libertad al procesado o procesados que no estén presos por otra causa.
+Respuesta: 1
+Correcta: Cuando el tribunal acepta un artículo de previo pronunciamiento basado en la excepción de cosa juzgada, procede el sobreseimiento libre del proceso y la liberación de los procesados que no estén detenidos por otras causas.
+Errada: Cuando el tribunal acepta un artículo de previo pronunciamiento basado en la excepción de cosa juzgada, procede el sobreseimiento libre del proceso y la liberación de los procesados que no estén detenidos por otras causas. (Respuesta Correcta 1)

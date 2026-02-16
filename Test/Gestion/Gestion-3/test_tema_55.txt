@@ -1,0 +1,746 @@
+Pregunta: Según lo estipulado en el artículo 230 de la Ley de Enjuiciamiento Criminal (LECRIM), ¿cuál es el intervalo de tiempo máximo permitido desde la presentación de la documentación para la apelación hasta la celebración de la audiencia?
+1) Un mes.
+2) Dos meses.
+3) Tres meses.
+4) Cuatro meses.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 230 LECRIM establece un plazo máximo de dos meses entre la admisión de la documentación para la apelación y la fecha de la vista.
+Errada: La respuesta correcta es B) Dos meses. Según el artículo 230 LECRIM, este es el tiempo máximo estipulado entre la recepción de los documentos de apelación y la celebración de la audiencia. (Respuesta Correcta 2)
+###
+Pregunta: Según la redacción del artículo 785 de la LECrim, tras la reforma por la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, ¿cuál es uno de los objetos de la nueva audiencia preliminar en el procedimiento abreviado?
+1) La lectura de los escritos de acusación y defensa.
+2) La práctica anticipada de la prueba testifical de forma obligatoria.
+3) Dictar sentencia de viva voz en todos los casos.
+4) Exponer lo oportuno acerca de la vulneración de algún derecho fundamental y la posible conformidad del acusado.
+Respuesta: 4
+Correcta: ¡Correcto! La nueva audiencia preliminar del art. 785 LECrim, introducida por la reforma de eficiencia procesal, tiene como uno de sus objetos principales depurar el procedimiento antes del juicio, permitiendo a las partes plantear cuestiones sobre conformidad, competencia, derechos fundamentales o nulidad de actuaciones.
+Errada: Conforme a la reforma del art. 785 LECrim, la audiencia preliminar sirve, entre otras cosas, para que las partes expongan cuestiones sobre la conformidad, la competencia del órgano judicial, la vulneración de derechos fundamentales o la existencia de artículos de previo pronunciamiento. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuánto tiempo se dispone para emitir una resolución sobre el recurso de casación en materia penal?
+1) Diez días.
+2) Doce días.
+3) Siete días.
+4) Cinco días.
+Respuesta: 1
+Correcta: ¡Bien hecho! A) Diez días es el plazo estipulado para la resolución del recurso de casación en el ámbito penal.
+Errada: La contestación adecuada es A) Diez días. Este es el periodo legalmente definido para resolver el recurso de casación en el ámbito penal. (Respuesta Correcta 1)
+###
+Pregunta: Conforme a la legislación procesal penal vigente, ¿qué órgano es competente para resolver el recurso de apelación contra los autos dictados por la Sección de Instrucción de un Tribunal de Instancia?
+1) La Audiencia Provincial.
+2) El Tribunal Superior de Justicia.
+3) El Tribunal Supremo.
+4) La propia Sección de Instrucción en Pleno.
+Respuesta: 1
+Correcta: ¡Correcto! Según el art. 82.1.2º de la LOPJ, en su redacción por la LO 1/2025, la Audiencia Provincial es el órgano competente para conocer de los recursos contra las resoluciones dictadas por las Secciones de Instrucción de los Tribunales de Instancia.
+Errada: La reforma de la LOPJ por la LO 1/2025 atribuye a las Audiencias Provinciales la competencia para resolver los recursos contra las resoluciones de las Secciones de Instrucción de los nuevos Tribunales de Instancia. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con lo establecido en la Ley de Enjuiciamiento Criminal, identifique la declaración falsa respecto al individuo que ha sido condenado en rebeldía:
+1) Se le notificará la sentencia de primera instancia para el cumplimiento de la sanción, siempre que la pena no haya prescrito.
+2) Se le informará sobre su derecho a presentar el recurso pertinente.
+3) Recibirá notificación de la sentencia de apelación para el cumplimiento de la pena, incluso si la pena ha prescrito, siempre y cuando no lo haya hecho el delito por el que fue condenado.
+4) Se le notificará el plazo legal para la interposición del recurso correspondiente, y se le informará sobre la instancia competente para presentarlo.
+Respuesta: 3
+Correcta: Correcto, la afirmación C) es la incorrecta. La ley no prevé la notificación de la sentencia para el cumplimiento de una pena prescrita, independientemente del estado de prescripción del delito subyacente.
+Errada: La afirmación C) es incorrecta. La ley no permite la ejecución de penas que han prescrito, incluso si el delito por el que se impuso la pena no ha prescrito. (Respuesta Correcta 3)
+###
+Pregunta: Con base en lo que dispone el artículo 238 bis de la LECRIM, ¿qué recursos se pueden interponer contra las resoluciones emitidas por los Letrados de la Administración de Justicia?
+1) Tanto el recurso de reposición como el de reforma.
+2) Tanto el recurso de queja como el de revisión.
+3) Tanto el recurso de reposición como el de revisión.
+4) Tanto el recurso de reposición como el de apelación.
+Respuesta: 3
+Correcta: ¡Correcto! La respuesta es C) Se pueden interponer tanto el recurso de reposición como el de revisión contra los decretos emitidos por los Letrados de la Administración de Justicia, según lo indica el artículo 238 bis de la LECRIM.
+Errada: El artículo 238 bis de la LECRIM permite estos dos recursos contra los decretos de los Letrados de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Según las normativas de la Ley de Enjuiciamiento Criminal, ¿qué instancia judicial es responsable de conceder o rechazar la presentación de un recurso de revisión?
+1) La Sala, después de oír a las partes, por medio de un auto.
+2) La Sala, después de oír al Ministerio Fiscal, por medio de una providencia.
+3) La Sala, después de oír al Ministerio Fiscal, por medio de un auto.
+4) La Sala, después de oír a las partes, por medio de una providencia.
+Respuesta: 3
+Correcta: ¡Correcto! C) La Sala, previa audiencia del Ministerio Fiscal y mediante auto, es quien tiene la facultad de autorizar o denegar la tramitación del recurso de revisión de acuerdo con la LECRIM.
+Errada: La Sala, previa audiencia del Ministerio Fiscal, mediante auto. Es la Sala la que, después de escuchar al Ministerio Fiscal, decide mediante un auto si procede o no el recurso de revisión según la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, una vez presentado el recurso de casación y pasado el tiempo de emplazamiento:
+1) El Letrado de la Administración de Justicia asignará al Magistrado ponente conforme al turno y redactará una nota autorizada del recurso en un plazo de cinco días.
+2) El Letrado de la Administración de Justicia asignará al Magistrado ponente conforme al turno y redactará una nota autorizada del recurso en un plazo de diez días.
+3) El Letrado de la Administración de Justicia asignará al Magistrado ponente conforme al turno y redactará una nota autorizada del recurso en un plazo de quince días.
+4) El Letrado de la Administración de Justicia asignará al Magistrado ponente conforme al turno y redactará una nota autorizada del recurso en un plazo de siete días.
+Respuesta: 2
+Correcta: Excelente, la respuesta B) es la correcta. El Letrado de la Administración de Justicia es quien designa al Magistrado ponente y debe elaborar la nota autorizada del recurso de casación en un término de diez días tras el emplazamiento.
+Errada: El Letrado de la Administración de Justicia es quien designa al Magistrado ponente y redacta la nota autorizada del recurso en diez días, tal como lo establece la LECRIM tras presentarse el recurso de casación y vencer el plazo de emplazamiento. (Respuesta Correcta 2)
+###
+Pregunta: Según lo establecido en la Ley de Enjuiciamiento Criminal, elija la declaración falsa respecto al desarrollo de la vista para resolver sobre el mérito del recurso de casación:
+1) La sesión comienza con el resumen del caso por parte del Letrado de la Administración de Justicia y el primero en informar será el abogado de la parte que no ha presentado el recurso.
+2) Si por algún motivo la vista no pudiera realizarse en la fecha acordada, el Letrado de la Administración de Justicia fijará una nueva fecha lo antes posible, intentando no alterar el orden preestablecido.
+3) El Presidente del tribunal impedirá cualquier debate sobre la existencia de los hechos ya determinados en la resolución impugnada, excepto las excepciones que la ley contemple.
+4) La audiencia se llevará a cabo en público, contando con la presencia del Ministerio Fiscal y los abogados defensores de las partes involucradas.
+Respuesta: 1
+Correcta: Muy bien, la afirmación incorrecta es la A). En realidad, el abogado de la parte recurrente es el primero en informar durante la vista del recurso de casación, no el de la parte recurrida.
+Errada: La declaración A) es la incorrecta. Contrario a lo mencionado, es el abogado de la parte que ha interpuesto el recurso quien informará primero y no el de la parte recurrida. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito penal, para solicitar un recurso de casación, la parte interesada deberá requerir al Tribunal que emitió la resolución final una copia certificada de ésta. Este requerimiento debe hacerse:
+1) Mediante un documento firmado por Abogado y Procurador, dentro de los cinco días hábiles siguientes a la notificación final de la sentencia o auto que se desee recurrir.
+2) Mediante un documento firmado por Abogado y Procurador, dentro de los tres días hábiles siguientes a la notificación final de la sentencia o auto que se desee recurrir.
+3) Mediante un documento firmado por Abogado y Procurador, dentro de los dos días hábiles siguientes a la notificación final de la sentencia o auto que se desee recurrir.
+4) Mediante un documento firmado por Abogado y Procurador, dentro de los siete días hábiles siguientes a la notificación final de la sentencia o auto que se desee recurrir.
+Respuesta: 1
+Correcta: Correcto, la respuesta es A). Según la LECRIM, la petición para obtener un testimonio de la resolución que se quiere recurrir en casación debe hacerse mediante un escrito autorizado por Abogado y Procurador en el plazo de cinco días después de la notificación de la sentencia o auto.
+Errada: La solicitud de un testimonio para interponer recurso de casación se realiza mediante un escrito firmado por Abogado y Procurador en los cinco días posteriores a la notificación de la sentencia o auto en cuestión. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley de Enjuiciamiento Criminal, un recurso de casación siempre podrá ser presentado si se basa en:
+1) La violación de un artículo del Código Penal.
+2) La violación de un artículo de la LECRIM.
+3) La infracción de un precepto constitucional.
+4) La violación de un artículo de la LOPJ.
+Respuesta: 3
+Correcta: Perfecto, la respuesta C) es la correcta. La LECRIM establece que el recurso de casación puede basarse siempre en la infracción de un precepto constitucional.
+Errada: El recurso de casación puede interponerse en cualquier caso si se fundamenta en la violación de un precepto constitucional, tal como lo prescribe la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: Según el nuevo artículo 988 bis de la LECrim, una vez incoada la ejecutoria, ¿qué plazo se da al condenado para pronunciarse sobre la suspensión de la pena o el aplazamiento de responsabilidades pecuniarias?
+1) Cinco días.
+2) Tres días.
+3) Diez días.
+4) Veinte días.
+Respuesta: 3
+Correcta: ¡Ha acertado! La reforma de la LECrim introduce el artículo 988 bis, que ordena la fase de ejecución y establece un plazo de diez días para que el condenado se pronuncie sobre la suspensión, aplazamiento u otras solicitudes relativas a la ejecución.
+Errada: El artículo 988 bis de la LECrim, añadido por la Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia, fija un plazo de diez días para que la representación del condenado presente un escrito sobre las circunstancias de la ejecución. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quiénes deben efectuar el depósito requerido para presentar recursos comunes o de carácter extraordinario en materia penal?
+1) Todos los participantes en el proceso, incluyendo al Ministerio Fiscal.
+2) Solo la acusación popular.
+3) Solo la acusación particular.
+4) Todos los participantes en el proceso, excluyendo al Ministerio Fiscal.
+Respuesta: 2
+Correcta: Correcto, la respuesta es B). En el contexto penal, el depósito para presentar recursos tanto ordinarios como extraordinarios es una obligación exclusiva de la acusación popular, no siendo exigible al Ministerio Fiscal ni a otras partes personadas.
+Errada: En el ámbito penal, solo se le exige el depósito para la interposición de recursos a la acusación popular, y no a las demás partes incluido el Ministerio Fiscal. (Respuesta Correcta 2)
+###
+Pregunta: La LECRIM dispone que, tras la presentación de un recurso de revisión, el procedimiento para resolverlo incluirá:
+1) La intervención escrita y repetida según sea necesario para decidir sobre el recurso dentro del marco temporal legal, del Ministerio Fiscal y de los condenados.
+2) La opinión por escrito y en una sola ocasión, del Ministerio Fiscal y de los condenados, siendo convocados a una vista.
+3) La opinión por escrito y en una sola ocasión, del Ministerio Fiscal y de los condenados, dependendiendo de si han comparecido o no, siendo que en este caso se les convocará.
+4) La opinión por escrito y en una sola ocasión, del Ministerio Fiscal y de los condenados, independientemente de si han comparecido o no, siendo que en este caso se les convocará.
+Respuesta: 4
+Correcta: Exactamente, has seleccionado la respuesta D). La LECRIM indica que para el recurso de revisión, una vez interpuesto, se requiere escuchar al Ministerio Fiscal y a los penados una sola vez por escrito. Si los penados no han comparecido previamente, se les citará para este fin.
+Errada: El procedimiento dicta que después de presentar el recurso de revisión, se debe oír por escrito y una sola vez al Ministerio Fiscal y a los penados, incluso si estos últimos no se han presentado previamente, y se les citará en consecuencia. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 217 de la LECRIM, ¿en qué momentos está permitido presentar un recurso de apelación durante un procedimiento penal ordinario?
+1) Contra cualquier auto del Juez de Instrucción que no figure como inapelable.
+2) Contra cualquier providencia del Juez de Instrucción que no figure como inapelable.
+3) Solo en las circunstancias especificadas por la ley.
+4) Contra cualquier decreto del LAJ que no figure como inapelable.
+Respuesta: 3
+Correcta: Correcto, has elegido la respuesta C). De acuerdo con el artículo 217 de la LECRIM, el recurso de apelación puede ser interpuesto únicamente en los supuestos que la ley ha establecido expresamente.
+Errada: Según lo estipulado en el artículo 217 de la LECRIM, la apelación en el procedimiento penal ordinario se limita a los casos que la ley determina, y no está disponible para todas las resoluciones del Juez de Instrucción. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la normativa de la LECRIM, ¿qué tipo de recurso se puede interponer frente a la resolución que desestima el recurso de queja contra un auto que niega la casación?
+1) Recurso de queja.
+2) Recurso de reforma.
+3) No es admisible ningún recurso.
+4) Recurso de reposición.
+Respuesta: 3
+Correcta: Perfecto, has seleccionado la respuesta C). Según lo establecido en la LECRIM, no existe la posibilidad de interponer recurso alguno contra la decisión que desestima el recurso de queja tras un auto que deniega la casación.
+Errada: La legislación procesal penal no prevé la posibilidad de recurrir la decisión que resuelve negativamente el recurso de queja contra un auto que deniega la casación, cerrando así la vía recursiva. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 867 de la LECRIM, ¿cuánto tiempo tiene el Ministerio Fiscal para presentar sus alegaciones ante la Sala acerca de si es adecuado o no admitir la queja?
+1) Dos días.
+2) Tres días.
+3) Siete días.
+4) Cinco días.
+Respuesta: 2
+Correcta: Exacto, la respuesta es B). El artículo 867 de la LECRIM otorga al Ministerio Fiscal un plazo de tres días para que presente ante la Sala sus consideraciones sobre la admisibilidad de la queja interpuesta.
+Errada: El Ministerio Fiscal dispone de un margen de tres días para argumentar ante la Sala respecto a la procedencia o no de la queja, como lo indica el artículo 867 de la LECRIM. (Respuesta Correcta 2)
+###
+Pregunta: Indique cuál de las siguientes opciones es incorrecta en cuanto a quiénes están facultados para iniciar y, si corresponde, presentar el recurso de revisión:
+1) Los familiares hasta el segundo grado.
+2) Los familiares hasta el cuarto grado.
+3) Los familiares hasta el tercer grado.
+4) El cónyuge supérstite del condenado.
+Respuesta: 2
+Correcta: Correcto, has identificado la opción B) como la incorrecta. Según la ley, no están habilitados para instar el recurso de revisión los parientes hasta el cuarto grado, sino que la legitimación está reservada a otras figuras más cercanas al condenado.
+Errada: La LECRIM no concede legitimación a los parientes hasta el cuarto grado para presentar un recurso de revisión. Esta acción está limitada a personas con un vínculo más directo al condenado, como el cónyuge o los ascendientes y descendientes directos. (Respuesta Correcta 2)
+###
+Pregunta: Una vez finalizado el plazo para presentar un recurso en el proceso ante el Tribunal del Jurado, el Letrado de la Administración de Justicia facilitará a las otras partes el escrito de recurso, quienes tendrán un período de tiempo determinado para oponerse al mismo. ¿Cuál es ese plazo?
+1) Diez días.
+2) Siete días.
+3) Cinco días.
+4) Nueve días.
+Respuesta: 3
+Correcta: Bien hecho, has seleccionado la respuesta C). Después de que el Letrado de la Administración de Justicia comunica el recurso interpuesto, las otras partes disponen de un plazo de cinco días para presentar su oposición al mismo en el procedimiento ante el Tribunal del Jurado.
+Errada: En el contexto de un proceso ante el Tribunal del Jurado, las partes reciben un término de cinco días para impugnar el recurso una vez que el Letrado de la Administración de Justicia les ha dado traslado del mismo. (Respuesta Correcta 3)
+###
+Pregunta: No es admisible el recurso de casación en los siguientes casos:
+1) Por quebrantamiento de forma, frente a las providencias definitivas en primera instancia y en apelación de la Sala de lo Penal de la Audiencia Nacional cuando resulten en el fin del proceso por falta de jurisdicción y exista una imputación infundada contra el acusado.
+2) Por quebrantamiento de forma, frente a los autos definitivos en primera instancia y en apelación de las Audiencias Provinciales o de la Sala de lo Penal de la Audiencia Nacional cuando resulten en el fin del proceso por falta de jurisdicción o sobreseimiento libre y exista una imputación fundada contra el acusado.
+3) Por quebrantamiento de forma, frente a los autos definitivos en primera instancia y en apelación de las Audiencias Provinciales o de la Sala de lo Penal de la Audiencia Nacional cuando resulten en el fin del proceso por caducidad o sobreseimiento libre o exista una imputación fundada contra el acusado.
+4) Por quebrantamiento de forma, frente a los decretos definitivos en primera instancia y en apelación de las Audiencias Provinciales o de la Sala de lo Penal de la Audiencia Nacional cuando resulten en el fin del proceso por falta de jurisdicción o sobreseimiento libre y exista una imputación fundada contra el acusado.
+Respuesta: 2
+Correcta: Correcto, la respuesta es B). No es posible interponer recurso de casación por quebrantamiento de forma contra los autos definitivos que concluyen el proceso por falta de jurisdicción o sobreseimiento libre, cuando ya existe una imputación fundada, conforme a las normas procesales penales.
+Errada: La ley no permite la interposición del recurso de casación por quebrantamiento de forma contra autos definitivos que ponen fin al proceso por motivos como la falta de jurisdicción o el sobreseimiento libre, en los casos en los que haya una imputación fundada contra el encausado. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué recurso exige el depósito de 50 euros para su tramitación en el ámbito penal?
+1) Recurso de reposición.
+2) Recurso de queja.
+3) Recurso de súplica.
+4) Recurso de apelación.
+Respuesta: 4
+Correcta: Bien hecho, la opción D) es la correcta. En efecto, se requiere un depósito de 50 euros al momento de presentar un recurso de apelación en el orden penal.
+Errada: Se establece que para presentar un recurso de apelación en la jurisdicción penal es necesario consignar un depósito de 50 euros. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con lo establecido en el artículo 850 de la Ley de Enjuiciamiento Criminal, ¿qué recurso procede si no se ha citado al responsable civil subsidiario para que comparezca en el juicio oral?
+1) Recurso de casación por quebrantamiento de forma.
+2) Recurso de apelación por quebrantamiento de forma.
+3) Recurso de súplica por quebrantamiento de forma.
+4) Recurso de reforma por quebrantamiento de forma.
+Respuesta: 1
+Correcta: Exacto, la respuesta correcta es A). El artículo 850 de la LECRIM prevé que, si no se ha citado al responsable civil subsidiario para el juicio oral, es posible interponer un recurso de casación por quebrantamiento de forma.
+Errada: La opción A) es la que señala el recurso adecuado en tal situación, un recurso de casación por quebrantamiento de forma, tal como lo estipula el artículo 850 de la LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: Según lo dictaminado en el artículo 238 ter de la LeCrim, ¿cuál es el procedimiento aplicable para recurrir las decisiones de los Letrados de la Administración de Justicia que ejecutan lo resuelto en la esfera civil de una sentencia penal y que llevan a cabo el embargo como medida cautelar conforme a los artículos 589 y 615 de la LeCrim?
+1) En la Ley Reguladora de lo Contencioso Administrativo (LJCA)
+2) En la Ley de Enjuiciamiento Civil (LEC).
+3) En la Ley de Enjuiciamiento Criminal (LECRIM).
+4) En la Ley Reguladora de la Jurisdicción Social (LRJS).
+Respuesta: 2
+Correcta: Correctamente has elegido la opción B). El artículo 238 ter de la LeCrim especifica que el régimen de recursos contra las decisiones de los Letrados de la Administración de Justicia en estos casos se rige por lo dispuesto en la Ley de Enjuiciamiento Civil.
+Errada: De acuerdo con el artículo 238 ter de la LeCrim, el régimen de recursos aplicable es el que se dispone en la Ley de Enjuiciamiento Civil. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el número de Magistrados que integran la Sala encargada de resolver los recursos de apelación contra las decisiones del Magistrado-Presidente del Tribunal del Jurado?
+1) Cinco.
+2) Cuatro.
+3) Dos.
+4) Tres.
+Respuesta: 4
+Correcta: Has seleccionado correctamente con la opción D). La sala que se ocupa de los recursos de apelación en estas circunstancias está formada por tres Magistrados.
+Errada: El número de Magistrados que conforman la sala para estos recursos de apelación es tres. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el término establecido para formalizar el recurso de apelación contra autos dictados en el procedimiento abreviado penal por el juzgado de instrucción o penal que son recurribles?
+1) Dentro de los cinco días hábiles posteriores a la notificación del auto objeto de recurso o de la decisión sobre el recurso de reforma.
+2) Dentro de los siete días hábiles posteriores a la notificación del auto objeto de recurso o de la decisión sobre el recurso de reforma.
+3) Dentro de los tres días hábiles posteriores a la notificación del auto objeto de recurso o de la decisión sobre el recurso de reforma.
+4) Dentro de los dos días hábiles posteriores a la notificación del auto objeto de recurso o de la decisión sobre el recurso de reforma.
+Respuesta: 1
+Correcta: Correcto, has acertado. De acuerdo con la normativa del procedimiento abreviado penal, el plazo para presentar un recurso de apelación es de cinco días hábiles tras la notificación del auto recurrible o de la resolución del recurso de reforma.
+Errada: El plazo establecido para interponer el recurso de apelación en el procedimiento abreviado penal es de cinco días hábiles tras la notificación del auto recurrido o de la decisión sobre el recurso de reforma. (Respuesta Correcta 1)
+###
+Pregunta: Una vez que el Tribunal reciba el informe del Juez autor de un auto no apelable que ha sido impugnado mediante queja:
+1) El Juez facilitará el informe del Fiscal para la redacción de un dictamen escrito en casos de delitos que obliguen a su participación.
+2) El Letrado de la Administración de Justicia facilitará el informe del Juez al Fiscal para la redacción de un dictamen oral en casos de delitos que obliguen a su participación.
+3) El Letrado de la Administración de Justicia facilitará el informe del Fiscal al Juez para la redacción de un dictamen escrito en casos de delitos que obliguen a su participación.
+4) El Letrado de la Administración de Justicia facilitará el informe del Juez al Fiscal para la redacción de un dictamen escrito en casos de delitos que obliguen a su participación.
+Respuesta: 4
+Correcta: Excelente, la opción D) es la correcta. La LECRIM establece que, en tales circunstancias, es el Letrado de la Administración de Justicia quien pasa el informe del Juez al Fiscal para que este último emita su dictamen por escrito en casos de delitos que requieran su intervención.
+Errada: El Letrado de la Administración de Justicia es quien debe enviar el informe del Juez al Fiscal para la redacción de un dictamen escrito, cuando la causa concierne a delitos que requieren la intervención del Fiscal. (Respuesta Correcta 4)
+###
+Pregunta: El artículo 233 de la Ley de Enjuiciamiento Criminal especifica que, tras la presentación del recurso de queja, ¿qué instrucción dará el Tribunal al Juez respecto al informe?
+1) Dentro de un margen de tres días hábiles.
+2) Dentro de un margen de dos días naturales.
+3) En el breve lapso que el Tribunal estime conveniente.
+4) Dentro de un margen de cinco días hábiles.
+Respuesta: 3
+Correcta: Perfecto, has seleccionado la respuesta correcta. Según el artículo 233 de la LECrim, cuando se presenta un recurso de queja, el Tribunal solicitará al Juez que emita su informe en el corto plazo que este determine.
+Errada: De acuerdo con el artículo 233 de la LECrim, el Tribunal asignará un plazo breve, según su discreción, para que el Juez emita su informe. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la normativa de la Ley de Enjuiciamiento Criminal, ¿qué órgano judicial tiene la competencia para decidir la admisión o no de un recurso de casación?
+1) La Sala Primera del Tribunal Supremo, una vez estudiado el informe del Magistrado Ponente.
+2) La Sala de Admisión del Tribunal Supremo, una vez estudiado el informe del Magistrado Ponente.
+3) La Sala Segunda del Tribunal Supremo, una vez estudiado el informe del Magistrado Ponente.
+4) El Pleno del Tribunal Supremo, una vez estudiado el informe del Magistrado Ponente.
+Respuesta: 3
+Correcta: Correcto, has escogido la opción C). Es la Sala Segunda del Tribunal Supremo la que tiene la facultad de decidir sobre la admisión de los recursos de casación, basándose en el informe del Ponente.
+Errada: La responsabilidad de determinar la admisión de un recurso de casación recae sobre la Sala Segunda del Tribunal Supremo, que actúa de acuerdo con el informe del Ponente. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 217 LECrim, ¿cuándo podrá interponerse el recurso de apelación contra las resoluciones de la Sección de Instrucción de un Tribunal de Instancia?
+1) Contra cualquier auto dictado por los jueces de la Sección de Instrucción.
+2) En los casos en los que se rechace la admisión de un recurso de reposición.
+3) Todas son correctas.
+4) Solamente en las situaciones expresamente previstas por la Ley.
+Respuesta: 4
+Correcta: Excelente, has acertado al elegir la opción D). El recurso de apelación contra las resoluciones de la Sección de Instrucción solo puede presentarse en las instancias específicamente señaladas por la ley.
+Errada: La posibilidad de apelar contra las resoluciones de la Sección de Instrucción está limitada únicamente a aquellos supuestos que la ley determina expresamente. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la reforma del artículo 795 de la LECrim, ¿cuál de los siguientes delitos ha sido añadido al ámbito de aplicación de los juicios rápidos?
+1) Delitos contra la salud pública en su modalidad básica.
+2) Delitos de usurpación del artículo 245 del Código Penal.
+3) Delitos de estafa.
+4) Delitos societarios.
+Respuesta: 2
+Correcta: ¡Correcto! La Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia modificó el artículo 795 de la LECrim para incluir, entre otros, los delitos de allanamiento de morada (art. 202 CP) y los de usurpación (art. 245 CP) en el ámbito de los juicios rápidos.
+Errada: La reforma de la LECrim amplió el catálogo de delitos enjuiciables por el procedimiento de juicio rápido, añadiendo expresamente los delitos de usurpación del artículo 245 del Código Penal. (Respuesta Correcta 2)
+###
+Pregunta: En relación a la LECRIM, identifique la afirmación errónea acerca de la resolución del recurso de casación:
+1) Si se desestima el recurso, se declarará sin lugar, imponiendo las costas al recurrente y la pérdida del depósito según la ley.
+2) Si se admiten los motivos del recurso, se declarará su procedencia, casando y anulando la resolución cuestionada.
+3) Si se estima el recurso por una infracción legal, se remitirá la causa al superior jerárquico del Tribunal que dictó sentencia para que actúe conforme a derecho.
+4) Si se detecta un quebrantamiento de forma, se ordenará la devolución de la causa al Tribunal correspondiente para que subsane el error y proceda legalmente.
+Respuesta: 3
+Correcta: Correcto, la afirmación incorrecta es la C. Si se estima el recurso por infracción de ley, la Sala no remite la causa al superior jerárquico del Tribunal sentenciador, sino que resuelve conforme a lo establecido por la ley.
+Errada: En caso de estimar el recurso por infracción de ley, no se remite el caso al superior del Tribunal sentenciador; la Sala debe resolver de acuerdo con la ley. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo establecido para que el Letrado de la Administración de Justicia de un tribunal en Ceuta convoque a las partes a la Sala 2ª del Tribunal Supremo para un recurso de casación?
+1) 10 días.
+2) 20 días.
+3) 30 días.
+4) 31 días.
+Respuesta: 3
+Correcta: Has seleccionado la respuesta correcta. El plazo establecido es de 30 días, y es un término que no se puede prorrogar.
+Errada: El término para que las partes sean emplazadas al recurso de casación ante la Sala 2ª del Tribunal Supremo es de 30 días, y este plazo es improrrogable. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es el plazo general para interponer un recurso de queja en el orden jurisdiccional penal?
+1) Dentro de los tres días siguientes a la resolución recurrida, siempre y cuando la causa no haya concluido.
+2) Dentro de los dos días siguientes a la resolución recurrida, siempre y cuando la causa no haya concluido.
+3) Dentro de los siete días siguientes a la resolución recurrida, siempre y cuando la causa no haya concluido.
+4) En cualquier tiempo si la ley no estipula un plazo específico y mientras la causa esté pendiente.
+Respuesta: 4
+Correcta: Correcto, el recurso de queja se puede interponer en cualquier momento según lo permita la ley, siempre que la causa esté pendiente.
+Errada: Se puede presentar un recurso de queja en cualquier momento permitido por la ley, mientras la causa esté pendiente de resolución. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso ante el Tribunal del Jurado, una vez concluido el plazo legal sin impugnaciones ni apelaciones supeditadas, o tras el traslado a las partes, ¿qué procedimiento sigue?
+1) El Letrado de la Administración de Justicia convocará a todas las partes ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia con un plazo de diez días para personarse.
+2) El Letrado de la Administración de Justicia convocará a todas las partes ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia con un plazo de quince días para personarse.
+3) El Letrado de la Administración de Justicia convocará a todas las partes ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia con un plazo de siete días para personarse.
+4) El Letrado de la Administración de Justicia convocará a todas las partes ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia con un plazo de nueve días para personarse.
+Respuesta: 1
+Correcta: Has elegido correctamente. El Letrado de la Administración de Justicia emplazará a las partes para que se personen en la Sala de lo Civil y Penal del Tribunal Superior de Justicia en un plazo de diez días.
+Errada: El Letrado de la Administración de Justicia es quien emplaza a las partes ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia para personarse en un plazo de diez días. (Respuesta Correcta 1)
+###
+Pregunta: Cuando se reciben los autos en el tribunal que resolverá la apelación y se señala día para la vista, según el art. 231 de la LECrim, ¿qué pueden presentar las partes antes del día designado?
+1) Todas son correctas.
+2) La lista de testigos que deseen ser escuchados en la vista, asegurando su asistencia.
+3) Los documentos probatorios que respalden sus reclamaciones.
+4) La lista de peritos que deseen ser escuchados en la vista, asegurando su asistencia.
+Respuesta: 3
+Correcta: Exactamente, las partes pueden presentar los documentos de prueba que consideren pertinentes para justificar sus alegaciones antes del día señalado para la vista.
+Errada: Las partes están facultadas para presentar los documentos de prueba que justifiquen sus pretensiones antes del día fijado para la vista. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué ocurre si el recurrente no comparece tras el plazo otorgado para el emplazamiento en un recurso de queja contra el auto que niega la casación?
+1) El Letrado de la Administración de Justicia emitirá un decreto considerando el recurso de queja como abandonado, imponiendo las costas y notificándolo al Tribunal que dictó la sentencia.
+2) El auto de denegación se considerará firme y aceptado.
+3) Ninguna es correcta.
+4) Ambas son correctas.
+Respuesta: 4
+Correcta: Perfecto, has seleccionado la combinación correcta. Si no hay comparecencia, el Letrado de la Administración de Justicia dicta el recurso de queja como abandonado y el auto denegatorio queda firme.
+Errada: Si el recurrente no comparece, se considera que el recurso de queja ha sido desistido y el auto denegatorio de casación queda firme. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 790 de la LECRIM, en el contexto del recurso de apelación contra sentencias en el procedimiento abreviado, ¿cuál es el plazo de dos días establecido para qué acción?
+1) Para solicitar copias de las grabaciones de las sesiones de la primera instancia.
+2) Para notificar a las demás partes del escrito de formulación de la apelación.
+3) Para corregir cualquier error en el escrito de interposición del recurso.
+4) Para objetar la adhesión a la apelación por otras partes.
+Respuesta: 4
+Correcta: Correcto, el plazo de dos días se establece para que las partes puedan impugnar la adhesión a la apelación.
+Errada: Se dispone de dos días para impugnar la adhesión a la apelación presentada por otras partes. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el término para interponer un recurso de apelación contra las sentencias dictadas por el Magistrado-Presidente del Tribunal del Jurado en primera instancia y en la Audiencia Provincial?
+1) En el plazo de diez días tras la notificación final de la sentencia.
+2) En el plazo de cinco días tras la notificación final de la sentencia.
+3) En el plazo de siete días tras la notificación final de la sentencia.
+4) En el plazo de tres días tras la notificación final de la sentencia.
+Respuesta: 1
+Correcta: Has acertado, el plazo para presentar un recurso de apelación es de diez días desde la última notificación de la sentencia.
+Errada: Se cuenta con diez días para apelar, contando a partir de la última notificación de la sentencia dictada por el Magistrado-Presidente del Tribunal del Jurado. (Respuesta Correcta 1)
+###
+Pregunta: En situaciones donde un mismo individuo y hecho hayan sido objeto de dos veredictos inapelables, es posible requerir:
+1) Recurso de queja.
+2) Recurso de súplica.
+3) Recurso de revisión.
+4) Recurso de reforma.
+Respuesta: 3
+Correcta: La respuesta correcta es Recurso de revisión. Este recurso está previsto para casos excepcionales donde, entre otras situaciones, se haya dictado más de una sentencia firme sobre el mismo hecho y sujeto, permitiendo así revisar lo juzgado para evitar sentencias contradictorias.
+Errada: En casos de doble enjuiciamiento firme, el mecanismo adecuado es el Recurso de revisión, que busca rectificar posibles errores judiciales graves y manifestos. (Respuesta Correcta 3)
+###
+Pregunta: Según lo establecido en el artículo 238 de la Ley de Enjuiciamiento Criminal, el recurso de súplica:
+1) Se tramitará siguiendo las pautas del recurso de reforma presentado contra decisiones del Juez de instrucción.
+2) Se tramitará siguiendo las pautas del recurso de queja presentado contra decisiones del Juez de lo Penal.
+3) Se tramitará siguiendo las pautas del recurso de apelación presentado contra decisiones del Juez de instrucción.
+4) Se tramitará siguiendo las pautas del recurso de reforma presentado contra decisiones del Juez de lo Penal.
+Respuesta: 1
+Correcta: La respuesta correcta es que el recurso de súplica se tramita conforme al procedimiento del recurso de reforma contra resoluciones de un Juez de instrucción. Esto significa que se maneja de forma similar a la forma en que se revisan las decisiones iniciales de un juez.
+Errada: El recurso de súplica tiene un procedimiento específico que se asemeja al del recurso de reforma contra las decisiones de un Juez de instrucción. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 882 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo para que el Ministerio Fiscal y las partes impugnen la aceptación del recurso de casación o su adhesión?
+1) Diez días.
+2) Siete días.
+3) Tres días.
+4) Cinco días.
+Respuesta: 1
+Correcta: El plazo correcto para impugnar la aceptación de un recurso de casación o la adhesión a este es de diez días. Este período permite al Ministerio Fiscal y a las partes involucradas presentar sus argumentos contra la admisión del recurso.
+Errada: Según el artículo 882 de la Ley de Enjuiciamiento Criminal, el período estipulado para estas acciones es de diez días. (Respuesta Correcta 1)
+###
+Pregunta: En el ámbito penal, ¿cuáles son considerados recursos que no revocan la decisión a un órgano superior?
+1) El recurso de reforma.
+2) El recurso de súplica.
+3) El recurso de queja.
+4) El recurso de apelación.
+Respuesta: 2
+Correcta: La respuesta correcta es el recurso de súplica, el cual es un recurso no devolutivo, significando que no traslada la competencia a otro tribunal superior, sino que se resuelve en el mismo órgano que emitió la resolución.
+Errada: Solamente el recurso de súplica es considerado no devolutivo en el contexto de la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la reforma del artículo 266 de la LECrim, ¿en cuál de los siguientes supuestos NO se podrá interponer una denuncia por vía telemática?
+1) Cuando el autor del hecho sea desconocido.
+2) Cuando los hechos se hayan producido con violencia o intimidación.
+3) Cuando no existan testigos presenciales.
+4) Cuando se trate de un delito leve de hurto.
+Respuesta: 2
+Correcta: ¡Correcto! La Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia modificó el artículo 266 de la LECrim, estableciendo que no se podrán denunciar por vía telemática, entre otros, aquellos hechos que se hayan producido con violencia o intimidación.
+Errada: La reforma de la LECrim limita la denuncia telemática, excluyendo expresamente los hechos cometidos con violencia o intimidación, aquellos con autor conocido, con testigos, cometidos por menores, en flagrancia o de naturaleza violenta o sexual. (Respuesta Correcta 2)
+###
+Pregunta: En el ámbito penal, ¿quién está obligado a constituir un depósito para poder presentar los recursos establecidos por la ley?
+1) Los Fiscales.
+2) La acusación popular.
+3) La acusación particular.
+4) Todos los mencionados.
+Respuesta: 2
+Correcta: La respuesta correcta es la acusación popular. En el ordenamiento jurídico español, se establece que la acusación popular debe constituir un depósito como garantía para la interposición de recursos, esto sirve como un filtro para evitar recursos infundados o frívolos.
+Errada: La obligación recae sobre la acusación popular, siguiendo la normativa vigente. (Respuesta Correcta 2)
+###
+Pregunta: De qué forma se organiza la Sala de lo Civil y Penal de los Tribunales Superiores de Justicia, así como la Sala de Apelación de la Audiencia Nacional, cuando abordan recursos de apelación contra decisiones que ponen fin al proceso debido a falta de jurisdicción o por sobreseimiento libre, y también las resoluciones emitidas por las Audiencias Provinciales o la Sala de lo Penal de la Audiencia Nacional en primera instancia?
+1) Con un panel de dos jueces.
+2) Con un panel de tres jueces.
+3) Con un panel de siete jueces.
+4) Ninguna es correcta.
+Respuesta: 2
+Correcta: La respuesta correcta es con un panel de tres jueces. Esto asegura que haya una deliberación colegiada y una decisión por mayoría en los casos mencionados, lo cual es una práctica común en el sistema judicial para garantizar la equidad y la justicia.
+Errada: La estructura específica para estos casos es un panel de tres jueces, lo que permite una toma de decisiones balanceada y justa. (Respuesta Correcta 2)
+###
+Pregunta: Según la reforma del artículo 655 de la LECrim sobre la conformidad en el procedimiento ordinario, ¿es necesario oír a la víctima o perjudicado antes de la conformidad?
+1) No, nunca, ya que su opinión no es vinculante.
+2) Sí, es obligatorio en todos los casos y su opinión es vinculante para el Ministerio Fiscal.
+3) Solo si la víctima o perjudicado se encuentra personado en la causa como acusación particular.
+4) El Ministerio Fiscal la oirá cuando lo estime necesario, y en todo caso cuando la gravedad del hecho sea significativa o la víctima sea especialmente vulnerable.
+Respuesta: 4
+Correcta: ¡Correcto! La nueva redacción del art. 655.2 LECrim establece que el Ministerio Fiscal oirá previamente a la víctima o perjudicado, aunque no estén personados, cuando lo estime necesario y siempre en casos de especial gravedad, trascendencia o vulnerabilidad de la víctima.
+Errada: La reforma del art. 655 de la LECrim introduce la obligación para el Fiscal de oír a la víctima o perjudicado en determinados supuestos antes de prestar la conformidad, ponderando así los efectos del acuerdo. (Respuesta Correcta 4)
+###
+Pregunta: Conforme lo estipula el artículo 211 de la Ley de Enjuiciamiento Criminal, ¿cuál es el plazo para presentar el recurso de reforma tras ser notificada la decisión?
+1) Dentro de los 3 días sucesivos a la notificación del fallo.
+2) Dentro de los 2 días sucesivos a la notificación del fallo.
+3) Dentro de los 5 días sucesivos a la notificación del fallo.
+4) Dentro de los 7 días sucesivos a la notificación del fallo.
+Respuesta: 1
+Correcta: ¡Correcto! El plazo establecido para interponer el recurso de reforma es de 3 días siguientes a la notificación de la resolución, como lo indica el artículo 211 de la LECRIM.
+Errada: La respuesta correcta es dentro de los 3 días siguientes a la notificación de la resolución. Un plazo de 2, 5 o 10 días no se corresponde con lo estipulado por el artículo 211 de la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley de Enjuiciamiento Criminal en relación con el recurso de revisión, elija la afirmación correcta:
+1) El Fiscal General del Tribunal Constitucional está facultado para presentar el recurso de revisión cuando conozca de un caso que lo amerite y, según su criterio, existan fundamentos suficientes basados en las averiguaciones hechas.
+2) El Fiscal General del Tribunal Supremo está facultado para presentar el recurso de revisión cuando conozca de un caso que lo amerite y, según su criterio, existan fundamentos suficientes basados en las averiguaciones hechas.
+3) El Fiscal General del Estado está facultado para presentar el recurso de revisión cuando conozca de un caso que lo amerite y, según su criterio, existan fundamentos suficientes basados en las averiguaciones hechas.
+4) Ninguna es correcta.
+Respuesta: 3
+Correcta: Correcto, es el Fiscal General del Estado quien tiene la potestad de interponer el recurso de revisión, siempre que conozca de un caso en el que proceda y haya motivos suficientes para ello según sus investigaciones, según lo estipulado en la ley.
+Errada: La afirmación correcta es que el Fiscal General del Estado puede presentar el recurso de revisión cuando conozca de un caso admisible y estime que hay fundamentos suficientes. No es un deber imperativo sino una facultad que puede ejercer basándose en las pruebas obtenidas. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento penal ordinario, ¿qué procedimiento se sigue cuando se concede la apelación en ambos efectos?
+1) El Letrado de la Administración de Justicia procederá al envío de los autos originales al tribunal apelante y notificará a las partes para que se personen ante dicho tribunal.
+2) El Gestor Procesal procederá al envío de los autos originales al tribunal apelante y notificará a las partes para que se personen ante dicho tribunal.
+3) El Tramitador Procesal procederá al envío de los autos originales al tribunal apelante y notificará a las partes para que se personen ante dicho tribunal.
+4) El expediente original quedará en el juzgado, y el juez se encargará de enviar una copia de los elementos pertinentes al tribunal apelante.
+Respuesta: 1
+Correcta: Perfecto, cuando un recurso de apelación es admitido en ambos efectos, el Letrado de la Administración de Justicia es quien debe remitir los autos originales al tribunal de apelación y emplazar a las partes para que se personen ante este, conforme lo establecido.
+Errada: La práctica correcta es que el Letrado de la Administración de Justicia remita los autos originales al tribunal de apelación y emplace a las partes para que se presenten ante este tribunal. Los otros procedimientos descritos no siguen la normativa establecida. (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones sobre la capacidad para interponer el recurso de casación es incorrecta:
+1) Aquellas personas que no han sido parte en el juicio criminal pero que resultan condenadas pueden presentar un recurso de casación.
+2) Los actores civiles pueden presentar un recurso de casación en cualquier situación.
+3) El Ministerio fiscal tiene la capacidad de presentar un recurso de casación.
+4) Aquellos que han sido parte en el proceso criminal pueden presentar un recurso de casación.
+Respuesta: 2
+Correcta: La afirmación incorrecta es que los actores civiles pueden presentar un recurso de casación en cualquier caso. La posibilidad de que los actores civiles interpongan este recurso está sujeta a ciertas condiciones y no es absoluta.
+Errada: Las partes que pueden presentar recurso de casación incluyen al Ministerio Fiscal, a quienes hayan sido parte en el juicio, y a aquellos que resulten condenados sin haber sido parte del mismo. Sin embargo, los actores civiles no tienen una capacidad ilimitada para interponer recurso de casación; está condicionada a ciertas circunstancias especificadas en la ley. (Respuesta Correcta 2)
+###
+Pregunta: ¿Quién se encarga de resolver el recurso de revisión contra sentencias definitivas según la Ley de Enjuiciamiento Criminal?
+1) El Tribunal Superior de Justicia competente para conocer del proceso principal del que proviene la revisión, con o sin informe.
+2) La Sala, con o sin informe oral, según lo decida en base a las circunstancias del caso.
+3) El Tribunal competente para conocer del proceso principal del que proviene la revisión, con o sin informe.
+4) La Audiencia Provincial competente para conocer del proceso principal del que proviene la revisión, con o sin informe.
+Respuesta: 2
+Correcta: Es correcto, la Sala será quien resuelva el recurso de revisión, y podrá decidir si requiere informe oral o no en función de las particularidades del caso.
+Errada: La Sala será quien resuelva el recurso de revisión, y podrá decidir si requiere informe oral o no en función de las particularidades del caso. (Respuesta Correcta 2)
+###
+Pregunta: ¿En qué momento debe el Juez pronunciarse sobre el recurso de súplica interpuesto contra la resolución de un Tribunal criminal?
+1) Al primer día después de que se hayan entregado las copias.
+2) Al tercer día después de que se hayan entregado las copias.
+3) Al segundo día después de que se hayan entregado las copias.
+4) Al quinto día después de que se hayan entregado las copias.
+Respuesta: 3
+Correcta: Efectivamente, el Juez debe resolver el recurso de súplica el segundo día después de la entrega de las copias, independientemente de si las otras partes han presentado un escrito o no.
+Errada: El Juez debe resolver el recurso de súplica el segundo día después de la entrega de las copias, independientemente de si las otras partes han presentado un escrito o no. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 229 de la Ley de Enjuiciamiento Criminal, ¿qué ocurre cuando el apelante se presenta en el plazo del emplazamiento?
+1) El Letrado de la Administración de Justicia permitirá que el apelante revise los autos durante dos días para su preparación. Luego, por el mismo tiempo, a las otras partes presentes, y finalmente, al Fiscal en los casos aplicables según la LECRIM.
+2) El Letrado de la Administración de Justicia permitirá que el apelante revise los autos durante siete días para su preparación. Luego, por el mismo tiempo, a las otras partes presentes, y finalmente, al Fiscal en los casos aplicables según la LECRIM.
+3) El Letrado de la Administración de Justicia permitirá que el apelante revise los autos durante cinco días para su preparación. Luego, por el mismo tiempo, a las otras partes presentes, y finalmente, al Fiscal en los casos aplicables según la LECRIM.
+4) El Letrado de la Administración de Justicia permitirá que el apelante revise los autos durante tres días para su preparación. Luego, por el mismo tiempo, a las otras partes presentes, y finalmente, al Fiscal en los casos aplicables según la LECRIM.
+Respuesta: 4
+Correcta: Correcto, el Letrado de la Administración de Justicia proporcionará al apelante acceso a los autos por un periodo de tres días para que se prepare. Después, otorgará el mismo plazo a las demás partes personadas, y finalmente, al Fiscal, siguiendo lo dispuesto en la LECRIM.
+Errada: El Letrado de la Administración de Justicia proporcionará al apelante acceso a los autos por un periodo de tres días para que se prepare. Después, otorgará el mismo plazo a las demás partes personadas, y finalmente, al Fiscal, siguiendo lo dispuesto en la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley de Enjuiciamiento Criminal, una vez que se haya expedido el testimonio de la sentencia y el recurso de casación esté preparado, ¿cuál es el plazo inaplazable para que las partes se presenten ante la Sala Segunda del Tribunal Supremo?
+1) Veinte días, si se encuentran en la Comunidad Autónoma de las Illes Balears.
+2) Diez días, si se encuentran en la Comunidad Autónoma de las Illes Balears.
+3) Cinco días, si se encuentran en la Comunidad Autónoma de las Illes Balears.
+4) Quince días, si se encuentran en la Comunidad Autónoma de las Illes Balears.
+Respuesta: 1
+Correcta: Así es, las partes deben comparecer ante la Sala Segunda del Tribunal Supremo en un término de veinte días si están en la Comunidad Autónoma de las Illes Balears 
+Errada: Las partes deben comparecer ante la Sala Segunda del Tribunal Supremo en un término de veinte días si están en la Comunidad Autónoma de las Illes Balears. (Respuesta Correcta 1)
+###
+Pregunta: Bajo el artículo 225 de la Ley de Enjuiciamiento Criminal, una vez que se haya aceptado el recurso de apelación a efecto único, ¿cuál es el plazo establecido para expedir el testimonio de las partes relevantes señaladas por la ley?
+1) En el periodo que el Gestor Procesal estime adecuado, dentro de los límites que la LECRIM establezca, iniciando desde el día después del que se tome la resolución.
+2) En el periodo que el Juez estime adecuado, dentro de los límites que la LECRIM establezca, iniciando desde el día después del que se tome la resolución.
+3) En el periodo que el Fiscal estime adecuado, dentro de los límites que la LECRIM establezca, iniciando desde el día después del que se tome la resolución.
+4) En el periodo que el LAJ estime adecuado, dentro de los límites que la LECRIM establezca, iniciando desde el día después del que se tome la resolución.
+Respuesta: 2
+Correcta: ¡Correcto! Según la LECRIM, el Juez tiene la discreción de fijar el plazo para expedir el testimonio necesario tras declarar admisible el recurso de apelación, siempre respetando los límites temporales que la ley establece.
+Errada: El artículo 225 de la LECRIM permite que el Juez determine el plazo apropiado para la expedición del testimonio, una vez se admite el recurso de apelación en un solo efecto, respetando los márgenes temporales que la ley determina. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la LECRIM, al declarar la admisibilidad del recurso de apelación a efecto único, ¿de qué se debe sacar testimonio?
+1) Del auto original que se recurrió.
+2) De cualquier otro detalle que el Letrado de la Administración de Justicia considere oportuno incluir.
+3) Del decreto original que se recurrió.
+4) De cualquier otro detalle que el Tribunal considere oportuno incluir.
+Respuesta: 1
+Correcta: Perfecto, cuando se admite el recurso de apelación en un solo efecto, la ley exige que se extraiga testimonio específicamente del auto que inicialmente se ha recurrido.
+Errada: De acuerdo con la LECRIM, cuando se acepta un recurso de apelación a efecto único, se requiere que se tome testimonio del auto que fue objeto del recurso. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué ocurre después de que se haya formalizado la nota autorizada del recurso de casación, siguiendo lo prescrito por la LECRIM?
+1) La nota se adjuntará al expediente y los documentos se entregarán al Magistrado ponente para que los estudie durante diez días.
+2) La nota se adjuntará al expediente y los documentos se entregarán al Magistrado ponente para que los estudie durante cinco días.
+3) La nota se adjuntará al expediente y los documentos se entregarán al Magistrado ponente para que los estudie durante tres días.
+4) La nota se adjuntará al expediente y los documentos se entregarán al Magistrado ponente para que los estudie durante siete días.
+Respuesta: 1
+Correcta: Correcto, una vez hecha la nota autorizada del recurso de casación, esta se añade al rollo y los documentos se presentan al Magistrado ponente, quien dispone de diez días para proceder con la instrucción.
+Errada: Según lo estipulado en la LECRIM, tras la creación de la nota autorizada del recurso de casación, se añade al expediente y el Magistrado ponente dispone de diez días para su instrucción. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 956 de la Ley de Enjuiciamiento Criminal, elija la afirmación verdadera respecto al recurso de revisión:
+1) Ninguna es correcta.
+2) El Fiscal General del Estado, después de formar un expediente, puede instruir al Fiscal del Tribunal Supremo para que interponga un recurso de revisión, si juzga que hay motivos suficientes.
+3) El Ministerio a cargo de Justicia, después de formar un expediente, puede instruir al Fiscal del Tribunal Supremo para que interponga un recurso de revisión, si juzga que hay motivos suficientes.
+4) El Fiscal General del Estado tiene la facultad de disponer que el Ministerio Fiscal presente un recurso de revisión, cuando, después de formalizar un expediente, existan motivos suficientes para ello.
+Respuesta: 3
+Correcta: Excelente, es correcto que el Ministerio de Justicia tiene la facultad de ordenar al Fiscal del Tribunal Supremo que interponga un recurso de revisión tras la formación de un expediente, siempre que haya fundamentos suficientes para el mismo, como se indica en el artículo 956 de la LECRIM.
+Errada: El artículo 956 establece que el Ministerio de Justicia, una vez ha elaborado un expediente, puede mandar al Fiscal del Tribunal Supremo que inicie un recurso de revisión si considera que hay razones justificadas para ello. (Respuesta Correcta 3)
+###
+Pregunta: En relación a lo establecido por la Ley de Enjuiciamiento Criminal, indique cuál de las siguientes afirmaciones sobre la capacidad para solicitar la revisión de sentencias firmes es correcta:
+1) Los familiares hasta el tercer grado del penado tiene derecho a solicitar la revisión de la sentencia firme basándose en una resolución del Tribunal Europeo de Derechos Humanos, en la condición de que haya sido parte demandante en dicho tribunal y el penado haya fallecido.
+2) Los familiares hasta el segundo grado del penado tiene derecho a solicitar la revisión de la sentencia firme basándose en una resolución del Tribunal Europeo de Derechos Humanos, en la condición de que haya sido parte demandante en dicho tribunal y el penado haya fallecido.
+3) El cónyuge del penado tiene derecho a solicitar la revisión de la sentencia firme basándose en una resolución del Tribunal Europeo de Derechos Humanos, en la condición de que haya sido parte demandante en dicho tribunal y el penado haya fallecido.
+4) Los familiares hasta el cuarto grado del penado tiene derecho a solicitar la revisión de la sentencia firme basándose en una resolución del Tribunal Europeo de Derechos Humanos, en la condición de que haya sido parte demandante en dicho tribunal y el penado haya fallecido.
+Respuesta: 3
+Correcta: ¡Correcto! Usted ha seleccionado la opción que adecuadamente refleja la disposición de la LECRIM. En caso de fallecimiento del penado, su cónyuge puede solicitar la revisión de una sentencia firme si ha actuado como demandante ante el Tribunal Europeo de Derechos Humanos.
+Errada: La LECRIM estipula que, en caso de fallecimiento del penado, su cónyuge puede solicitar la revisión de la sentencia si ha sido parte demandante ante el Tribunal Europeo de Derechos Humanos. (Respuesta Correcta 3)
+###
+Pregunta: Conforme lo dictado por la Ley de Enjuiciamiento Criminal, señale cuál de las siguientes afirmaciones sobre el depósito para interponer un recurso de casación es incorrecta:
+1) Debe realizarse un depósito por cada uno de los acusadores recurrentes a menos que se hayan representado juntos.
+2) Aquel que desee presentar un recurso de casación debe solicitar un testimonio de la resolución definitiva mediante un escrito firmado por Abogado y Procurador, donde se declare la intención de constituir el depósito requerido por la ley.
+3) Al presentar el escrito de recurso de casación, se debe adjuntar la prueba del depósito exigido por la ley.
+4) Si el recurso se presenta en el último día del plazo, el requisito del depósito se considera cumplido si se entrega el importe en efectivo junto con el escrito, sustituyéndolo por el comprobante del depósito en las siguientes 72 horas.
+Respuesta: 4
+Correcta: Excelente, usted ha identificado correctamente la afirmación que no concuerda con la LECRIM. La ley no establece la opción de presentar dinero en efectivo como garantía temporal del depósito en el acto de interponer un recurso de casación.
+Errada: Según la LECRIM, no es procedente presentar dinero en efectivo como cumplimiento temporal del requisito de depósito al interponer un recurso de casación; el depósito debe estar formalizado conforme a los procedimientos especificados. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 228 de la LECRIM, si el apelante no se personara en el plazo establecido tras la recepción de los autos en el Tribunal superior:
+1) El Letrado de la Administración de Justicia decretará de oficio la deserción del recurso, notificándolo al instante mediante certificación al Juez y devolverá los autos originales si el recurso se admitió en ambos efectos.
+2) El Letrado de la Administración de Justicia decretará de oficio la deserción del recurso, notificándolo a los 2 días mediante certificación al Juez y devolverá los autos originales si el recurso se admitió en ambos efectos.
+3) El Letrado de la Administración de Justicia decretará de oficio la deserción del recurso, notificándolo a los 5 días mediante certificación al Juez y devolverá los autos originales si el recurso se admitió en ambos efectos.
+4) El Letrado de la Administración de Justicia decretará de oficio la deserción del recurso, notificándolo a los 3 días mediante certificación al Juez y devolverá los autos originales si el recurso se admitió en ambos efectos.
+Respuesta: 1
+Correcta: Muy bien, ha seleccionado la respuesta que se alinea con el artículo 228 de la LECRIM. El Letrado de la Administración de Justicia es quien, por decreto, declara el recurso como desierto si el apelante no comparece en el término del emplazamiento.
+Errada: El artículo 228 de la LECRIM precisa que es el Letrado de la Administración de Justicia quien, mediante decreto, declara desierta la apelación por falta de personación del apelante en el plazo estipulado. (Respuesta Correcta 1)
+###
+Pregunta: Con relación a la interposición del recurso de queja en el orden penal, indique la forma correcta de presentación:
+1) El escrito debe ser firmado por un Abogado y Procurador con poder suficiente.
+2) El escrito debe estar autorizado con la firma de un Procurador.
+3) El escrito debe estar autorizado con la firma de un Letrado.
+4) El escrito debe ser firmado por el Letrado, Procurador y por el recurrente, si sabe firmar y está personado en la causa.
+Respuesta: 3
+Correcta: Perfecto, su elección coincide con las normativas de la LECRIM. Para el recurso de queja en materia penal, es suficiente la autorización del escrito con la firma de un Letrado.
+Errada: La LECRIM especifica que para el recurso de queja en el ámbito penal, basta con la autorización del escrito con la firma de un Letrado, no siendo necesarias las firmas adicionales del recurrente o de un Procurador. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 221 de la Ley de Enjuiciamiento Criminal, ¿cuál es la forma prescrita para la presentación del recurso de apelación?
+1) Por medio de un escrito autorizado con la rúbrica de un Procurador.
+2) A través de un documento rubricado por Abogado y Procurador.
+3) Por medio de un escrito autorizado con la rúbrica de un Letrado.
+4) Ninguna es correcta.
+Respuesta: 3
+Correcta: Excelente elección. Has seleccionado correctamente la manera en que se debe interponer un recurso de apelación de acuerdo con la LECRIM, la cual estipula que basta con la firma de un Letrado.
+Errada: Según el artículo 221 de la LECRIM, el recurso de apelación se formaliza con un escrito firmado por un Letrado, sin requerirse las firmas del Procurador y del apelante. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo a la Ley de Enjuiciamiento Criminal, ¿cuál es el periodo establecido para presentar un recurso de revisión frente a las decisiones del Letrado de la Administración de Justicia?
+1) En un plazo de dos días tras la notificación de la resolución.
+2) En un plazo de cinco días tras la notificación de la resolución.
+3) En un plazo de cuatro días tras la notificación de la resolución.
+4) En un plazo de tres días tras la notificación de la resolución.
+Respuesta: 4
+Correcta: Correcto. Has identificado acertadamente el plazo que la LECRIM establece para interponer un recurso de revisión, que es de tres días después de la notificación de la decisión.
+Errada: La LECRIM especifica que el recurso de revisión debe presentarse dentro de los tres días siguientes a la notificación de la resolución emitida por el Letrado de la Administración de Justicia. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué sujeto no está facultado para recurrir en apelación las sentencias y decretos del Magistrado-Presidente del Tribunal del Jurado según la LECRIM?
+1) La persona condenada.
+2) Aquel que ha sido exonerado de responsabilidad penal pero cuya responsabilidad civil ha sido declarada conforme al Código Penal.
+3) El Ministerio Fiscal.
+4) Las partes restantes implicadas en el caso.
+Respuesta: 2
+Correcta: Has acertado. La persona que ha sido declarada exenta de responsabilidad criminal y a quien únicamente se le ha impuesto responsabilidad civil no está legitimada para presentar recurso de apelación según lo establecido en la LECRIM.
+Errada: De acuerdo con la LECRIM, no está legitimado para apelar aquel que ha sido exonerado de responsabilidad penal pero que tiene declarada su responsabilidad civil por el Código Penal. (Respuesta Correcta 2)
+###
+Pregunta: Contra las decisiones que niegan la admisión de un Recurso de Apelación dictadas por un tribunal en materia penal, según la Ley de Enjuiciamiento Criminal, se podrá interponer:
+1) Recurso de Súplica.
+2) Recurso de Reforma.
+3) Recurso de Apelación.
+4) Recurso de Queja.
+Respuesta: 4
+Correcta: Perfecto, la acción correcta contra la denegación de admisión de un Recurso de Apelación es el Recurso de Queja, como bien lo especifica la LECRIM.
+Errada: Este es el medio procedente ante una decisión de no admisión de un Recurso de Apelación en el orden penal, tal como lo dicta la Ley de Enjuiciamiento Criminal. (Respuesta Correcta 4)
+###
+Pregunta: Tras el envío del informe del Juez que dictó la resolución recurrida en queja por autos no susceptibles de apelación, ¿qué plazo otorga la LECRIM para que el Fiscal emita su dictamen escrito?
+1) Dos días.
+2) Cuatro días.
+3) Tres días.
+4) Siete días.
+Respuesta: 3
+Correcta: Has elegido acertadamente. El Fiscal dispone de un término de tres días para emitir su dictamen por escrito una vez recibido el informe del Juez, tal como lo estipula la LECRIM.
+Errada: Según la Ley de Enjuiciamiento Criminal, el Fiscal tiene un plazo de tres días para proporcionar su dictamen escrito tras recibir el informe del Juez relacionado con la queja contra resoluciones no apelables. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 238 bis de la Ley de Enjuiciamiento Criminal, el recurso de reposición:
+1) Debe ser formalizado mediante un escrito rubricado por el LAJ.
+2) Debe ser formalizado mediante un escrito rubricado por un letrado.
+3) Debe ser formalizado mediante un escrito rubricado por el fiscal.
+4) Debe ser formalizado mediante un escrito rubricado por un procurador.
+Respuesta: 2
+Correcta: Muy bien, has señalado la forma correcta en la que se debe interponer el recurso de reposición de acuerdo con el artículo 238 bis de la LECRIM, el cual exige únicamente la firma de un letrado.
+Errada: El artículo 238 bis de la LECRIM determina que el recurso de reposición debe ser interpuesto mediante un escrito firmado por un letrado, no siendo necesaria la firma de un abogado y procurador. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el término que la Ley de Enjuiciamiento Criminal establece para comunicar la interposición de un recurso de queja tras un auto que deniega la admisión de un recurso de casación?
+1) En el plazo de tres días a partir de la notificación del auto de inadmisión del recurso de casación.
+2) En el plazo de cinco días a partir de la notificación del auto de inadmisión del recurso de casación.
+3) En el plazo de dos días a partir de la notificación del auto de inadmisión del recurso de casación.
+4) En el plazo de siete días a partir de la notificación del auto de inadmisión del recurso de casación.
+Respuesta: 3
+Correcta: Has seleccionado correctamente. La LECRIM especifica que el plazo para realizar la comunicación de un recurso de queja contra un auto que niega un recurso de casación es de dos días posteriores a la notificación de dicho auto.
+Errada: La comunicación de un recurso de queja tras un auto que deniega un recurso de casación debe hacerse dentro de los dos días siguientes a la notificación de dicho auto, según lo estipulado en la LECRIM. (Respuesta Correcta 3)
+###
+Pregunta: Identifica la afirmación verídica respecto a la interposición de recursos según la LECRIM:
+1) El recurso de reforma está limitado a ser presentado únicamente por causas legales señaladas.
+2) Es posible interponer tanto el recurso de reforma como de apelación contra cualquier auto dictado por el Juez de lo Penal.
+3) Es posible interponer tanto el recurso de reforma como de apelación contra cualquier auto dictado por el Juez de Instrucción.
+4) El recurso de reforma es admisible contra todos los autos emitidos por el Juez de Instrucción
+Respuesta: 4
+Correcta: Correcto. La afirmación que has elegido es verdadera según la LECRIM; el recurso de reforma es aplicable a todos los autos que emite el Juez de Instrucción.
+Errada: Según la LECRIM, el recurso de reforma puede interponerse contra todos los autos del Juez de Instrucción, sin las restricciones aplicables a otros recursos. (Respuesta Correcta 4)
+###
+Pregunta: La sentencia pronunciada en primera instancia por la Audiencia Provincial o por el Magistrado-presidente del Tribunal del Jurado, ¿ante qué instancia es susceptible de recurso de apelación?
+1) Ante la propia Audiencia Provincial.
+2) Ante la Sala Civil y Penal del Tribunal Superior de Justicia de la respectiva Comunidad Autónoma.
+3) Ante la propia Audiencia Nacional.
+4) En revisión ante la Sala Segunda del Tribunal Supremo.
+Respuesta: 2
+Correcta: Has seleccionado la respuesta adecuada. Las sentencias dictadas en primera instancia por la Audiencia Provincial o por el Magistrado-presidente del Tribunal del Jurado son recurribles en apelación ante la Sala Civil y Penal del Tribunal Superior de Justicia de la Comunidad Autónoma correspondiente.
+Errada: Conforme a la LECRIM, las sentencias de la Audiencia Provincial y del Magistrado-presidente del Tribunal del Jurado en primera instancia son recurribles en apelación ante la Sala Civil y Penal del Tribunal Superior de Justicia de la Comunidad Autónoma pertinente. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué periodo establece la Ley de Enjuiciamiento Criminal para solicitar la revisión de una resolución judicial firme basada en una sentencia del Tribunal Europeo de Derechos Humanos?
+1) Dos años a partir de que la sentencia del Tribunal Europeo de Derechos Humanos adquiera firmeza.
+2) Un año a partir de que la sentencia del Tribunal Europeo de Derechos Humanos adquiera firmeza.
+3) Tres años a partir de que la sentencia del Tribunal Europeo de Derechos Humanos adquiera firmeza.
+4) Seis meses a partir de que la sentencia del Tribunal Europeo de Derechos Humanos adquiera firmeza.
+Respuesta: 2
+Correcta: Excelente, has seleccionado correctamente. La LECRIM señala un plazo de un año para presentar una solicitud de revisión de una resolución judicial firme, partiendo desde el momento en que la sentencia del Tribunal Europeo de Derechos Humanos es definitiva.
+Errada: De acuerdo con la LECRIM, el plazo para solicitar la revisión de una resolución judicial firme, que se fundamenta en una sentencia del Tribunal Europeo de Derechos Humanos, es de un año tras la firmeza de dicha sentencia. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuántas copias del escrito del recurso de revisión que se interpone contra las resoluciones del Letrado de la Administración de Justicia deben presentarse?
+1) Tantas copias como partes personadas en el proceso.
+2) El número de copias que la autoridad judicial estime necesario.
+3) El número de copias que el LAJ estime necesario.
+4) Ningunas son correctas.
+Respuesta: 1
+Correcta: Correcto. De acuerdo con la práctica procesal, es necesario presentar tantas copias del recurso de revisión como partes estén personadas en el procedimiento, de manera que se pueda entregar una a cada una de ellas.
+Errada: Para un recurso de revisión contra las resoluciones del Letrado de la Administración de Justicia, se deben presentar tantas copias del escrito como partes estén personadas en el procedimiento. (Respuesta Correcta 1)
+###
+Pregunta: Según la nueva redacción del artículo 210 de la LOPJ, ¿cuál es el primer mecanismo en el orden de prelación para las sustituciones de jueces en los Tribunales de Instancia?
+1) Quienes participen voluntariamente en los planes anuales de sustitución.
+2) Los jueces de adscripción territorial que se encontrasen disponibles.
+3) El sustituto ordinario o natural del sustituido.
+4) La prórroga de jurisdicción de un juez de una Sección o Tribunal distinto.
+Respuesta: 1
+Correcta: ¡Correcto! La nueva redacción del artículo 210 de la LOPJ, introducida por la LO 1/2025, establece un nuevo orden de prelación para las sustituciones, situando en primer lugar a los jueces que voluntariamente participen en los planes anuales de sustitución.
+Errada: El artículo 210.1.a) de la LOPJ, tras la reforma de la LO 1/2025, prioriza para las sustituciones a aquellos jueces que de forma voluntaria se integren en los planes anuales elaborados a tal efecto. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el plazo para interponer un recurso de apelación según la LECRIM?
+1) Tres días desde el día siguiente a la última notificación de la resolución que se impugna.
+2) Dos días desde el día siguiente a la última notificación de la resolución que se impugna.
+3) Cinco días desde el día siguiente a la última notificación de la resolución que se impugna.
+4) Siete días desde el día siguiente a la última notificación de la resolución que se impugna.
+Respuesta: 3
+Correcta: Has elegido la opción correcta. La LECRIM establece un plazo de cinco días desde el día siguiente al de la última notificación de la resolución judicial que se impugna para interponer el recurso de apelación.
+Errada: Según la LECRIM, el plazo para interponer un recurso de apelación es de cinco días contados desde el día siguiente al de la última notificación de la resolución que se impugna. (Respuesta Correcta 3)
+###
+Pregunta: Según la LECRIM, si se constata que los hechos alegados como fundamento de la queja contra un auto denegatorio de un recurso de casación son falsos, ¿qué acción se tomará?
+1) La Sala podrá imponer al recurrente una multa de entre 180 y 6.000 euros, atendiendo al principio de proporcionalidad y considerando las circunstancias del caso y los daños causados.
+2) La Sala podrá imponer al recurrente una multa de entre 300 y 6.000 euros, atendiendo al principio de proporcionalidad y considerando las circunstancias del caso y los daños causados.
+3) La Sala podrá imponer al recurrente una multa de entre 200 y 5.000 euros, atendiendo al principio de proporcionalidad y considerando las circunstancias del caso y los daños causados.
+4) La Sala podrá imponer al recurrente una multa de entre 600 y 6.000 euros, atendiendo al principio de proporcionalidad y considerando las circunstancias del caso y los daños causados.
+Respuesta: 1
+Correcta: Correcto, has elegido la opción adecuada. Si se demuestra que los hechos que sustentan la queja son falsos, la Sala tiene la facultad de imponer una multa que varía de 180 a 6.000 euros, respetando el principio de proporcionalidad y considerando los detalles específicos del caso y los perjuicios causados.
+Errada: La LECRIM prevé que si los hechos alegados en la queja contra la denegación de un recurso de casación son falsos, la Sala podrá sancionar al recurrente con una multa de entre 180 y 6.000 euros, tomando en cuenta la proporcionalidad y las circunstancias del caso. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué casos son recurribles en anulación las sentencias penales dictadas en ausencia?
+1) Ninguna es correcta.
+2) Solo si la sentencia no ha sido apelada.
+3) Solo si la sentencia ya ha sido apelada.
+4) Independientemente de si la sentencia ha sido apelada o no.
+Respuesta: 4
+Correcta: Correcto. Las sentencias penales dictadas en ausencia pueden ser recurridas en anulación haya sido o no apelada previamente, siempre y cuando se cumplan los requisitos procesales pertinentes establecidos en la legislación vigente.
+Errada: Según el marco legal vigente, las sentencias penales dictadas en ausencia son susceptibles de ser recurridas en anulación, sin importar si han sido o no objeto de apelación previa. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién resuelve el recurso de reposición interpuesto contra una resolución dictada por el Letrado de la Administración de Justicia?
+1) El Juez de lo Penal del lugar donde se formó el sumario.
+2) El Juez de instrucción del lugar donde se formó el sumario.
+3) El propio Tribunal que dictó la resolución impugnada.
+4) El propio Letrado de la Administración de Justicia que dictó la resolución impugnada.
+Respuesta: 4
+Correcta: Efectivamente, el recurso de reposición interpuesto contra una resolución dictada por un Letrado de la Administración de Justicia debe ser resuelto por el mismo Letrado que dictó la resolución objeto del recurso, conforme a lo establecido en la normativa procesal.
+Errada: El recurso de reposición interpuesto contra una resolución del Letrado de la Administración de Justicia es resuelto por el propio Letrado que emitió la resolución original. (Respuesta Correcta 4)
+###
+Pregunta: Tras la admisión del recurso de reposición penal, ¿qué plazo se concede al Ministerio Fiscal y a las demás partes para presentar sus alegaciones por escrito?
+1) 2 días.
+2) 3 días.
+3) 4 días.
+4) 1 día.
+Respuesta: 1
+Correcta: Correcto. Una vez admitido a trámite el recurso de reposición penal, el Letrado de la Administración de Justicia concede un plazo de 2 días al Ministerio Fiscal y a las demás partes personadas para que presenten sus alegaciones por escrito.
+Errada: Según el artículo 238 bis de la LECRIM, se otorga un plazo de 2 días para que el Ministerio Fiscal y las demás partes presenten sus alegaciones después de la admisión a trámite del recurso de reposición penal. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el plazo para interponer los recursos de reforma o de súplica contra resoluciones de los Jueces y Tribunales?
+1) En el plazo de los 2 días siguientes a su notificación a los que sean parte en el juicio.
+2) En el plazo de los 4 días siguientes a su notificación a los que sean parte en el juicio.
+3) En el plazo de los 5 días siguientes a su notificación a los que sean parte en el juicio.
+4) En el plazo de los 3 días siguientes a su notificación a los que sean parte en el juicio.
+Respuesta: 4
+Correcta: Correcto. Los recursos de reforma o de súplica deben interponerse en el plazo de los 3 días siguientes a la notificación de la resolución a las partes que son parte en el juicio, de acuerdo con las disposiciones procesales aplicables.
+Errada: Los recursos de reforma o de súplica deben interponerse dentro de los 3 días siguientes a la notificación de la resolución a las partes en el juicio. (Respuesta Correcta 4)
+###
+Pregunta: Entre las siguientes afirmaciones sobre el recurso de revisión penal contra sentencias firmes, ¿cuál no es correcta?
+1) El Fiscal General del Estado puede interponer el recurso siempre que tenga conocimiento de un caso en el que proceda y que a su juicio haya fundamento para ello.
+2) El Ministerio de Justicia puede ordenar al Fiscal del Tribunal Supremo que interponga el recurso cuando a su juicio hubiere fundamento bastante para ello.
+3) El Estado podrá repetir la indemnización civil contra el Juez o tribunal sentenciador que hubiere incurrido en responsabilidad.
+4) Los autos que dicte la Sala acordando la autorización o denegación a efectos de la interposición del recurso de revisión son susceptibles de recurso de queja.
+Respuesta: 4
+Correcta: La afirmación incorrecta es la tercera. El Estado no puede ejercer repetición contra el juez o tribunal sentenciador por la indemnización civil que se haya abonado a consecuencia de una sentencia que luego es revisada. La responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia no implica la responsabilidad personal del juez o magistrado que dictó la sentencia firme.
+Errada: La afirmación incorrecta es la tercera. El Estado no puede ejercer repetición contra el juez o tribunal sentenciador por la indemnización civil que se haya abonado a consecuencia de una sentencia que luego es revisada. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál de las siguientes afirmaciones sobre la resolución del recurso de apelación contra las resoluciones del Magistrado-Presidente del Tribunal del Jurado no es correcta?
+1) Se dictará sentencia dentro del plazo legalmente establecido, que si estima el recurso por haberse solicitado la disolución del Jurado por inexistencia de prueba de cargo y esa petición se hubiera desestimado indebidamente, ordenará devolver la causa a la Audiencia para un nuevo juicio.
+2) Una vez personado el apelante, el Letrado de la Administración de Justicia señalará día para la vista del recurso, citando a las partes personadas y, en todo caso, al condenado y tercero responsable civil.
+3) La vista del recurso se celebrará en audiencia pública, donde primero hablará la parte apelante, seguido de quien hubiera formulado recurso supeditado de apelación, del Ministerio Fiscal, si no es el apelante, y de las demás partes apeladas.
+4) La sentencia se dictará dentro de los cinco días siguientes a la celebración de la vista.
+Respuesta: 1
+Correcta: La afirmación incorrecta es la primera. La Ley de Enjuiciamiento Criminal no establece que en caso de estimación del recurso de apelación por haberse solicitado indebidamente la disolución del Jurado, la sentencia deba mandar devolver la causa a la Audiencia para la celebración de un nuevo juicio. Esto es un procedimiento muy específico que podría no estar contemplado de esta forma en la ley.
+Errada: La Ley de Enjuiciamiento Criminal no establece que en caso de estimación del recurso de apelación por haberse solicitado indebidamente la disolución del Jurado, la sentencia deba mandar devolver la causa a la Audiencia para la celebración de un nuevo juicio. (Respuesta Correcta 1)
+###
+Pregunta: En relación con el escrito del recurso de reposición según la Ley de Enjuiciamiento Criminal, señale la respuesta correcta:
+1) Expresará la infracción en la que haya incurrido la resolución a juicio del recurrente y nunca los motivos por los que este entiende vulnerado su derecho.
+2) Expresará la infracción en la que haya incurrido la resolución a juicio del recurrente y los motivos por los que este entiende vulnerado su derecho.
+3) Expresará la infracción en la que haya incurrido la resolución a juicio del recurrente.
+4) Podrá expresar la infracción en la que haya incurrido la resolución a juicio del recurrente.
+Respuesta: 3
+Correcta: Correcto. En el escrito del recurso de reposición, se debe expresar la infracción en la que haya incurrido la resolución, de acuerdo con la apreciación del recurrente, y esto se establece de manera obligatoria, no opcional.
+Errada: El escrito del recurso de reposición debe expresar la infracción en la que haya incurrido la resolución según el punto de vista del recurrente. Esto es un requisito formal del escrito de reposición que permite a la autoridad competente entender las razones del recurso. (Respuesta Correcta 3)

@@ -1,0 +1,809 @@
+Pregunta: Dentro del proceso abreviado contencioso-administrativo, ¿en qué situación el acta de la sesión se redactará de forma manuscrita?
+1)Si el Juez lo solicita y no se pueden usar las garantías indicadas en los apartados 3 y 4 del artículo 65.
+2)En caso de que la sala cuente con equipos informáticos
+3)Si el Juez lo solicita y no se pueden usar las garantías indicadas en los apartados 3 y 4 del artículo 63.
+4)En caso de que la sala no cuente con equipos informáticos
+Respuesta: 4
+Correcta: ¡Exacto! El acta se escribirá a mano si la sala no tiene acceso a equipos informáticos.
+Errada: Esa no es la respuesta correcta. El acta se redacta manually solo cuando la sala no dispone de medios informáticos. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley de Jurisdicción contencioso administrativa referente al Procedimiento Abreviado, ¿cuál de las siguientes afirmaciones sobre el régimen probatorio es incorrecta?
+1)No se permiten documentos con preguntas y repreguntas para el testimonio.
+2)Las cuestiones para el interrogatorio de una parte se presentarán oralmente, sin admitir listas de preguntas.
+3)Se permiten documentos con preguntas y repreguntas para el testimonio.
+4)Las normas generales sobre selección de peritos no son aplicables al realizar una prueba pericial.
+Respuesta: 3
+Correcta: ¡Bien hecho! No se permiten documentos con preguntas y repreguntas en la prueba testifical en el Procedimiento Abreviado.
+Errada: Lo siento, esa respuesta no es correcta. Según el Procedimiento Abreviado, no se admiten escritos con preguntas y repreguntas en la prueba testifical. (Respuesta Correcta 3)
+###
+Pregunta: Según la reforma del procedimiento abreviado contencioso-administrativo, si el actor solicita que el recurso se falle sin vista y la parte demandada solicita su celebración, ¿quién decide sobre dicha solicitud?
+1)El Letrado de la Administración de Justicia mediante diligencia de ordenación.
+2)El Juez o la Jueza mediante auto.
+3)La Sala de Gobierno del Tribunal Superior de Justicia.
+4)Se celebrará la vista automáticamente sin necesidad de resolución.
+Respuesta: 2
+Correcta: ¡Correcto! Conforme a la reforma del art. 78.3 de la LJCA, es el Juez quien debe valorar los argumentos de la parte demandada y decidir mediante auto si procede o no celebrar la vista.
+Errada: Respuesta incorrecta. La nueva regulación del art. 78.3 de la LJCA atribuye esta decisión al Juez o la Jueza, que resolverá mediante auto tras valorar la argumentación del demandado. (Respuesta Correcta 2)
+###
+Pregunta: Una vez admitida la demanda en el procedimiento abreviado contencioso-administrativo, ¿qué acción realizará el Letrado de la Administración de Justicia?
+1)Notificará al demandado, convocará a las partes para la vista y pedirá a la Administración demandada que envíe el expediente administrativo.
+2)Informará al demandado para que responda en 15 días y solicitará a la Administración demandada el expediente administrativo.
+3)Informará al demandado para que responda en 20 días y solicitará a la Administración demandada el expediente administrativo.
+4)Notificará al demandante, convocará a las partes para la vista y pedirá a la Administración demandada que envíe el expediente administrativo.
+Respuesta: 1
+Correcta: ¡Perfecto! Una vez admitida la demanda, el Letrado notifica al demandado, convoca a las partes y pide el expediente.
+Errada: Eso no es correcto. El Letrado notifica al demandado, cita a las partes para la vista y solicita el expediente administrativo. (Respuesta Correcta 1)
+###
+Pregunta: Si solo el demandado aparece en la vista del procedimiento contencioso-administrativo abreviado, ¿cuál será la acción del Juez o Tribunal?
+1)Considerará al demandante como si hubiera renunciado al recurso y le impondrá las costas.
+2)Considerará al demandante como si hubiera renunciado al recurso y no le impondrá las costas.
+3)Considerará al demandante como si no hubiera renunciado al recurso y le impondrá las costas.
+4)Considerará al demandado como si hubiera renunciado al recurso y le impondrá las costas.
+Respuesta: 1
+Correcta: ¡Exacto! Si solo el demandado asiste, el Juez o Tribunal considera que el demandante ha renunciado y le impone las costas.
+Errada: Esa no es la respuesta adecuada. En ausencia del demandante, se le considera como si hubiera renunciado y se le imponen las costas. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado contencioso-administrativo, si el demandado cuestiona la adecuación del procedimiento por la cuantía, ¿qué acción se tomará?
+1)El Fiscal pedirá a las partes que lleguen a un consenso sobre el asunto.
+2)El Juez pedirá a las partes que lleguen a un consenso sobre el asunto.
+3)El LAJ pedirá a las partes que lleguen a un consenso sobre el asunto.
+4)El mediador judicial pedirá a las partes que lleguen a un consenso sobre el asunto.
+Respuesta: 2
+Correcta: ¡Bien hecho! Será el Juez quien exhortará a las partes a ponerse de acuerdo sobre la cuantía.
+Errada: Lo siento, eso no es correcto. Es el Juez quien pide a las partes que lleguen a un consenso sobre la cuantía. (Respuesta Correcta 2)
+###
+Pregunta: Durante la vista del procedimiento abreviado contencioso-administrativo, si no se plantean problemas procesales, ¿qué se hará a continuación?
+1)Se otorgará la palabra a las partes para que clarifiquen los hechos en que basen sus demandas.
+2)No se otorgará la palabra a las partes para que clarifiquen los hechos en que basen sus demandas.
+3)Se otorgará la palabra a las partes para que oscurezcan los hechos en que basen sus demandas.
+4)Se otorgará la palabra a las partes para que clarifiquen los fundamentos jurídicos en que basen sus demandas.
+Respuesta: 1
+Correcta: ¡Correcto! Se concede la palabra a las partes para que detallen los hechos que respaldan sus demandas.
+Errada: Esa no es la respuesta adecuada. En ausencia de problemas procesales, se permite a las partes aclarar los hechos que respaldan sus demandas. (Respuesta Correcta 1)
+###
+Pregunta: Si en el procedimiento contencioso-administrativo abreviado el demandante solicita en su petición que se decida el recurso sin necesidad de pruebas ni vista, ¿qué acción tomará el Letrado de la Administración de Justicia?
+1)Informará a las partes demandadas para que respondan en 5 días, con la advertencia del artículo 54 de la LJCA.
+2)Informará a las partes demandadas para que respondan en 15 días, con la advertencia del artículo 54 de la LJCA.
+3)Informará a las partes demandadas para que respondan en 20 días, con la advertencia del artículo 54 de la LJCA.
+4)Informará a las partes demandadas para que respondan en 9 días, con la advertencia del artículo 54 de la LJCA.
+Respuesta: 3
+Correcta: ¡Correcto! El Letrado informará a las partes demandadas para que respondan en un plazo de 20 días, conforme al artículo 54 de la LJCA.
+Errada: Esa respuesta no es la correcta. Según la LJCA, el Letrado informa a las partes demandadas para que respondan en 20 días. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la reforma de la Ley de la Jurisdicción Contencioso-administrativa, en el procedimiento abreviado, la sentencia:
+1)Se dictará siempre por escrito en el plazo de cinco días desde la celebración de la vista.
+2)Podrá dictarse oralmente al concluir la vista, con los requisitos previstos en el artículo 210 de la Ley de Enjuiciamiento Civil.
+3)Se dictará siempre por escrito en el plazo de diez días, sin excepción.
+4)Podrá dictarse oralmente, pero solo si la cuantía del recurso no excede de 6.000 euros.
+Respuesta: 2
+Correcta: ¡Muy bien! La reforma del art. 78.20 de la LJCA introduce la posibilidad de dictar sentencias orales al finalizar la vista, agilizando la resolución del pleito.
+Errada: Respuesta incorrecta. Una de las novedades de la reforma del art. 78.20 de la LJCA es precisamente la facultad del Juez de dictar la sentencia de viva voz al terminar la vista. (Respuesta Correcta 2)
+###
+Pregunta: Conforme a la nueva redacción del artículo 78.3 de la LJCA, si el actor pide que el recurso se falle sin vista, la parte demandada que solicite su celebración deberá:
+1)Limitarse a solicitarla, sin más requisitos.
+2)Argumentar en qué hechos existe disconformidad y qué medios de prueba, distintos de los ya obrantes, serían necesarios.
+3)Prestar una caución para responder de las costas.
+4)Presentar un escrito de conclusiones provisionales.
+Respuesta: 2
+Correcta: ¡Exacto! La reforma del art. 78.3 de la LJCA exige que la solicitud de vista por el demandado esté motivada, indicando los hechos controvertidos y la prueba propuesta para que el Juez pueda valorar su pertinencia.
+Errada: Incorrecto. La nueva regulación del art. 78.3 de la LJCA establece que la mera solicitud ya no es suficiente; el demandado debe justificar la necesidad de la vista. (Respuesta Correcta 2)
+###
+Pregunta: Una vez recibido el expediente administrativo en el procedimiento contencioso-administrativo abreviado, ¿para qué propósito lo enviará el Letrado de la Administración de Justicia al demandante y a los interesados presentes?
+1)Para que puedan hacer alegaciones durante la vista
+2)Para que puedan hacer alegaciones 5 días antes de la vista.
+3)Para que puedan hacer alegaciones durante la audiencia previa
+4)Todas son necesarias.
+Respuesta: 1
+Correcta: ¡Correcto! El Letrado remite el expediente para que las partes puedan hacer alegaciones durante la vista.
+Errada: Lo siento, pero esa respuesta no es adecuada. El expediente se envía para que las partes realicen alegaciones durante la vista. (Respuesta Correcta 1)
+###
+Pregunta: Dentro del marco del procedimiento contencioso-administrativo abreviado, ¿cuál es el medio de inicio del recurso?
+1)Mediante una demanda
+2)De oficio por el Juez
+3)Mediante el escrito de interposición del recurso
+4)Denuncia ante el Ministerio Fiscal
+Respuesta: 1
+Correcta: ¡Correcto! En el procedimiento abreviado contencioso-administrativo, el recurso se inicia por medio de una demanda.
+Errada: Esa no es la respuesta adecuada. En el procedimiento abreviado contencioso-administrativo, el recurso se inicia a través de una demanda. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 78.3 de la LJCA en el proceso abreviado, ¿cuánto tiempo tiene la Administración demandada para enviar el expediente administrativo previo a la fecha programada para la vista?
+1)5 días.
+2)10 días.
+3)15 días.
+4)20 días.
+Respuesta: 3
+Correcta: ¡Correcto! De acuerdo al artículo 78.3 de la LJCA, en el procedimiento abreviado, la Administración demandada dispone de un plazo mínimo de 15 días para enviar el expediente administrativo previo al día designado para la vista.
+Errada: Lo siento, esa respuesta es incorrecta. Según el artículo 78.3 de la LJCA, en el procedimiento abreviado, la Administración demandada tiene un plazo mínimo de 15 días para enviar el expediente administrativo antes de la fecha programada para la vista. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento contencioso-administrativo abreviado, cuando es necesario, ¿quién firma el acta?
+1)Por el Letrado de la Administración de Justicia después del Juez o Presidente, las partes, sus representantes o defensores y los peritos.
+2)Por el Tramitador Procesal después del Juez o Presidente, las partes, sus representantes o defensores y los peritos.
+3)Por el Ministerio Fiscal después del Juez o Presidente, las partes, sus representantes o defensores y los peritos.
+4)Por el Gestor Procesal después del Juez o Presidente, las partes, sus representantes o defensores y los peritos.
+Respuesta: 1
+Correcta: ¡Excelente! En el procedimiento abreviado contencioso-administrativo, cuando es pertinente, el acta es firmada por el Letrado de la Administración de Justicia después del Juez o Presidente, las partes, sus representantes o defensores y los peritos.
+Errada: Esa no es la respuesta correcta. En el procedimiento abreviado contencioso-administrativo, el acta se firma por el Letrado de la Administración de Justicia después del Juez o Presidente, las partes, sus representantes o defensores y los peritos. (Respuesta Correcta 1)
+###
+Pregunta: Si en el procedimiento contencioso-administrativo abreviado no se pueden usar medios de registro por algún motivo, el Letrado de la Administración de Justicia redactará el acta de cada sesión. ¿Qué se registrará en esta acta en relación con las pruebas admitidas y realizadas?
+1)Resumen adecuado de las pruebas de interrogatorio y testifical.
+2)Resumen de las declaraciones hechas durante la vista.
+3)Resumen adecuado de los informes periciales y la decisión del Juez sobre las propuestas de recusación de los peritos.
+4)Todas las opciones anteriores son correctas.
+Respuesta: 4
+Correcta: ¡Muy bien! Cuando no se pueden utilizar medios de registro en el procedimiento contencioso-administrativo abreviado, el Letrado de la Administración de Justicia redactará un acta que incluirá resúmenes de las pruebas de interrogatorio y testifical, las declaraciones realizadas y los informes periciales, junto con la decisión del Juez sobre las propuestas de recusación de peritos.
+Errada: La respuesta es incorrecta. Cuando los medios de registro no están disponibles en el procedimiento abreviado contencioso-administrativo, el acta incluirá resúmenes de pruebas de interrogatorio y testifical, declaraciones realizadas y informes periciales, así como decisiones del Juez sobre recusaciones de peritos. Todas las opciones listadas son correctas. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento abreviado contencioso-administrativo, procederá la lectura del acta por el Letrado de la Administración de Justicia en los siguientes casos:
+1)Cuando no se pudiesen utilizar los medios de garantía previstos en los apartados 3 y 4 del art. 65, si así lo solicita alguna de las partes.
+2)Cuando no se pudiesen utilizar los medios de garantía previstos en los apartados 3 y 4 del art. 64, si así lo solicita alguna de las partes.
+3)Cuando el acta sea manuscrita, aunque tenga la sala medios informáticos.
+4)Cuando el acta sea manuscrita por carecer la sala de medios informáticos.
+Respuesta: 4
+Correcta: ¡Bien! Cuando el acta sea manuscrita por carecer la sala de medios informáticos.
+Errada: La correcta es la opción 4: Cuando el acta sea manuscrita por carecer la sala de medios informáticos. (Respuesta Correcta 4)
+###
+Pregunta: Según la nueva regulación, si en el procedimiento abreviado se dicta sentencia oralmente y todas las partes, presentes y debidamente representadas, expresan su decisión de no recurrir, ¿qué efecto se produce?
+1)Se declarará la firmeza de la sentencia en el mismo acto.
+2)Se les concederá un plazo de 5 días para formalizar su renuncia al recurso.
+3)La sentencia no adquirirá firmeza hasta su redacción por escrito.
+4)El Letrado de la Administración de Justicia deberá dictar un decreto de firmeza.
+Respuesta: 1
+Correcta: ¡Correcto! La reforma busca la máxima agilidad. Si todas las partes renuncian a recurrir en el acto, la sentencia oral adquiere firmeza inmediatamente, tal como prevé el art. 210.4 de la LEC, aplicable por remisión.
+Errada: Respuesta incorrecta. La nueva regulación permite declarar la firmeza en el mismo acto de la vista si todas las partes están presentes y conformes en no recurrir la sentencia oral. (Respuesta Correcta 1)
+###
+Pregunta: En términos generales, en el proceso abreviado contencioso administrativo, ¿cuándo se realizan las pruebas?
+1)Al final de la vista.
+2)Durante la vista, antes de que las partes hayan expuesto sus argumentos.
+3)Antes de la vista.
+4)Durante la vista, después de que las partes hayan expuesto sus argumentos.
+Respuesta: 4
+Correcta: ¡Exacto! Las pruebas se practican durante la vista, después de la exposición de las partes.
+Errada: Lo siento, esa no es la respuesta correcta. Las pruebas se realizan durante la vista, después de la exposición de las partes. (Respuesta Correcta 4)
+###
+Pregunta: Elija la opción verdadera con respecto al proceso abreviado contencioso-administrativo:
+1)Las cuestiones para el interrogatorio de los peritos se harán por escrito.
+2)En juicios ordinarios, las pruebas se aplicarán, en lo que no contradiga sus trámites, como en el juicio abreviado.
+3)Las cuestiones para el interrogatorio de la parte se harán por escrito.
+4)En juicios abreviados, las pruebas se aplicarán, en lo que no contradiga sus trámites, como en el juicio ordinario.
+Respuesta: 4
+Correcta: ¡Bien hecho! En juicios abreviados, las pruebas se practican de manera similar a un juicio ordinario siempre que no contradigan sus trámites.
+Errada: Eso no es correcto. Las pruebas en juicios abreviados se practican de manera similar a un juicio ordinario a menos que contradigan sus trámites. (Respuesta Correcta 4)
+###
+Pregunta: Si en el proceso abreviado contencioso-administrativo una de las partes presenta un recurso de reposición contra la no admisión de una prueba, ¿cuándo se resuelve este recurso?
+1)Se procesa y resuelve en siete días.
+2)Se procesa y resuelve en quince días.
+3)Se procesa y resuelve en veinte días.
+4)Se procesa y se decide inmediatamente.
+Respuesta: 4
+Correcta: ¡Perfecto! El recurso de reposición contra la no admisión de una prueba se resuelve en el acto en el proceso abreviado contencioso-administrativo.
+Errada: Desafortunadamente, eso no es correcto. El recurso se procesa y decide inmediatamente en el proceso abreviado contencioso-administrativo. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del marco del proceso abreviado contencioso-administrativo, ¿cuál de estas afirmaciones es errónea?
+1)Las cuestiones para el interrogatorio se harán oralmente, sin permitir listas escritas.
+2)No se aceptarán listas con preguntas y repreguntas para testigos.
+3)No es posible objetar a los testigos.
+4)En la prueba pericial se aplicarán las normas generales sobre selección aleatoria de peritos.
+Respuesta: 4
+Correcta: ¡Correcto! En el procedimiento abreviado contencioso-administrativo, las reglas generales sobre selección aleatoria de peritos no son aplicables en la prueba pericial.
+Errada: Esa no es la opción correcta. Las reglas generales sobre selección aleatoria de peritos no son aplicables en la prueba pericial en el procedimiento abreviado contencioso-administrativo. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso abreviado contencioso-administrativo, si las partes presentan argumentos de naturaleza puramente jurídica, ¿qué es necesario para que el juez emita una sentencia inmediatamente?
+1)Ninguna es correcta.
+2)Ninguna parte desea hacer alegaciones.
+3)Ninguna parte desea hacer conclusiones.
+4)Ninguna parte desea hacer conclusiones ni se opone a que el juez emita un veredicto.
+Respuesta: 4
+Correcta: ¡Excelente! El juez puede emitir una sentencia sin demora si ninguna de las partes desea presentar conclusiones ni se opone a que se emita el fallo.
+Errada: Esa no es la respuesta correcta. El juez puede dictar sentencia inmediatamente si ninguna de las partes desea hacer conclusiones ni se opone a ello. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso abreviado contencioso-administrativo, si una prueba esencial no se puede realizar durante la vista sin mala fe por parte de quien la propuso:
+1)El juez interrumpirá la vista, y el Letrado de la Administración de Justicia indicará inmediatamente el lugar, fecha y hora de reanudación, sin requerir una nueva notificación.
+2)El juez interrumpirá la vista, y el Tramitador Procesal indicará inmediatamente el lugar, fecha y hora de reanudación, sin requerir una nueva notificación.
+3)El juez hará una breve pausa, y el Letrado de la Administración de Justicia indicará inmediatamente el lugar, fecha y hora de reanudación, sin requerir una nueva notificación.
+4)El juez interrumpirá la vista, y el Tramitador Procesal indicará inmediatamente el lugar, fecha y hora de reanudación, requiriendo de una nueva notificación.
+Respuesta: 1
+Correcta: ¡Muy bien! Si una prueba crucial no puede realizarse en la vista sin mala fe, el juez suspenderá la vista y se señalará un nuevo horario sin requerir una nueva notificación.
+Errada: Esa no es la opción correcta. En caso de no poder realizar una prueba esencial en la vista sin mala fe, el juez suspenderá la vista y se indicará una nueva fecha sin requerir notificación adicional. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado contencioso-administrativo, ¿de qué manera se presentarán las cuestiones para el interrogatorio?
+1)De manera escrita, con listas.
+2)De manera oral, sin permitir listas.
+3)De manera escrita, sin permitir listas.
+4)De manera oral, con listas.
+Respuesta: 2
+Correcta: ¡Correcto! Las preguntas para el interrogatorio en el procedimiento abreviado contencioso-administrativo se propondrán verbalmente sin permitir listas.
+Errada: La respuesta correcta es que las cuestiones para el interrogatorio se presentarán de manera oral sin permitir listas en el procedimiento abreviado contencioso-administrativo. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento contencioso-administrativo abreviado, frente a las decisiones del juez sobre la aceptación de pruebas que se argumenten como obtenidas vulnerando derechos fundamentales, ¿qué recurso pueden presentar las partes?
+1)Recurso de casación
+2)Recurso de reforma
+3)Recurso de infracción de ley
+4)Recurso de reposición
+Respuesta: 4
+Correcta: ¡Exacto! Las partes pueden interponer un recurso de reposición contra las decisiones del juez sobre la aceptación de pruebas que se argumenten como obtenidas vulnerando derechos fundamentales.
+Errada: Lo siento, la opción correcta es el recurso de reposición frente a decisiones del juez sobre la aceptación de pruebas que se argumenten como obtenidas vulnerando derechos fundamentales. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 78 de la Ley Jurisdiccional Contencioso-Administrativa, ¿cuál de las siguientes afirmaciones es errónea respecto al procedimiento abreviado?
+1)Es aplicable a asuntos relacionados con cuestiones de personal de las Administraciones Públicas siempre que excedan los 30.000 euros.
+2)Se rige por las normas generales de la Ley de Jurisdicción contencioso-administrativa en los casos no previstos.
+3)Es aplicable a asuntos relacionados con cuestiones de personal de las Administraciones Públicas siempre que no excedan los 30.000 euros.
+4)Es adecuado para tratar ciertos asuntos en competencia de los Juzgados Contencioso-Administrativos y, si corresponde, los Juzgados Centrales Contencioso-Administrativos.
+Respuesta: 3
+Correcta: ¡Bien hecho! La afirmación correcta es que el procedimiento abreviado no se aplica a asuntos relacionados con personal de las Administraciones Públicas basados únicamente en una cuantía límite.
+Errada: Incorrecto. El procedimiento abreviado no se aplica a asuntos relacionados con personal de las Administraciones Públicas basándose en un límite cuantitativo. (Respuesta Correcta 3)
+###
+Pregunta: Dentro del proceso abreviado de la jurisdicción contencioso-administrativa, ¿está el juez obligado a establecer un periodo de conclusiones orales después de practicar las pruebas durante la audiencia?
+1)Se necesita unaminidad.
+2)Se requiere consejo del Ministerio Fiscal.
+3)Si una parte lo pide sí.
+4)Nunca estará obligado a eso.
+Respuesta: 4
+Correcta: ¡Correcto! En el procedimiento abreviado contencioso-administrativo, no es obligatorio que el juez establezca un periodo de conclusiones orales después de practicar las pruebas durante la audiencia.
+Errada: Incorrecto. En el procedimiento abreviado contencioso-administrativo, no es obligatorio para el juez abrir un periodo de conclusiones verbales tras la práctica de pruebas. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso abreviado contencioso-administrativo, tras admitir la demanda, el Letrado de la Administración de Justicia solicitará a la Administración demandada que envíe el expediente administrativo:
+1)Al menos cinco días antes de la fecha programada para la vista.
+2)Al menos diez días antes de la fecha programada para la vista.
+3)Al menos quince días antes de la fecha programada para la vista.
+4)Al menos veinte días antes de la fecha programada para la vista.
+Respuesta: 3
+Correcta: ¡Muy bien! Una vez admitida la demanda en el procedimiento abreviado contencioso-administrativo, el expediente administrativo debe ser remitido con al menos quince días de antelación a la fecha programada para la vista.
+Errada: Lo siento, la opción correcta es que el expediente administrativo debe ser enviado con al menos quince días de anticipación a la fecha programada para la vista en el proceso abreviado contencioso-administrativo. (Respuesta Correcta 3)
+###
+Pregunta: En el proceso abreviado contencioso-administrativo, ¿en qué momento puede el demandado plantear la falta de jurisdicción o competencia del Tribunal?
+1)Dentro de los primeros diez días del plazo para responder a la demanda.
+2)Después del acto de la vista.
+3)Antes del acto de la vista.
+4)Durante el acto de la vista.
+Respuesta: 4
+Correcta: ¡Exacto! En el procedimiento abreviado contencioso-administrativo, el demandado puede alegar la falta de jurisdicción o competencia del Tribunal durante el acto de la vista.
+Errada: La respuesta correcta es que, en el procedimiento abreviado contencioso-administrativo, el demandado puede alegar la falta de jurisdicción o competencia del Tribunal en el acto de la vista. (Respuesta Correcta 4)
+###
+Pregunta: Si en sus alegaciones el demandado impugna la adecuación del procedimiento por razón de la cuantía, y si no se alcanza un acuerdo entre las partes, ¿quién tomará la decisión?
+1)El Letrado de la Administración de Justicia.
+2)El Juez.
+3)La Administración demandada.
+4)El Juez, con consejo del Presidente del TSJ,
+Respuesta: 2
+Correcta: ¡Correcto! Ante la falta de acuerdo sobre la adecuación del procedimiento por razón de la cuantía, será el Juez quien decida.
+Errada: La respuesta correcta es que será el Juez quien decida sobre la adecuación del procedimiento en caso de impugnación por razón de la cuantía y falta de acuerdo entre las partes. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 78 de la Ley de Jurisdicción Contencioso-Administrativa, ¿cuál afirmación es correcta respecto al tratamiento de los testigos en el procedimiento abreviado?
+1)Los testigos pueden ser tachados y las partes pueden hacer comentarios pertinentes en conclusiones.
+2)Los testigos pueden ser tachados y las partes no pueden hacer comentarios pertinentes en conclusiones.
+3)Los testigos no pueden ser tachados y las partes sólo pueden hacer comentarios pertinentes en conclusiones.
+4)Los testigos pueden ser tachados y las partes pueden hacer comentarios pertinentes en las cuestiones previas.
+Respuesta: 3
+Correcta: ¡Correcto! Según el artículo 78, en el procedimiento abreviado, los testigos no pueden ser tachados y las partes sólo pueden hacer observaciones pertinentes sobre ellos durante las conclusiones.
+Errada: Lo siento, la respuesta correcta es que en el procedimiento abreviado, los testigos no pueden ser tachados y las partes sólo pueden hacer observaciones pertinentes sobre ellos durante las conclusiones. (Respuesta Correcta 3)
+###
+Pregunta: Cuando todas las partes demandadas están de acuerdo con las pretensiones del actor, ¿qué medida toma el Juez?
+1)Dicta sentencia en 2 días.
+2)Dicta sentencia en 3 días.
+3)Dicta sentencia sin más dilación.
+4)Dicta sentencia en 5 días.
+Respuesta: 3
+Correcta: ¡Exacto! Cuando todas las partes demandadas están en conformidad con las pretensiones del actor, el Juez dictará sentencia sin más dilación.
+Errada: La respuesta correcta es que cuando todas las partes demandadas están en conformidad con las pretensiones del actor, el Juez dictará sentencia sin más dilación. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 78.1 LJCA, en el procedimiento abreviado, ¿cuál es el límite de cuantía para que los Juzgados de lo Contencioso-Administrativo conozcan el caso?
+1)10.000 euros.
+2)20.000 euros.
+3)40.000 euros.
+4)30.000 euros.
+Respuesta: 4
+Correcta: ¡Correcto! Según el artículo 78.1 LJCA, en el procedimiento abreviado, los Juzgados de lo Contencioso-Administrativo conocen los asuntos cuya cuantía no supere los 30.000 euros.
+Errada: La respuesta correcta es 30.000 euros según el artículo 78.1 LJCA para el procedimiento abreviado en los Juzgados de lo Contencioso-Administrativo. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento abreviado contencioso-administrativo, ¿cuál de las siguientes afirmaciones es cierta?
+1)Una vez recibido el expediente administrativo, el Letrado de la Administración de Justicia lo enviará al demandante y a las partes interesadas que no se hayan personado para que presenten sus alegaciones durante la vista.
+2)Una vez recibido el expediente administrativo, el Letrado de la Administración de Justicia lo enviará al demandante y a las partes interesadas que se hayan personado para que presenten sus alegaciones durante la vista.
+3)Una vez recibido el expediente administrativo, el Gestor Procesal lo enviará al demandante y a las partes interesadas que se hayan personado para que presenten sus alegaciones durante la vista.
+4)Una vez recibido el expediente administrativo, el Juez lo enviará al demandante y a las partes interesadas que se hayan personado para que presenten sus alegaciones durante la vista.
+Respuesta: 2
+Correcta: ¡Exacto! En el procedimiento abreviado contencioso-administrativo, una vez recibido el expediente, el Letrado de la Administración de Justicia lo facilitará al demandante y a las partes interesadas para que realicen alegaciones en la vista.
+Errada: Lo siento, la respuesta correcta es que en el procedimiento abreviado contencioso-administrativo, una vez que se ha obtenido el expediente, el Letrado de la Administración de Justicia lo entrega al demandante y a las partes interesadas para que realicen alegaciones en la vista. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cómo tramitan los Juzgados Centrales de lo Contencioso-Administrativo los asuntos relacionados con la inadmisión de solicitudes de asilo político?
+1)Siguiendo el Procedimiento de Derechos Fundamentales.
+2)Siguiendo el Procedimiento Ordinario.
+3)Siguiendo el Procedimiento Abreviado.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! Los Juzgados Centrales de lo Contencioso-Administrativo tramitan los asuntos relacionados con la inadmisión de solicitudes de asilo político a través del Procedimiento Abreviado.
+Errada: Lo siento, la respuesta correcta es que los Juzgados Centrales de lo Contencioso-Administrativo tramitan estos asuntos a través del Procedimiento Abreviado. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado contencioso-administrativo, frente a las decisiones del Juez que niegan pruebas, ¿qué recurso es procedente?
+1)Recurso de casación
+2)Recurso de reposición
+3)Recurso de de infracción de ley
+4)Recurso de queja
+Respuesta: 2
+Correcta: ¡Bien hecho! Frente a las decisiones del Juez que niegan pruebas en el procedimiento abreviado contencioso-administrativo, es procedente el recurso de reposición.
+Errada: La respuesta correcta es el recurso de reposición. Es el recurso procedente contra las decisiones del Juez que niegan pruebas en el procedimiento abreviado contencioso-administrativo. (Respuesta Correcta 2)
+###
+Pregunta: Los Juzgados de lo Contencioso-Administrativo, y cuando corresponda, los Juzgados Centrales de lo Contencioso-Administrativo dentro de este ámbito jurisdiccional, ¿de qué asuntos tienen conocimiento a través del procedimiento abreviado?
+1)De temas relacionados con la disciplina deportiva en cuestiones de dopaje
+2)De asuntos cuyo valor exceda los 30.000 euros.
+3)Sobre la vulneración de derechos fundamentales en el expediente adminsitrativo.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Bien! De temas relacionados con la disciplina deportiva en cuestiones de dopaje
+Errada: Respuesta Correcta 1: De temas relacionados con la disciplina deportiva en cuestiones de dopaje (Respuesta Correcta 1)
+###
+Pregunta: En el marco del procedimiento abreviado contencioso-administrativo, ¿es necesario adjuntar algún documento con la demanda?
+1)Sí, se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 45.1 LJCA.
+2)Sí, se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 46.2 LJCA.
+3)Sí, se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 45.2 LJCA.
+4)Sí, se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 44.3 LJCA.
+Respuesta: 3
+Correcta: ¡Correcto! se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 45.2 LJCA.
+Errada: Respuesta Correcta 3: Sí, se debe anexar tanto los documentos en que el actor basa su derecho como los indicados en el art. 45.2 LJCA. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la reforma de la LJCA, en el procedimiento abreviado, el Juez dictará sentencia en el plazo de diez días desde la celebración de la vista, salvo que:
+1)Las partes soliciten un plazo mayor.
+2)Se trate de un asunto de cuantía inferior a 3.000 euros.
+3)La sentencia se dicte oralmente al concluir dicho acto.
+4)El Ministerio Fiscal emita un informe desfavorable.
+Respuesta: 3
+Correcta: ¡Exacto! La regla general de 10 días para la sentencia escrita se mantiene, pero la reforma del art. 78.20 de la LJCA introduce la excepción de poder dictar la sentencia oralmente al finalizar la vista.
+Errada: Incorrecto. La principal novedad y excepción al plazo de 10 días es la posibilidad de que el Juez dicte la sentencia de forma oral al término de la vista, según el nuevo art. 78.20 de la LJCA. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 78 de la Ley de Jurisdicción Contencioso-Administrativa, ¿cómo inicia la vista?
+1)Inicia con el Ministerio Fiscal presentando las bases de su demanda o ratificando lo expresado anteriormente.
+2)Inicia con el demandante presentando las bases de su demanda o ratificando lo expresado anteriormente.
+3)Inicia con el interesado presentando las bases de su demanda o ratificando lo expresado anteriormente.
+4)Inicia con el demandado presentando las bases de su demanda o ratificando lo expresado anteriormente.
+Respuesta: 2
+Correcta: ¡Correcto! Inicia con el demandante presentando las bases de su demanda o ratificando lo expresado anteriormente.
+Errada: Respuesta Correcta 2: Inicia con el demandante presentando las bases de su demanda o ratificando lo expresado anteriormente. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso abreviado contencioso-administrativo, si el demandante no asiste al juicio oral sin una razón válida, ¿cuál será la decisión del Juez?
+1)Considerar que el demandante no ha abandonado el caso ni condenarlo al pago de costas.
+2)Considerar que el demandante no ha abandonado el caso y condenarlo al pago de costas.
+3)Considerar que el demandante ha abandonado el caso y no condenarlo al pago de costas.
+4)Considerar que el demandante ha abandonado el caso y condenarlo al pago de costas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Si el demandante no asiste, se le considera como si hubiera abandonado el caso y se le condena al pago de costas.
+Errada: Lamentablemente, esa no es la respuesta correcta. Si el demandante falta, se le considera como si hubiera abandonado el caso y se le condena al pago de costas. (Respuesta Correcta 4)
+###
+Pregunta: En ausencia de regulaciones específicas en el artículo 78 de la Ley de Jurisdicción Contencioso-Administrativa, el procedimiento abreviado se rige por:
+1)Las reglas básicas de la Ley 29/1998.
+2)Las reglas básicas de la Ley 29/1999.
+3)Las reglas básicas de la Ley 23/1988.
+4)Las reglas básicas de la Ley 25/1979.
+Respuesta: 1
+Correcta: ¡Perfecto! Se rige por las normas generales de la Ley 29/1998.
+Errada: Esa no es la respuesta correcta. El procedimiento se rige por las normas generales de la Ley 29/1998. (Respuesta Correcta 1)
+###
+Pregunta: En general, en el procedimiento abreviado contencioso-administrativo, ¿cuándo se convocará a las partes para la vista?
+1)Una vez que el demandante tenga en su poder el expediente adminsitrativo.
+2)Una vez que la contestación ha sido admitida.
+3)Una vez presentada las pruebas.
+4)Una vez que la demanda ha sido admitida.
+Respuesta: 4
+Correcta: ¡Muy bien! Se citará a las partes para la vista una vez admitida la demanda.
+Errada: Lo siento, esa no es la respuesta correcta. Se citará a las partes tras la admisión de la demanda. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el art. 78 de la LJCA, ¿a qué criterios se apegará para fijar las audiencias?
+1)A los determinados en la Ley Orgánica del Poder Judicial.
+2)A los determinados en la Ley de Enjuiciamiento Civil.
+3)A los determinados en la Ley de Jurisdicción Voluntaria.
+4)A los determinados en la Ley de la Jurisdicción Contencioso Administrativa.
+Respuesta: 2
+Correcta: ¡Exacto! Se siguen los criterios de la Ley de Enjuiciamiento Civil.
+Errada: Lo siento, la respuesta correcta es la Ley de Enjuiciamiento Civil. (Respuesta Correcta 2)
+###
+Pregunta: En relación con el procedimiento contencioso-administrativo abreviado, ¿cuál de las siguientes afirmaciones es cierta?
+1)La audiencia comienza con el demandante explicando los fundamentos de su solicitud o confirmando lo ya presentado en la demanda.
+2)Si el demandado cuestiona el proceso por razones de cuantía en sus alegaciones, el Juez animará a las partes a llegar a un acuerdo sobre este punto antes de proceder con la prueba o las conclusiones.
+3)Si las disputas son puramente jurídicas y las partes no desean llegar a conclusiones, el Juez podrá dictar sentencia de inmediato si ninguna parte se opone.
+4)Todas las anteriores son verdaderas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Todas las afirmaciones son correctas en relación con el procedimiento contencioso-administrativo abreviado.
+Errada: Incorrecto: La respuesta correcta es que todas las afirmaciones son verdaderas. (Respuesta Correcta 4)
+###
+Pregunta: Si hay un número excesivo de testigos que puedan repetir información sobre hechos ya claros, ¿qué podrá hacer el órgano judicial?
+1)Permitir que letrado de la Administración los limite de acuerdo a las leyes.
+2)Permitir que el abogado los limite de acuerdo a las leyes.
+3)Limitarlos a su propia discreción.
+4)Permitir que el Letrado de la Administración de Justicia los limite de acuerdo a las leyes.
+Respuesta: 3
+Correcta: ¡Correcto! El órgano judicial tiene la discreción de limitar el número de testigos si considera que su testimonio sería repetitivo.
+Errada: La respuesta correcta es que el órgano judicial puede limitarlos a su propia discreción. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley de la Jurisdicción Contencioso-Administrativa, ¿cuál es el límite máximo de cuantía para determinar qué casos seguirán el procedimiento abreviado?
+1)15.000 euros.
+2)25.000 euros.
+3)30.000 euros.
+4)35.000 euros.
+Respuesta: 3
+Correcta: ¡Exactamente! La cuantía máxima es de 30.000 euros.
+Errada: Lo siento, la cuantía máxima es de 30.000 euros. (Respuesta Correcta 3)
+###
+Pregunta: Según el nuevo artículo 78.18 de la LJCA, si el Juez suspende la vista porque una prueba relevante no puede practicarse, y alguna de las partes no hubiera asistido, el Letrado de la Administración de Justicia:
+1)Dejará sin efecto la prueba y continuará el juicio.
+2)Efectuará un nuevo señalamiento en el día hábil siguiente a aquel en que se acordó la suspensión.
+3)Archivará el procedimiento por incomparecencia.
+4)Esperará 10 días para ver si la parte justifica su ausencia antes de hacer un nuevo señalamiento.
+Respuesta: 2
+Correcta: ¡Muy bien! La reforma del art. 78.18 de la LJCA establece expresamente que si una parte no asistió a la vista suspendida, el nuevo señalamiento se realizará para el día hábil siguiente.
+Errada: Respuesta incorrecta. La nueva regulación del art. 78.18 de la LJCA prevé una solución ágil para este supuesto, fijando el nuevo señalamiento para el día hábil siguiente. (Respuesta Correcta 2)
+###
+Pregunta: En relación con la determinación del Juez sobre la idoneidad del procedimiento debido a la cuantía en el procedimiento abreviado contencioso-administrativo:
+1)Es posible un recurso de reposición.
+2)No se admite ningún recurso.
+3)Es posible un recurso de queja.
+4)Es posible un recurso por infracción procesal.
+Respuesta: 2
+Correcta: ¡Exactamente! No se admite ningún recurso frente a la decisión del Juez en este caso.
+Errada: La respuesta correcta es que no se admite ningún recurso. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado establecido en los artículos 78 y siguientes de la LJCA, una vez que se admite la demanda, ¿qué acción tomará el LAJ?
+1)Trasladará la demanda al demandado, citando a las partes para la audiencia previa
+2)Trasladará la demanda a la Administración.
+3)Trasladará la demanda al demandado, dándole un plazo de veinte días para responder.
+4)Trasladará la demanda al demandado, citando a las partes para la audiencia
+Respuesta: 4
+Correcta: ¡Bien hecho! El LAJ trasladará la demanda al demandado y citará a las partes para la audiencia.
+Errada: La respuesta correcta es que el LAJ trasladará la demanda al demandado y citará a las partes para la audiencia. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 78.13 de la LJCA, en el proceso abreviado, las preguntas para el interrogatorio de parte se presentarán:
+1)Ninguna es correcta.
+2)Telemáticamente, sin permitir pliegos.
+3)Por escrito, sin permitir pliegos.
+4)Verbalmente, sin permitir pliegos.
+Respuesta: 4
+Correcta: ¡Correcto! Las preguntas para el interrogatorio de parte se harán verbalmente sin permitir pliegos.
+Errada: Las preguntas se presentarán verbalmente y no se admiten pliegos. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a la reforma de la LJCA, contra el auto del Juez que acuerda la celebración de la vista en el procedimiento abreviado, tras la solicitud del demandado:
+1)Cabe recurso de reposición.
+2)Cabe recurso de apelación en un solo efecto.
+3)No será recurrible.
+4)Cabe recurso de queja.
+Respuesta: 3
+Correcta: ¡Muy bien! La nueva redacción del art. 78.3 de la LJCA establece de forma expresa que el auto que acuerde la celebración de la vista no será recurrible.
+Errada: Esa no es la respuesta correcta. La reforma del art. 78.3 de la LJCA zanja esta cuestión procesal indicando que contra dicho auto no cabe recurso alguno. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a los Juzgados de lo Contencioso-Administrativo y, si corresponde, a los Juzgados Centrales de lo Contencioso-Administrativo, en asuntos relacionados con disciplina deportiva sobre dopaje, ¿cómo se tramitarán?
+1)Mediante el procedimiento abreviado, en funnción de la cuantía de la sanción.
+2)Mediante el procedimiento abreviado, sin importar el monto involucrado.
+3)Mediante el procedimiento ordinario, sin importar el monto involucrado.
+4)Mediante el procedimiento especial de Derechos Fundamentales, sin importar el monto involucrado.
+Respuesta: 2
+Correcta: ¡Bien hecho! Los asuntos de disciplina deportiva en dopaje se tramitan mediante el procedimiento abreviado sin considerar su cuantía.
+Errada: La respuesta correcta es que estos asuntos se tramitan mediante el procedimiento abreviado, sin importar su cuantía. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso abreviado frente a los Juzgados Centrales de lo Contencioso-administrativo, ¿cuál es el procedimiento para las partes involucradas?
+1)Pueden otorgar su representación a un Procurador y siempre deben contar con la asistencia de un Abogado.
+2)Debe otorgar su representación a un Procurador y siempre deben contar con la asistencia de un Abogado.
+3)Pueden otorgar su representación a un Procurador y siempre podrá contar con la asistencia de un Abogado.
+4)Debe otorgar su representación a un Procurador y siempre podrá contar con la asistencia de un Abogado.
+Respuesta: 1
+Correcta: ¡Correcto! Las partes pueden otorgar su representación a un Procurador y siempre deben ser asistidas por un Abogado.
+Errada: La respuesta correcta es que las partes pueden otorgar su representación a un Procurador y siempre deben ser asistidas por un Abogado. (Respuesta Correcta 1)
+###
+Pregunta: En un proceso contencioso administrativo abreviado, si sólo se presenta el demandante, ¿qué acción tomará el Juez o Tribunal?
+1)El Juez o Tribunal marcará al demandado como rebelde.
+2)El Juez o Tribunal determinará que la vista continúe con la presencia del demandado.
+3)El Juez o Tribunal determinará que la vista no continúe sin la presencia del demandado.
+4)El Juez o Tribunal determinará que la vista continúe sin la presencia del demandado.
+Respuesta: 4
+Correcta: ¡Exacto! Si solo el demandante se presenta, el Juez o Tribunal decidirá que la vista siga adelante sin el demandado.
+Errada: La respuesta adecuada es que si solo se presenta el demandante, el Juez o Tribunal determinará que la vista siga adelante sin el demandado. (Respuesta Correcta 4)
+###
+Pregunta: Dentro del ámbito del procedimiento abreviado contencioso administrativo, identifique la afirmación que NO es correcta:
+1)Las cuestiones para el interrogatorio de parte se plantearán de manera oral, sin la necesidad de documentos.
+2)Los medios de prueba en juicios abreviados se llevarán a cabo, en lo que no contradiga su procedimiento, de la manera estipulada para el juicio común.
+3)No se aceptarán documentos con preguntas y contrapreguntas para el testimonio.
+4)Las partes pueden objetar a los testigos.
+Respuesta: 4
+Correcta: ¡Correcto! Las partes no pueden objetar a los testigos en el contexto del procedimiento abreviado.
+Errada: La respuesta adecuada es que las partes no pueden objetar a los testigos en el contexto del procedimiento abreviado. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento abreviado contencioso-administrativo, ¿el demandado proporcionará una respuesta escrita a la demanda?
+1)Solo si el asunto es de cuantía indeterminada.
+2)Siempre.
+3)Solo cuando el demandante solicite en la demanda que se dicte sentencia con la realización de pruebas o vista.
+4)Solo cuando el demandante solicite en la demanda que se dicte sentencia sin la realización de pruebas o vista.
+Respuesta: 4
+Correcta: ¡Bien hecho! El demandado proporcionará una respuesta escrita a la demanda solo cuando el demandante solicite que se dicte sentencia sin pruebas o vista.
+Errada: La respuesta correcta es que el demandado proporcionará una respuesta escrita a la demanda solo cuando el demandante solicite que se dicte sentencia sin pruebas o vista. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento abreviado contencioso-administrativo, ¿cuál es la afirmación correcta sobre la presentación de escritos para la prueba testifical?
+1)Los escritos con preguntas y repreguntas para los testigos son admitidos.
+2)Solo se prohíben los escritos con repreguntas para los testigos.
+3)Los escritos con preguntas y repreguntas para los testigos no son admitidos.
+4)Se admite el pliego de preguntas.
+Respuesta: 3
+Correcta: ¡Exactamente! No se permiten escritos con preguntas y repreguntas para los testigos en este tipo de procedimiento.
+Errada: En el procedimiento abreviado contencioso-administrativo, no se admiten escritos con preguntas y repreguntas para los testigos. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuáles de los siguientes asuntos se abordarán mediante el procedimiento contencioso administrativo abreviado?
+1)Temas relacionados con el personal de las Administraciones Públicas.
+2)Casos relacionados con disciplina deportiva en el ámbito del dopaje.
+3)Asuntos sobre rechazo de solicitudes de asilo político.
+4)Todas las anteriores opciones son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! El procedimiento abreviado contencioso administrativo aborda todos los asuntos mencionados.
+Errada: Todos los asuntos mencionados se tratan mediante el procedimiento contencioso administrativo abreviado. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 78 LJCA sobre el procedimiento abreviado, ¿en qué artículo de la LEC se basan los criterios para el señalamiento de las vistas?
+1)Artículo 180 LEC.
+2)Artículo 183 LEC.
+3)Artículo 181 LEC.
+4)Artículo 182 LEC.
+Respuesta: 4
+Correcta: ¡Correcto! Los criterios para el señalamiento de las vistas en el procedimiento abreviado se basan en el artículo 182 LEC.
+Errada: El correcto criterio para el señalamiento de las vistas se encuentra en el artículo 182 LEC. (Respuesta Correcta 4)
+###
+Pregunta: En el contexto del procedimiento abreviado contencioso-administrativo, ¿cuál(es) de los siguientes documentos deben adjuntarse a la demanda?
+1)Los documentos en los que el demandante basa su derecho.
+2)Los documentos que validan la legitimación del demandante, especialmente si esta legitimación fue transferida por herencia u otro medio.
+3)Una copia o referencia del acto o disposición que se está recurriendo.
+4)Todos los documentos mencionados deben ser adjuntados.
+Respuesta: 4
+Correcta: ¡Muy bien! Todos los documentos listados son esenciales y deben adjuntarse a la demanda en el procedimiento abreviado contencioso-administrativo.
+Errada: Todos los documentos mencionados son fundamentales y deben ser acompañados con la demanda en dicho procedimiento. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a la reforma de la LJCA, si el Juez rechaza mediante auto la solicitud de vista formulada por el demandado, ¿qué trámite se seguirá?
+1)Se archivará el recurso por falta de acuerdo procesal.
+2)Se dará por contestada la demanda y el pleito quedará concluso para sentencia.
+3)El LAJ citará a las partes a una comparecencia para fijar los hechos.
+4)Se dispondrá que se conteste la demanda en el plazo que reste y podrá abrirse un trámite de conclusiones.
+Respuesta: 4
+Correcta: ¡Correcto! Según el art. 78.3 LJCA, si el Juez deniega la vista, el procedimiento continúa por escrito: se finaliza la contestación y, si el actor lo pidió, se abre un trámite de conclusiones.
+Errada: Respuesta incorrecta. La nueva regulación del art. 78.3 de la LJCA prevé que, denegada la vista, se complete la contestación y se pueda dar paso a un trámite de conclusiones escritas. (Respuesta Correcta 4)
+###
+Pregunta: En el marco del proceso contencioso-administrativo abreviado, tras recibir el expediente administrativo, el Letrado de la Administración de Justicia lo pasa al demandante y a las partes interesadas para que:
+1)Presenten alegaciones durante la vista.
+2)Hagan alegaciones con tres días de anticipación a la vista.
+3)Hagan alegaciones con cinco días de anticipación a la vista.
+4)Hagan alegaciones con siete días de anticipación a la vista.
+Respuesta: 1
+Correcta:¡Exactamente! Las alegaciones se presentan directamente durante la vista.
+Errada: Las partes tienen la oportunidad de presentar alegaciones directamente durante la vista. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado, si no se pudieran utilizar los medios de registro, ¿quién leerá el acta manuscrita al terminar la sesión para posibles rectificaciones?
+1)El Juez o Presidente del tribunal.
+2)El funcionario del Cuerpo de Tramitación Procesal.
+3)El Letrado de la Administración de Justicia.
+4)El representante del Ministerio Fiscal.
+Respuesta: 3
+Correcta: ¡Efectivamente! El artículo 78.22 de la LJCA establece que, en ese supuesto, "al terminar la sesión el letrado o letrada de la Administración de Justicia leerá el acta".
+Errada: Incorrecto. La función de leer el acta manuscrita para su rectificación corresponde al Letrado de la Administración de Justicia, según el art. 78.22 de la LJCA. (Respuesta Correcta 3)
+###
+Pregunta: Si los medios de registro no están disponibles por cualquier razón en el proceso contencioso-administrativo abreviado, el Letrado de la Administración de Justicia redactará un acta de cada sesión que refleje:
+1)Un resumen de los escritos.
+2)Un resumen conciso de las impugnaciones.
+3)Un informe del Letrado de la Administración de Justicia.
+4)Ninguna es correcta.
+Respuesta: 4
+Correcta: ¡Correcto! El acta cubre todos los aspectos mencionados anteriormente.
+Errada: El acta incluye resúmenes de interrogatorios, testimonios, declaraciones y informes de expertos, así como las decisiones del Juez sobre recusaciones propuestas. (Respuesta Correcta 4)
+###
+Pregunta: Si todas las partes demandadas están de acuerdo con las solicitudes del demandante:
+1)El Juicio seguirá igual.
+2)El Juez archivará las actuaciones.
+3)El Juez emitirá un fallo sin más trámites.
+4)El Juez intentará a que las partes lleguen a un acuerdo.
+Respuesta: 3
+Correcta: ¡Correcto! Si todos los demandados están de acuerdo con las pretensiones del actor, el Juez dictará sentencia sin más dilación.
+Errada: En caso de conformidad total, el Juez dictará sentencia de inmediato. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la reforma de la LJCA, si se dicta sentencia oralmente en el procedimiento abreviado, ¿desde cuándo comienza a contar el plazo para recurrir?
+1)Desde el mismo acto de la vista.
+2)A partir de los cinco días siguientes a la celebración de la vista.
+3)Desde la notificación de la sentencia debidamente redactada por escrito.
+4)No cabe recurso contra las sentencias dictadas oralmente.
+Respuesta: 3
+Correcta: ¡Así es! El artículo 210.4 de la LEC, aplicable por remisión de la LJCA reformada, especifica que, salvo renuncia en el acto, el plazo para recurrir comienza desde la notificación de la sentencia por escrito.
+Errada: No es correcto. Aunque la sentencia se pronuncie oralmente, la ley garantiza que el plazo para el recurso no empiece a correr hasta que la resolución se notifique por escrito. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 78 de la Ley Jurisdiccional Contencioso-Administrativa, el procedimiento de la vista iniciará:
+1)Ninguna es correcta.
+2)Con el demandante exponiendo o reafirmando los fundamentos de su demanda.
+3)Con las cuestiones previas.
+4)Con el demandado exponiendo o reafirmando los fundamentos de su demanda.
+Respuesta: 2
+Correcta: ¡Acertado! El procedimiento inicia con la exposición del demandante.
+Errada: La vista comienza con el demandante exponiendo los fundamentos de su demanda. (Respuesta Correcta 2)
+###
+Pregunta: En general, en el procedimiento abreviado contencioso-administrativo, ¿cuándo se convocará a las partes para la vista?
+1)Una vez que el demandante tenga en su poder el expediente adminsitrativo.
+2)Una vez que la contestación ha sido admitida.
+3)Una vez presentada las pruebas.
+4)Una vez que la demanda ha sido admitida.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las partes son citadas para la vista una vez admitida la demanda.
+Errada: La citación para la vista se realiza tras admitir la demanda. (Respuesta Correcta 4)
+###
+Pregunta: En relación con asuntos de disciplina deportiva sobre dopaje, ¿cómo se procederá ante los Juzgados de lo Contencioso-Administrativo o los Juzgados Centrales de lo Contencioso-Administrativo?
+1)Declinando, dado que entra en juego la cuestión prejudicial penal.
+2)Se seguirá el procedimiento abreviado, sin importar la cuantía.
+3)Se seguirá el procedimiento abreviado solo si supera los 30.000 euros
+4)Se seguirá el procedimiento ordinario, sin importar la cuantía.
+Respuesta: 2
+Correcta: ¡Correcto! Los asuntos de dopaje se gestionan mediante el procedimiento abreviado, independientemente de su cuantía.
+Errada: Los casos de dopaje se manejan a través del procedimiento abreviado, sin consideración de su cuantía. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado, según la nueva regulación, el auto del juez que rechace la celebración de la vista solicitada por el demandado:
+1)Pondrá fin al procedimiento.
+2)Podrá ser recurrido en apelación.
+3)Podrá ser recurrido en reposición.
+4)Será irrecurrible.
+Respuesta: 3
+Correcta: ¡Correcto! El nuevo artículo 78.3 de la LJCA especifica que contra el auto que rechace la celebración de vista cabe recurso de reposición.
+Errada: No es correcto. La reforma del art. 78.3 de la LJCA establece expresamente que contra el auto denegatorio de la vista sí cabe recurso de reposición. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la reforma de la LJCA, la sentencia dictada oralmente en el procedimiento abreviado se documentará:
+1)Mediante un acta sucinta firmada por las partes.
+2)Con los requisitos de forma y consecuencias previstas en los apartados 3 y 4 del artículo 210 de la LEC.
+3)Únicamente mediante la grabación audiovisual, sin necesidad de redacción posterior.
+4)Con una simple referencia al fallo en el acta de la vista.
+Respuesta: 2
+Correcta: ¡Efectivamente! El nuevo art. 78.20 de la LJCA se remite expresamente al art. 210 de la LEC, que regula la forma, documentación y efectos de las sentencias orales.
+Errada: Respuesta incorrecta. La reforma del art. 78.20 de la LJCA establece que la sentencia oral debe seguir los requisitos formales y de documentación del art. 210 de la LEC. (Respuesta Correcta 2)
+###
+Pregunta: Tras la reforma del artículo 78 de la LJCA, ¿qué novedad se introduce en el procedimiento abreviado respecto a la contestación a la demanda si no se celebra vista?
+1)Se elimina la contestación oral en la vista, siendo siempre por escrito.
+2)Se introduce un trámite de conclusiones escritas de cinco días si el actor lo solicita y no se celebra vista.
+3)El plazo para contestar por escrito se reduce a 10 días.
+4)La contestación a la demanda siempre debe incluir una propuesta de prueba.
+Respuesta: 2
+Correcta: ¡Muy bien! El nuevo párrafo final del art. 78.3 de la LJCA introduce la posibilidad de un trámite de conclusiones por escrito si no hay vista y la parte actora lo hubiera solicitado.
+Errada: Lo siento, esa no es la respuesta. Una de las novedades del art. 78.3 de la LJCA es que, si no hay vista, se puede abrir un trámite de conclusiones escritas a instancia del actor. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento abreviado, una vez admitida la demanda, el Letrado de la Administración de Justicia requerirá a la Administración demandada la remisión del expediente administrativo en soporte:
+1)Físico, debidamente foliado.
+2)Electrónico.
+3)Físico y electrónico, a elección de la Administración.
+4)En el formato que solicite expresamente la parte actora.
+Respuesta: 2
+Correcta: ¡Exacto! La reforma del art. 78.3 de la LJCA especifica que se requerirá a la Administración que remita el expediente administrativo "en soporte electrónico".
+Errada: Incorrecto. La nueva redacción del art. 78.3 de la LJCA establece expresamente que el expediente administrativo debe ser remitido en soporte electrónico. (Respuesta Correcta 2)
+###
+Pregunta: Si los medios de registro no están disponibles por cualquier razón en el proceso contencioso-administrativo abreviado, el Letrado de la Administración de Justicia redactará un acta de cada sesión que refleje:
+1)Un resumen de los escritos.
+2)Un resumen conciso de las impugnaciones.
+3)Un informe del Letrado de la Administración de Justicia.
+4)Ninguna es correcta.
+Respuesta: 4
+Correcta: ¡Correcto! El acta cubre todos los aspectos mencionados anteriormente.
+Errada: El acta incluye resúmenes de interrogatorios, testimonios, declaraciones y informes de expertos, así como las decisiones del Juez sobre recusaciones propuestas. (Respuesta Correcta 4)
+###
+Pregunta: Si todas las partes demandadas están de acuerdo con las solicitudes del demandante:
+1)El Juicio seguirá igual.
+2)El Juez archivará las actuaciones.
+3)El Juez emitirá un fallo sin más trámites.
+4)El Juez intentará a que las partes lleguen a un acuerdo.
+Respuesta: 3
+Correcta: ¡Correcto! Si todos los demandados están de acuerdo con las pretensiones del actor, el Juez dictará sentencia sin más dilación.
+Errada: En caso de conformidad total, el Juez dictará sentencia de inmediato. (Respuesta Correcta 3)
+###
+Pregunta: En el procedimiento abreviado, si el actor pide que el recurso se falle sin vista y la demandada no solicita su celebración, una vez contestada la demanda, el Letrado de la Administración de Justicia:
+1)Citará a las partes a una comparecencia.
+2)Señalará día y hora para la vista en todo caso.
+3)Declarará concluso el pleito para dictar sentencia, salvo que el juez utilice la facultad del artículo 61.
+4)Abrirá un trámite de prueba de 15 días.
+Respuesta: 3
+Correcta: ¡Bien hecho! El art. 78.3 de la LJCA establece que, en ese supuesto, se seguirá el trámite del art. 57, declarando el pleito concluso para sentencia.
+Errada: Respuesta incorrecta. Según el art. 78.3 de la LJCA, si ninguna de las partes solicita la vista, el procedimiento continúa por escrito y, tras la contestación, queda concluso para sentencia. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 78 de la Ley Jurisdiccional Contencioso-Administrativa, el procedimiento de la vista iniciará:
+1)Ninguna es correcta.
+2)Con el demandante exponiendo o reafirmando los fundamentos de su demanda.
+3)Con las cuestiones previas.
+4)Con el demandado exponiendo o reafirmando los fundamentos de su demanda.
+Respuesta: 2
+Correcta: ¡Acertado! El procedimiento inicia con la exposición del demandante.
+Errada: La vista comienza con el demandante exponiendo los fundamentos de su demanda. (Respuesta Correcta 2)
+###
+Pregunta: En general, en el procedimiento abreviado contencioso-administrativo, ¿cuándo se convocará a las partes para la vista?
+1)Una vez que el demandante tenga en su poder el expediente adminsitrativo.
+2)Una vez que la contestación ha sido admitida.
+3)Una vez presentada las pruebas.
+4)Una vez que la demanda ha sido admitida.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las partes son citadas para la vista una vez admitida la demanda.
+Errada: La citación para la vista se realiza tras admitir la demanda. (Respuesta Correcta 4)
+###
+Pregunta: En relación con asuntos de disciplina deportiva sobre dopaje, ¿cómo se procederá ante los Juzgados de lo Contencioso-Administrativo o los Juzgados Centrales de lo Contencioso-Administrativo?
+1)Declinando, dado que entra en juego la cuestión prejudicial penal.
+2)Se seguirá el procedimiento abreviado, sin importar la cuantía.
+3)Se seguirá el procedimiento abreviado solo si supera los 30.000 euros
+4)Se seguirá el procedimiento ordinario, sin importar la cuantía.
+Respuesta: 2
+Correcta: ¡Correcto! Los asuntos de dopaje se gestionan mediante el procedimiento abreviado, independientemente de su cuantía.
+Errada: Los casos de dopaje se manejan a través del procedimiento abreviado, sin consideración de su cuantía. (Respuesta Correcta 2)
+###
+Pregunta: Según la reforma de la LJCA, la remisión del expediente administrativo en el procedimiento abreviado se realizará en:
+1)Soporte papel, con copia para cada parte.
+2)Soporte electrónico.
+3)El soporte que elija la Administración demandada.
+4)Un dispositivo de almacenamiento USB entregado en el juzgado.
+Respuesta: 2
+Correcta: ¡Muy bien! El reformado art. 78.3 de la LJCA se adapta a la digitalización de la justicia y exige que el expediente se remita en soporte electrónico.
+Errada: Respuesta incorrecta. El nuevo art. 78.3 de la LJCA establece claramente que la remisión del expediente administrativo por parte de la Administración debe ser en soporte electrónico. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la nueva redacción del artículo 78.3 de la LJCA, el auto del Juez que acuerde la celebración de vista solicitada por la parte demandada:
+1)Será recurrible en apelación.
+2)Será recurrible en reposición.
+3)No será recurrible.
+4)Será recurrible en queja si no se admite la prueba solicitada.
+Respuesta: 3
+Correcta: ¡Perfecto! El art. 78.3 de la LJCA establece expresamente que "El auto que acuerde la celebración de vista no será recurrible".
+Errada: La respuesta correcta es la 3. El legislador ha optado por dar agilidad al procedimiento estableciendo que el auto que acuerda celebrar la vista es irrecurrible. (Respuesta Correcta 3)
+###
+Pregunta: Tras la reforma del artículo 78 de la LJCA, ¿qué novedad principal se introduce respecto a la sentencia en el procedimiento abreviado?
+1)La posibilidad de dictarla oralmente al finalizar la vista.
+2)La obligación de que siempre sea leída en audiencia pública.
+3)La reducción del plazo para dictarla a 5 días.
+4)La eliminación del pronunciamiento sobre costas.
+Respuesta: 1
+Correcta: ¡Correcto! La principal novedad del art. 78.20 de la LJCA es la introducción de la facultad del Juez para dictar sentencia "in voce" al concluir la vista, agilizando la resolución.
+Errada: La respuesta correcta es la 1. La reforma del art. 78.20 de la LJCA introduce como novedad destacada la posibilidad de que el Juez dicte la sentencia de forma oral. (Respuesta Correcta 1)
+###
+Pregunta: En el procedimiento abreviado, si el actor pide que se falle sin vista y la demandada solicita su celebración, ¿qué debe argumentar esta última en su solicitud?
+1)La complejidad jurídica del asunto.
+2)La cuantía del procedimiento.
+3)En qué hechos existe disconformidad y qué medios de prueba serían necesarios para aclararla.
+4)La vulneración de un derecho fundamental.
+Respuesta: 3
+Correcta: ¡Muy bien! La reforma del art. 78.3 de la LJCA obliga a la parte demandada a justificar su petición de vista, especificando los hechos controvertidos y la prueba propuesta.
+Errada: Incorrecto. El nuevo art. 78.3 de la LJCA requiere que el demandado fundamente su solicitud de vista en la existencia de hechos controvertidos y en la necesidad de practicar prueba. (Respuesta Correcta 3)
+###
+Pregunta: Si los medios de registro no están disponibles por cualquier razón en el proceso contencioso-administrativo abreviado, el Letrado de la Administración de Justicia redactará un acta de cada sesión que refleje:
+1)Un resumen de los escritos.
+2)Un resumen conciso de las impugnaciones.
+3)Un informe del Letrado de la Administración de Justicia.
+4)Ninguna es correcta.
+Respuesta: 4
+Correcta: ¡Correcto! El acta cubre todos los aspectos mencionados anteriormente.
+Errada: El acta incluye resúmenes de interrogatorios, testimonios, declaraciones y informes de expertos, así como las decisiones del Juez sobre recusaciones propuestas. (Respuesta Correcta 4)
+###
+Pregunta: Si todas las partes demandadas están de acuerdo con las solicitudes del demandante:
+1)El Juicio seguirá igual.
+2)El Juez archivará las actuaciones.
+3)El Juez emitirá un fallo sin más trámites.
+4)El Juez intentará a que las partes lleguen a un acuerdo.
+Respuesta: 3
+Correcta: ¡Correcto! Si todos los demandados están de acuerdo con las pretensiones del actor, el Juez dictará sentencia sin más dilación.
+Errada: En caso de conformidad total, el Juez dictará sentencia de inmediato. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 78.18 LJCA, si se suspende la vista y una de las partes no hubiera asistido, el nuevo señalamiento se hará:
+1)Para el día hábil siguiente a aquel en que se acordó la suspensión.
+2)En el plazo máximo de 15 días.
+3)Notificando personalmente a la parte ausente.
+4)Una vez que la parte ausente justifique su incomparecencia.
+Respuesta: 1
+Correcta: ¡Exacto! La reforma del art. 78.18 de la LJCA establece esta regla específica para agilizar el procedimiento en caso de suspensión con una parte ausente.
+Errada: La respuesta correcta es la 1. El legislador ha previsto esta medida de agilización en el nuevo art. 78.18 de la LJCA. (Respuesta Correcta 1)
+###
+Pregunta: Conforme al artículo 78 de la Ley Jurisdiccional Contencioso-Administrativa, el procedimiento de la vista iniciará:
+1)Ninguna es correcta.
+2)Con el demandante exponiendo o reafirmando los fundamentos de su demanda.
+3)Con las cuestiones previas.
+4)Con el demandado exponiendo o reafirmando los fundamentos de su demanda.
+Respuesta: 2
+Correcta: ¡Acertado! El procedimiento inicia con la exposición del demandante.
+Errada: La vista comienza con el demandante exponiendo los fundamentos de su demanda. (Respuesta Correcta 2)
+###
+Pregunta: En general, en el procedimiento abreviado contencioso-administrativo, ¿cuándo se convocará a las partes para la vista?
+1)Una vez que el demandante tenga en su poder el expediente administrativo.
+2)Una vez que la contestación ha sido admitida.
+3)Una vez presentada las pruebas.
+4)Una vez que la demanda ha sido admitida.
+Respuesta: 4
+Correcta: ¡Bien hecho! Las partes son citadas para la vista una vez admitida la demanda.
+Errada: La citación para la vista se realiza tras admitir la demanda. (Respuesta Correcta 4)
+###
+Pregunta: En relación con asuntos de disciplina deportiva sobre dopaje, ¿cómo se procederá ante los Juzgados de lo Contencioso-Administrativo o los Juzgados Centrales de lo Contencioso-Administrativo?
+1)Declinando, dado que entra en juego la cuestión prejudicial penal.
+2)Se seguirá el procedimiento abreviado, sin importar la cuantía.
+3)Se seguirá el procedimiento abreviado solo si supera los 30.000 euros
+4)Se seguirá el procedimiento ordinario, sin importar la cuantía.
+Respuesta: 2
+Correcta: ¡Correcto! Los asuntos de dopaje se gestionan mediante el procedimiento abreviado, independientemente de su cuantía.
+Errada: Los casos de dopaje se manejan a través del procedimiento abreviado, sin consideración de su cuantía. (Respuesta Correcta 2)

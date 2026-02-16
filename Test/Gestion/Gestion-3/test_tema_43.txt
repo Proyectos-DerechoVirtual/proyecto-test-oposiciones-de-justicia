@@ -1,0 +1,737 @@
+Pregunta: Según lo estipulado en el artículo 412 de la Ley de Enjuiciamiento Criminal (LECRIM), en el caso de que los Presidentes de los Parlamentos autonómicos sean llamados a testificar:
+1)Aunque están liberados de acudir personalmente a responder al llamamiento del Tribunal, no están exentos de testificar, y pueden hacerlo desde sus oficinas o en el lugar donde el organismo del cual son parte se ubique.
+2)Están liberados de acudir personalmente a responder al llamamiento del Tribunal, y están exentos de testificar.
+3)Aunque están liberados de acudir personalmente a responder al llamamiento del Tribunal, no están exentos de testificar, y deben hacerlo desde sus oficinas.
+4)Aunque están liberados de acudir personalmente a responder al llamamiento del Tribunal, no están exentos de testificar, y deben hacerlo en el lugar donde el organismo del cual son parte se ubique.
+Respuesta: 1
+Correcta: ¡Correcto! Los Presidentes de los Parlamentos autonómicos no están obligados a comparecer ante el Juez, pero deben testificar, pudiendo hacerlo desde sus oficinas oficiales o en la sede de la entidad a la que pertenecen.
+Errada: Estas opciones no reflejan con precisión lo establecido por el artículo 412 de la LECRIM respecto a la testificación de los Presidentes de los Parlamentos autonómicos. (Respuesta Correcta 1)
+###
+Pregunta: Identifique la opción incorrecta. Los siguientes individuos están liberados de comparecer ante el Tribunal, pero deben declarar por escrito sobre los hechos que conozcan en virtud de sus cargos:
+1)El Presidente y otros miembros del Gobierno.
+2)Reyes, consortes reales, el Príncipe Heredero y los Regentes.
+3)Los Presidentes de las Cámaras Legislativas.
+4)El Presidente del Tribunal Constitucional.
+Respuesta: 2
+Correcta: ¡Acertado! Los Reyes, consortes reales, el Príncipe Heredero y los Regentes no están categorizados bajo los individuos que deben informar por escrito al juez sobre los hechos que conocen por su posición, sin necesidad de comparecer.
+Errada: Estos individuos están, de hecho, exentos de comparecer ante el juez, pero deben proporcionar testimonio por escrito sobre los hechos que conocen debido a sus respectivos cargos. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 25 de la Ley de Enjuiciamiento Criminal (LECRIM), ¿es posible la impugnación de las resoluciones de las Audiencias que deciden sobre apelaciones presentadas contra decisiones de Jueces de Paz o de Instrucción que se inhibieron a favor de otro juez o jurisdicción?
+1)Sí, se permite un recurso de casación.
+2)No se admite recurso alguno.
+3)Sí, es posible interponer un recurso de súplica.
+4)Sí, es posible interponer un recurso de revisión.
+Respuesta: 1
+Correcta: ¡Correcto! El auto que resuelva el recurso no es recurrible, pero se podrá promover el recurso de casación contra las sentencias definitivas.
+Errada: Estas opciones no reflejan correctamente los recursos permitidos por la legislación contra dichos autos conforme al artículo 25 de la LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 34 de la Ley 23/2014, del 20 de noviembre, ¿cómo se define la orden europea de detención y entrega?
+1)Es una resolución judicial emitida por un Estado foráneo de la Unión Europea que busca la detención y entrega de un individuo por otro Estado miembro para acciones penales.
+2)Es una resolución judicial emitida por un Estado miembro de la Unión Europea que busca la detención y entrega de un individuo por el mismo Estado miembro para acciones penales.
+3)Es una resolución judicial emitida por un Estado miembro de la Unión Europea que busca la detención y entrega de un individuo por otro Estado miembro para acciones penales.
+4)Es una resolución judicial emitida por un no Estado miembro de la Unión Europea que busca la detención y entrega de un individuo por otro Estado miembro para acciones penales.
+Respuesta: 3
+Correcta: ¡Correcto! La orden europea de detención y entrega es una resolución judicial de un Estado miembro de la Unión Europea, diseñada para la detención y entrega por otro Estado miembro de una persona requerida para acciones penales.
+Errada: Estas opciones no describen de manera precisa la orden europea de detención y entrega según lo establecido por el artículo 34 de la Ley 23/2014. (Respuesta Correcta 3)
+###
+Pregunta: Si no se conoce el lugar donde se ha cometido un delito, ¿cuál es el Juez o Tribunal preferente para conocer del caso?
+1)El correspondiente al lugar donde se haya detenido al presunto delincuente.
+2)El correspondiente a la residencia de la víctima.
+3)El correspondiente a la residencia del presunto delincuente.
+4)El del término municipal, partido o circunscripción en que se hayan descubierto pruebas materiales del delito.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez o Tribunal preferente es aquel del lugar donde se han encontrado pruebas materiales del delito.
+Errada: Estas opciones no describen correctamente el Juez o Tribunal preferente en casos donde no se conoce el lugar de comisión del delito. (Respuesta Correcta 4)
+###
+Pregunta: ¿Los miembros de las Oficinas Consulares están exentos de comparecer ante el llamamiento de un Juez (aunque no de declarar)?
+1)Se acatará lo establecido en los Convenios nacionales vigentes.
+2)Se acatará lo establecido en los Convenios Internacionales vigentes.
+3)Se seguirá lo estipulado por el Consejo General del Poder Judicial.
+4)Se seguirá lo estipulado por el Tribunal Supremo.
+Respuesta: 2
+Correcta: ¡Correcto! Los miembros de las Oficinas Consulares están sujetos a lo establecido en los Convenios Internacionales vigentes en cuanto a la exención de comparecer ante un Juez.
+Errada: Estas opciones no reflejan con precisión las disposiciones aplicables a los miembros de las Oficinas Consulares respecto a su exención para comparecer ante un Juez. (Respuesta Correcta 2)
+###
+Pregunta: Cuando no se sabe en qué lugar se ha cometido un delito, elige la opción correcta sobre qué jueces o tribunales son competentes:
+1)El de la ubicación donde se encontraron pruebas materiales.
+2)El de la ubicación donde se haya denunciado el delito por primera vez.
+3)El de la ubicación donde fue detenido el presunto delincuente.
+4)El correspondiente a la residencia de la víctima.
+Respuesta: 1
+Correcta: ¡Correcto! La opción a es correcta, ya que la ley establece este criterio de competencia territorial en caso de desconocimiento del lugar de comisión.
+Errada: Las opciones b, c y d no son criterios de competencia territorial preferentes establecidos por la Ley. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 2 de la Ley 23/2014, del 20 de noviembre, sobre el reconocimiento mutuo de resoluciones penales en la UE, ¿qué define un instrumento de reconocimiento mutuo europeo?
+1)Es una resolución emitida por la autoridad competente de un estado miembro de la UE, enviada a ese mismo estado miembro para su reconocimiento y ejecución en este último.
+2)Es una resolución emitida por la autoridad competente de un estado miembro de la UE, enviada a otro estado miembro para su reconocimiento y ejecución en este último.
+3)Es una resolución emitida por la autoridad incompetente de un estado miembro de la UE, enviada a otro estado miembro para su reconocimiento y ejecución en este último.
+4)Es una resolución emitida por la autoridad competente de un estado miembro de la UE, enviada a otro estado miembro para su reconocimiento exclusivamente.
+Respuesta: 2
+Correcta: ¡Correcto! Los instrumentos de reconocimiento mutuo europeos son resoluciones emitidas y transmitidas entre estados miembros de la UE para su reconocimiento y ejecución.
+Errada: Estas opciones no definen adecuadamente un instrumento de reconocimiento mutuo europeo según la Ley 23/2014. (Respuesta Correcta 2)
+###
+Pregunta: Indique la opción incorrecta. La jurisdicción española será competente para conocer los hechos realizados por españoles o extranjeros fuera de España que puedan tipificarse como delitos contra la libertad e indemnidad sexual en menores, siempre y cuando:
+1)El procedimiento se dirija contra un ciudadano español.
+2)El procedimiento se dirija contra un extranjero que resida habitualmente en España.
+3)El procedimiento se oriente contra una entidad (como una persona jurídica, empresa, organización, etc.) con sede o domicilio social en España.
+4)El delito se haya cometido contra una víctima que, en el momento de iniciarse el procedimiento, tenga nacionalidad española o resida habitualmente en España.
+Respuesta: 4
+Correcta: ¡Correcto! La opción 4 es incorrecta ya que no es un requisito necesario para que la jurisdicción española sea competente en casos de delitos sexuales contra menores cometidos fuera de España.
+Errada: Las opciones A, B y C son correctas y representan situaciones en las cuales la jurisdicción española podría ser competente en tales casos. (Respuesta Correcta 4)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones es incorrecta en relación con el principio acusatorio, que es fundamental en el proceso penal:
+1)El tribunal no puede dictar una pena que sea más severa que la más grave solicitada por las acusaciones, con excepción del procedimiento penal ordinario.
+2)Debe haber correspondencia entre la acusación y el fallo.
+3)Una persona no puede ser condenada a menos que se haya presentado una acusación contra ella y haya tenido la oportunidad de defenderse.
+4)El tribunal está prohibido de introducir hechos que sean perjudiciales para el acusado y que sean sustancialmente diferentes a los presentados por la acusación.
+Respuesta: 1
+Correcta: ¡Bien hecho! Esta afirmación es incorrecta porque el principio acusatorio impide que el tribunal dicte una pena más severa que la solicitada por la acusación, sin excepciones.
+Errada: Estas afirmaciones son correctas y reflejan con precisión aspectos del principio acusatorio en el proceso penal. (Respuesta Correcta 1)
+###
+Pregunta: Identifique el delito que no está protegido por la inmunidad de los líderes gubernamentales extranjeros una vez que han dejado el cargo por acciones tomadas durante su mandato:
+1)Delito de blanqueo de capitales.
+2)Delito de estafa.
+3)Delito de cohecho.
+4)Delito de lesa humanidad.
+Respuesta: 4
+Correcta: ¡Correcto! Los delitos de lesa humanidad están excluidos de la inmunidad de los jefes de gobierno, incluso después de que hayan dejado el cargo.
+Errada: Estos delitos podrían estar protegidos por la inmunidad después de que los líderes gubernamentales dejen el cargo. (Respuesta Correcta 4)
+###
+Pregunta: Indique cuál de las siguientes afirmaciones es incorrecta en relación con quiénes pueden iniciar y mantener competencia:
+1)Los jueces de instrucción pueden hacerlo durante el sumario.
+2)El acusador particular puede hacerlo después de hacer su primera petición una vez que se haya unido al caso.
+3)El acusado y la parte civil, ya sea como demandante o como responsable, pueden hacerlo dentro de los tres días siguientes a la comunicación del caso para calificación.
+4)El Ministerio Fiscal puede hacerlo en cualquier etapa del caso.
+Respuesta: 2
+Correcta: ¡Correcto! La opción B es incorrecta, ya que el acusador particular no puede iniciar ni mantener la competencia en todas las circunstancias después de unirse al caso.
+Errada: Estos actores tienen el derecho de iniciar y mantener competencia bajo las condiciones descritas. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el artículo 14 de la LECrim, las Secciones de lo Penal del Tribunal Central de Instancia son competentes para juzgar causas penales instruidas como resultado de:
+1)Delitos listados en el artículo 65 de la LOPJ con penas de prisión no superiores a cinco años o multas de cualquier monto, o cualquier otra pena diferente, ya sea única, conjunta o alternativa, siempre y cuando no excedan los diez años.
+2)Delitos listados en el artículo 65 de la LOPJ con penas de prisión no superiores a cinco años o multas de cualquier monto, o cualquier otra pena diferente, ya sea única, conjunta o alternativa, siempre y cuando no excedan los cinco años.
+3)Delitos listados en el artículo 65 de la LOPJ con penas de prisión no superiores a cinco años o multas de cualquier monto, o cualquier otra pena diferente, ya sea única, conjunta o alternativa, siempre y cuando no excedan los siete años.
+4)Delitos listados en el artículo 65 de la LOPJ con penas de prisión no superiores a cinco años o multas de cualquier monto, o cualquier otra pena diferente, ya sea única, conjunta o alternativa, siempre y cuando no excedan los tres años.
+Respuesta: 1
+Correcta: ¡Correcto! Los Juzgados Centrales de lo Penal juzgan delitos listados en el artículo 65 de la LOPJ con penas específicas detalladas en esta opción.
+Errada: Estas opciones no reflejan correctamente las circunstancias bajo las cuales los Juzgados Centrales de lo Penal son competentes para juzgar delitos. (Respuesta Correcta 1)
+###
+Pregunta: El principio de juez imparcial implica que:
+1)El juez debe permanecer objetivo e imparcial durante todo el procedimiento.
+2)El juez que instruye no puede ser el mismo que juzga posteriormente.
+3)El juez que instruye puede ser el mismo que juzga posteriormente.
+4)El juez que instruye es el mismo que juzga posteriormente.
+Respuesta: 2
+Correcta: ¡Bien hecho! Este principio asegura que el juez que lleva a cabo la instrucción no sea el mismo que posteriormente realiza el juicio.
+Errada: Estas opciones no describen adecuadamente el principio del juez imparcial. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué órgano judicial tiene la responsabilidad de enjuiciar y decidir sobre los crímenes cometidos por miembros de las Fuerzas y Cuerpos de Seguridad del Estado durante el desempeño de sus funciones?
+1)El juez de lo penal.
+2)La Audiencia Provincial.
+3)El Tribunal Supremo.
+4)La Audiencia Nacional.
+Respuesta: 2
+Correcta: ¡Correcto! La Audiencia Provincial es la responsable de enjuiciar y fallar en estos casos.
+Errada: Estas opciones no reflejan adecuadamente la jurisdicción competente para enjuiciar y decidir sobre los crímenes cometidos por estos funcionarios en el ejercicio de sus funciones. (Respuesta Correcta 2)
+###
+Pregunta: Las Secciones de los Tribunales de Instancia con competencia en materia de violencia sobre la mujer tendrán competencia para instruir y conocer de los delitos conexos en caso de que la conexión provenga de:
+1)La comisión por dos o más personas reunidas.
+2)La comisión de un delito agravado.
+3)La comisión con el objetivo de asegurar la impunidad de otros delitos.
+4)Todas son correctas.
+Respuesta: 3
+Correcta: ¡Correcto! La competencia se extiende a delitos conexos cuando se cometen para asegurar la impunidad de otros delitos.
+Errada: Estas opciones no representan correctamente las circunstancias bajo las cuales se extiende la competencia de estos juzgados. (Respuesta Correcta 3)
+###
+Pregunta: En casos de acusación por traición o delitos contra la seguridad del Estado, la responsabilidad criminal del Presidente y otros miembros del Gobierno:
+1)Puede ser propuesta solo por iniciativa de un tercio de los miembros del Congreso, con la aprobación de la mayoría absoluta del mismo.
+2)Puede ser propuesta solo por iniciativa de un cuarto de los miembros del Congreso, con la aprobación de la mayoría absoluta del mismo.
+3)Puede ser propuesta solo por iniciativa de un quinto de los miembros del Congreso, con la aprobación de la mayoría absoluta del mismo.
+4)Puede ser propuesta solo por iniciativa de un sexto de los miembros del Congreso, con la aprobación de la mayoría absoluta del mismo.
+Respuesta: 2
+Correcta: ¡Correcto! La responsabilidad criminal puede ser propuesta por un cuarto de los miembros del Congreso con aprobación de la mayoría absoluta del mismo.
+Errada: Estas opciones no describen adecuadamente el proceso para proponer la responsabilidad criminal en estos casos. (Respuesta Correcta 2)
+###
+Pregunta: Si hay una duda razonable sobre la presencia real de los elementos del crimen, incluso después de realizar pruebas válidas con todas las garantías procesales en el proceso penal, ¿qué principio se aplica?
+1)Principio de oralidad.
+2)Principio confiscatorio.
+3)Principio acusatorio.
+4)Principio in dubio pro reo.
+Respuesta: 4
+Correcta: ¡Correcto! El principio in dubio pro reo se aplica cuando hay duda razonable sobre la concurrencia real de los elementos del tipo delictivo, proporcionando el beneficio de la duda al acusado.
+Errada: Estos principios no se aplican en situaciones donde existen dudas razonables acerca de la concurrencia de los elementos del tipo delictivo en cuestión. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué órgano judicial tiene jurisdicción sobre un delito leve de coacciones y amenazas cometido por un nieto mayor de edad contra su abuelo?
+1)La Audiencia Provincial.
+2)La sección de violencia sobre la mujer.
+3)La sección de lo penal o la de violencia contra la infancia y la adolescencia.
+4)La sección de lo penal.
+Respuesta: 4
+Correcta: ¡Correcto! La sección de lo penal exclusivamente conocerá de un delito leve de coacciones y amenazas en estas circunstancias.
+Errada: Estos órganos no son los competentes para conocer delitos leves de coacciones y amenazas en este contexto, le corresponde a la sección de lo penal. (Respuesta Correcta 4)
+###
+Pregunta: Entre las opciones siguientes, seleccione el instrumento que no está regulado en la Ley 23/2014, de 20 de noviembre, de reconocimiento mutuo de resoluciones penales en la Unión Europea:
+1)La resolución de libertad provisional.
+2)La resolución que impone una pena o medida de seguridad.
+3)La orden europea de detención y entrega.
+4)La resolución de libertad vigilada.
+Respuesta: 2
+Correcta: ¡Correcto! La resolución que impone una pena o medida de seguridad no está regulada en la Ley 23/2014.
+Errada: Estos instrumentos están efectivamente contemplados en la Ley 23/2014, de reconocimiento mutuo de resoluciones penales en la Unión Europea. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 56 de la Constitución Española (CE), ¿quién es inviolable y no puede ser legalmente responsable?
+1)El Congreso de los Diputados.
+2)Los Magistrados del Tribunal Supremo.
+3)Los Magistrados del Tribunal Constitucional.
+4)El Rey.
+Respuesta: 4
+Correcta: ¡Correcto! Según el artículo 56 CE, el Rey es inviolable y no está sujeto a responsabilidad.
+Errada: Estos individuos no tienen inviolabilidad total y falta de responsabilidad según el artículo mencionado de la Constitución. (Respuesta Correcta 4)
+###
+Pregunta: Cuando dos Secciones de Instrucción del Tribunal de Instancia se consideran competentes para instruir un caso y se ha remitido al superior jerárquico para resolver la competencia:
+1)Ninguna es correcta.
+2)Solo el juez del lugar donde se cometió el delito puede continuar con el procedimiento.
+3)Ambos jueces pueden continuar con las diligencias necesarias para verificar el delito y otras que consideren urgentes.
+4)Ambos jueces deben suspender el procedimiento hasta que se resuelva la cuestión de competencia.
+Respuesta: 3
+Correcta: ¡Correcto! Ambos Jueces de Instrucción pueden continuar practicando diligencias necesarias y urgentes mientras se resuelve la cuestión de competencia.
+Errada: Estas opciones no describen correctamente el procedimiento que los Jueces de Instrucción deben seguir en esta situación. (Respuesta Correcta 3)
+###
+Pregunta: Según el Artículo 21 de la LECRIM, cuando un juez o tribunal esté tratando un caso que debería ser competencia del Tribunal Supremo, este último puede instruir al primero para que se abstenga y envíe los antecedentes. ¿En qué plazo debe hacerlo?
+1)Dentro del primer día.
+2)Dentro del segundo día.
+3)Dentro del tercer día.
+4)Dentro del cuarto día.
+Respuesta: 2
+Correcta: ¡Correcto! Los antecedentes deben ser enviados dentro del segundo día para revisión y resolución por el Tribunal Supremo.
+Errada: Estas opciones no reflejan correctamente el plazo establecido para el envío de los antecedentes al Tribunal Supremo. (Respuesta Correcta 2)
+###
+Pregunta: Identifique quién, a pesar de estar exento de asistir al llamamiento de un Juez por informaciones conocidas en el ejercicio de sus funciones, no está liberado de testificar, y no puede suministrar su declaración por escrito, de acuerdo con el art. 412 de la LECrim.
+1)El Fiscal General del Estado.
+2)Presidente del Tribunal Constitucional.
+3)Defensor del Pueblo.
+4)Presidente del Tribunal Supremo.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Defensor del Pueblo está exento de presentarse ante el llamado del juez pero no está exento de testificar, conforme a la información conocida en su cargo.
+Errada: Estas opciones no representan correctamente los individuos que están exentos de asistir al llamado del juez pero obligados a testificar. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 21 de la Ley Orgánica del Poder Judicial (LOPJ), ¿en qué situaciones las Secciones de los Tribunales de Instancia no tendrán competencia sobre las reclamaciones presentadas?
+1)Cuando se trate de individuos o bienes con inmunidad de jurisdicción y ejecución según la legislación española y las normas de Derecho Internacional Privado.
+2)Cuando se trate de individuos o bienes con inmunidad de jurisdicción y ejecución según la legislación portuguesa y las normas de Derecho Internacional Público.
+3)Cuando se trate de individuos o bienes con inmunidad de jurisdicción y ejecución según la legislación española y las normas de Derecho Internacional Público.
+4)Cuando se trate de individuos o bienes con inmunidad de jurisdicción y ejecución según la legislación española y las normas de Derecho Internacional Público.
+Respuesta: 3
+Correcta: ¡Correcto! Los tribunales españoles no tendrán jurisdicción sobre reclamaciones relacionadas con sujetos o bienes con inmunidad conforme a la legislación española y las normas de Derecho Internacional Público.
+Errada: Estas opciones no reflejan con precisión las situaciones en las que los tribunales españoles no tendrían jurisdicción conforme al Artículo 21 de la LOPJ. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 8.3 de la Ley Orgánica 2/1986, cuando hay un procedimiento penal y expedientes administrativos o disciplinarios concurrentes contra miembros de las Fuerzas y Cuerpos de Seguridad:
+1)El inicio de un procedimiento penal no impide la apertura y tramitación de expedientes administrativos o disciplinarios por distintos hechos.
+2)El inicio de un procedimiento penal impide la apertura y tramitación de expedientes administrativos o disciplinarios por los mismos hechos.
+3)El inicio de un procedimiento penal no impide la apertura, pero no la tramitación de expedientes administrativos o disciplinarios por los mismos hechos.
+4)El inicio de un procedimiento penal no impide la apertura y tramitación de expedientes administrativos o disciplinarios por los mismos hechos.
+Respuesta: 4
+Correcta: ¡Correcto! La iniciación de un procedimiento penal no obstaculiza la apertura y desarrollo de expedientes administrativos o disciplinarios por los mismos hechos.
+Errada: Estas opciones no describen correctamente las condiciones bajo las cuales los procedimientos penales y expedientes administrativos o disciplinarios concurren según la Ley Orgánica 2/1986. (Respuesta Correcta 4)
+###
+Pregunta: Cuando dos Secciones de Instrucción del Tribunal de Instancia se crean competentes para instruir un caso, y este se ha enviado a un superior jerárquico a la espera de una resolución sobre la competencia:
+1)Ninguna es correcta.
+2)Ambos jueces cesarán todos los procedimientos hasta que se resuelva la cuestión de competencia.
+3)Solo el juez que tenga al acusado bajo custodia continuará con el caso.
+4)Ambos jueces procederán con las diligencias necesarias para verificar el delito y otras que consideren urgentes.
+Respuesta: 4
+Correcta: ¡Correcto! Los dos jueces continuarán con las diligencias urgentes y necesarias para verificar el delito mientras se resuelve la cuestión de competencia.
+Errada: Estas opciones no reflejan correctamente lo que ocurre mientras se resuelve la competencia entre dos jueces de instrucción. (Respuesta Correcta 4)
+###
+Pregunta: Conforme a la Ley Orgánica 6/1985, y sin afectar a los tratados internacionales que involucren a España, ¿cuáles causas son competencia de la jurisdicción española en el ámbito penal?
+1)Delitos perseguidos en España o en buques o aeronaves españolas.
+2)Delitos cometidos en España o en buques o aeronaves extranjeros.
+3)Delitos cometidos en España o en buques o aeronaves españolas.
+4)Delitos cometidos fuera de España o en buques o aeronaves españolas.
+Respuesta: 3
+Correcta: ¡Acertado! La jurisdicción española, en el ámbito penal, se aplica a delitos cometidos en España o en medios de transporte españoles.
+Errada: Estas opciones no describen adecuadamente las condiciones bajo las cuales la jurisdicción española se aplicaría. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al art. 21 de la LECrim, cuando un Juez o Tribunal esté conociendo de una causa que el Tribunal Supremo considere reservada a su conocimiento, este último ordenará al primero, de oficio o a instancia de parte, que se abstenga y le envíe los antecedentes. ¿Cuál es el plazo para enviarlos?
+1)Dentro de dos días.
+2)Dentro de tres días.
+3)Dentro de cuatro días.
+4)Dentro de cinco días.
+Respuesta: 1
+Correcta: ¡Correcto! Los antecedentes deben ser enviados dentro del segundo día para revisión y resolución por el Tribunal Supremo.
+Errada: Estas opciones no son precisas. El plazo establecido es de dos días. (Respuesta Correcta 1)
+###
+Pregunta: Indique quiénes no están exentos de la obligación de testificar, en relación con el artículo 411 de la LECrim:
+1)Cónyuge, ascendientes, descendientes, hermanos consanguíneos o afines del procesado.
+2)Miembros de la familia real.
+3)Cónyuge, ascendientes, descendientes, hermanos consanguíneos del procesado.
+4)Abogados de la parte acusadora.
+Respuesta: 2
+Correcta: ¡Bien hecho! Los miembros de la familia real no están exentos de la obligación de testificar.
+Errada: Estas opciones no describen correctamente a aquellos que no están exentos del deber de declarar. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 8 de la Ley Orgánica 2/1986, cuando hay concurrencia de un proceso penal y expedientes gubernativos o disciplinarios para los mismos hechos, ¿qué pasa con las medidas cautelares en estos casos?
+1)No pueden extenderse hasta la resolución judicial definitiva, excepto en la suspensión de salario, de acuerdo con la legislación general de funcionarios.
+2)Pueden extenderse hasta la resolución judicial definitiva, excepto en la suspensión de salario, de acuerdo con la legislación especial de funcionarios.
+3)Pueden extenderse hasta la resolución judicial definitiva, incluyendo en la suspensión de salario, de acuerdo con la legislación general de funcionarios.
+4)Pueden extenderse hasta la resolución judicial definitiva, excepto en la suspensión de salario, de acuerdo con la legislación general de funcionarios.
+Respuesta: 4
+Correcta: ¡Correcto! Las medidas cautelares pueden extenderse hasta la resolución judicial definitiva, con la excepción de la suspensión de salario, que se rige por la legislación general de funcionarios.
+Errada: Estas opciones no describen adecuadamente cómo se manejan las medidas cautelares en casos concurrentes de procedimientos penales y expedientes gubernativos o disciplinarios. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el Artículo 23.3 de la LOPJ, la jurisdicción española será competente para conocer de los hechos realizados por españoles o extranjeros fuera de España que puedan tipificarse según el Código Penal Español como los siguientes delitos, excepto:
+1)Delito de rebelión.
+2)Delito de lesa humanidad.
+3)Delito contra el titular de la Corona.
+4)Delito de estafa.
+Respuesta: 2
+Correcta: ¡Correcto! La jurisdicción española no conocerá de delitos de lesa humanidad cometidos por españoles fuera del territorio nacional según el artículo 23.3 LOPJ.
+Errada: Estas opciones no son correctas, ya que los delitos mencionados sí podrían ser procesados por la jurisdicción española en las condiciones estipuladas. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 23.2 de la LOPJ, la jurisdicción española conocerá de los delitos cometidos en el extranjero cuando los responsables sean extranjeros que hayan adquirido la nacionalidad española:
+1)Antes de cometer el delito y si no cumplen con los requisitos que la directiva exige.
+2)Después de cometer el delito y si no cumplen con otros requisitos que la ley exige.
+3)Después de cometer el delito y si cumplen con otros requisitos que la ley exige.
+4)Antes de cometer el delito y si cumplen con otros requisitos que la ley exige.
+Respuesta: 3
+Correcta: ¡Correcto! La jurisdicción española conocerá de los delitos cometidos por extranjeros que adquirieron la nacionalidad española después de cometer el delito, siempre que se cumplan los requisitos adicionales que exige la ley.
+Errada: Las opciones incorrectas no reflejan adecuadamente las condiciones bajo las cuales la jurisdicción española conoce de los delitos cometidos en el extranjero por responsables que luego adquirieron la nacionalidad española. (Respuesta Correcta 3)
+###
+Pregunta: ¿Existe la posibilidad de procesar a un Senador durante el periodo en el que ostenta su mandato?
+1)Sí, pero se requiere la autorización previa del Senado.
+2)Nunca.
+3)No se requiere la autorización previa del Senado.
+4)Sí, pero se requiere la autorización previa del Congreso.
+Respuesta: 1
+Correcta: ¡Bien hecho! Un Senador puede ser procesado durante su mandato, pero es necesario obtener autorización previa del Senado.
+Errada: Estas opciones no describen correctamente las condiciones bajo las cuales un Senador puede ser procesado durante su mandato. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 186 de la Ley 23/2014, del 20 de noviembre, sobre la orden europea de investigación, ¿qué estipula sobre las medidas de investigación permitidas?
+1)Ninguna de las medidas están permitidas, además de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+2)Todas las medidas están permitidas, con la excepción de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+3)Ninguna de las medidas están permitidas, con la excepción de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+4)Todas las medidas están permitidas, con la inclusión de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+Respuesta: 2
+Correcta: ¡Bien hecho! La orden europea de investigación puede incluir todas las medidas, excepto la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+Errada: Estas opciones no representan correctamente las restricciones en las medidas de investigación estipuladas por el artículo 186 de la Ley 23/2014. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 28 de la Ley de Enjuiciamiento Criminal, cuando un juez municipal considera adecuado el requerimiento de inhibición y ordena su ejecución mediante un oficio, donde se expresan las razones de su decisión, ¿cuál es el plazo establecido para enviar dicho documento?
+1)Deberá ser enviado en un plazo de doce horas.
+2)Deberá ser enviado en un plazo de diez horas.
+3)Deberá ser enviado en un plazo de cinco horas.
+4)Deberá ser enviado en un plazo de veinticuatro horas.
+Respuesta: 4
+Correcta: ¡Correcto! El oficio se debe enviar dentro de las veinticuatro horas.
+Errada: Estas respuestas no indican correctamente el tiempo dentro del cual se debe enviar el oficio conforme al artículo 28 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Según el Artículo 412 de la LECRIM, si se necesita tomar declaración al Presidente del Gobierno sobre asuntos que no conozca debido a su cargo, ¿dónde se llevará a cabo dicha declaración?
+1)En las instalaciones del tribunal.
+2)En su residencia o en su oficina oficial.
+3)En su residencia exclusivamente.
+4)En la Audiencia Nacional.
+Respuesta: 2
+Correcta: ¡Correcto! La declaración se llevará a cabo en la residencia o la oficina oficial del Presidente del Gobierno.
+Errada: Estas opciones no son precisas respecto a dónde se debe tomar la declaración del Presidente del Gobierno en estos casos. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 411 de la LECRIM, ¿quiénes están exentos del deber de declarar?
+1)Ninguna es correcta.
+2)Los familiares del personal administrativo de las misiones diplomáticas, si cumplen con los requisitos especificados en los tratados.
+3)Los Agentes Diplomáticos acreditados en España, en cualquier circunstancia.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Tanto los Agentes Diplomáticos acreditados en España como los familiares del personal administrativo de las misiones diplomáticas (que cumplan con ciertos requisitos) están exentos del deber de declarar.
+Errada: Estas respuestas no consideran de forma integral a todos los individuos que están exentos del deber de declarar según el artículo 411 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 4 de la LOPJ, ¿a qué o a quiénes se extiende la jurisdicción, según lo establecido en la Constitución y las leyes?
+1)Se extiende a todas las personas.
+2)Se extiende a todas las materias.
+3)Se extiende a todo el territorio español.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! La jurisdicción se extiende a todas las personas, materias y al territorio español completo, según lo estipulado en la Constitución y las leyes.
+Errada: Estas respuestas no capturan completamente el alcance de la jurisdicción según lo dispuesto en el artículo 4 de la LOPJ. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Orgánica del Defensor del Pueblo, ¿en qué situaciones puede ser detenido el Defensor del Pueblo?
+1)Solo excepto durante los tres años siguientes a su cese en funciones.
+2)Solo excepto por acciones realizadas mientras ejerce las competencias de su cargo.
+3)Solo excepto durante los cinco años siguientes a su cese en funciones.
+4)Solo excepto durante los dos años siguientes a su cese en funciones.
+Respuesta: 2
+Correcta: ¡Correcto! El Defensor del Pueblo solo puede ser detenido excepto por las acciones que realice en el ejercicio de las competencias propias de su cargo.
+Errada: Estas respuestas no reflejan adecuadamente las circunstancias bajo las cuales el Defensor del Pueblo puede ser detenido según la Ley Orgánica del Defensor del Pueblo. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es la autoridad competente en España para recibir las órdenes europeas de investigación emitidas por autoridades competentes de otros Estados miembros?
+1)El Presidente de la Audiencia Nacional.
+2)El Ministro de Justicia.
+3)El Ministro del Interior.
+4)El Ministerio Fiscal.
+Respuesta: 2
+Correcta: ¡Correcto! El Ministro de Justicia es la autoridad competente en España para recibir órdenes europeas de investigación de otros Estados miembros.
+Errada: Estas respuestas no identifican correctamente a la autoridad competente para recibir órdenes europeas de investigación emitidas por otros Estados miembros en España. (Respuesta Correcta 2)
+###
+Pregunta: Tras finalizar el sumario en un proceso penal, si se plantea una cuestión de competencia, ¿cuál será el procedimiento a seguir?
+1)Se interrumpirán los procedimientos hasta que se resuelva el conflicto de competencia.
+2)Se interrumpirán los procedimientos hasta que se resuelva la cuestión de competencia.
+3)No se interrumpirán los procedimientos hasta que se resuelva la cuestión de competencia.
+4)Se interrumpirán los procedimientos hasta que no se resuelva la cuestión de competencia.
+Respuesta: 2
+Correcta: ¡Bien hecho! Los procedimientos se detendrán temporalmente hasta que se resuelva la cuestión de competencia.
+Errada: Estas opciones no reflejan de manera precisa lo que ocurre con los procedimientos una vez que se plantea una cuestión de competencia tras finalizar el sumario. (Respuesta Correcta 2)
+###
+Pregunta: El Ministerio Fiscal y las partes pueden promover la competencia, ya sea por inhibitoria o declinatoria. ¿Cuál de las siguientes afirmaciones sobre ambos métodos es correcta?
+1)El empleo de inhibitoria o declinatoria es mutuamente excluyente.
+2)La inhibitoria siempre debe promoverse antes que la declinatoria.
+3)Las partes pueden emplear ambos métodos de forma concurrente.
+4)Solo el Ministerio Fiscal tiene permitido utilizar ambos métodos.
+Respuesta: 1
+Correcta: ¡Correcto! El uso de inhibitoria o declinatoria son opciones mutuamente excluyentes.
+Errada: Estas respuestas no describen correctamente las condiciones bajo las cuales se pueden promover las competencias según el artículo 26 de la LECrim. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 35 de la LECrim, ¿qué tipo de recurso se puede interponer contra un auto que rechaza un requerimiento de inhibición?
+1)Solamente se admite el recurso de casación.
+2)Solamente se admite el recurso de queja.
+3)Solamente se admite el recurso de súplica.
+4)Solamente se admite el recurso de resposición.
+Respuesta: 1
+Correcta: ¡Correcto! Únicamente se puede interponer un recurso de casación contra un auto que deniega un requerimiento de inhibición, según el artículo 35 de la LECrim.
+Errada: Las opciones b, c y d no reflejan adecuadamente las provisiones del artículo 35 de la LECrim respecto a los recursos disponibles en caso de denegación de un requerimiento de inhibición. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quiénes pueden evitar asistir al llamamiento de un Juez, aunque deben declarar, pudiendo hacerlo en su oficina oficial o en el lugar en el que sean miembros?
+1)Diputados o Senadores.
+2)Magistrados del Tribunal Constitucional y Vocales del Consejo General del Poder Judicial.
+3)El Defensor del Pueblo.
+4)Todas las opciones son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todos los enumerados pueden evitar comparecer ante el llamado de un juez, pero deben declarar, ya sea en su oficina oficial o en el lugar donde son miembros.
+Errada: Aunque cada una de estas opciones es correcta de manera individual, la respuesta más completa y correcta es que todas las opciones son válidas. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuáles son las autoridades judiciales con competencia para emitir una orden europea de detención y entrega?
+1)El Tribunal Supremo.
+2)El Juez Central de Instrucción de la Audiencia Nacional.
+3)El Juez o Tribunal que tenga conocimiento de la causa.
+4)El Juez o Tribunal que no tenga conocimiento de la causa.
+Respuesta: 3
+Correcta: ¡Correcto! La autoridad judicial competente para emitir una orden europea de detención y entrega es el Juez o Tribunal que tenga conocimiento del caso.
+Errada: Estas opciones no identifican correctamente a las autoridades judiciales competentes para emitir una orden europea de detención y entrega. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 57 de la Ley Orgánica del Poder Judicial, la Sala de lo Penal del Tribunal Supremo no está a cargo de la instrucción y juicio de causas contra:
+1)El Director de la Dirección General Seguridad Jurídica y Fe Pública.
+2)Los magistrados de la Audiencia Nacional.
+3)Vocales del Consejo General del Poder Judicial.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! El Director de la Dirección General Seguridad Jurídica y Fe Pública no es sujeto de instrucción y enjuiciamiento por parte de la Sala de lo Penal del Tribunal Supremo, según el artículo 57 de la LOPJ.
+Errada: Las opciones b, c, y d no describen adecuadamente las disposiciones del artículo 57 de la LOPJ respecto a las personas excluidas del enjuiciamiento por la Sala de lo Penal del Tribunal Supremo. (Respuesta Correcta 1)
+###
+Pregunta: La Orden Europea de Detención y Entrega, emitida por un Estado miembro de la Unión Europea, tiene como objetivo la detención y entrega por parte de otro Estado miembro de un individuo requerido para:
+1)Ejecutar exclusivamente una pena que prive de derechos.
+2)Llevar a cabo una medida de internamiento en un centro para menores.
+3)Iniciar procedimientos judiciales.
+4)Llevar a cabo una medida de internamiento en un centro para mayores.
+Respuesta: 2
+Correcta: ¡Bien hecho! La OEDE puede emitirse para la ejecución de una medida de internamiento en un centro para menores en otro Estado miembro.
+Errada: Estas opciones no reflejan los propósitos correctos para los cuales se puede emitir una Orden Europea de Detención y Entrega. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 23 de la Ley de Enjuiciamiento Criminal (LECRIM), cuando el Ministerio Fiscal o alguna de las partes en un proceso penal cuestionan la competencia del Juez instructor durante el sumario o cualquier fase de instrucción, y presentan una reclamación al Tribunal superior correspondiente, ¿qué recurso es admisible contra la decisión que emita este Tribunal?
+1)No se permite recurso alguno.
+2)Recurso de apelación.
+3)Recurso de súplica.
+4)Recurso de reposición.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 23 de la LECRIM, no se admite ningún recurso contra la resolución en cuestión.
+Errada: Estas opciones no son correctas. El artículo 23 de la LECRIM establece que no se puede interponer ningún recurso contra la resolución mencionada. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 186 de la Ley 23/2014, de 20 de noviembre, sobre la orden europea de investigación, ¿qué estipula sobre las medidas de investigación permitidas?
+1)Ninguna de las medidas están permitidas, además de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+2)Todas las medidas están permitidas, con la excepción de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+3)Ninguna de las medidas están permitidas, con la excepción de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+4)Todas las medidas están permitidas, con la inclusión de la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+Respuesta: 2
+Correcta: ¡Bien hecho! La orden europea de investigación puede incluir todas las medidas, excepto la creación de equipos conjuntos de investigación y la obtención de pruebas dentro de estos.
+Errada: Estas opciones no representan correctamente las restricciones en las medidas de investigación estipuladas por el artículo 186 de la Ley 23/2014. (Respuesta Correcta 2)
+###
+Pregunta: Conforme al artículo 28 de la Ley de Enjuiciamiento Criminal, cuando un juez municipal considera adecuado el requerimiento de inhibición y ordena su ejecución mediante un oficio, donde se expresan las razones de su decisión, ¿cuál es el plazo establecido para enviar dicho documento?
+1)Deberá ser enviado en un plazo de doce horas.
+2)Deberá ser enviado en un plazo de diez horas.
+3)Deberá ser enviado en un plazo de cinco horas.
+4)Deberá ser enviado en un plazo de veinticuatro horas.
+Respuesta: 4
+Correcta: ¡Correcto! El oficio se debe enviar dentro de las veinticuatro horas.
+Errada: Estas respuestas no indican correctamente el tiempo dentro del cual se debe enviar el oficio conforme al artículo 28 de la LECRIM. (Respuesta Correcta 4)
+###
+Pregunta: Seleccione la opción que no es cierta. Las Salas de lo Civil y de lo Penal del Tribunal Supremo son competentes para tramitar y juzgar acciones civiles y penales dirigidas contra:
+1)El Rey o la Reina.
+2)La Reina consorte.
+3)Un Rey o Reina que haya abdicado.
+4)El consorte del Rey.
+Respuesta: 1
+Correcta: ¡Correcto! Las Salas de lo Civil y de lo Penal del Tribunal Supremo no son competentes para acciones dirigidas contra el Rey o la Reina.
+Errada: Estas opciones no son las respuestas correctas porque las Salas mencionadas sí son competentes para acciones contra estos individuos. (Respuesta Correcta 1)
+###
+Pregunta: Los representantes de Instituciones autonómicas análogas al Defensor del Pueblo y los Comisionados territoriales de las Asambleas Legislativas correspondientes, tienen garantías de inmunidad que:
+1)Se proporcionan a los miembros de dichas instituciones en la Ley 35/1985, que regula las relaciones entre el Defensor del Pueblo y figuras similares en las Comunidades Autónomas.
+2)Se proporcionan a los miembros de dichas instituciones en la Ley 36/1986, que regula las relaciones entre el Defensor del Pueblo y figuras similares en las Comunidades Autónomas.
+3)Se proporcionan a los miembros de dichas instituciones en la Ley 36/1985, que regula las relaciones entre el Defensor del Pueblo y figuras similares en las Comunidades Autónomas.
+4)Están otorgadas a los miembros de dichas instituciones en los respectivos Estatutos de Autonomía.
+Respuesta: 4
+Correcta: ¡Correcto! La inmunidad de los representantes de instituciones autonómicas análogas al Defensor del Pueblo se otorga en los respectivos Estatutos de Autonomía.
+Errada: Estas opciones no describen con precisión dónde se otorgan las garantías de inmunidad para estos representantes. (Respuesta Correcta 4)
+###
+Pregunta: El principio de igualdad de armas en el proceso penal, que se deriva del principio de contradicción, ¿hasta qué fase puede tener limitaciones?
+1)Las limitaciones solo pueden establecerse hasta después de la fase de instrucción (o sumarial).
+2)Las limitaciones no pueden establecerse hasta la fase de instrucción (o sumarial).
+3)Las limitaciones solo pueden establecerse hasta la fase de instrucción (o sumarial).
+4)Las limitaciones solo pueden establecerse hasta la fase de ejecución.
+Respuesta: 3
+Correcta: ¡Correcto! El principio de igualdad de armas no puede tener limitaciones más allá de las establecidas en la fase de instrucción.
+Errada: Estas respuestas no son correctas ya que el principio puede tener limitaciones hasta la fase de instrucción. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 14 de la LECrim, ¿qué órgano judicial es competente para conocer y decidir sobre los juicios por delito leve?
+1)El Juez de Violencia sobre la Mujer., a menos que la competencia corresponda al Juez de Instrucción.
+2)El Juez de Instrucción, a menos que la competencia corresponda al Juez de lo Penal.
+3)El Juez de lo Penal, a menos que la competencia corresponda al Juez de Violencia sobre la Mujer.
+4)El Juez de Instrucción, a menos que la competencia corresponda al Juez de Violencia sobre la Mujer.
+Respuesta: 4
+Correcta: ¡Correcto! El Juez de Instrucción es competente, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer.
+Errada: Estas opciones no describen correctamente la competencia para los juicios por delito leve según el artículo 14 de la LECrim. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 412 de la LECrim, respecto al Presidente del Tribunal de Cuentas:
+1)Está exento de acudir al llamamiento del Juez pero debe declarar, pudiendo hacerlo en su despacho oficial.
+2)Está exento de acudir al llamamiento del Juez.
+3)No está exento de acudir al llamamiento del Juez pero debe declarar, pudiendo hacerlo en su despacho oficial.
+4)Debe declarar en sede judicial.
+Respuesta: 1
+Correcta: ¡Correcto! El Presidente del Tribunal de Cuentas está exento de acudir al llamamiento del Juez pero no de declarar, y puede hacerlo en su despacho oficial.
+Errada: Estas opciones no describen con precisión las obligaciones del Presidente del Tribunal de Cuentas según el artículo 412 de la LeCrim. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con la Ley 23/2014, de 20 de noviembre, sobre el reconocimiento mutuo de resoluciones penales en la Unión Europea, en casos en que una orden europea de investigación incluya medidas que limiten derechos fundamentales y no puedan ser reemplazadas por otras menos restrictivas, ¿a qué autoridad judicial competente remitirá el Ministerio Fiscal dicha orden para su reconocimiento y ejecución?
+1)A los Jueces de Instrucción o de Menores del lugar donde se deban llevar a cabo las medidas de investigación o, en su defecto, donde exista alguna conexión territorial exclusivamente con el investigado, según lo dispuesto en la Ley de Enjuiciamiento Criminal.
+2)A los Jueces Centrales de Instrucción, en casos de traslado de personas privadas de libertad en España al Estado emisor, conforme a lo estipulado en la Ley de reconocimiento mutuo de resoluciones penales en la Unión Europea.
+3)A los Jueces Centrales de lo Penal o Central de Menores, si la orden europea de investigación se emitió por delitos de terrorismo o aquellos bajo la competencia de la Audiencia Nacional.
+4)A los Jueces de Instrucción o de Menores del lugar donde se deban ejecutar las medidas de investigación o, en su defecto, donde exista alguna conexión territorial con el delito, el investigado o la víctima. En ausencia de un elemento de conexión territorial, serán competentes los Jueces Centrales de Instrucción
+Respuesta: 4
+Correcta: Correcto, la opción D es la adecuada. Según la Ley 23/2014, cuando el Ministerio Fiscal se enfrenta a una orden europea de investigación que incluye medidas que restringen derechos fundamentales, debe remitirla a los Jueces de Instrucción o de Menores del lugar donde se deban realizar las medidas de investigación o, si no existe una conexión territorial clara con este lugar, donde haya alguna relación territorial con el delito, el investigado o la víctima. En situaciones donde no hay ningún elemento de conexión territorial claro, la competencia recae en los Jueces Centrales de Instrucción.
+Errada: Incorrecto, la opción D es la adecuada. Según la Ley 23/2014, cuando el Ministerio Fiscal se enfrenta a una orden europea de investigación que incluye medidas que restringen derechos fundamentales, debe remitirla a los Jueces de Instrucción o de Menores del lugar donde se deban realizar las medidas de investigación o, si no existe una conexión territorial clara con este lugar, donde haya alguna relación territorial con el delito, el investigado o la víctima. En situaciones donde no hay ningún elemento de conexión territorial claro, la competencia recae en los Jueces Centrales de Instrucción. (Respuesta Correcta 4)
+###
+Pregunta: En procesos por delitos graves, ¿se permite apelar contra la resolución que rechaza la solicitud de inhibición, conforme al artículo 35 de la LECrim?
+1)Sí, mediante un recurso de reforma.
+2)Sí, mediante un recurso de queja.
+3)Sí, mediante un recurso de casación.
+4)Sí, mediante un recurso de súplica.
+Respuesta: 3
+Correcta: ¡Correcto! Se puede presentar un recurso de casación contra la resolución que niega la solicitud de inhibición en casos de delitos graves.
+Errada: Estas opciones no representan con precisión las formas legales de apelación permitidas en este contexto según el artículo 35 de la LECrim. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con el artículo 19 de la LECrim, ¿quiénes tienen el derecho de iniciar y mantener competencia en un proceso penal?
+1)El Ministerio Fiscal en la fase de instrucción.
+2)El Ministerio Fiscal en la fase de ejecución.
+3)El Ministerio Fiscal en el juicio oral.
+4)El Ministerio Fiscal en cualquier momento del proceso.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Ministerio Fiscal puede iniciar y sostener competencia en cualquier fase del proceso penal.
+Errada: Aunque estas partes pueden estar involucradas en el proceso, no tienen el derecho ilimitado de iniciar y mantener competencia en todas las etapas del procedimiento. (Respuesta Correcta 4)
+###
+Pregunta: Si surge un conflicto de competencia entre el Tribunal de Instancia del lugar de residencia del presunto delincuente, el Tribunal de Instancia del distrito donde se capturó al presunto delincuente, y el Tribunal de Instancia del distrito donde se encontraron evidencias materiales del delito, ¿cuál Tribunal tendrá prioridad?
+1)Todas son correctas.
+2)El tribunal donde reside el presunto delincuente.
+3)El tribunal donde se encontraron evidencias materiales del delito.
+4)El tribunal donde se capturó al presunto delincuente.
+Respuesta: 3
+Correcta: ¡Correcto! El tribunal donde se descubrieron evidencias materiales del delito tiene prioridad en caso de disputa de competencia.
+Errada: Estas opciones no representan correctamente las prioridades de competencia establecidas por la ley. (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley 23/2014, las Secciones de Instrucción del Tribunal Central de Instancia tendrán competencia para reconocer y ejecutar una Orden Europea de Investigación cuando:
+1)La Orden Europea de Investigación se emita por delitos de terrorismo o delitos bajo la jurisdicción de la Audiencia Nacional, o en caso de notificación a España de intervención de telecomunicaciones sin necesidad de asistencia técnica, según el artículo 222.
+2)La Orden Europea de Investigación se emita por delitos de terrorismo o delitos bajo la jurisdicción de la Audiencia Nacional, o en caso de notificación a España de intervención de telecomunicaciones sin necesidad de asistencia técnica, según el artículo 221.
+3)La Orden Europea de Investigación se emita por delitos de terrorismo o delitos bajo la jurisdicción de la Audiencia Nacional, o en caso de notificación a España de intervención de telecomunicaciones sin necesidad de asistencia técnica, según el artículo 232.
+4)La Orden Europea de Investigación se emita por delitos de terrorismo o delitos bajo la jurisdicción de la Audiencia Nacional, o en caso de notificación a España de intervención de telecomunicaciones sin necesidad de asistencia técnica, según el artículo 220.
+Respuesta: 2
+Correcta: ¡Bien hecho! Has seleccionado correctamente las circunstancias bajo las cuales los Jueces Centrales de Instrucción son competentes para reconocer y ejecutar una Orden Europea de Investigación.
+Errada: Estas opciones no describen con precisión las condiciones bajo las cuales los Jueces Centrales de Instrucción tienen competencia, según la Ley 23/2014. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto a la inmunidad de los Diputados y Senadores durante su mandato según el artículo 71 de la Constitución Española (CE), ¿bajo qué circunstancias podrían ser detenidos?
+1)Solo bajo autorización judicial.
+2)No pueden ser detenidos en el caso de un delito flagrante.
+3)Solo pueden ser detenidos en el caso de un delito no flagrante.
+4)Solo pueden ser detenidos en el caso de un delito flagrante.
+Respuesta: 4
+Correcta: ¡Correcto! Los Diputados y Senadores solo pueden ser detenidos en caso de delito flagrante durante su mandato.
+Errada: Estas opciones no describen correctamente las condiciones bajo las cuales los Diputados y Senadores pueden ser detenidos, según el artículo 71 de la CE. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley 23/2014, ¿quiénes están autorizados en España para emitir una orden europea de investigación?
+1)Los jueces o tribunales involucrados en el proceso penal donde se debe realizar la medida de investigación.
+2)Los jueces o tribunales que hayan admitido la prueba si el caso está en la fase de enjuiciamiento.
+3)Los Fiscales también pueden emitir la orden en los procedimientos que lideren, siempre y cuando la medida no limite los derechos fundamentales.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Exacto! Todos los entes mencionados están autorizados para emitir una orden europea de investigación en España, de acuerdo con la Ley 23/2014.
+Errada: Aunque cada una de estas respuestas es parcialmente correcta, solo juntas proporcionan una visión completa de las autoridades competentes para emitir órdenes europeas de investigación en España según la Ley 23/2014. (Respuesta Correcta 4)
+###
+Pregunta: Conforme al artículo 14 de la LECrim, ¿a qué órgano judicial le corresponde generalmente la instrucción de las causas?
+1)Al Juez Central de Instrucción para los delitos especificados por la Ley.
+2)Al Juez de Violencia sobre la Mujer, o al Juez Central de Instrucción.
+3)Al Juez de Instrucción del lugar donde se cometió el delito.
+4)Al Juez de Instrucción del lugar donde se cometió el delito, o al Juez de Violencia sobre la Mujer, o al Juez Central de Instrucción para los delitos especificados por la Ley.
+Respuesta: 4
+Correcta: ¡Correcto! De acuerdo con el artículo 14 de la LECRIM, la instrucción general de las causas corresponde al Juez de Instrucción del lugar del delito, al Juez de Violencia sobre la Mujer, o al Juez Central de Instrucción para los delitos determinados por la Ley.
+Errada: Estas opciones no reflejan con precisión las disposiciones del artículo 14 de la LECRIM sobre la instrucción general de las causas. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo deberían promover las competencias el Ministerio Fiscal y las partes según la ley?
+1)Ninguna es correcta.
+2)A través de declinatoria.
+3)A través de inhibitoria.
+4)A través de inhibitoria o declinatoria, ya que son excluyentes.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Ministerio Fiscal y las partes deben promover competencias a través de inhibitoria o declinatoria, ya que son excluyentes según la ley.
+Errada: Estas respuestas no describen de manera precisa cómo el Ministerio Fiscal y las partes deben promover competencias según la legislación vigente. (Respuesta Correcta 4)
+###
+Pregunta: Según la LECrim, en el caso de delitos conexos, ¿quiénes son los Jueces y Tribunales competentes para conocerlos?
+1)El designado por la Audiencia Nacinoal o el Tribunal Supremo en casos correspondientes, cuando las causas hayan comenzado.
+2)El designado por el Tribunal Supremo en casos correspondientes, cuando las causas hayan comenzado.
+3)El designado por la Audiencia Provincial o el Tribunal Supremo en casos correspondientes, cuando las causas hayan comenzado.
+4)El designado por la Audiencia Provincial en casos correspondientes, cuando las causas hayan comenzado.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 18.1 de la LECrim establece que el Juez o Tribunal competente en casos de delitos conexos será el designado por la Audiencia Provincial o el Tribunal Supremo según corresponda.
+Errada: Estas opciones no representan adecuadamente la competencia de Jueces y Tribunales en casos de delitos conexos según el artículo 18.1 de la LECrim. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 27 de la LECRIM, ¿cuál es la vía de apelación para el auto denegatorio de requerimiento de inhibición emitido por el Juez municipal?
+1)El auto puede ser apelado en ambos efectos ante el Juez de Instrucción correspondiente.
+2)El auto puede ser reformado en ambos efectos ante el Juez de Instrucción correspondiente.
+3)El auto no puede ser apelado en ambos efectos ante el Juez de Instrucción correspondiente.
+4)El auto puede ser apelado en ambos efectos ante el Juez de lo Penal correspondiente.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 27 de la LECRIM permite que el auto denegatorio de requerimiento de inhibición pueda ser apelado en ambos efectos ante el Juez de Instrucción correspondiente.
+Errada: Estas opciones no reflejan con precisión lo estipulado por el artículo 27 de la LECRIM respecto al auto denegatorio de requerimiento de inhibición. (Respuesta Correcta 1)
+###
+Pregunta: ¿Bajo qué circunstancias puede ser detenido un Ministro de Asuntos Exteriores de un país extranjero mientras está en España?
+1)Siempre puede ser detenido.
+2)En caso de delito flagrante.
+3)Salvo con una resolución judicial previa.
+4)No puede ser detenido bajo ninguna circunstancia.
+Respuesta: 4
+Correcta: ¡Correcto! El Ministro de Asuntos Exteriores de un país extranjero no puede ser detenido bajo ninguna circunstancia mientras está en España
+Errada: Estas respuestas no son correctas. El Ministro de Asuntos Exteriores de un Estado extranjero goza de inmunidad total de jurisdicción penal mientras está en España. (Respuesta Correcta 4)
+###
+Pregunta: Con respecto al artículo 25 de la LECRIM, seleccione la afirmación correcta:
+1)Ninguna es correcta.
+2)Mientras no se tome una decisión judicial firme sobre la cuestión promovida o aceptando la competencia, el Juez de Instrucción que acuerde la inhibición no puede realizar ninguna diligencia, siempre que sea a favor de otro Juez de la misma categoría.
+3)El Juez o Tribunal que se vea competente tiene la obligación de promover la competencia.
+4)El Juez o Tribunal que considere no tener competencia sobre la causa debe iniciar la inhibición a favor del Juez o Tribunal competente, pero solo si los interesados o el Ministerio Fiscal han presentado una reclamación previamente.
+Respuesta: 3
+Correcta: ¡Bien hecho! De acuerdo con el artículo 25 de la LECRIM, el Juez o Tribunal que se vea competente debe promover la competencia.
+Errada: Estas opciones no representan adecuadamente las disposiciones del artículo 25 de la LECRIM en su totalidad. (Respuesta Correcta 3)
+###
+Pregunta: En caso de que, durante el sumario o cualquier fase de instrucción de un proceso penal, el Ministerio Fiscal o alguna de las partes crean que el Juez instructor no es competente para actuar en la causa, ¿qué se puede hacer?
+1)Pueden presentar una reclamación ante el Tribunal superior correspondiente, que, tras no considerar los informes necesarios, tomará una decisión sin posibilidad de ulterior recurso.
+2)Pueden presentar una reclamación ante el Tribunal superior correspondiente, que, tras considerar los informes necesarios, no tomará una decisión sin posibilidad de ulterior recurso.
+3)No pueden presentar una reclamación ante el Tribunal superior correspondiente, que, tras considerar los informes necesarios, tomará una decisión sin posibilidad de ulterior recurso.
+4)Pueden presentar una reclamación ante el Tribunal superior correspondiente, que, tras considerar los informes necesarios, tomará una decisión sin posibilidad de ulterior recurso.
+Respuesta: 4
+Correcta: ¡Correcto! Pueden reclamar ante el Tribunal superior pertinente, que tomará una decisión, tras revisar los informes necesarios, sin opción a ulterior recurso.
+Errada: Estas opciones no reflejan correctamente el procedimiento en casos donde hay dudas sobre la competencia del Juez instructor durante el sumario o alguna fase de instrucción de un proceso penal. (Respuesta Correcta 4)
+###
+Pregunta: Identifique la opción que no corresponde a las características del proceso penal inquisitorio:
+1)Todas son del proceso inquisitivo.
+2)El proceso es principalmente oral.
+3)El juez actúa de oficio.
+4)Las fases clave del proceso, instrucción y enjuiciamiento, están centralizadas en un único órgano.
+Respuesta: 2
+Correcta: ¡Bien hecho! En el proceso penal inquisitivo, el procedimiento no es principalmente oral, lo que lo distingue de otros sistemas procesales.
+Errada: Estas opciones son características típicas del proceso penal inquisitivo. (Respuesta Correcta 2)
+###
+Pregunta: Los autos emitidos por los Jueces de Paz o de Instrucción que se inhiban a favor de otro juez o jurisdicción, ¿son susceptibles a qué tipo de recurso?
+1)Recurso de apelación.
+2)Recurso de reforma.
+3)Recurso de reposición.
+4)Recurso de revisión.
+Respuesta: 1
+Correcta: ¡Correcto! Los autos emitidos por jueces municipales o de instrucción en los que se inhiban a favor de otro juez o jurisdicción pueden ser apelados.
+Errada: Estas opciones no describen correctamente los recursos disponibles contra los autos emitidos por jueces municipales o de instrucción que se inhiban a favor de otro juez o jurisdicción. (Respuesta Correcta 1)
+###
+Pregunta: ¿A quiénes se les extiende la inmunidad concedida por el Derecho Internacional a los Jefes de misión diplomática, en relación con los familiares del principal representante de organizaciones internacionales en España?
+1)Únicamente a los familiares bajo su responsabilidad que posean nacionalidad española y tengan su residencia habitual en España.
+2)Únicamente a los familiares bajo su responsabilidad que no posean nacionalidad española, pero sí tengan su residencia habitual en España.
+3)Únicamente a los familiares bajo su responsabilidad que ni posean nacionalidad española ni tengan su residencia habitual en España.
+4)Únicamente a los familiares bajo su responsabilidad que posean nacionalidad española o tengan su residencia habitual en España.
+Respuesta: 3
+Correcta: ¡Correcto! La inmunidad se extiende a los familiares bajo su responsabilidad que ni tienen nacionalidad española ni residencia habitual en España.
+Errada: Estas opciones no describen adecuadamente a quiénes se extiende la inmunidad concedida a los Jefes de misión diplomática en cuanto a los familiares del representante principal de organizaciones internacionales en España. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál entidad tiene competencia para conocer y ejecutar una orden europea de investigación en materia penal cuando dicha orden no implica medidas limitativas de derechos fundamentales?
+1)Ninguna es correcta.
+2)El Ministerio Fiscal, a menos que la autoridad emisora indique específicamente que la medida de investigación debe ser ejecutada por un órgano judicial.
+3)La Audiencia Nacional, a menos que la autoridad emisora indique específicamente que la medida de investigación debe ser ejecutada por un órgano judicial.
+4)El Ministerio Fiscal, a menos que la autoridad emisora indique específicamente que la medida de investigación debe ser ejecutada por un órgano judicial.
+Respuesta: 2
+Correcta: ¡Correcto! El Ministerio Fiscal tiene competencia, salvo indicación expresa de la autoridad emisora de que la medida debe ser ejecutada por un órgano judicial.
+Errada: Estas opciones no representan con precisión las normativas sobre quién tiene competencia en estos casos. (Respuesta Correcta 2)
+###
+Pregunta: Según el Artículo 27 de la LECRIM, una vez propuesta la inhibitoria y escuchado el Fiscal (a menos que haya sido él quien la propuso), ¿en cuánto tiempo debe el Juez Municipal decidir si procede o no el requerimiento de inhibición?
+1)Dentro de cinco días.
+2)Dentro de cuatro días.
+3)Dentro de dos días.
+4)Dentro de tres días.
+Respuesta: 3
+Correcta: ¡Bien hecho! El Juez Municipal debe tomar una decisión dentro de los dos días siguientes.
+Errada: Estas opciones no reflejan el tiempo correcto estipulado por el Artículo 27 de la LECRIM para que el Juez Municipal tome una decisión respecto al requerimiento de inhibición. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la Ley 23/2014, de 20 de noviembre, que regula el reconocimiento mutuo de resoluciones penales en la Unión Europea, ¿qué autoridades son competentes para el reconocimiento y ejecución de una orden europea de investigación cuando esta se relaciona con varias diligencias de investigación que deben realizarse en diferentes lugares?
+1)El juez o tribunal al que el Fiscal remite la orden, seleccionando entre aquellos competentes según el art. 185.3 y, si no se prevé en este, conforme a las normas de preferencia de la LECRIM
+2)El juez o tribunal al que el Fiscal remite la orden, seleccionando entre aquellos competentes según el art. 186.3 y, si no se prevé en este, conforme a las normas de preferencia de la LECRIM
+3)El juez o tribunal al que el Fiscal remite la orden, seleccionando entre aquellos competentes según el art. 187.3 y, si no se prevé en este, conforme a las normas de preferencia de la LECRIM
+4)El juez o tribunal al que el Fiscal remite la orden, seleccionando entre aquellos competentes según el art. 188.3 y, si no se prevé en este, conforme a las normas de preferencia de la LECRIM
+Respuesta: 3
+Correcta: ¡Correcto! La autoridad competente será determinada por el Fiscal, quien remitirá la orden al juez o tribunal correspondiente siguiendo las reglas del art. 187.3 y, si estas no aplican, las normas de preferencia de la LECRIM.
+Errada: Estas opciones no representan adecuadamente las autoridades competentes para reconocer y ejecutar órdenes europeas de investigación bajo las circunstancias descritas. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 37 de la LECRIM, ¿es posible interponer recurso contra el auto en el que el Tribunal se inhibe?
+1)Sí, se puede interponer un recurso de casación.
+2)Sí, se puede interponer un recurso de queja.
+3)Sí, se puede interponer un recurso de súplica.
+4)Sí, se puede interponer un recurso de reforma.
+Respuesta: 1
+Correcta: ¡Correcto! Contra el auto en el que el Tribunal se inhibe, cabe un recurso de casación.
+Errada: Estas respuestas no reflejan adecuadamente las opciones de recurso contra un auto de inhibición según la LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: Indique cuál de las siguientes opciones es incorrecta. ¿Qué individuo está exento de presentarse al llamado judicial pero aún está obligado a declarar?
+1)El Presidente del Tribunal Supremo.
+2)La Reina Consorte.
+3)El Defensor del Pueblo.
+4)El Presidente del Tribunal Constitucional.
+Respuesta: 2
+Correcta: ¡Correcto! La Reina Consorte está exenta de comparecer ante un llamamiento judicial y no tiene la obligación de declarar.
+Errada: Estas personas están exentas de comparecer ante un llamamiento judicial, pero aún están obligadas a declarar. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto al artículo 8 de la LECRIM, seleccione la opción correcta sobre la jurisdicción criminal:
+1)Siempre es improrrogable.
+2)Su prórroga es posible solo en casos especiales enumerados en la legislación ordinaria.
+3)Nunca es improrrogable.
+4)Su prórroga es posible solo en casos especiales enumerados en la legislación especial.
+Respuesta: 1
+Correcta: ¡Correcto! Según el artículo 8 de la LECRIM, la jurisdicción criminal siempre es improrrogable.
+Errada: Estas opciones no reflejan correctamente las características de la jurisdicción criminal según el artículo 8 de la LECRIM. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cómo se debe proponer la inhibición ante los Tribunales de lo criminal?
+1)Se presentará mediante un escrito firmado por un Procurador.
+2)Se presentará mediante un escrito firmado por un Letrado.
+3)Se presentará mediante un escrito firmado por el interesado.
+4)Se presentará mediante un escrito firmado por un Fiscal.
+Respuesta: 2
+Correcta: ¡Bien hecho! La inhibición ante los Tribunales de lo criminal debe proponerse mediante un escrito firmado por un Letrado.
+Errada: Estas opciones no describen correctamente cómo se debe proponer la inhibición ante los Tribunales de lo criminal. (Respuesta Correcta 2)
+###
+Pregunta: Seleccione la opción correcta. ¿Cuál de los siguientes individuos tiene la capacidad de iniciar y mantener la competencia?
+1)El procesado y la parte civil, ya sea como actora o como responsable, dentro de los tres días siguientes a la notificación de la causa para calificación.
+2)El procesado y la parte civil, ya sea como actora o como responsable, dentro de los cuatro días siguientes a la notificación de la causa para calificación.
+3)El procesado y la parte civil, ya sea como actora o como responsable, dentro de los cinco días siguientes a la notificación de la causa para calificación.
+4)El procesado y la parte civil, ya sea como actora o como responsable, dentro de los seis días siguientes a la notificación de la causa para calificación.
+Respuesta: 1
+Correcta: ¡Correcto! El procesado y la parte civil tienen la capacidad de iniciar y mantener la competencia dentro de los tres días siguientes a la notificación de la causa para calificación.
+Errada: Estas opciones no representan correctamente a los individuos o las condiciones bajo las cuales pueden iniciar y mantener la competencia. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 9.3 de la LOPJ, seleccione la respuesta correcta. Los Tribunales y Secciones de los Tribunales de Instancia del orden jurisdiccional penal:
+1)Se les asigna el conocimiento de las causas y juicios criminales, con la excepción de aquellos que pertenecen a la jurisdicción especial de marines.
+2)Se les asigna el desconocimiento de las causas y juicios criminales, con la excepción de aquellos que pertenecen a la jurisdicción militar.
+3)Se les asigna el conocimiento de las causas y juicios criminales, con la excepción de aquellos que pertenecen a la jurisdicción militar.
+4)Se les asigna el conocimiento de las causas y juicios criminales, sin la excepción de aquellos que pertenecen a la jurisdicción militar.
+Respuesta: 3
+Correcta: ¡Correcto! De acuerdo con el artículo 9.3 de la LOPJ, los Tribunales y Juzgados del orden jurisdiccional penal tienen conocimiento de las causas y juicios criminales, excepto aquellos que pertenecen a la jurisdicción militar.
+Errada: Estas opciones no representan adecuadamente las responsabilidades asignadas a los Tribunales y Juzgados del orden jurisdiccional penal según el artículo 9.3 de la LOPJ. (Respuesta Correcta 3)

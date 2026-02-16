@@ -1,0 +1,4 @@
+# Supabase Edge Functions Configuration
+
+[functions.sync-storage-questions]
+verify_jwt = false  # No requiere autenticación para permitir webhooks/cron

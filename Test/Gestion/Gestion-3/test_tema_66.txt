@@ -1,0 +1,539 @@
+Pregunta: En el contexto de los procedimientos para impugnar altas médicas que requieren una reclamación previa, ¿cuál es el periodo asignado para recibir una respuesta a dicha reclamación?
+1)Se cuenta con un margen de cinco días, después de los cuales se presume que la reclamación ha sido rechazada si no se ha obtenido respuesta.
+2)Se cuenta con un margen de siete días, después de los cuales se presume que la reclamación ha sido rechazada si no se ha obtenido respuesta.
+3)Se cuenta con un margen de tres días, después de los cuales se presume que la reclamación ha sido rechazada si no se ha obtenido respuesta.
+4)Se cuenta con un margen de diez días, después de los cuales se presume que la reclamación ha sido rechazada si no se ha obtenido respuesta.
+Respuesta: 2
+Correcta: Precisamente, la opción B es la correcta. Si en el procedimiento de impugnación de altas médicas no se recibe contestación a la reclamación previa en siete días, se considera que esta ha sido desestimada.
+Errada: La opción correcta es la B. En el procedimiento para impugnar altas médicas, si no se responde a la reclamación previa dentro de los siete días establecidos, la ley interpreta que la reclamación ha sido desestimada (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley Reguladora de la Jurisdicción Social, ¿qué debe contener el escrito de interposición del recurso de casación para la unificación de doctrina?
+1)Exclusivamente la relación de la contradicción alegada.
+2)La relación de la contradicción, la infracción legal cometida en la sentencia impugnada y la exposición de la concurrencia del interés casacional objetivo.
+3)La relación de la contradicción alegada, la infracción legal cometida y una exposición argumentada de la concurrencia del interés casacional objetivo.
+4)Únicamente una exposición argumentada de la concurrencia del interés casacional objetivo.
+Respuesta: 3
+Correcta: Efectivamente. Conforme al artículo 224 de la LJS, modificado por la LO 1/2025, el escrito de interposición debe fundamentar la contradicción, la infracción legal y, además, exponer de manera argumentada que el recurso presenta interés casacional objetivo.
+Errada: La opción correcta es la C. La reforma de la LJS por la LO 1/2025 exige, en su artículo 224, que el escrito de interposición del recurso de casación para unificación de doctrina contenga no solo la contradicción y la infracción, sino también una argumentación sobre el interés casacional objetivo (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito de la justicia social, ¿en qué circunstancias es procedente el recurso de suplicación frente a las decisiones emitidas por los Juzgados de lo Social?
+1)Se admite el recurso en los casos de disputas individuales por despido o terminación del contrato laboral.
+2)Se admite el recurso en los casos de disputas colectivas por despido o terminación del contrato laboral.
+3)Se admite el recurso en los casos de disputas por terminación del contrato laboral.
+4)Es procedente cuando la cantidad reclamada es inferior a 2.000 euros.
+Respuesta: 1
+Correcta: Correcto, has seleccionado la opción A. El recurso de suplicación está expresamente previsto para ser utilizado en los procesos por despido individual o extinción del contrato de trabajo según lo dispuesto por los Juzgados de lo Social.
+Errada: No es así, la opción correcta es la A. El recurso de suplicación es siempre procedente en los procesos por despido individual o extinción del contrato de trabajo según lo establecido por los Juzgados de lo Social (Respuesta Correcta 1)
+###
+Pregunta: En el marco del procedimiento ordinario en el ámbito social, ¿cuándo debe realizarse un nuevo señalamiento si se produce la suspensión de actos de conciliación y juicio?
+1)La reprogramación del señalamiento debe ocurrir dentro de los tres días siguientes al acto de suspensión.
+2)La reprogramación del señalamiento debe ocurrir dentro de los siete días siguientes al acto de suspensión.
+3)La reprogramación del señalamiento debe ocurrir dentro de los cinco días siguientes al acto de suspensión.
+4)La reprogramación del señalamiento debe ocurrir dentro de los nueve días siguientes al acto de suspensión.
+Respuesta: 3
+Correcta: Has elegido correctamente con la opción C. Cuando se suspenden los actos de conciliación y juicio en el procedimiento ordinario social, el nuevo señalamiento debe realizarse dentro de los cinco días siguientes a la fecha de suspensión.
+Errada: La opción correcta no es la elegida. De acuerdo con el procedimiento, el nuevo señalamiento tras una suspensión debe efectuarse dentro de los cinco días siguientes a la fecha en que se suspendieron los actos, conforme indica la opción C (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué es necesario para presentar una demanda en el ámbito de las prestaciones de la Seguridad Social?
+1)Es imprescindible que los interesados hayan realizado una reclamación previa ante la Entidad gestora correspondiente.
+2)Es imprescindible que los interesados hayan realizado una mediación ante la Entidad gestora correspondiente.
+3)Es prescindible que los interesados hayan realizado una reclamación previa ante la Entidad gestora correspondiente.
+4)Se debe demostrar que se ha cumplido con el trámite de la reclamación previa en todos los casos para la demanda de conciliación.
+Respuesta: 1
+Correcta: Exactamente, la opción A es la acertada. Para formular una demanda en materia de prestaciones de la Seguridad Social, es mandatorio que previamente se haya interpuesto una reclamación ante la Entidad gestora.
+Errada: No es correcto, la opción adecuada es la A. Para formular una demanda en materia de prestaciones de la Seguridad Social, es necesario haber interpuesto una reclamación previa ante la entidad gestora correspondiente (Respuesta Correcta 1)
+###
+Pregunta: ¿Dónde está regulado el proceso laboral ordinario dentro de la Ley 36/2011, de 10 de octubre, que rige la jurisdicción social?
+1)En el Libro Segundo de la mencionada Ley.
+2)En el Libro Primero de la mencionada Ley.
+3)En el Libro Quinto de la mencionada Ley.
+4)En el Libro Sexto de la mencionada Ley.
+Respuesta: 1
+Correcta: Correcto, has escogido la opción A. El proceso laboral ordinario se encuentra regulado en el Libro Segundo de la Ley 36/2011, de 10 de octubre, que rige la jurisdicción social.
+Errada: La respuesta seleccionada no es la correcta. El proceso laboral ordinario está establecido en el Libro Segundo de la Ley 36/2011, de 10 de octubre, que rige la jurisdicción social, como se especifica en la opción A (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 91 de la Ley Reguladora de la Jurisdicción Social, en el caso de que el interrogatorio de personas físicas no se refiera a hechos personales, ¿cómo procede?
+1)Será admisible que un tercero familiarizado con los hechos responda total o parcialmente a las preguntas, siempre que este tercero esté disponible ante el Juez o Tribunal en ese instante, si la parte lo solicita y se hace responsable de la declaración.
+2)Será admisible que un tercero familiarizado con los hechos responda total o parcialmente a las preguntas, salvo que este tercero esté disponible ante el Juez o Tribunal en ese instante, si la parte lo solicita y se hace responsable de la declaración.
+3)Será inadmisible que un tercero familiarizado con los hechos responda total o parcialmente a las preguntas, salvo que este tercero esté disponible ante el Juez o Tribunal en ese instante, si la parte lo solicita y se hace responsable de la declaración.
+4)Será admisible que un tercero familiarizado con los hechos responda total o parcialmente a las preguntas, siempre que este tercero esté disponible ante el Fiscal en ese instante, si la parte lo solicita y no se hace responsable de la declaración.
+Respuesta: 1
+Correcta: La respuesta A es la correcta. Cuando el interrogatorio no se refiere a hechos personales, la ley permite que un tercero con conocimiento directo de los hechos responda en lugar de la persona física, siempre y cuando la parte asuma la responsabilidad de esa declaración.
+Errada: No es así, la opción A es la acertada. La ley permite que un tercero con conocimiento de los hechos responda al interrogatorio si no se refiere a hechos personales y la parte asume la responsabilidad de la declaración (Respuesta Correcta 1)
+###
+Pregunta: En un procedimiento laboral, cuando la representación legal corresponda al Abogado del Estado, ¿qué intervalo de tiempo es obligatorio entre la notificación de la citación al juicio y la celebración del mismo?
+1)Un intervalo de 22 días hábiles es obligatorio.
+2)Un intervalo de 20 días hábiles es obligatorio.
+3)Un intervalo de 25 días hábiles es obligatorio.
+4)Un intervalo de 27 días hábiles es obligatorio.
+Respuesta: 1
+Correcta: Has elegido correctamente con la opción A. Cuando el Abogado del Estado asume la representación y defensa, la ley exige que transcurran al menos 22 días hábiles entre la notificación de la citación para el juicio y la fecha de su celebración.
+Errada: La opción correcta es la A. La ley establece que debe haber un intervalo mínimo de 22 días hábiles entre la notificación de la citación para el juicio al Abogado del Estado y la fecha en que se llevará a cabo dicho juicio (Respuesta Correcta 1)
+###
+Pregunta: En el proceso laboral, si el Letrado de la Administración de Justicia identifica una posible falta de competencia al recibir la demanda, ¿qué acción procede?
+1)Se procederá a la inadmisión de la demanda a través de una decreto.
+2)Se procederá a la inadmisión de la demanda a través de una providencia.
+3)Se informará al juez o tribunal correspondiente para que tome una decisión.
+4)Se informará al LAJ correspondiente para que tome una decisión.
+Respuesta: 3
+Correcta: La opción C es la acertada. Cuando el Letrado de la Administración de Justicia detecta una posible falta de competencia, debe informar al juez o tribunal para que este decida sobre la cuestión.
+Errada: No es correcto. La acción adecuada, según la ley, es informar al juez o tribunal sobre la posible falta de competencia para que se tome una decisión al respecto, como se indica en la opción C (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley Reguladora de la Jurisdicción Social, ¿bajo qué condición se podrán suspender una sola vez los actos de conciliación y juicio?
+1)A solicitud del demandante declarado insolvente.
+2)A solicitud de una de las partes en el proceso.
+3)A solicitud conjunta de ambas partes en el proceso.
+4)A solicitud del demandando.
+Respuesta: 3
+Correcta: Correcto, has seleccionado la opción C. La ley permite la suspensión por una única vez de los actos de conciliación y juicio cuando ambas partes lo solicitan conjuntamente.
+Errada: La respuesta adecuada es la C. La suspensión por única vez de los actos de conciliación y juicio puede realizarse a petición de ambas partes involucradas en el proceso, no solo del demandante (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito de la jurisdicción social, ¿cuál es el efecto de la presentación de la solicitud de conciliación o de mediación sobre los plazos de caducidad y prescripción?
+1)Ninguna es la correcta.
+2)Se suspenden los plazos de caducidad y se interrumpen los de prescripción.
+3)No se suspenden los plazos de caducidad ni se interrumpen los de prescripción.
+4)Se suspenden los plazos de prescripción y se interrumpen los de caducidad.
+Respuesta: 2
+Correcta: Has seleccionado la opción correcta con la B. La ley establece que la presentación de la solicitud de conciliación o de mediación suspenderá los plazos de caducidad e interrumpirá los de prescripción.
+Errada: La respuesta correcta es la opción B. Presentar una solicitud de conciliación o de mediación en la jurisdicción social tiene el efecto de suspender los plazos de caducidad e interrumpir los de prescripción (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley de la Jurisdicción Social, ¿qué validez tiene lo acordado en conciliación o en mediación?
+1)Constituye título para iniciar acciones ejecutivas con necesidad de ratificación ante el LAJ.
+2)Constituye título para iniciar acciones ejecutivas sin necesidad de ratificación ante el LAJ.
+3)Constituye título para iniciar acciones ejecutivas con necesidad de ratificación ante el juez o tribunal.
+4)Constituye título para iniciar acciones ejecutivas sin necesidad de ratificación ante el juez o tribunal.
+Respuesta: 4
+Correcta: Has elegido correctamente con la opción D. Lo acordado en conciliación o en mediación constituye título suficiente para iniciar acciones ejecutivas sin necesidad de ratificación ante el juez o tribunal.
+Errada: La opción correcta es la D. Lo acordado en conciliación o en mediación tiene plena validez para iniciar acciones ejecutivas directamente, sin necesidad de ratificación ante el juez o tribunal (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento ordinario, ¿cuándo podrá el Letrado de la Administración de Justicia señalar el acto de conciliación en convocatoria separada y anticipada a la fecha del juicio?
+1)A instancia de cualquiera de las partes si estimaran razonadamente que existe posibilidad de acuerdo, o de oficio por el LAJ si lo considera factible.
+2)Únicamente de oficio por el Letrado de la Administración de Justicia si entiende que es factible alcanzar un acuerdo.
+3)Solo a instancia de la parte demandada si considera que hay posibilidad de acuerdo.
+4)Nunca, la conciliación siempre se celebra junto con el acto de juicio.
+Respuesta: 1
+Correcta: Correcto. El artículo 82.2 de la LJS, modificado por la LO 1/2025, establece que la conciliación anticipada puede acordarse tanto a petición de parte como de oficio por el LAJ si se aprecian posibilidades de acuerdo.
+Errada: La respuesta correcta es la A. La reforma del artículo 82.2 de la LJS por la LO 1/2025 introduce la flexibilidad de celebrar una conciliación anticipada, bien a instancia de parte o de oficio por el LAJ, para fomentar acuerdos y descargar de trabajo al órgano judicial (Respuesta Correcta 1)
+###
+Pregunta: En un proceso laboral, si el demandante no se presenta al acto de juicio sin justificación, ¿qué consecuencia se deriva de su incomparecencia?
+1)Se considera al demandante como desistido de su demanda.
+2)Se considera al demandante desistido, pero el juicio continuará.
+3)Se archiva el procedimiento.
+4)Se suspende el juicio y se propone otra fecha.
+Respuesta: 1
+Correcta: Has acertado con la opción A. La incomparecencia injustificada del demandante al acto de juicio conlleva que se le tenga por desistido de su demanda.
+Errada: La respuesta correcta es la A. Si el demandante no se presenta al acto de juicio sin justificar su ausencia, la ley prevé que se le tenga por desistido de su demanda (Respuesta Correcta 1)
+###
+Pregunta: En el recurso de suplicación en el ámbito del proceso laboral, ¿cuál es el límite máximo que se puede atribuir en costas por los honorarios del abogado?
+1)1500 euros.
+2)2000 euros.
+3)1400 euros.
+4)1200 euros.
+Respuesta: 4
+Correcta: Has seleccionado la respuesta correcta con la opción D. En el recurso de suplicación, los honorarios del abogado atribuidos en costas no pueden exceder de 1200 euros.
+Errada: La respuesta correcta es la opción D. En el recurso de suplicación, el límite establecido para los honorarios del abogado en la atribución de costas es de 1200 euros (Respuesta Correcta 4)
+###
+Pregunta: ¿Quiénes están facultados para impugnar el acuerdo alcanzado en un acto de conciliación o de mediación dentro del proceso laboral?
+1)Cualquier tercero que pudiera verse perjudicado por el acuerdo tienen derecho a impugnar.
+2)Las partes implicadas y cualquier tercero que pudiera verse perjudicado por el acuerdo tienen derecho a impugnar.
+3)Las parte implicada que pudiera verse perjudicado por el acuerdo tienen derecho a impugnar.
+4)El Ministerio Fiscal tiene competencia para impugnar el acuerdo.
+Respuesta: 2
+Correcta: Correcto, la opción B es la adecuada. Los acuerdos de conciliación o de mediación pueden ser impugnados por las partes y por aquellos que puedan sufrir perjuicio por los mismos.
+Errada: La opción correcta es la B. Solo las partes directamente involucradas y terceros perjudicados tienen el derecho de impugnar un acuerdo de conciliación o de mediación (Respuesta Correcta 2)
+###
+Pregunta: En el contexto del proceso laboral, ¿cuándo puede presentarse la solicitud de embargo preventivo?
+1)La solicitud de embargo preventivo puede realizarse en cualquier momento procesal antes de presentar el escrito de oposición.
+2)La solicitud de embargo preventivo puede realizarse en cualquier momento procesal antes del juicio.
+3)La solicitud de embargo preventivo puede realizarse en cualquier momento procesal después de que se dicte sentencia.
+4)La solicitud de embargo preventivo puede realizarse en cualquier momento procesal antes de que se dicte sentencia.
+Respuesta: 4
+Correcta: Has elegido correctamente con la opción D. En efecto, la solicitud de embargo preventivo puede presentarse en cualquier momento del proceso, siempre que sea antes de la sentencia.
+Errada: La respuesta acertada es la opción D. La ley permite que la solicitud de embargo preventivo se realice en cualquier momento antes de que se dicte la sentencia (Respuesta Correcta 4)
+###
+Pregunta: En el proceso laboral, las causas de suspensión de los actos de conciliación y juicio por circunstancias personales o familiares de la LEC, ¿a quiénes son aplicables?
+1)Ninguna es correcta.
+2)Las causas de suspensión son aplicables a graduados sociales por igual.
+3)Las causas de suspensión son aplicables a abogados y procuradores por igual.
+4)Las causas de suspensión son aplicables a abogados, procuradores y graduados sociales por igual.
+Respuesta: 4
+Correcta: Has seleccionado la respuesta correcta con la opción D. Las causas de suspensión por circunstancias personales o familiares previstas en la LEC se aplican de forma igualitaria a abogados, procuradores y graduados sociales.
+Errada: La respuesta adecuada es la opción D. Tanto abogados como procuradores y graduados sociales están sujetos a las mismas causas de suspensión por circunstancias personales o familiares según lo establecido en la LEC (Respuesta Correcta 4)
+###
+Pregunta: En el juicio ordinario ante la jurisdicción social, ¿cuál de las siguientes opciones no es correcta?
+1)Se permite el allanamiento parcial por parte del demandado.
+2)El procedimiento no se suspenderá aunque exista una causa criminal sobre los mismos hechos.
+3)No se permite la formulación de reconvención.
+4)Las partes pueden hablar varias veces durante el juicio si así lo considera el juez o tribunal.
+Respuesta: 3
+Correcta: La respuesta correcta es la C. En el proceso laboral ordinario no cabe la reconvención, ya que la Ley Reguladora de la Jurisdicción Social busca procedimientos ágiles y directos sin complicaciones procesales adicionales.
+Errada: La opción incorrecta es la C. En el proceso laboral ordinario, a diferencia de otros órdenes jurisdiccionales, no se permite la reconvención (Respuesta Correcta 3)
+###
+Pregunta: En la demanda del proceso laboral ordinario, ¿es posible alegar hechos nuevos o que no se conocieron con anterioridad?
+1)Se pueden alegar hechos distintos a los presentados en conciliación o mediación ni variaciones sustanciales de la vía administrativa previa, incluso cuando se trate de hechos nuevos o desconocidos con anterioridad.
+2)No se pueden alegar hechos distintos a los presentados en conciliación o mediación ni variaciones sustanciales de la vía administrativa previa, excepto cuando se trate de hechos nuevos o desconocidos con anterioridad.
+3)No se pueden alegar hechos distintos a los presentados en conciliación o mediación ni variaciones sustanciales de la vía administrativa previa, excepto cuando se trate de hechos nuevos o desconocidos con anterioridad.
+4)Se pueden alegar hechos distintos a los presentados en conciliación o mediación ni variaciones sustanciales de la vía administrativa previa, excepto cuando se trate de hechos nuevos o desconocidos con anterioridad.
+Respuesta: 3
+Correcta: Correcto, la opción C es la adecuada. La ley permite la alegación de hechos nuevos o que no se pudieron conocer con anterioridad, proporcionando flexibilidad al demandante para incluir información relevante que pueda haber surgido después de la conciliación o mediación.
+Errada: La opción incorrecta es la C. La ley específicamente permite la inclusión de hechos nuevos o desconocidos con anterioridad, lo que añade una excepción importante a la regla general que limita las alegaciones en la demanda (Respuesta Correcta 3)
+###
+Pregunta: Cuando la representación y defensa en juicio corresponda al Abogado del Estado, ¿cuál es el plazo concedido para la consulta a la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado?
+1)Se concederán quince días para realizar la consulta.
+2)Se concederán veinte días para realizar la consulta.
+3)Se concederán veintidós días para realizar la consulta.
+4)Se concederán veinticinco días para realizar la consulta.
+Respuesta: 3
+Correcta: La respuesta correcta es la C. La ley concede un plazo de veintidós días al Abogado del Estado para realizar consultas a la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado, asegurando así una adecuada preparación y defensa en el juicio.
+Errada: La opción incorrecta es la C. La ley especifica un plazo de veintidós días para que el Abogado del Estado realice las consultas necesarias a la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado (Respuesta Correcta 3)
+###
+Pregunta: En el proceso laboral, frente a la resolución que deniega la práctica de una prueba anticipada, ¿qué recurso es admisible?
+1)Se puede presentar un recurso de queja.
+2)Se puede presentar un recurso de reposición.
+3)No se admite recurso alguno, sin perjuicio de los recursos que puedan interponerse contra la sentencia más adelante.
+4)Se puede presentar un recurso de apelación.
+Respuesta: 3
+Correcta: Correcto, la respuesta es la C. No se permite recurso alguno contra la decisión judicial que deniega la realización de diligencias preliminares, aunque esta decisión podrá discutirse al recurrir la sentencia final.
+Errada: La opción correcta es la C. La ley no prevé ningún recurso contra la denegación de diligencias preliminares, aunque sí se podrán recurrir en la apelación de la sentencia final (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué plazo mínimo debe mediar entre la citación y la efectiva celebración de los actos de conciliación y juicio en el proceso ordinario laboral, salvo excepciones legales?
+1)Siete días.
+2)Diez días.
+3)Quince días.
+4)Veinte días.
+Respuesta: 2
+Correcta: La respuesta correcta es la B. El artículo 82.1 LJS, modificado por la LO 1/2025, establece un plazo mínimo de diez días entre la citación y la celebración de los actos.
+Errada: La respuesta B es la correcta. Según la reforma del artículo 82.1 de la LJS por la LO 1/2025, deben mediar un mínimo de diez días entre la citación y la celebración de los actos de conciliación y juicio (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley reguladora de la Jurisdicción Social, ¿en qué plazo se debe dictar la sentencia en el proceso ordinario?
+1)La sentencia se dictará en un plazo de 3 días.
+2)La sentencia se dictará en un plazo de 7 días.
+3)La sentencia se dictará en un plazo de 5 días.
+4)La sentencia se dictará en un plazo de 9 días.
+Respuesta: 3
+Correcta: Correcto, la respuesta es la C. La sentencia en el proceso ordinario laboral debe dictarse en un plazo de 5 días, lo que asegura una resolución rápida de los conflictos laborales.
+Errada: La opción correcta es la C. La ley prevé que la sentencia en el proceso ordinario laboral se dicte en un plazo de 5 días para agilizar el proceso y brindar una resolución en un tiempo razonable (Respuesta Correcta 3)
+###
+Pregunta: Si al presentar la demanda no se acredita el intento de conciliación o mediación, ¿qué advertencia hará el Letrado de la Administración de Justicia al demandante?
+1)Le advertirá de que la demanda será inadmitida si no lo acredita en 10 días.
+2)Le requerirá para que lo acredite en el acto, bajo apercibimiento de archivo.
+3)No hará ninguna advertencia, ya que se subsana en el acto del juicio.
+4)Le advertirá que deberá acreditarlo en el plazo de quince días, bajo apercibimiento de archivo de las actuaciones.
+Respuesta: 4
+Correcta: La respuesta correcta es la D. La supresión del antiguo apartado 2 del artículo 81 de la LJS implica que ya no se cita al demandante a subsanar, sino que se le advierte para que acredite el trámite en 15 días, con la consecuencia del archivo si no lo hace.
+Errada: La respuesta correcta es la D. Con la reforma introducida por la LO 1/2025, el LAJ ya no cita para subsanar, sino que advierte al demandante de la necesidad de acreditar el intento de conciliación en 15 días, bajo riesgo de archivar el procedimiento (Respuesta Correcta 4)
+###
+Pregunta: En la jurisdicción social, ¿cuál es el plazo de caducidad para ejercitar la acción impugnatoria contra el acuerdo de conciliación?
+1)Caduca a los 10 días de la fecha en que se celebró el acuerdo.
+2)Caduca a los 30 días de la fecha en que se celebró el acuerdo.
+3)Caduca a los 15 días de la fecha en que se celebró el acuerdo.
+4)Caduca a los 20 días de la fecha en que se celebró el acuerdo.
+Respuesta: 2
+Correcta: Correcto, la respuesta es la B. El plazo de caducidad para impugnar la validez de un acuerdo de conciliación es de 30 días.
+Errada: La respuesta B es la correcta. El término para ejercitar la acción impugnatoria contra el acuerdo de conciliación es de 30 días a partir de su celebración (Respuesta Correcta 2)
+###
+Pregunta: En el ámbito laboral, cuando se requiera resolver una cuestión que sea objeto principal en otro proceso laboral pendiente, ¿qué medida se tomará?
+1)Ninguna es correcta.
+2)Bajo ninguna circunstancia se suspenderá el proceso.
+3)El juez puede pedir la suspensión del proceso de oficio.
+4)Las partes implicadas pueden pedir la suspensión del proceso.
+Respuesta: 4
+Correcta: La respuesta correcta es la D. Si ambas partes lo solicitan, se puede pedir la suspensión del proceso hasta que se resuelva la cuestión prejudicial en otro juicio.
+Errada: La opción D es la correcta. Las partes tienen la opción de solicitar la suspensión del proceso cuando para resolver se necesite dirimir una cuestión que es objeto principal en otro proceso laboral pendiente (Respuesta Correcta 4)
+###
+Pregunta: Ante la detección de fallos o ausencias en la redacción de la demanda en el proceso ordinario laboral, ¿cuánto tiempo se concede para la corrección?
+1)Se concederán dos días para subsanar los errores.
+2)Se concederán tres días para subsanar los errores.
+3)Se concederán cuatro días para subsanar los errores.
+4)Se concederán cinco días para subsanar los errores.
+Respuesta: 3
+Correcta: La respuesta correcta es la C. El plazo otorgado para corregir los defectos en la demanda es de cuatro días.
+Errada: La respuesta correcta es la C. Si se encuentran errores o se omite información en la demanda, se dispondrá de un plazo de cuatro días para subsanarlos (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito laboral, cuando se impugnen actos de Administraciones públicas en materia laboral y de seguridad social, ¿cómo se regula la adopción de medidas cautelares según la Ley de Jurisdicción Social?
+1)Ninguna es correcta.
+2)De acuerdo con lo establecido en la Ley de la Jurisdicción Social.
+3)Con arreglo a lo dispuesto en la Ley reguladora de la Jurisdicción Contencioso-Administrativa.
+4)De acuerdo con lo establecido en la Ley de Enjuiciamiento Civil.
+Respuesta: 3
+Correcta: Has acertado, es la opción C. En materia de medidas cautelares no previstas en la Ley de Jurisdicción Social, se aplicará supletoriamente la Ley reguladora de la Jurisdicción Contencioso-Administrativa.
+Errada: La respuesta correcta es la C. Cuando se trate de impugnar actos de las Administraciones públicas en materia laboral y de seguridad social, y la Ley de Jurisdicción Social no prevea algo específico, se aplicará lo dispuesto en la Ley reguladora de la Jurisdicción Contencioso-Administrativa (Respuesta Correcta 3)
+###
+Pregunta: En el proceso laboral ordinario, frente a la denegación judicial de realizar diligencias preliminares, ¿qué recurso cabe interponer?
+1)Se puede presentar un recurso de queja.
+2)Se puede presentar un recurso de reposición.
+3)No se admite recurso alguno, sin perjuicio de los recursos que puedan interponerse contra la sentencia más adelante.
+4)Se puede presentar un recurso de apelación.
+Respuesta: 3
+Correcta: Correcto, la respuesta es la C. No se permite recurso alguno contra la decisión judicial que deniega la realización de diligencias preliminares, aunque esta decisión podrá discutirse al recurrir la sentencia final.
+Errada: La opción correcta es la C. La ley no prevé ningún recurso contra la denegación de diligencias preliminares, aunque sí se podrán recurrir en la apelación de la sentencia final (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la Ley de Jurisdicción Social, una vez iniciada la práctica de una prueba admitida, si la parte que la propuso renuncia a ella, ¿qué podrá decidir el órgano judicial?
+1)El órgano judicial debe ordenar que la prueba continúe, con posibilidad de recurso posterior.
+2)El órgano judicial debe ordenar que la prueba continúe, sin posibilidad de recurso posterior.
+3)El órgano judicial tiene la facultad de decidir si la prueba continúa o no, y esta decisión no es recurrible.
+4)El órgano judicial tiene la facultad de decidir si la prueba continúa o no, y esta decisión es recurrible.
+Respuesta: 3
+Correcta: Correctamente, es la opción C. Si la parte que propuso una prueba decide renunciar a ella, el juez o tribunal puede decidir continuar con su práctica, y esta decisión no admite recurso.
+Errada: La respuesta correcta es la C. La ley permite al órgano judicial la facultad discrecional de continuar con la práctica de una prueba aunque la parte proponente haya renunciado a ella, y no cabe recurso contra esta decisión (Respuesta Correcta 3)
+###
+Pregunta: En relación a la prueba de interrogatorio de parte en el proceso laboral, ¿cómo deben proponerse las preguntas según la Ley de Jurisdicción Social?
+1)Las preguntas se realizarán de manera escrita y se aceptarán pliegos.
+2)Las preguntas se realizarán de manera escrita y no se aceptarán pliegos.
+3)Las preguntas se realizarán de manera verbal y no se aceptarán pliegos.
+4)Las preguntas se realizarán de manera verbal y se aceptarán pliegos.
+Respuesta: 3
+Correcta: Exacto, la respuesta es la C. La Ley de Jurisdicción Social establece que las preguntas en el interrogatorio de parte se harán de forma verbal, sin admitir pliegos.
+Errada: La respuesta correcta es la C. La Ley de Jurisdicción Social establece que las preguntas en el interrogatorio de parte se harán de forma verbal, sin admitir pliegos (Respuesta Correcta 3)
+###
+Pregunta: En el ámbito del proceso laboral, ¿dónde se lleva a cabo el acto de conciliación una vez admitida la demanda?
+1)Delante del Gestor Procesal.
+2)Delante del Letrado de la Administración de Justicia.
+3)Delante del Juez.
+4)Delante del Tramitador Procesal.
+Respuesta: 2
+Correcta: Has elegido correctamente. El acto de conciliación se celebra ante el Letrado de la Administración de Justicia.
+Errada: La respuesta correcta es la B. El acto de conciliación tras la admisión de la demanda se celebra ante el Letrado de la Administración de Justicia (Respuesta Correcta 2)
+###
+Pregunta: En la jurisdicción social, ¿cuál es la consecuencia de la incomparecencia injustificada del actor en los actos de conciliación y juicio?
+1)Se tiene por allanada la demanda del actor.
+2)Se tiene por desistida la demanda del actor.
+3)Se tiene por renunciada la demanda del actor.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: Correcto, es la opción B. Si el actor no comparece sin justa causa, se le tendrá por desistido de la demanda.
+Errada: La opción correcta es la B. Si el demandante no comparece sin justificar, se le tiene por desistido de su demanda (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué elementos deben incluirse obligatoriamente en la demanda del proceso ordinario laboral?
+1)La identificación del demandante y la designación del órgano competente.
+2)La súplica y la designación del órgano competente.
+3)La identificación del demandante.
+4)La identificación del demandante, la súplica y la designación del órgano competente.
+Respuesta: 4
+Correcta: Perfecto, la respuesta es la D. La demanda en el proceso laboral debe contener todos los elementos mencionados.
+Errada: La respuesta correcta es la D. La demanda debe incluir la identificación del demandante, la súplica y la designación del órgano ante quien se presenta (Respuesta Correcta 4)
+###
+Pregunta: Tras la celebración del juicio en el proceso laboral, ¿quién tiene derecho a recibir una copia del acta?
+1)El actor únicamente.
+2)Solo las partes que hayan sido parte en el proceso y lo soliciten.
+3)El demandado únicamente.
+4)Los posibles terceros afectado por la sentencia.
+Respuesta: 2
+Correcta: Has seleccionado correctamente la opción B. Las partes recibirán una copia del acta solo si la solicitan.
+Errada: La respuesta correcta es la B. Las partes en el proceso laboral tienen derecho a obtener una copia del acta del juicio solo si lo solicitan (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el objeto del recurso de casación para la unificación de doctrina según la Ley Reguladora de la Jurisdicción Social?
+1)La revisión de los hechos declarados probados en la sentencia de suplicación.
+2)La corrección de infracciones procesales que hayan causado indefensión.
+3)La unificación de doctrina con ocasión de sentencias contradictorias que presenten interés casacional objetivo.
+4)La impugnación de cualquier sentencia dictada por los Tribunales Superiores de Justicia.
+Respuesta: 3
+Correcta: Correcto. Según el artículo 219.1 de la LJS, modificado por la LO 1/2025, el recurso busca unificar doctrina ante sentencias contradictorias, siempre que la Sala aprecie que el asunto presenta interés casacional objetivo.
+Errada: La opción correcta es la C. La reforma de la LJS por la LO 1/2025 introduce en el artículo 219.1 el requisito del "interés casacional objetivo" como filtro para la admisión del recurso, además de la existencia de contradicción doctrinal (Respuesta Correcta 3)
+###
+Pregunta: En el marco del proceso ordinario de la jurisdicción social, ¿cuándo deberá el demandado formular su contestación a la demanda?
+1)Deberá hacerlo en un plazo de 15 días a partir de la notificación del emplazamiento.
+2)Formulará su contestación después del juicio oral, tras abordar las cuestiones previas.
+3)Formulará su contestación durante el juicio oral, tras abordar las cuestiones previas.
+4)Formulará su contestación antes del juicio oral, tras abordar las cuestiones previas.
+Respuesta: 3
+Correcta: Precisamente, la respuesta es la C. El demandado contestará a la demanda durante el acto del juicio oral después de tratar las cuestiones previas.
+Errada: La opción correcta es la C. El demandado deberá contestar a la demanda en el acto del juicio oral, una vez resueltas las cuestiones previas que se hubieran planteado (Respuesta Correcta 3)
+###
+Pregunta: Ante la detección de errores o ausencias en la redacción de la demanda del proceso ordinario laboral, ¿cuánto tiempo tiene la parte para realizar las correcciones pertinentes?
+1)Cuenta con 3 días para subsanar los defectos señalados.
+2)Cuenta con 4 días para subsanar los defectos señalados.
+3)Cuenta con 5 días para subsanar los defectos señalados.
+4)Cuenta con 7 días para subsanar los defectos señalados.
+Respuesta: 2
+Correcta: Correcto, la respuesta es B. La parte tiene un plazo de 4 días para subsanar los defectos en la demanda.
+Errada: La respuesta adecuada es la B. Si hay errores o faltas en la demanda, la parte tiene un plazo de 4 días para proceder a su subsanación (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el plazo para que una parte solicite ser oída después de haber sido declarada en rebeldía en el proceso laboral?
+1)Dispone de dos meses desde la notificación de la sentencia en el Boletín Oficial correspondiente
+2)Dispone de tres meses desde la notificación de la sentencia en el Boletín Oficial correspondiente
+3)Dispone de cuatro meses desde la notificación de la sentencia en el Boletín Oficial correspondiente
+4)Dispone de cinco meses desde la notificación de la sentencia en el Boletín Oficial correspondiente
+Respuesta: 3
+Correcta: Efectivamente, la opción correcta es la C. La parte tiene un plazo de cuatro meses para solicitar la audiencia al rebelde desde la notificación de la sentencia en el Boletín Oficial.
+Errada: La respuesta correcta es la C. La parte dispone de un plazo de cuatro meses desde la notificación de la sentencia en el Boletín Oficial para pedir ser oída si ha sido declarada en rebeldía (Respuesta Correcta 3)
+###
+Pregunta: ¿Quiénes están dispensados de la obligación de depositar cauciones, garantías e indemnizaciones asociadas a las medidas cautelares en el marco del proceso laboral?
+1)Todos los mencionados.
+2)Las asociaciones que representan a trabajadores autónomos económicamente dependientes.
+3)Las personas jurídicas en general.
+4)Agrupaciones empresariales.
+Respuesta: 2
+Correcta: Correcto, la opción B es la correcta. Las asociaciones de trabajadores autónomos económicamente dependientes están exentas de prestar cauciones, garantías e indemnizaciones relacionadas con las medidas cautelares en el proceso laboral.
+Errada: La respuesta correcta es la B. Las asociaciones de trabajadores autónomos económicamente dependientes están eximidas de presentar cauciones, garantías e indemnizaciones relacionadas con las medidas cautelares que se podrían establecer en el proceso laboral (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley Reguladora de la Jurisdicción Social, ¿cuál de las siguientes es una causa de inadmisión del recurso de casación para la unificación de doctrina?
+1)La falta de interés casacional objetivo.
+2)La presentación del recurso fuera de plazo, aunque sea por un día.
+3)La falta de depósito para recurrir, aunque se subsane en el plazo concedido.
+4)La discrepancia con la valoración de la prueba testifical realizada en la sentencia de suplicación.
+Respuesta: 1
+Correcta: Correcto. La reforma del artículo 225.4 LJS por la LO 1/2025 introduce como nueva causa de inadmisión específica la falta de interés casacional objetivo.
+Errada: La opción correcta es la A. La modificación del artículo 225 de la LJS establece la falta de interés casacional objetivo como uno de los motivos por los que la Sala puede inadmitir el recurso (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué requisito principal deben cumplir las sentencias dictadas en suplicación por las Salas de lo Social de los Tribunales Superiores de Justicia para ser recurridas en casación para la unificación de doctrina?
+1)Que la cuantía del litigio supere los 6.000 euros.
+2)Que el fallo sea estimatorio de la demanda.
+3)Que la sentencia sea contradictoria con otras y la cuestión presente interés casacional objetivo.
+4)Que la sentencia presente contradicción con otras, siendo este el único requisito.
+Respuesta: 4
+Correcta: Correcto. Tras la reforma del artículo 219 de la LJS por la LO 1/2025, no basta con la contradicción, sino que la Sala debe apreciar que el recurso presenta "interés casacional objetivo".
+Errada: La opción correcta es la D. El artículo 219 de la LJS, en su nueva redacción, exige dos elementos concurrentes: la contradicción entre sentencias y que el asunto tenga "interés casacional objetivo" (Respuesta Correcta 4)
+###
+Pregunta: Si el Letrado de la Administración de Justicia del Tribunal Supremo aprecia defectos subsanables en la tramitación, preparación o interposición del recurso de casación para unificación de doctrina, ¿qué plazo concederá a la parte para subsanarlos?
+1)Siete días.
+2)Nueve días.
+3)Diez días.
+4)Doce días.
+Respuesta: 3
+Correcta: Correcto. El artículo 225.1 de la LJS, modificado por la LO 1/2025, establece un plazo de diez días para la subsanación de defectos en el recurso de casación para la unificación de doctrina.
+Errada: La respuesta correcta es la opción C. Con la reforma del artículo 225.1 de la LJS, se unifica y amplía a diez días el plazo para subsanar los defectos que pueda apreciar el Letrado de la Administración de Justicia (Respuesta Correcta 3)
+###
+Pregunta: En el proceso laboral, ¿se puede recurrir la resolución que acuerda la acumulación de recursos de casación?
+1)Sí, cabe recurso de apelación contra esa resolución.
+2)Sí, cabe recurso de reposición contra esa resolución.
+3)Sí, cabe recurso de reforma contra esa resolución.
+4)No, no cabe recurso. Sin embargo, la acumulación puede dejarse sin efecto si surgen causas que justifiquen su tramitación separada.
+Respuesta: 4
+Correcta: Correcto, la opción D es la acertada. No se admite recurso contra la resolución que acuerda la acumulación de recursos de casación, aunque puede dejarse sin efecto si se justifica su tramitación separada.
+Errada: La respuesta adecuada es la D. Contra la resolución que acuerda la acumulación de recursos de casación no cabe recurso, pero puede revocarse la acumulación si surgen motivos que lo justifiquen (Respuesta Correcta 4)
+###
+Pregunta: En el proceso laboral, ¿cuánto debe consignar como depósito una persona que no es trabajador, causahabiente o beneficiario de la Seguridad Social y que prepara un recurso de casación?
+1)Deberá consignar 600 euros.
+2)Deberá consignar 500 euros.
+3)Deberá consignar 800 euros.
+4)Deberá consignar 400 euros.
+Respuesta: 1
+Correcta: ¡Bien hecho! La opción A es la correcta. Cualquier persona en estas circunstancias deberá consignar un depósito de 600 euros al preparar un recurso de casación.
+Errada: La respuesta precisa es la A. Al preparar un recurso de casación, una persona en dicha situación debe consignar un depósito de 600 euros (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es el plazo para anunciar el recurso de suplicación desde la notificación de la sentencia en el proceso laboral?
+1)El plazo es de tres días.
+2)El plazo es de dos días.
+3)El plazo es de cinco días.
+4)El plazo es de siete días.
+Respuesta: 3
+Correcta: Excelente, has seleccionado correctamente. La opción C es la correcta. Desde la notificación de la sentencia, la parte dispone de cinco días para anunciar el recurso de suplicación.
+Errada: La respuesta correcta es la C. El plazo para anunciar el recurso de suplicación es de cinco días tras la notificación de la sentencia en el procedimiento laboral (Respuesta Correcta 3)
+###
+Pregunta: Transcurrido el plazo de treinta días hábiles sin haberse celebrado el acto de conciliación o mediación, ¿cómo se considerará el trámite?
+1)Ninguno de los mencionados.
+2)Se considerará incumplido el trámite y finalizado el procedimiento.
+3)Se dictará un laudo conforme a las pretensiones de la parte presente.
+4)Se considerará cumplido el trámite y finalizado el procedimiento.
+Respuesta: 4
+Correcta: Correcto. La LO 1/2025 modifica el artículo 65.2 de la LJS, estableciendo que transcurrido dicho plazo se tendrá por terminado el procedimiento y cumplido el trámite.
+Errada: La respuesta precisa es la opción D. Conforme a la nueva redacción del artículo 65.2 de la LJS, si transcurren treinta días hábiles sin celebrarse la conciliación o mediación, se da por cumplido el trámite y por finalizado el procedimiento a esos efectos (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley Reguladora de la Jurisdicción Social, la presentación de la solicitud de conciliación o de mediación...
+1)Ninguna es la correcta.
+2)Suspende los plazos de caducidad y no interrumpe los de prescripción.
+3)No suspende los plazos de caducidad e interrumpe los de prescripción.
+4)Interrumpirá la prescripción y suspenderá los plazos de caducidad.
+Respuesta: 4
+Correcta: Has seleccionado la opción correcta. La nueva redacción del artículo 65.1 de la LJS por la LO 1/2025 aclara que la solicitud interrumpe la prescripción y suspende la caducidad.
+Errada: La respuesta adecuada es la opción D. De acuerdo con la modificación del artículo 65.1 de la LJS, la presentación de la solicitud de conciliación o de mediación interrumpe la prescripción y suspende los plazos de caducidad (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué casos no se requiere agotar la vía administrativa previa para poder acceder a la jurisdicción social?
+1)Solo se requiere agotar la vía administrativa previa para interponer demanda de tutela de derechos fundamentales y libertades públicas.
+2)Solo se requiere agotar la vía administrativa previa en demandas derivadas de despido y demás acciones sujetas a plazo de caducidad.
+3)No se requiere agotar la vía administrativa previa para interponer demanda de tutela de derechos fundamentales y libertades públicas frente a actos de las Administraciones públicas.
+4)Se requiere agotar la vía administrativa previa para interponer demanda de tutela de derechos fundamentales y libertades públicas frente a actos de las Administraciones públicas.
+Respuesta: 3
+Correcta: Correcto, la opción C es la correcta. De acuerdo con el artículo 70 LJS, no será necesario agotar la vía administrativa para interponer demanda de tutela de derechos fundamentales y libertades públicas frente a actos de las Administraciones públicas en el ejercicio de sus potestades en materia laboral y sindical.
+Errada: La respuesta precisa es la opción C. Según el artículo 70 de la LJS, no es necesario agotar la vía administrativa para demandas de tutela de derechos fundamentales y libertades públicas frente a actos de las Administraciones públicas en materia laboral y sindical (Respuesta Correcta 3)
+###
+Pregunta: Respecto a la reclamación administrativa previa en materia de prestaciones de Seguridad Social, ¿cuál es el plazo máximo para que la entidad gestora dicte y notifique resolución expresa?
+1)Treinta y cinco días.
+2)Veinticinco días.
+3)Treinta días.
+4)Cuarenta y cinco días.
+Respuesta: 4
+Correcta: Excelente, la opción D es la acertada. La entidad gestora dispone de un plazo máximo de cuarenta y cinco días para emitir y notificar una respuesta a la reclamación previa.
+Errada: La respuesta correcta es la opción D. La ley establece que la entidad gestora tiene un plazo máximo de cuarenta y cinco días para dictar y notificar la resolución expresa a la reclamación administrativa previa (Respuesta Correcta 4)
+###
+Pregunta: En los procedimientos de impugnación de altas médicas que no están exentos de reclamación previa, ¿cuál es el plazo establecido para presentar la reclamación previa a partir de la notificación de la resolución?
+1)En un periodo de siete días hábiles tras recibir la notificación.
+2)En un periodo de once días naturales tras recibir la notificación.
+3)En un periodo de diez días naturales tras recibir la notificación.
+4)En un periodo de nueve días hábiles tras recibir la notificación.
+Respuesta: 2
+Correcta: Has elegido correctamente. Según la LJS, la reclamación previa en los procedimientos de impugnación de altas médicas debe interponerse en el plazo de once días desde la notificación de la resolución.
+Errada: a respuesta adecuada es la opción B. De acuerdo con la normativa vigente, el plazo para interponer la reclamación previa en los procedimientos de impugnación de altas médicas es de once días naturales a partir de la fecha de notificación de la resolución (Respuesta Correcta 2)
+###
+Pregunta: En la jurisdicción social, ¿en qué casos es necesario el intento de conciliación previa al proceso?
+1)En materias relacionadas con la Seguridad Social.
+2)En casos de reducción de jornada.
+3)En la disputa sobre el disfrute de vacaciones.
+4)En procesos de despido improcedente o nulo.
+Respuesta: 4
+Correcta: Excelente, has seleccionado la opción D. En la jurisdicción social, la conciliación es un requisito previo necesario en los procesos de despido improcedente o nulo.
+Errada: La opción correcta es la D. El intento de conciliación es un requisito procesal previo en los casos de despido improcedente o nulo, conforme a lo establecido en la legislación pertinente (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con la Ley de la Jurisdicción Social, ¿cuál es el plazo de caducidad para impugnar el acuerdo alcanzado en un acto de conciliación o mediación?
+1)Veinte días hábiles.
+2)Treinta días hábiles.
+3)Veinte días naturales.
+4)Treinta días naturales.
+Respuesta: 2
+Correcta: Has acertado al elegir la opción B. La acción para impugnar un acuerdo de conciliación o de mediación caduca a los treinta días hábiles, según el artículo 67 de la LJS.
+Errada: La respuesta precisa es la B. El plazo para impugnar un acuerdo de conciliación o mediación es de treinta días hábiles, tal como lo señala el artículo 67 de la Ley de la Jurisdicción Social (Respuesta Correcta 2)
+###
+Pregunta: En el contexto de los recursos judiciales de anulación de laudos arbitrales en el ámbito laboral, ¿cuál es el plazo para ejercitar la acción correspondiente?
+1)La acción caducará en quince días hábiles.
+2)La acción caducará en treinta días hábiles.
+3)La acción caducará en veinticinco días hábiles.
+4)La acción caducará en cuarenta días hábiles.
+Respuesta: 2
+Correcta: Correcto, la opción B es la válida. La acción para impugnar un laudo arbitral caduca en el plazo de treinta días hábiles.
+Errada: La contestación acertada es la B. La ley establece un plazo de caducidad de treinta días hábiles para ejercitar la acción de impugnación de un laudo arbitral en la jurisdicción social (Respuesta Correcta 2)
+###
+Pregunta: Cuando se pretende demandar al Estado, Comunidades Autónomas o entidades locales en la vía judicial social, ¿qué requisito se exige?
+1)Es necesario haber agotado previamente la vía administrativa, según lo establecido en la normativa correspondiente
+2)No es necesario haber agotado previamente la vía administrativa, según lo establecido en la normativa correspondiente
+3)Se requiere haber intentado una conciliación o mediación previa.
+4)Se requiere haber finalizado una conciliación o mediación previa.
+Respuesta: 1
+Correcta: Has seleccionado adecuadamente la opción A. Para demandar al Estado, Comunidades Autónomas o entidades locales en la vía judicial social, es necesario haber agotado la vía administrativa cuando así lo establezca la normativa de procedimiento administrativo aplicable.
+Errada: La respuesta adecuada es la opción A. En la jurisdicción social, para poder demandar al Estado, Comunidades Autónomas o entidades locales, se debe haber agotado la vía administrativa previa, de acuerdo con la normativa de procedimiento administrativo que sea de aplicación (Respuesta Correcta 1)
+###
+Pregunta: En materia de prestaciones de Seguridad Social, tras la presentación de la reclamación administrativa previa, ¿cuál es el plazo que tiene la entidad para emitir y notificar su respuesta?
+1)25 días.
+2)35 días.
+3)40 días.
+4)45 días.
+Respuesta: 4
+Correcta: Has seleccionado la respuesta correcta. Según la normativa aplicable, la entidad gestora tiene un plazo de cuarenta y cinco días para contestar expresamente a la reclamación administrativa previa en materia de prestaciones de Seguridad Social.
+Errada: La opción correcta es la D. La entidad gestora debe contestar a la reclamación administrativa previa en materia de prestaciones de Seguridad Social dentro de un plazo de cuarenta y cinco días (Respuesta Correcta 4)
+###
+Pregunta: En los procedimientos de impugnación de altas médicas donde se exija reclamación previa, ¿cuánto tiempo tiene la entidad para emitir una respuesta?
+1)Siete días.
+2)Cinco días.
+3)Seis días.
+4)Diez días.
+Respuesta: 1
+Correcta: Correcto, la respuesta es la A. La entidad dispone de un plazo de siete días para contestar a la reclamación previa en los procedimientos de impugnación de altas médicas.
+Errada: La respuesta adecuada es la A. En los procedimientos de impugnación de altas médicas, el plazo para la contestación de la reclamación previa es de siete días (Respuesta Correcta 1)
+###
+Pregunta: En el proceso laboral, ¿cuáles son los casos en los que no se exige un intento de conciliación previa y se puede proceder directamente en la jurisdicción social?
+1)Despidos disciplinarios.
+2)Reclamaciones salariales.
+3)Vacaciones.
+4)Reclasificación profesional.
+Respuesta: 3
+Correcta: Has elegido la respuesta correcta. Los procesos que versan sobre vacaciones están exentos del requisito de intento de conciliación previa.
+Errada: La contestación correcta es la C. Los procesos sobre vacaciones no requieren de un intento de conciliación previa (Respuesta Correcta 3)
+###
+Pregunta: Según la Ley reguladora de la Jurisdicción Social, en aquellos casos donde se considera agotada la vía administrativa, ¿cuál es el plazo para presentar la demanda ante la instancia judicial competente?
+1)Tres meses.
+2)Cuatro meses.
+3)Un mes.
+4)Dos meses.
+Respuesta: 4
+Correcta: Excelente, has acertado. El plazo para presentar la demanda una vez agotada la vía administrativa es de dos meses.
+Errada: La respuesta correcta es la D. Una vez agotada la vía administrativa, el interesado dispone de dos meses para formalizar la demanda ante el órgano judicial competente (Respuesta Correcta 4)

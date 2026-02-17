@@ -1632,42 +1632,22 @@ ESTILO VISUAL:
 - IMPORTANTE: Asegúrate de incluir TODOS los ${preguntasFalladas.length} errores en la infografía.
 - IMPORTANTE: El título debe estar CENTRADO y dejar espacio libre en la esquina superior izquierda.`;
 
-      // Usar Google Gemini 3 Pro Image API directamente
-      // La API key se obtiene de variable de entorno o usa fallback
-      const GEMINI_API_KEY = (import.meta as any).env?.VITE_GEMINI_API_KEY || 'AIzaSyClZNwHI2CiE_4be0UIS4bgBiF9z1UpieM';
-
-      const response = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent?key=${GEMINI_API_KEY}`,
-        {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            contents: [{
-              parts: [{ text: prompt }]
-            }],
-            generationConfig: {
-              responseModalities: ['IMAGE']
-            }
-          })
-        }
-      );
-
-      if (!response.ok) {
-        const errorData = await response.json().catch(() => ({}));
-        throw new Error(`Error de API: ${response.status} - ${errorData.error?.message || 'Error desconocido'}`);
-      }
+      // Llamar al endpoint serverless para generar la infografía
+      const response = await fetch('/api/generate-infografia', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt }),
+      });
 
       const data = await response.json();
 
-      // Buscar la imagen en la respuesta
-      const parts = data.candidates?.[0]?.content?.parts || [];
-      const imagePart = parts.find((part: any) => part.inlineData);
+      if (!response.ok) {
+        throw new Error(data.details || data.error || 'Error al generar la infografía');
+      }
 
-      if (imagePart && imagePart.inlineData) {
-        const base64Image = imagePart.inlineData.data;
-        const mimeType = imagePart.inlineData.mimeType || 'image/png';
+      if (data.success && data.imageBase64) {
+        const base64Image = data.imageBase64;
+        const mimeType = data.mimeType || 'image/png';
 
         // Superponer logo de la empresa en la esquina inferior derecha
         const finalImage = await addLogoToImage(`data:${mimeType};base64,${base64Image}`);
